@@ -129,7 +129,7 @@ fn write_last_index(last_index: u32) {
 
 fn main() {
     const BASE_URL: &str = "http://ajou.ac.kr/kr/ajou/notice.do";
-    const LIMIT: u8 = 5;
+    const LIMIT: u8 = 30;
     const OFFSET: u8 = 0;
 
     let last_index = env::args().collect::<Vec<String>>()[1]
