@@ -21,7 +21,10 @@ fn fetch_html(base_url: &str, limit: u8, offset: u8) -> String {
         base_url, limit, offset
     );
 
-    let res = reqwest::blocking::Client::new()
+    let res = reqwest::blocking::Client::builder()
+        .danger_accept_invalid_certs(true)
+        .build()
+        .unwrap()
         .get(&url)
         .header("User-Agent", "Mozilla/5.0")
         .send()
