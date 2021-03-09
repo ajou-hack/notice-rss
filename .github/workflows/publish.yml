@@ -1,0 +1,31 @@
+name: publish
+
+on:
+  push:
+    branches:
+      - master
+    schedule:
+      - cron: '0 0,3,6,9 * * *'
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: publish
+        run: |
+          git config --global user.name 'ajou-hack-bot'
+          git config --global user.email 'bot@ajou-hack.com'
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/ajou-hack/notice-rss
+          git checkout gh-pages
+          LAST_INDEX=$(cat ./last_index)
+          if [ -z "$LAST_INDEX" ]; then
+          LAST_INDEX=0
+          fi
+          cargo build --release
+          ./target/release/notice-rss $LAST_INDEX > rss.xml
+          cat ./target/release/last_index > ./last_index
+          git add -A
+          git commit -m "dist: $LAST_INDEX"
+          git push origin gh-pages
+
