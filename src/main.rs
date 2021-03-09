@@ -2,6 +2,8 @@ use chrono::Utc;
 use htmlescape::encode_minimal;
 use scraper::{ElementRef, Html, Selector};
 use std::env;
+use std::fs::File;
+use std::io::Write;
 
 #[derive(Debug)]
 struct Notice {
@@ -34,7 +36,7 @@ fn parse_text(row: &ElementRef, selector: &Selector) -> String {
     row.select(&selector)
         .flat_map(|datum| datum.text().collect::<Vec<_>>())
         .map(|datum| datum.trim().replace("\n", "").replace("\t", ""))
-        .filter(|datum| datum.len() > 0)
+        .filter(|datum| !datum.is_empty())
         .collect::<Vec<_>>()
         .first()
         .unwrap_or(&String::from(""))
@@ -77,7 +79,7 @@ fn parse_html(last_index: u32, html: &str, base_url: &str) -> Vec<Notice> {
         .collect::<Vec<_>>()
 }
 
-fn compose_xml(notices: &Vec<Notice>) -> String {
+fn compose_xml(notices: &[Notice]) -> String {
     let header = format!(
         "<rss version=\"2.0\">\n \
                   <channel>\n \
@@ -114,6 +116,14 @@ fn compose_xml(notices: &Vec<Notice>) -> String {
     format!("{}\n{}\n{}", header, items, footer)
 }
 
+fn write_last_index(last_index: u32) {
+    let current_exe = env::current_exe().unwrap();
+    let current_dir = current_exe.parent().unwrap();
+    let path = format!("{}/last_index", current_dir.display());
+    let mut file = File::create(&path).unwrap();
+    file.write_all(last_index.to_string().as_bytes()).unwrap();
+}
+
 fn main() {
     const BASE_URL: &str = "https://ajou.ac.kr/kr/ajou/notice.do";
     const LIMIT: u8 = 5;
@@ -126,5 +136,11 @@ fn main() {
     let html = fetch_html(BASE_URL, LIMIT, OFFSET);
     let notices = parse_html(last_index, &html, BASE_URL);
 
-    println!("{}", compose_xml(&notices));
+    if !notices.is_empty() {
+        let latest_index = notices.first().unwrap().index;
+        write_last_index(latest_index);
+        println!("{}", compose_xml(&notices));
+    } else {
+        eprintln!("new notices not found")
+    }
 }
