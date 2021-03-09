@@ -22,7 +22,12 @@ jobs:
           cargo build --release
           git switch gh-pages
           LAST_INDEX=$(cat ./last_index)
-          SSL_CERT_DIR=/etc/ssl ./target/release/notice-rss $LAST_INDEX > rss.xml
+          XML=$(./target/release/notice-rss $LAST_INDEX 2> /dev/null)
+          if [ -z "$XML" ]; then
+          echo "new notices not found"
+          exit 0
+          fi
+          echo $XML > rss.xml
           cat ./target/release/last_index > ./last_index
           git add -A
           git commit -m "dist: $LAST_INDEX"
