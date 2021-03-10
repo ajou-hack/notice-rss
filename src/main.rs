@@ -91,7 +91,7 @@ fn compose_xml(notices: &[Notice]) -> String {
                   <description>Recently published notices</description>\n \
                   <language>ko-kr</language>\n \
                   <lastBuildDate>{}</lastBuildDate>",
-        Utc::now().to_rfc3339()
+        Utc::now().to_rfc2822()
     );
 
     let footer = "</channel>\n \
