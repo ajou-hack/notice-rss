@@ -55,7 +55,7 @@ fn parse_attr(row: &ElementRef, selector: &Selector) -> String {
         .to_string()
 }
 
-fn parse_html(last_index: u32, html: &str, base_url: &str) -> Vec<Notice> {
+fn parse_html(html: &str, base_url: &str) -> Vec<Notice> {
     let fragment = Html::parse_document(html);
     let row_selector = Selector::parse("table.board-table > tbody > tr").unwrap();
 
@@ -78,7 +78,6 @@ fn parse_html(last_index: u32, html: &str, base_url: &str) -> Vec<Notice> {
                 published_at: encode_minimal(&parse_text(&row, &published_at_selector)),
             }
         })
-        .filter(|notice| notice.index > last_index)
         .collect::<Vec<_>>()
 }
 
@@ -137,10 +136,10 @@ fn main() {
         .unwrap();
 
     let html = fetch_html(BASE_URL, LIMIT, OFFSET);
-    let notices = parse_html(last_index, &html, BASE_URL);
+    let notices = parse_html(&html, BASE_URL);
+    let latest_index = notices.first().unwrap().index;
 
-    if !notices.is_empty() {
-        let latest_index = notices.first().unwrap().index;
+    if last_index != latest_index {
         write_last_index(latest_index);
         println!("{}", compose_xml(&notices));
     } else {
