@@ -121,6 +121,39 @@ fn compose_xml(notices: &[Notice]) -> String {
     format!("{}\n{}\n{}", header, items, footer)
 }
 
+fn compose_md(notices: &[Notice]) -> String {
+    let header = "# 최근 공지사항";
+
+    let items = notices
+        .iter()
+        .map(|notice| -> String {
+            let description = format!(
+                "[{}] - {} (~{})",
+                notice.category, notice.author, notice.published_at
+            );
+            format!(
+                r"* **[{}]({})**\n  {}",
+                notice.title, notice.link, description
+            )
+        })
+        .collect::<Vec<String>>()
+        .join(r"\n\n");
+
+    format!(r"{}\n\n{}", header, items)
+}
+
+fn compose_commit_message(notices: &[Notice], last_index: u64) -> String {
+    let header = format!("dist: {}", last_index);
+
+    let items = notices
+        .iter()
+        .map(|notice| format!("* {}", notice.title))
+        .collect::<Vec<String>>()
+        .join("\n");
+
+    format!("{}\n\n{}", header, items)
+}
+
 fn write_last_index(last_index: u64) {
     let current_exe = env::current_exe().unwrap();
     let current_dir = current_exe.parent().unwrap();
@@ -134,17 +167,25 @@ fn main() {
     const LIMIT: u8 = 30;
     const OFFSET: u8 = 0;
 
-    let last_index = env::args().collect::<Vec<String>>()[1]
-        .parse::<u64>()
-        .unwrap();
+    let args = env::args().collect::<Vec<String>>();
+    let last_index = args[1].parse::<u64>().unwrap();
+    let mode = args[2]
+        .parse::<String>()
+        .unwrap_or_else(|_| "xml".to_string());
 
     let html = fetch_html(BASE_URL, LIMIT, OFFSET);
     let notices = parse_html(&html, BASE_URL);
     let latest_index = notices.first().unwrap().index;
 
     if last_index != latest_index {
+        match mode.as_str() {
+            "xml" => println!("{}", compose_xml(&notices)),
+            "md" => println!("{}", compose_md(&notices)),
+            "cm" => println!("{}", compose_commit_message(&notices, last_index)),
+            _ => eprintln!("unknown mode '{}'", mode),
+        }
+
         write_last_index(latest_index);
-        println!("{}", compose_xml(&notices));
     } else {
         eprintln!("new notices not found")
     }
