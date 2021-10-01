@@ -1,13 +1,14 @@
 use chrono::Utc;
 use htmlescape::encode_minimal;
 use scraper::{ElementRef, Html, Selector};
+use std::convert::TryInto;
 use std::env;
 use std::fs::File;
 use std::io::Write;
 
 #[derive(Debug)]
 struct Notice {
-    index: u32,
+    index: u64,
     title: String,
     author: String,
     category: String,
@@ -70,7 +71,9 @@ fn parse_html(html: &str, base_url: &str) -> Vec<Notice> {
             let published_at_selector = Selector::parse("td.b-no-right + td + td").unwrap();
 
             Notice {
-                index: parse_text(&row, &index_selector).parse::<u32>().unwrap(),
+                index: parse_text(&row, &index_selector)
+                    .parse::<u64>()
+                    .unwrap_or_else(|_| Utc::now().timestamp_millis().try_into().unwrap()),
                 category: encode_minimal(&parse_text(&row, &category_selector)),
                 title: encode_minimal(&parse_text(&row, &title_selector)),
                 author: encode_minimal(&parse_text(&row, &author_selector)),
@@ -118,7 +121,7 @@ fn compose_xml(notices: &[Notice]) -> String {
     format!("{}\n{}\n{}", header, items, footer)
 }
 
-fn write_last_index(last_index: u32) {
+fn write_last_index(last_index: u64) {
     let current_exe = env::current_exe().unwrap();
     let current_dir = current_exe.parent().unwrap();
     let path = format!("{}/last_index", current_dir.display());
@@ -132,7 +135,7 @@ fn main() {
     const OFFSET: u8 = 0;
 
     let last_index = env::args().collect::<Vec<String>>()[1]
-        .parse::<u32>()
+        .parse::<u64>()
         .unwrap();
 
     let html = fetch_html(BASE_URL, LIMIT, OFFSET);
