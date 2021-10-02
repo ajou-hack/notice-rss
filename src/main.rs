@@ -1,14 +1,13 @@
 use chrono::Utc;
 use htmlescape::encode_minimal;
 use scraper::{ElementRef, Html, Selector};
-use std::convert::TryInto;
 use std::env;
 use std::fs::File;
 use std::io::Write;
 
 #[derive(Debug)]
 struct Notice {
-    index: u64,
+    index: i32,
     title: String,
     author: String,
     category: String,
@@ -72,8 +71,8 @@ fn parse_html(html: &str, base_url: &str) -> Vec<Notice> {
 
             Notice {
                 index: parse_text(&row, &index_selector)
-                    .parse::<u64>()
-                    .unwrap_or_else(|_| Utc::now().timestamp_millis().try_into().unwrap()),
+                    .parse::<i32>()
+                    .unwrap_or(-1),
                 category: encode_minimal(&parse_text(&row, &category_selector)),
                 title: encode_minimal(&parse_text(&row, &title_selector)),
                 author: encode_minimal(&parse_text(&row, &author_selector)),
@@ -142,7 +141,7 @@ fn compose_md(notices: &[Notice]) -> String {
     format!(r"{}\n\n{}", header, items)
 }
 
-fn compose_commit_message(notices: &[Notice], last_index: u64) -> String {
+fn compose_commit_message(notices: &[Notice], last_index: i32) -> String {
     let header = format!("dist: {}", last_index);
 
     let items = notices
@@ -154,7 +153,7 @@ fn compose_commit_message(notices: &[Notice], last_index: u64) -> String {
     format!("{}\n\n{}", header, items)
 }
 
-fn write_last_index(last_index: u64) {
+fn write_last_index(last_index: i32) {
     let current_exe = env::current_exe().unwrap();
     let current_dir = current_exe.parent().unwrap();
     let path = format!("{}/last_index", current_dir.display());
@@ -168,14 +167,20 @@ fn main() {
     const OFFSET: u8 = 0;
 
     let args = env::args().collect::<Vec<String>>();
-    let last_index = args[1].parse::<u64>().unwrap();
+    let last_index = args[1].parse::<i32>().unwrap();
     let mode = args[2]
         .parse::<String>()
         .unwrap_or_else(|_| "xml".to_string());
 
     let html = fetch_html(BASE_URL, LIMIT, OFFSET);
     let notices = parse_html(&html, BASE_URL);
-    let latest_index = notices.first().unwrap().index;
+    let latest_index = notices
+        .iter()
+        .filter(|notice| notice.index != -1)
+        .collect::<Vec<_>>()
+        .first()
+        .unwrap()
+        .index;
 
     if last_index != latest_index {
         match mode.as_str() {
