@@ -3,6 +3,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113684&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 정보시스템팀 (~2021-09-30)
 
+* **[[대학일자리플러스센터] 특별한 특강_알찬대학생활하기(편입생&amp;복학생편)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113736&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-04)
+
+* **[[대학일자리플러스센터] 반도체 취린이를 위한 외국계 반도체 장비업체 취업전략 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113735&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-04)
+
+* **[[대학일자리플러스센터] 강추!! 아주히든챔피언 학생발굴단 8기 선정기업 발표회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113734&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-04)
+
 * **[[특별강연회안내] 글로벌기술패권 경쟁시대, 현황진단과 대학의 대응과제](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113731&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - 연구팀 (~2021-10-01)
 
@@ -83,12 +92,3 @@
 
 * **[[중앙도서관]10월 이용 교육 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113659&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2021-09-30)
-
-* **[[유학생 취업] 2021.10.01. 유학생 취업특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113652&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 유학생입학팀 (~2021-09-29)
-
-* **[[국제교류팀] 아주대학교 학생을 위한 공식 GRE 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113650&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-09-29)
-
-* **[[국가근로][대학생청소년교육지원] 9월 국가근로/대학생청소년교육지원장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 9/30 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113646&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-09-29)
