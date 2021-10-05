@@ -3,6 +3,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113684&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 정보시스템팀 (~2021-09-30)
 
+* **[[Remind][학부] 2021-2학기 미등록자 대상 구제등록 안내(10.05. ~ 10.07.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113740&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-10-05)
+
+* **[[공개세미나] 인공지능기반 스마트 온도 조절기](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113739&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 전자공학과 (~2021-10-05)
+
+* **[[교외장학] 2021학년도 2학기 DB드림리더장학생 선발 공고_DB김준기문화재단](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113738&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-10-05)
+
 * **[[대학일자리플러스센터] 특별한 특강_알찬대학생활하기(편입생&amp;복학생편)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113736&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-04)
 
@@ -83,12 +92,3 @@
 
 * **[기한 연장[공학교육혁신센터] 랜선 2021 공(工)예술전 참가자 모집(9/6~9/30까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113664&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-09-30)
-
-* **[마감-[공학교육혁신센터]2021 공학페스티벌 공학프리미어 퀴즈쇼 참가학생 선착순 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113663&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-09-30)
-
-* **[(마감)[공학교육혁신센터]2021 공학페스티벌 공대생 심사위단 모집(~9/30 13:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113661&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-09-30)
-
-* **[[중앙도서관]10월 이용 교육 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113659&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2021-09-30)
