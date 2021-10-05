@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113684&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 정보시스템팀 (~2021-09-30)
 
+* **[[대학일자리플러스센터]2021 하반기 수도권 혁신기업 온라인 채용 박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113766&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-05)
+
 * **[2021 연합학술제 연랑제 코뿔소 안내(내일 개막)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113765&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2021-10-05)
 
@@ -89,6 +92,3 @@
 
 * **[[학습법] 2021-2학기 학습공동체 선정 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113686&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2021-09-30)
-
-* **[2021년 소방시설 종합정밀점검 지적사항 보수공사 일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113685&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 안전관리센터 (~2021-09-30)
