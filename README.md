@@ -3,6 +3,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113684&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 정보시스템팀 (~2021-09-30)
 
+* **[2021 연합학술제 연랑제 코뿔소 안내(내일 개막)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113765&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2021-10-05)
+
+* **[(재공지)2021년 아주대학교 연구실 안전 공모전 안내 (~10/22)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113762&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 안전관리센터 (~2021-10-05)
+
 * **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 37호 (2021.10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113757&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-05)
 
@@ -86,9 +92,3 @@
 
 * **[2021년 소방시설 종합정밀점검 지적사항 보수공사 일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113685&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 안전관리센터 (~2021-09-30)
-
-* **[[비교과교육지원센터] 제1회 아주허브 사용후기 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113683&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2021-09-30)
-
-* **[[LINC+] (행사) LG CONNECT 2021](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113681&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - LINC사업팀 (~2021-09-30)
