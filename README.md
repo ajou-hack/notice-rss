@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113684&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 정보시스템팀 (~2021-09-30)
 
+* **[[국제교류팀] ★ 파란사다리 추가 모집 안내 (기간연장/추가혜택) ★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113775&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-10-05)
+
 * **[[공학교육혁신센터] 2021 공(工)예술전 랜선전시회 이벤트 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113767&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-10-05)
 
@@ -89,6 +92,3 @@
 
 * **[♥중요!!!필수교육♥ 2021년 장애인식개선교육 이수 요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113688&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2021-09-30)
-
-* **[[홍보] 한국미래진로센터 대학생 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113687&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 커뮤니케이션팀 (~2021-09-30)
