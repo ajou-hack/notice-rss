@@ -3,6 +3,24 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113684&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 정보시스템팀 (~2021-09-30)
 
+* **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 37호 (2021.10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113757&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-05)
+
+* **[[홍보] 한국한의약진흥원 한의약 홍보 콘텐츠 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113753&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 커뮤니케이션팀 (~2021-10-05)
+
+* **[[대학일자리플러스센터] 공인어학성적 제출 안내 (재안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113752&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-05)
+
+* **[[학습법] 2021-2학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113750&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-10-05)
+
+* **[[학술] 도서관 학술정보 활용교육 동영상 OPEN](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113745&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 중앙도서관 (~2021-10-05)
+
+* **[[학사과정]2022년 2월 졸업예정자 어학졸업인증제 성적 제출 안내(~2021.12.31(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113744&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-10-05)
+
 * **[[Remind][학부] 2021-2학기 미등록자 대상 구제등록 안내(10.05. ~ 10.07.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113740&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-10-05)
 
@@ -74,21 +92,3 @@
 
 * **[[LINC+] (행사) LG CONNECT 2021](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113681&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - LINC사업팀 (~2021-09-30)
-
-* **[[대학일자리플러스센터] 공기업 직무적성(NCS 문제풀이 특강) 프로그램 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113679&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-09-30)
-
-* **[[대학일자리플러스센터] 대기업 직무적성(GSAT 특강) 프로그램 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113678&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-09-30)
-
-* **[(오늘까지신청★) [LINC+] 2021 환경도시 수원 UCC 콘테스트 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113670&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀 (~2021-09-30)
-
-* **[[학습법] 히든 스피치 : 대면과 비대면에서의 발표 기술](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113667&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2021-09-30)
-
-* **[[학습법] 나도 할 수 있다! 프레젠테이션 영상 활용 스킬](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113666&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2021-09-30)
-
-* **[기한 연장[공학교육혁신센터] 랜선 2021 공(工)예술전 참가자 모집(9/6~9/30까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113664&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-09-30)
