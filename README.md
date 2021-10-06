@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113684&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 정보시스템팀 (~2021-09-30)
 
+* **[[대학일자리플러스센터] [K-move스쿨] 2021년 미국취업 Google 디지털 마케팅 실무자 운영 과정 3기 설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113794&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-06)
+
 * **[2022 체육우수자(축구)전형 관련 성호관 출입제한 안내(10.16.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113790&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 입학팀 (~2021-10-06)
 
@@ -89,6 +92,3 @@
 
 * **[[교외장학] 2021-2학기 송화재단 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113707&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-10-01)
-
-* **[2021년09월 정기점검 점검결과 및 2021년10월 정기점검 계획표 입니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113704&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2021-10-01)
