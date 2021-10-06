@@ -3,6 +3,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113684&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 정보시스템팀 (~2021-09-30)
 
+* **[[학습법] 히든 스피치 : 대면과 비대면에서의 발표 기술](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113796&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-10-06)
+
+* **[[학습법] 나도 할 수 있다! 프레젠테이션 영상 활용 스킬](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113795&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-10-06)
+
 * **[[대학일자리플러스센터] [K-move스쿨] 2021년 미국취업 Google 디지털 마케팅 실무자 운영 과정 3기 설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113794&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-06)
 
@@ -85,10 +91,4 @@
  [장학] - 학생지원팀 (~2021-10-01)
 
 * **[[학자금대출] 2021학년도 2학기 구제등록기간 한국장학재단 등록금대출 실행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113712&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-10-01)
-
-* **[[학부] 2021-2학기 미등록자 대상 구제등록 안내(10.05. ~ 10.07.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113711&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-10-01)
-
-* **[[교외장학] 2021-2학기 송화재단 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113707&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-10-01)
