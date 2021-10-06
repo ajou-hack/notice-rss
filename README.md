@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113684&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 정보시스템팀 (~2021-09-30)
 
+* **[[유학생입학팀] 외국인유학생 코로나19 백신접종 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113799&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 유학생입학팀 (~2021-10-06)
+
 * **[[공학교육혁신센터] 2021 공(工)예술전 랜선전시회 이벤트 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113797&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-10-06)
 
@@ -89,6 +92,3 @@
 
 * **[(재안내)[대학혁신지원사업] 프로그램 참가 후기 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113720&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2021-10-01)
-
-* **[[STX장학재단]_ 2022년도 STX 장학생 선발 요강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113719&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-10-01)
