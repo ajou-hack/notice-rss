@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113684&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 정보시스템팀 (~2021-09-30)
 
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113779&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2021-10-06)
+
 * **[[국제교류팀] ★ 파란사다리 추가 모집 안내 (기간연장/추가혜택) ★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113775&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-10-05)
 
@@ -89,6 +92,3 @@
 
 * **[[국제교류팀] ★ 파란사다리 추가 모집 안내 (~10.08 15:00 마감) ★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113694&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-09-30)
-
-* **[♥중요!!!필수교육♥ 2021년 장애인식개선교육 이수 요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113688&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2021-09-30)
