@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113684&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 정보시스템팀 (~2021-09-30)
 
+* **[[대학일자리플러스센터] 제16회 외국인 투자기업 온라인 채용박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113782&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-06)
+
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113779&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-10-06)
 
@@ -89,6 +92,3 @@
 
 * **[[10.6 수 17:30] KIURI 제2차 바이오메드 인더스트리 콜로퀴엄 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113697&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - KIURI 연구단 (~2021-09-30)
-
-* **[[국제교류팀] ★ 파란사다리 추가 모집 안내 (~10.08 15:00 마감) ★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113694&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-09-30)
