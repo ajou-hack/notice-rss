@@ -3,6 +3,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113684&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 정보시스템팀 (~2021-09-30)
 
+* **[(재공지) [국제교류팀] ★ 파란사다리 추가 모집 안내 (기간연장/추가혜택) ★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113803&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-10-06)
+
+* **[[파란학기제]2022-1학기 교수제안 프로그램 공모(~10/29)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113801&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2021-10-06)
+
 * **[[유학생입학팀] 외국인유학생 코로나19 백신접종 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113799&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 유학생입학팀 (~2021-10-06)
 
@@ -86,9 +92,3 @@
 
 * **[[대학일자리플러스센터] 외국계 기업 취업전략 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113729&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-01)
-
-* **[(기한연장) [LINC+] 2021 환경도시 수원 UCC 콘테스트 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113724&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀 (~2021-10-01)
-
-* **[(재안내)[대학혁신지원사업] 프로그램 참가 후기 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113720&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2021-10-01)
