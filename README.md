@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113684&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 정보시스템팀 (~2021-09-30)
 
+* **[2022 체육우수자(축구)전형 관련 성호관 출입제한 안내(10.16.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113790&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 입학팀 (~2021-10-06)
+
 * **[[대학일자리플러스센터] 제16회 외국인 투자기업 온라인 채용박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113782&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-06)
 
@@ -89,6 +92,3 @@
 
 * **[2021년09월 정기점검 점검결과 및 2021년10월 정기점검 계획표 입니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113704&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-10-01)
-
-* **[[10.6 수 17:30] KIURI 제2차 바이오메드 인더스트리 콜로퀴엄 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113697&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - KIURI 연구단 (~2021-09-30)
