@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113684&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 정보시스템팀 (~2021-09-30)
 
+* **[아주대학교 도구박물관 제 44회 교양문화강좌 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113816&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 아주대학교 도구박물관 (~2021-10-07)
+
 * **[국가연구개발사업 학생인건비 인식조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113809&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학지원팀 (~2021-10-07)
 
@@ -89,6 +92,3 @@
 
 * **[[교외장학] 2021학년도 2학기 DB드림리더장학생 선발 공고_DB김준기문화재단](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113738&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-10-05)
-
-* **[[대학일자리플러스센터] 특별한 특강_알찬대학생활하기(편입생&amp;복학생편)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113736&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-04)
