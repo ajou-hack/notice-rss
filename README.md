@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113684&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 정보시스템팀 (~2021-09-30)
 
+* **[[LINC+] 2021 APC 아주대학교 프로그래밍 경시대회 안내(전교생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113822&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - LINC사업팀 (~2021-10-07)
+
 * **[학생회관, 성호관 서측 공사일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113819&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2021-10-07)
 
@@ -89,6 +92,3 @@
 
 * **[[Remind][학부] 2021-2학기 미등록자 대상 구제등록 안내(10.05. ~ 10.07.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113740&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-10-05)
-
-* **[[공개세미나] 인공지능기반 스마트 온도 조절기](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113739&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 전자공학과 (~2021-10-05)
