@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113684&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 정보시스템팀 (~2021-09-30)
 
+* **[학생회관, 성호관 서측 공사일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113819&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2021-10-07)
+
 * **[아주대학교 도구박물관 제 44회 교양문화강좌 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113816&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 아주대학교 도구박물관 (~2021-10-07)
 
@@ -89,6 +92,3 @@
 
 * **[[공개세미나] 인공지능기반 스마트 온도 조절기](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113739&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 전자공학과 (~2021-10-05)
-
-* **[[교외장학] 2021학년도 2학기 DB드림리더장학생 선발 공고_DB김준기문화재단](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113738&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-10-05)
