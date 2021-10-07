@@ -1,7 +1,7 @@
 # 최근 공지사항
 
-* **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113684&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 정보시스템팀 (~2021-09-30)
+* **[[학부] 2021-2학기 미등록자 대상 추가 구제등록 기간 안내(10.12.~10.14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113825&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-10-07)
 
 * **[[LINC+] 2021 APC 아주대학교 프로그래밍 경시대회 안내(전교생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113822&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - LINC사업팀 (~2021-10-07)
@@ -88,7 +88,4 @@
  [기타] - 중앙도서관 (~2021-10-05)
 
 * **[[학사과정]2022년 2월 졸업예정자 어학졸업인증제 성적 제출 안내(~2021.12.31(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113744&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-10-05)
-
-* **[[Remind][학부] 2021-2학기 미등록자 대상 구제등록 안내(10.05. ~ 10.07.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113740&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-10-05)
