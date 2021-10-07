@@ -3,6 +3,21 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113684&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 정보시스템팀 (~2021-09-30)
 
+* **[국가연구개발사업 학생인건비 인식조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113809&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학지원팀 (~2021-10-07)
+
+* **[(재공지) [LINC+] 2021 환경도시 수원 UCC 콘테스트 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113808&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - LINC사업팀 (~2021-10-07)
+
+* **[[대학일자리플러스센터][한국무역협회] 제6회 잡투게더 해외채용박람회 (10.14(목) 낮12시 지원마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113807&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-07)
+
+* **[[대학일자리플러스센터] 미국 기업맞춤형 품질공정관리 엔지니어 양성과정 6기 (아이씨엔그룹주관)_해외연수](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113805&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-07)
+
+* **[[대학일자리플러스센터] 2021 삼성전자 협력회사 온라인 채용박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113804&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-07)
+
 * **[(재공지) [국제교류팀] ★ 파란사다리 추가 모집 안내 (기간연장/추가혜택) ★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113803&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-10-06)
 
@@ -77,18 +92,3 @@
 
 * **[[대학일자리플러스센터] 특별한 특강_알찬대학생활하기(편입생&amp;복학생편)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113736&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-04)
-
-* **[[대학일자리플러스센터] 반도체 취린이를 위한 외국계 반도체 장비업체 취업전략 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113735&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-04)
-
-* **[[대학일자리플러스센터] 강추!! 아주히든챔피언 학생발굴단 8기 선정기업 발표회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113734&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-04)
-
-* **[[특별강연회안내] 글로벌기술패권 경쟁시대, 현황진단과 대학의 대응과제](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113731&amp;article.offset=0&amp;articleLimit=30)**
- [학술] - 연구팀 (~2021-10-01)
-
-* **[[대학일자리플러스센터] 외국계 반도체 장비업체 취업전략 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113730&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-01)
-
-* **[[대학일자리플러스센터] 외국계 기업 취업전략 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113729&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-01)
