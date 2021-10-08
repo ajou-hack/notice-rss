@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] 현직자와 함께 하는 5주 직무체험_재공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113849&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-08)
+
+* **[[대학일자리플러스센터] 이공계 학생들을 위한 반도체 외국계 장비업체 취업전략 특강_재공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113848&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-08)
+
+* **[[대학일자리플러스센터] 미국 최대 아시안 마켓 H 마트에서 인턴을 모집합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113847&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-08)
+
 * **[2021학년도 연합학술제 연랑제 &#x27;코뿔소&#x27; 오늘 오후 3시 시작](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113841&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2021-10-08)
 
@@ -80,12 +89,3 @@
 
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113779&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-10-06)
-
-* **[[국제교류팀] ★ 파란사다리 추가 모집 안내 (기간연장/추가혜택) ★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113775&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-10-05)
-
-* **[[공학교육혁신센터] 2021 공(工)예술전 랜선전시회 이벤트 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113767&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-10-05)
-
-* **[[대학일자리플러스센터]2021 하반기 수도권 혁신기업 온라인 채용 박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113766&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-05)
