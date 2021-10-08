@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[2021학년도 연합학술제 연랑제 &#x27;코뿔소&#x27; 오늘 오후 3시 시작](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113841&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2021-10-08)
+
 * **[[LINC+] 2021 제4회 산학협력 우수사례 공모전 &#x27;산학협력을 통한 성장스토리&#x27; 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113838&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2021-10-08)
 
@@ -86,6 +89,3 @@
 
 * **[[대학일자리플러스센터]2021 하반기 수도권 혁신기업 온라인 채용 박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113766&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-05)
-
-* **[2021 연합학술제 연랑제 코뿔소 안내(내일 개막)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113765&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2021-10-05)
