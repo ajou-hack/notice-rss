@@ -1,5 +1,20 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] 해외취업 K-Class 미국 1기 참가자 모집(H Mart 채용 공고 지원자 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113833&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-08)
+
+* **[[대학일자리플러스센터] 중동 메이저 항공사 채용대비_항공사별 부사무장이 알려주는 취업 꿀팁](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113832&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-08)
+
+* **[[학자금대출] 2021학년도 2학기 추가 구제등록기간 한국장학재단 등록금대출 실행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113831&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-10-08)
+
+* **[[학생상담소] 온라인 집단상담 프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113830&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생상담소 (~2021-10-08)
+
+* **[[아주강좌] 마이다스아이티 이형우 대표 (건설공학분야 SW 세계 1위) 강연 참석(대면) 신청 안내 (기념품 증정, 수강생이 아니어도 참석 가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113829&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2021-10-07)
+
 * **[[학부] 2021-2학기 미등록자 대상 추가 구제등록 기간 안내(10.12.~10.14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113825&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-10-07)
 
@@ -74,18 +89,3 @@
 
 * **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 37호 (2021.10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113757&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-05)
-
-* **[[홍보] 한국한의약진흥원 한의약 홍보 콘텐츠 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113753&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 커뮤니케이션팀 (~2021-10-05)
-
-* **[[대학일자리플러스센터] 공인어학성적 제출 안내 (재안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113752&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-05)
-
-* **[[학습법] 2021-2학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113750&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2021-10-05)
-
-* **[[학술] 도서관 학술정보 활용교육 동영상 OPEN](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113745&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 중앙도서관 (~2021-10-05)
-
-* **[[학사과정]2022년 2월 졸업예정자 어학졸업인증제 성적 제출 안내(~2021.12.31(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113744&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-10-05)
