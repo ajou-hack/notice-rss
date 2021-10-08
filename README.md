@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[대학혁신지원사업 프로그램 참여 후기 공모전 안내(~10/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113852&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2021-10-08)
+
 * **[[대학일자리플러스센터] 현직자와 함께 하는 5주 직무체험_재공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113849&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-08)
 
@@ -86,6 +89,3 @@
 
 * **[[대학일자리플러스센터] 제16회 외국인 투자기업 온라인 채용박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113782&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-06)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113779&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2021-10-06)
