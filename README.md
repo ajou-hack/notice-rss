@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[LINC+] 2021 제4회 산학협력 우수사례 공모전 &#x27;산학협력을 통한 성장스토리&#x27; 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113838&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2021-10-08)
+
+* **[[교육대학원] 2022 전기(정시) 석사과정(야간) 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113837&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 교육대학원 (~2021-10-08)
+
 * **[[대학일자리플러스센터] 해외취업 K-Class 미국 1기 참가자 모집(H Mart 채용 공고 지원자 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113833&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-08)
 
@@ -83,9 +89,3 @@
 
 * **[2021 연합학술제 연랑제 코뿔소 안내(내일 개막)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113765&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2021-10-05)
-
-* **[(재공지)2021년 아주대학교 연구실 안전 공모전 안내 (~10/22)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113762&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 안전관리센터 (~2021-10-05)
-
-* **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 37호 (2021.10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113757&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-05)
