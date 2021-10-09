@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[국제교류팀] ★ 파란사다리 추가 모집 안내 (~10.19 마감) (기간연장/추가혜택)★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113856&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-10-08)
+
 * **[대학혁신지원사업 프로그램 참여 후기 공모전 안내(~10/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113852&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2021-10-08)
 
@@ -86,6 +89,3 @@
 
 * **[2022 체육우수자(축구)전형 관련 성호관 출입제한 안내(10.16.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113790&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 입학팀 (~2021-10-06)
-
-* **[[대학일자리플러스센터] 제16회 외국인 투자기업 온라인 채용박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113782&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-06)
