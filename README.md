@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[(재공지)[아주강좌] 마이다스아이티 이형우 대표 (건설공학분야 SW 세계 1위) 강연 참석(대면) 신청 안내 (기념품 증정, 수강생이 아니어도 참석 가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113861&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2021-10-11)
+
+* **[[LINC+] 2021 환경도시 수원 UCC 콘테스트 개최 안내(~10.11(월)신청마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113860&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - LINC사업팀 (~2021-10-10)
+
 * **[[국제교류팀] ★ 파란사다리 추가 모집 안내 (~10.19 마감) (기간연장/추가혜택)★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113856&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-10-08)
 
@@ -54,9 +60,6 @@
 * **[국가연구개발사업 학생인건비 인식조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113809&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학지원팀 (~2021-10-07)
 
-* **[(재공지) [LINC+] 2021 환경도시 수원 UCC 콘테스트 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113808&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀 (~2021-10-07)
-
 * **[[대학일자리플러스센터][한국무역협회] 제6회 잡투게더 해외채용박람회 (10.14(목) 낮12시 지원마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113807&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-07)
 
@@ -86,6 +89,3 @@
 
 * **[[대학일자리플러스센터] [K-move스쿨] 2021년 미국취업 Google 디지털 마케팅 실무자 운영 과정 3기 설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113794&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-06)
-
-* **[2022 체육우수자(축구)전형 관련 성호관 출입제한 안내(10.16.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113790&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 입학팀 (~2021-10-06)
