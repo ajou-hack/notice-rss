@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[규정류 개정 공포(2021-제9차 교무회의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113898&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2021-10-12)
+
+* **[[봉사활동] 결식아동돕기 &#x27;사랑의 쌀&#x27; 배달 자원봉사자 모집(10/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113895&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2021-10-12)
+
 * **[[10.20 수 17:30] KIURI 제1회 중개연구 Round Table 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113878&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - KIURI 연구단 (~2021-10-12)
 
@@ -9,7 +15,7 @@
 * **[[대학일자리플러스센터] [안국약품] 2021 하반기 안국약품 공개채용 및 채용 설명회 진행 ( ~ 10/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113875&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-12)
 
-* **[[학부] 2021-2학기 미등록자 대상 추가 구제등록 기간 안내(10.12.~10.14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113874&amp;article.offset=0&amp;articleLimit=30)**
+* **[[Remind][학부] 2021-2학기 미등록자 대상 추가 구제등록 기간 안내(10.12.~10.14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113874&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-10-12)
 
 * **[[공학교육혁신센터] 2021 반도체 산업 온라인 채용 박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113872&amp;article.offset=0&amp;articleLimit=30)**
@@ -83,9 +89,3 @@
 
 * **[국가연구개발사업 학생인건비 인식조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113809&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학지원팀 (~2021-10-07)
-
-* **[[대학일자리플러스센터][한국무역협회] 제6회 잡투게더 해외채용박람회 (10.14(목) 낮12시 지원마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113807&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-07)
-
-* **[[대학일자리플러스센터] 미국 기업맞춤형 품질공정관리 엔지니어 양성과정 6기 (아이씨엔그룹주관)_해외연수](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113805&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-07)
