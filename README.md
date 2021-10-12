@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[2021학년도 2학기 사회봉사장학 최종 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113868&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 사회봉사센터 (~2021-10-12)
+
 * **[(재공지)[아주강좌] 마이다스아이티 이형우 대표 (건설공학분야 SW 세계 1위) 강연 참석(대면) 신청 안내 (기념품 증정, 수강생이 아니어도 참석 가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113861&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2021-10-11)
 
@@ -86,6 +89,3 @@
 
 * **[[학습법] 나도 할 수 있다! 프레젠테이션 영상 활용 스킬](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113795&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2021-10-06)
-
-* **[[대학일자리플러스센터] [K-move스쿨] 2021년 미국취업 Google 디지털 마케팅 실무자 운영 과정 3기 설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113794&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-06)
