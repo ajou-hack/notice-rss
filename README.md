@@ -48,9 +48,6 @@
 * **[[대학일자리플러스센터] 이공계 학생들을 위한 반도체 외국계 장비업체 취업전략 특강_재공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113848&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-08)
 
-* **[[대학일자리플러스센터] 미국 최대 아시안 마켓 H 마트에서 인턴을 모집합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113847&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-08)
-
 * **[2021학년도 연합학술제 연랑제 &#x27;코뿔소&#x27; 오늘 오후 3시 시작](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113841&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2021-10-08)
 
@@ -89,3 +86,6 @@
 
 * **[국가연구개발사업 학생인건비 인식조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113809&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학지원팀 (~2021-10-07)
+
+* **[[대학일자리플러스센터][한국무역협회] 제6회 잡투게더 해외채용박람회 (10.14(목) 낮12시 지원마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113807&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-07)
