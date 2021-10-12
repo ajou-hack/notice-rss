@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[(재공지)[국제교류팀] ★ 파란사다리 추가 모집 안내 (~10.19 마감) (기간연장/추가혜택)★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113907&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-10-12)
+
+* **[[다산학부대학] 다산 고전&amp;토론 페스티벌 대회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113906&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 다산학부대학 교학팀 (~2021-10-12)
+
+* **[[대학원교학팀]新소프트웨어 분야 인력진출 실태 설문조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113905&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학원교학팀 (~2021-10-12)
+
 * **[규정류 개정 공포(2021-제9차 교무회의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113898&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 기획팀 (~2021-10-12)
 
@@ -80,12 +89,3 @@
 
 * **[학생회관, 성호관 서측 공사일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113819&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2021-10-07)
-
-* **[아주대학교 도구박물관 제 44회 교양문화강좌 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113816&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 아주대학교 도구박물관 (~2021-10-07)
-
-* **[국가연구개발사업 학생인건비 인식조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113809&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학지원팀 (~2021-10-07)
-
-* **[[대학일자리플러스센터][한국무역협회] 제6회 잡투게더 해외채용박람회 (10.14(목) 낮12시 지원마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113807&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-07)
