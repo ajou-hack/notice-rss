@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[교무팀] 출석인정 관련 학사운영규칙 개정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113925&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-10-13)
+
 * **[2021-2학기 중간고사 대면시험 응시자의 원격시험을 위한 PC실(강의실) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113922&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-10-13)
 
@@ -86,6 +89,3 @@
 
 * **[[대학일자리플러스센터] 중동 메이저 항공사 채용대비_항공사별 부사무장이 알려주는 취업 꿀팁](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113832&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-08)
-
-* **[[학자금대출] 2021학년도 2학기 추가 구제등록기간 한국장학재단 등록금대출 실행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113831&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-10-08)
