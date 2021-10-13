@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] 2021년 ICT/SW 온라인 여성 취업박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113915&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-13)
+
+* **[[대학일자리플러스센터] 2021 성남·판교 온-오프 청년 채용박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113913&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-13)
+
+* **[[LINC+] 드론 조종자(3종) 국가자격증 취득과정 신청 안내(~10.31(일))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113912&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - LINC사업팀 (~2021-10-13)
+
 * **[[대학일자리플러스센터] 2021 청년과학기술인 일자리박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113910&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-13)
 
@@ -80,12 +89,3 @@
 
 * **[[학생상담소] 온라인 집단상담 프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113830&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생상담소 (~2021-10-08)
-
-* **[[아주강좌] 마이다스아이티 이형우 대표 (건설공학분야 SW 세계 1위) 강연 참석(대면) 신청 안내 (기념품 증정, 수강생이 아니어도 참석 가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113829&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2021-10-07)
-
-* **[[학부] 2021-2학기 미등록자 대상 추가 구제등록 기간 안내(10.12.~10.14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113825&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-10-07)
-
-* **[[LINC+] 2021 APC 아주대학교 프로그래밍 경시대회 안내(전교생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113822&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀 (~2021-10-07)
