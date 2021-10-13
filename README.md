@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] 2021 청년과학기술인 일자리박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113910&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-13)
+
 * **[(재공지)[국제교류팀] ★ 파란사다리 추가 모집 안내 (~10.19 마감) (기간연장/추가혜택)★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113907&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-10-12)
 
@@ -86,6 +89,3 @@
 
 * **[[LINC+] 2021 APC 아주대학교 프로그래밍 경시대회 안내(전교생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113822&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - LINC사업팀 (~2021-10-07)
-
-* **[학생회관, 성호관 서측 공사일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113819&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2021-10-07)
