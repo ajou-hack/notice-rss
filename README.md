@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[2021-2학기 중간고사 대면시험 응시자의 원격시험을 위한 PC실(강의실) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113922&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-10-13)
+
 * **[[대학일자리플러스센터] 2021년 ICT/SW 온라인 여성 취업박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113915&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-13)
 
@@ -86,6 +89,3 @@
 
 * **[[학자금대출] 2021학년도 2학기 추가 구제등록기간 한국장학재단 등록금대출 실행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113831&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-10-08)
-
-* **[[학생상담소] 온라인 집단상담 프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113830&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생상담소 (~2021-10-08)
