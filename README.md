@@ -1,5 +1,17 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] 2021 하반기 면접특강(면접 커뮤니케이션과 1분 자기소개 답변법)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113956&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-14)
+
+* **[[대학일자리플러스센터] 2021 “청년 직구(職求)하다” IT 우수 기업 6개 사와 함께하는 채용 행사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113951&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-14)
+
+* **[[LINC+] 2021 산학협력 EXPO 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113950&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - LINC사업팀 (~2021-10-14)
+
+* **[[모집] 유학생 전공스터디 튜터 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113949&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 유학생입학팀 (~2021-10-14)
+
 * **[공학교육혁신센터] 2021 공(工)예술전 최종결과 및 이벤트 당첨자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113947&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-10-14)
 
@@ -77,15 +89,3 @@
 
 * **[(재공지)[아주강좌] 마이다스아이티 이형우 대표 (건설공학분야 SW 세계 1위) 강연 참석(대면) 신청 안내 (기념품 증정, 수강생이 아니어도 참석 가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113861&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2021-10-11)
-
-* **[[LINC+] 2021 환경도시 수원 UCC 콘테스트 개최 안내(~10.11(월)신청마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113860&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀 (~2021-10-10)
-
-* **[[국제교류팀] ★ 파란사다리 추가 모집 안내 (~10.19 마감) (기간연장/추가혜택)★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113856&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-10-08)
-
-* **[대학혁신지원사업 프로그램 참여 후기 공모전 안내(~10/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113852&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2021-10-08)
-
-* **[[대학일자리플러스센터] 현직자와 함께 하는 5주 직무체험_재공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113849&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-08)
