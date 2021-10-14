@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[공학교육혁신센터] 2021 공(工)예술전 최종결과 및 이벤트 당첨자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113947&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-10-14)
+
 * **[(학사과정)2021-동계 계절학기 국내대학 학점교류 신청 안내(21.10.14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113940&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-10-14)
 
@@ -85,7 +88,4 @@
  [기타] - 대학교육혁신원 (~2021-10-08)
 
 * **[[대학일자리플러스센터] 현직자와 함께 하는 5주 직무체험_재공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113849&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-08)
-
-* **[[대학일자리플러스센터] 이공계 학생들을 위한 반도체 외국계 장비업체 취업전략 특강_재공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113848&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-08)
