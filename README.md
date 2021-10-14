@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[(학사과정)2021-동계 계절학기 국내대학 학점교류 신청 안내(21.10.14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113940&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-10-14)
+
+* **[2021년 수원시 대학생 학자금 대출이자 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113936&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-10-14)
+
 * **[[아주지속가능발전센터] 아주 올바른 분리배출 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113935&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 아주지속가능발전센터 (~2021-10-14)
 
@@ -83,9 +89,3 @@
 
 * **[[대학일자리플러스센터] 이공계 학생들을 위한 반도체 외국계 장비업체 취업전략 특강_재공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113848&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-08)
-
-* **[2021학년도 연합학술제 연랑제 &#x27;코뿔소&#x27; 오늘 오후 3시 시작](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113841&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2021-10-08)
-
-* **[[LINC+] 2021 제4회 산학협력 우수사례 공모전 &#x27;산학협력을 통한 성장스토리&#x27; 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113838&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2021-10-08)
