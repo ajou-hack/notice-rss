@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[(재공지)[국제교류팀] ★ 파란사다리 추가 모집 안내 (~10.19 마감) (기간연장/추가혜택)★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113962&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-10-14)
+
+* **[[대학일자리플러스센터] 2021 반도체산업 온라인 채용박람회 참가인재 모집(~10/17일까지 접수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113959&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-14)
+
 * **[[대학일자리플러스센터] 2021 하반기 면접특강(면접 커뮤니케이션과 1분 자기소개 답변법)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113956&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-14)
 
@@ -83,9 +89,3 @@
 
 * **[마지막 공지[공학교육혁신센터] 2021 공(工)예술전 랜선전시회 이벤트 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113870&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-10-12)
-
-* **[2021학년도 2학기 사회봉사장학 최종 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113868&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 사회봉사센터 (~2021-10-12)
-
-* **[(재공지)[아주강좌] 마이다스아이티 이형우 대표 (건설공학분야 SW 세계 1위) 강연 참석(대면) 신청 안내 (기념품 증정, 수강생이 아니어도 참석 가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113861&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2021-10-11)
