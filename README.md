@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[2021 인문인 진로 박람회 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113984&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 인문대학교학팀 (~2021-10-15)
+
 * **[2021-2학기 중간고사 대면시험 응시자의 원격시험을 위한 PC실(강의실) 안내(10.15.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113977&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-10-15)
 
@@ -86,6 +89,3 @@
 
 * **[[봉사활동] 결식아동돕기 &#x27;사랑의 쌀&#x27; 배달 자원봉사자 모집(10/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113895&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2021-10-12)
-
-* **[[10.20 수 17:30] KIURI 제1회 중개연구 Round Table 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113878&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - KIURI 연구단 (~2021-10-12)
