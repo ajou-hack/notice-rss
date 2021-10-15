@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113991&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2021-10-15)
+
 * **[2021 인문인 진로 박람회 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113984&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 인문대학교학팀 (~2021-10-15)
 
@@ -86,6 +89,3 @@
 
 * **[규정류 개정 공포(2021-제9차 교무회의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113898&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 기획팀 (~2021-10-12)
-
-* **[[봉사활동] 결식아동돕기 &#x27;사랑의 쌀&#x27; 배달 자원봉사자 모집(10/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113895&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2021-10-12)
