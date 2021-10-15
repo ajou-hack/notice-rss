@@ -1,5 +1,23 @@
 # 최근 공지사항
 
+* **[2021-2학기 중간고사 대면시험 응시자의 원격시험을 위한 PC실(강의실) 안내(10.15.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113977&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-10-15)
+
+* **[[10월18일] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113976&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생지원팀 (~2021-10-15)
+
+* **[[대학일자리플러스센터] 해외취업 K-Class 일본 3기 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113968&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-15)
+
+* **[[홍보] 수원시국제교류센터 - 제58회 수원화성문화제 온라인 국제자매도시의 밤](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113966&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-10-15)
+
+* **[[자연대] 2021-2학기 화학 BSM 과목 중간고사 대학원생 부감독 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113964&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 자연과학대학교학팀 (~2021-10-14)
+
+* **[[자연대] 2021-2학기 수학 BSM 과목 중간고사 대학원생 부감독 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113963&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 자연과학대학교학팀 (~2021-10-14)
+
 * **[(재공지)[국제교류팀] ★ 파란사다리 추가 모집 안내 (~10.19 마감) (기간연장/추가혜택)★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113962&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-10-14)
 
@@ -9,7 +27,7 @@
 * **[[대학일자리플러스센터] 2021 하반기 면접특강(면접 커뮤니케이션과 1분 자기소개 답변법)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113956&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-14)
 
-* **[[대학일자리플러스센터] 2021 “청년 직구(職求)하다” IT 우수 기업 6개 사와 함께하는 채용 행사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113951&amp;article.offset=0&amp;articleLimit=30)**
+* **[[대학일자리플러스센터] 2021 “청년 직구(職求)하다” IT 우수 기업 9개 사와 함께하는 채용 행사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113951&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-14)
 
 * **[[LINC+] 2021 산학협력 EXPO 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113950&amp;article.offset=0&amp;articleLimit=30)**
@@ -71,21 +89,3 @@
 
 * **[[10.20 수 17:30] KIURI 제1회 중개연구 Round Table 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113878&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - KIURI 연구단 (~2021-10-12)
-
-* **[[재공지] [국제교류팀] 아주대학교 학생을 위한 공식 GRE 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113876&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-10-12)
-
-* **[[대학일자리플러스센터] [안국약품] 2021 하반기 안국약품 공개채용 및 채용 설명회 진행 ( ~ 10/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113875&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-12)
-
-* **[[Remind][학부] 2021-2학기 미등록자 대상 추가 구제등록 기간 안내(10.12.~10.14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113874&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-10-12)
-
-* **[[공학교육혁신센터] 2021 반도체 산업 온라인 채용 박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113872&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-10-12)
-
-* **[[공학교육혁신센터] 2021 청년 공학 서베이](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113871&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-10-12)
-
-* **[마지막 공지[공학교육혁신센터] 2021 공(工)예술전 랜선전시회 이벤트 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113870&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-10-12)
