@@ -1,5 +1,17 @@
 # 최근 공지사항
 
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114023&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2021-10-18)
+
+* **[[대학일자리플러스센터] 2021 현대자동차그룹 협력사 채용박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114022&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-18)
+
+* **[[대학일자리플러스센터] 1:1 면접코칭(3탄)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114020&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-18)
+
+* **[[메이커스페이스]제품디자인을 위한 3D렌더링 기초교육 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114017&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2021-10-18)
+
 * **[2022학년도 아주대학교 입학전형 면접진행스태프 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114015&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 입학팀 (~2021-10-18)
 
@@ -77,15 +89,3 @@
 
 * **[2021년 KT&amp;G 서울희망 디딤돌 장학금 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113931&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-10-14)
-
-* **[[학생상담소] 온라인 집단상담 프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113929&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생상담소 (~2021-10-14)
-
-* **[[교무팀] 출석인정 관련 학사운영규칙 개정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113925&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-10-13)
-
-* **[2021-2학기 중간고사 대면시험 응시자의 원격시험을 위한 PC실(강의실) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113922&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-10-13)
-
-* **[[대학일자리플러스센터] 2021년 ICT/SW 온라인 여성 취업박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113915&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-13)
