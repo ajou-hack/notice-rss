@@ -1,5 +1,17 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] 2021 대학일자리플러스센터 정책체감도 및 만족도 조사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114010&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-18)
+
+* **[(재공지)[국제교류팀] ★ 파란사다리 추가 모집 안내 (~10.19 마감) (기간연장/추가혜택)★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114007&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-10-18)
+
+* **[[대학일자리플러스센터] 글로벌일자리대전 연계 월드잡 토크콘서트2](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114005&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-18)
+
+* **[[학생상담소] 온라인 집단상담 프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114002&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생상담소 (~2021-10-18)
+
 * **[2021년 2학기 서울희망 대학 장학금 장학생 추가 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114001&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-10-18)
 
@@ -77,15 +89,3 @@
 
 * **[[대학일자리플러스센터] 2021 성남·판교 온-오프 청년 채용박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113913&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-13)
-
-* **[[LINC+] 드론 조종자(3종) 국가자격증 취득과정 신청 안내(~10.31(일))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113912&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀 (~2021-10-13)
-
-* **[[대학일자리플러스센터] 2021 청년과학기술인 일자리박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113910&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-13)
-
-* **[(재공지)[국제교류팀] ★ 파란사다리 추가 모집 안내 (~10.19 마감) (기간연장/추가혜택)★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113907&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-10-12)
-
-* **[[다산학부대학] 다산 고전&amp;토론 페스티벌 대회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113906&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 다산학부대학 교학팀 (~2021-10-12)
