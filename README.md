@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[2022학년도 아주대학교 입학전형 면접진행스태프 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114015&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 입학팀 (~2021-10-18)
+
 * **[[대학일자리플러스센터] 2021 대학일자리플러스센터 정책체감도 및 만족도 조사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114010&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-18)
 
@@ -85,7 +88,4 @@
  [학사] - 교무팀 (~2021-10-13)
 
 * **[[대학일자리플러스센터] 2021년 ICT/SW 온라인 여성 취업박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113915&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-13)
-
-* **[[대학일자리플러스센터] 2021 성남·판교 온-오프 청년 채용박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113913&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-13)
