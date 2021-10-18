@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[2021 제2회 아주대학교 온라인 직무박람회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114029&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-18)
+
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114023&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-10-18)
 
@@ -86,6 +89,3 @@
 
 * **[[아주지속가능발전센터] 아주 올바른 분리배출 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113935&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 아주지속가능발전센터 (~2021-10-14)
-
-* **[2021년 KT&amp;G 서울희망 디딤돌 장학금 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113931&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-10-14)
