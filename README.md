@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[2021년 2학기 서울희망 대학 장학금 장학생 추가 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114001&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-10-18)
+
+* **[[봉사활동] 결식아동돕기 &#x27;사랑의 쌀&#x27; 배달 자원봉사자 모집(10/21)_재공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114000&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2021-10-18)
+
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113991&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-10-15)
 
@@ -83,9 +89,3 @@
 
 * **[[다산학부대학] 다산 고전&amp;토론 페스티벌 대회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113906&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 다산학부대학 교학팀 (~2021-10-12)
-
-* **[[대학원교학팀]新소프트웨어 분야 인력진출 실태 설문조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113905&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학원교학팀 (~2021-10-12)
-
-* **[규정류 개정 공포(2021-제9차 교무회의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113898&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2021-10-12)
