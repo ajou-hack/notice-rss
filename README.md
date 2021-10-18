@@ -1,5 +1,17 @@
 # 최근 공지사항
 
+* **[(재공지)2021년 아주대학교 연구실 안전 공모전 안내 (~10/22)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114035&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 안전관리센터 (~2021-10-18)
+
+* **[[대학일자리플러스센터] 아주대학교 잡플래닛 제휴대학 서비스](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114034&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-18)
+
+* **[Special Neuroscience Seminar (10.22 금 17시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114032&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - KIURI 연구단 (~2021-10-18)
+
+* **[&lt;아주대학교 48개 프로그램 중 단 하나라도 참여한 학생들을 위한 공모전&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114031&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2021-10-18)
+
 * **[2021 제2회 아주대학교 온라인 직무박람회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114029&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-18)
 
@@ -77,15 +89,3 @@
 
 * **[[모집] 유학생 전공스터디 튜터 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113949&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 유학생입학팀 (~2021-10-14)
-
-* **[공학교육혁신센터] 2021 공(工)예술전 최종결과 및 이벤트 당첨자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113947&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-10-14)
-
-* **[(학사과정)2021-동계 계절학기 국내대학 학점교류 신청 안내(21.10.14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113940&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-10-14)
-
-* **[2021년 수원시 대학생 학자금 대출이자 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113936&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-10-14)
-
-* **[[아주지속가능발전센터] 아주 올바른 분리배출 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113935&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 아주지속가능발전센터 (~2021-10-14)
