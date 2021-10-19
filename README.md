@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[2021년 장애대학(원)생 교육활동 지원사업 우수 콘텐츠 공모전 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114069&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2021-10-19)
+
 * **[[한국장학재단] 2021년 대학 글로벌 현장학습(동계방학) 참가학생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114062&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-10-19)
 
@@ -86,6 +89,3 @@
 
 * **[2021-2학기 중간고사 대면시험 응시자의 원격시험을 위한 PC실(강의실) 안내(10.15.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113977&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-10-15)
-
-* **[[10월18일] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113976&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생지원팀 (~2021-10-15)
