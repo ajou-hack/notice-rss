@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터]2021 삼양식품그룹 현직자와 함께하는 온라인 직무토크 콘서트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114054&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-19)
+
 * **[2021-2학기 중간고사 부정행위 방지 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114053&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-10-19)
 
@@ -85,7 +88,4 @@
  [기타] - 국제교류팀 (~2021-10-15)
 
 * **[[자연대] 2021-2학기 화학 BSM 과목 중간고사 대학원생 부감독 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113964&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 자연과학대학교학팀 (~2021-10-14)
-
-* **[[자연대] 2021-2학기 수학 BSM 과목 중간고사 대학원생 부감독 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113963&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 자연과학대학교학팀 (~2021-10-14)
