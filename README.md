@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[포럼]일비[I’ll be]에서 아주대 학생들을 원탁토의 참여자로 초대합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114071&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 현장실습지원센터 (~2021-10-19)
+
 * **[2021년 장애대학(원)생 교육활동 지원사업 우수 콘텐츠 공모전 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114069&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2021-10-19)
 
@@ -86,6 +89,3 @@
 
 * **[2021 인문인 진로 박람회 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113984&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 인문대학교학팀 (~2021-10-15)
-
-* **[2021-2학기 중간고사 대면시험 응시자의 원격시험을 위한 PC실(강의실) 안내(10.15.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113977&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-10-15)
