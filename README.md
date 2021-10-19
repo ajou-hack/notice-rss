@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[[한국장학재단] 2021년 대학 글로벌 현장학습(동계방학) 참가학생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114062&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-10-19)
+
+* **[[시설팀] 2021학년도 동절기 난방시행계획 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114059&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2021-10-19)
+
+* **[[학부]2021-2학기 수업 운영 안내(10.19 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114058&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-10-19)
+
 * **[[대학일자리플러스센터]2021 삼양식품그룹 현직자와 함께하는 온라인 직무토크 콘서트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114054&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-19)
 
@@ -80,12 +89,3 @@
 
 * **[[10월18일] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113976&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생지원팀 (~2021-10-15)
-
-* **[[대학일자리플러스센터] 해외취업 K-Class 일본 3기 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113968&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-15)
-
-* **[[홍보] 수원시국제교류센터 - 제58회 수원화성문화제 온라인 국제자매도시의 밤](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113966&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-10-15)
-
-* **[[자연대] 2021-2학기 화학 BSM 과목 중간고사 대학원생 부감독 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113964&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 자연과학대학교학팀 (~2021-10-14)
