@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[2021-2학기 중간고사 부정행위 방지 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114053&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-10-19)
+
+* **[[장학] 2022년 두산연강재단 장학금 신청_11.12(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114052&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-10-19)
+
 * **[[공학교육혁신센터] 2021년 산・학・관 소통 포럼](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114051&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-10-19)
 
@@ -83,9 +89,3 @@
 
 * **[[자연대] 2021-2학기 수학 BSM 과목 중간고사 대학원생 부감독 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113963&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 자연과학대학교학팀 (~2021-10-14)
-
-* **[(재공지)[국제교류팀] ★ 파란사다리 추가 모집 안내 (~10.19 마감) (기간연장/추가혜택)★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113962&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-10-14)
-
-* **[[대학일자리플러스센터] 2021 반도체산업 온라인 채용박람회 참가인재 모집(~10/17일까지 접수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113959&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-14)
