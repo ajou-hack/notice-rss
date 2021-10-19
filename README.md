@@ -1,5 +1,17 @@
 # 최근 공지사항
 
+* **[[공학교육혁신센터] 2021년 산・학・관 소통 포럼](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114051&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-10-19)
+
+* **[[LINC+]2021-2학기 캡스톤디자인(종합설계) 교과목 지원 신청 안내 (10/31까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114050&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 현장실습지원센터 (~2021-10-19)
+
+* **[[장학] 코로나극복장학(바르게장학) 신청_2021.11.1(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114049&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-10-19)
+
+* **[[대학일자리플러스센터] 2021 국내청년의 해외진출 지원을 위한 ON LINE 콘서트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114047&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-19)
+
 * **[(재공지)2021년 아주대학교 연구실 안전 공모전 안내 (~10/22)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114035&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 안전관리센터 (~2021-10-18)
 
@@ -77,15 +89,3 @@
 
 * **[[대학일자리플러스센터] 2021 반도체산업 온라인 채용박람회 참가인재 모집(~10/17일까지 접수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113959&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-14)
-
-* **[[대학일자리플러스센터] 2021 하반기 면접특강(면접 커뮤니케이션과 1분 자기소개 답변법)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113956&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-14)
-
-* **[[대학일자리플러스센터] 2021 “청년 직구(職求)하다” IT 우수 기업 9개 사와 함께하는 채용 행사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113951&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-14)
-
-* **[[LINC+] 2021 산학협력 EXPO 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113950&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - LINC사업팀 (~2021-10-14)
-
-* **[[모집] 유학생 전공스터디 튜터 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113949&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 유학생입학팀 (~2021-10-14)
