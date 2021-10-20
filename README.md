@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] 2021 현대자동차그룹 HMG Developer Conference](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114088&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-20)
+
 * **[(재안내)2021-2학기 중간고사 대면시험 응시자의 원격시험을 위한 PC실(강의실) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114086&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-10-20)
 
@@ -86,6 +89,3 @@
 
 * **[[메이커스페이스]제품디자인을 위한 3D렌더링 기초교육 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114017&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2021-10-18)
-
-* **[2022학년도 아주대학교 입학전형 면접진행스태프 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114015&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 입학팀 (~2021-10-18)
