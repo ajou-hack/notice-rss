@@ -1,5 +1,20 @@
 # 최근 공지사항
 
+* **[(재안내)2021-2학기 중간고사 대면시험 응시자의 원격시험을 위한 PC실(강의실) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114086&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-10-20)
+
+* **[[공학교육혁신센터] 제3회 대학생 AI x BOOKATHON 대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114085&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-10-20)
+
+* **[[대학일자리플러스센터] 절대 놓칠 수 없는 아주인 모두다 이벤트 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114084&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-20)
+
+* **[[모집] 사회대교학팀 면학 근로장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114083&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 사회대교학팀 (~2021-10-20)
+
+* **[[학부] 전공(복수,부,연계,심화전공) 신청 및 취소 기간 안내 (11.01.~11.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114082&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-10-20)
+
 * **[[대학일자리플러스센터] 해외취업 지원서_레쥬메 첨삭 프로그램](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114080&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-20)
 
@@ -74,18 +89,3 @@
 
 * **[2022학년도 아주대학교 입학전형 면접진행스태프 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114015&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 입학팀 (~2021-10-18)
-
-* **[[대학일자리플러스센터] 2021 대학일자리플러스센터 정책체감도 및 만족도 조사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114010&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-18)
-
-* **[(재공지)[국제교류팀] ★ 파란사다리 추가 모집 안내 (~10.19 마감) (기간연장/추가혜택)★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114007&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-10-18)
-
-* **[[대학일자리플러스센터] 글로벌일자리대전 연계 월드잡 토크콘서트2](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114005&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-18)
-
-* **[[학생상담소] 온라인 집단상담 프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114002&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생상담소 (~2021-10-18)
-
-* **[2021년 2학기 서울희망 대학 장학금 장학생 추가 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114001&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-10-18)
