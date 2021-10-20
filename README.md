@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[대학원 AI융합네트워크학과] 2022학년도 전기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114124&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 정보통신대학교학팀 (~2021-10-20)
+
+* **[[장학] 2021-2학기 인송문화재단 인송장학생 추천 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114123&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-10-20)
+
 * **[[학생상담소] 온라인 집단상담 프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114103&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생상담소 (~2021-10-20)
 
@@ -82,10 +88,4 @@
  [기타] - 대학교육혁신원 (~2021-10-18)
 
 * **[2021 제2회 아주대학교 온라인 직무박람회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114029&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-18)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114023&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2021-10-18)
-
-* **[[대학일자리플러스센터] 2021 현대자동차그룹 협력사 채용박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114022&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-18)
