@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[대학원 인공지능학과] 2022학년도 전기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114126&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 정보통신대학 교학팀 (~2021-10-20)
+
+* **[(중앙도서관) 서버 장비 부품 교체로 홈페이지 서비스 일시 중지 안내 (10/20 21:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114125&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2021-10-20)
+
 * **[[대학원 AI융합네트워크학과] 2022학년도 전기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114124&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 정보통신대학교학팀 (~2021-10-20)
 
@@ -83,9 +89,3 @@
 
 * **[Special Neuroscience Seminar (10.22 금 17시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114032&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - KIURI 연구단 (~2021-10-18)
-
-* **[&lt;아주대학교 48개 프로그램 중 단 하나라도 참여한 학생들을 위한 공모전&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114031&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2021-10-18)
-
-* **[2021 제2회 아주대학교 온라인 직무박람회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114029&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-18)
