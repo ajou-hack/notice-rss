@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] 해외취업 지원서_레쥬메 첨삭 프로그램](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114080&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-20)
+
+* **[[학부] 2021-2학기 최종 구제 등록 기간 안내 (10.25.~10.27.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114078&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-10-20)
+
+* **[[대학일자리플러스센터] 원익그룹 4번째 공식 online 채용설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114077&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-20)
+
 * **[[포럼]일비[I’ll be]에서 아주대 학생들을 원탁토의 참여자로 초대합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114071&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 현장실습지원센터 (~2021-10-19)
 
@@ -80,12 +89,3 @@
 
 * **[2021년 2학기 서울희망 대학 장학금 장학생 추가 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114001&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-10-18)
-
-* **[[봉사활동] 결식아동돕기 &#x27;사랑의 쌀&#x27; 배달 자원봉사자 모집(10/21)_재공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114000&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2021-10-18)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113991&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2021-10-15)
-
-* **[2021 인문인 진로 박람회 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=113984&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 인문대학교학팀 (~2021-10-15)
