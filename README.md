@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[공학교육혁신센터] 2021 파이썬으로 배우는 인공지능과 머신러닝 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114149&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-10-21)
+
 * **[총장과 함께하는 열일곱번째 Book Club에 초대합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114142&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학술정보팀 (~2021-10-21)
 
@@ -86,6 +89,3 @@
 
 * **[[장학] 2022년 두산연강재단 장학금 신청_11.12(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114052&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-10-19)
-
-* **[[공학교육혁신센터] 2021년 산・학・관 소통 포럼](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114051&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-10-19)
