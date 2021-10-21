@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[2021년 경기도 학자금 장기연체자 신용회복 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114156&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-10-21)
+
+* **[[총무팀] 정기 해충방역 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114152&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2021-10-21)
+
 * **[[공학교육혁신센터] 2021 파이썬으로 배우는 인공지능과 머신러닝 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114149&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-10-21)
 
@@ -83,9 +89,3 @@
 
 * **[[대학일자리플러스센터]2021 삼양식품그룹 현직자와 함께하는 온라인 직무토크 콘서트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114054&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-19)
-
-* **[2021-2학기 중간고사 부정행위 방지 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114053&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-10-19)
-
-* **[[장학] 2022년 두산연강재단 장학금 신청_11.12(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114052&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-10-19)
