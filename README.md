@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[총장과 함께하는 열일곱번째 Book Club에 초대합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114142&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학술정보팀 (~2021-10-21)
+
+* **[2021 제2회 아주대학교 온라인 직무박람회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114141&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-21)
+
 * **[[대학원 과학기술정책전공] 2022학년도 전기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114138&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 공과대학교학팀 (~2021-10-21)
 
@@ -83,9 +89,3 @@
 
 * **[[공학교육혁신센터] 2021년 산・학・관 소통 포럼](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114051&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-10-19)
-
-* **[[LINC+]2021-2학기 캡스톤디자인(종합설계) 교과목 지원 신청 안내 (10/31까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114050&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 현장실습지원센터 (~2021-10-19)
-
-* **[[장학] 코로나극복장학(바르게장학) 신청_2021.11.1(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114049&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-10-19)
