@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[[대학원 과학기술정책전공] 2022학년도 전기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114138&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 공과대학교학팀 (~2021-10-21)
+
+* **[비타민데이 시행](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114137&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 보건진료소 (~2021-10-21)
+
+* **[[자연대] 2021-2학기 수학2 BSM 과목 중간고사 대학원생 부감독 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114133&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 자연과학대학교학팀 (~2021-10-21)
+
 * **[[대학일자리플러스센터] 절대 놓칠 수 없는 아주인 모두다 이벤트 안내 (재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114128&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-20)
 
@@ -80,12 +89,3 @@
 
 * **[[장학] 코로나극복장학(바르게장학) 신청_2021.11.1(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114049&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-10-19)
-
-* **[[대학일자리플러스센터] 2021 국내청년의 해외진출 지원을 위한 ON LINE 콘서트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114047&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-19)
-
-* **[(재공지)2021년 아주대학교 연구실 안전 공모전 안내 (~10/22)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114035&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 안전관리센터 (~2021-10-18)
-
-* **[[대학일자리플러스센터] 아주대학교 잡플래닛 제휴대학 서비스](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114034&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-18)
