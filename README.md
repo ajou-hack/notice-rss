@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] 하반기 진로강연 콘서트(현직자 온라인 Live특강)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114163&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-21)
+
+* **[[총무팀] 정기 해충방역 시행 안내(수정공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114162&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2021-10-21)
+
 * **[[대학일자리플러스센터] JAPAN Career Expo 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114159&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-21)
 
@@ -8,9 +14,6 @@
 
 * **[2021년 경기도 학자금 장기연체자 신용회복 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114156&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-10-21)
-
-* **[[총무팀] 정기 해충방역 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114152&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2021-10-21)
 
 * **[[공학교육혁신센터] 2021 파이썬으로 배우는 인공지능과 머신러닝 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114149&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-10-21)
@@ -86,6 +89,3 @@
 
 * **[[한국장학재단] 2021년 대학 글로벌 현장학습(동계방학) 참가학생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114062&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-10-19)
-
-* **[[시설팀] 2021학년도 동절기 난방시행계획 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114059&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2021-10-19)
