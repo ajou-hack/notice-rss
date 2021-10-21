@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] JAPAN Career Expo 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114159&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-21)
+
+* **[2022학년도 아주대학교 과학영재교육원 신입생선발 면접전형스태프 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114157&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 과학영재교육원 (~2021-10-21)
+
 * **[2021년 경기도 학자금 장기연체자 신용회복 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114156&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-10-21)
 
@@ -83,9 +89,3 @@
 
 * **[[시설팀] 2021학년도 동절기 난방시행계획 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114059&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2021-10-19)
-
-* **[[학부]2021-2학기 수업 운영 안내(10.19 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114058&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-10-19)
-
-* **[[대학일자리플러스센터]2021 삼양식품그룹 현직자와 함께하는 온라인 직무토크 콘서트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114054&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-19)
