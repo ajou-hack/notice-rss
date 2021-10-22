@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[LINC+사업단 뉴스레터 제42호(2021.10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114197&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2021-10-22)
+
+* **[(마감임박!!!)&lt;2년간 48개 프로그램 중 단 하나라도 참여한 학생들을 위한 공모전&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114196&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2021-10-22)
+
+* **[[LINC+] 2021 아주대 웹콘텐츠 기획 아이디어(기획안) 공모전 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114193&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - LINC사업팀 (~2021-10-22)
+
 * **[[성평등상담소] 제2회 성평등 콘텐츠 공모전 안내 (~11/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114191&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 성평등상담소 (~2021-10-22)
 
@@ -79,13 +88,4 @@
  [기타] - 공학교육혁신센터 (~2021-10-20)
 
 * **[[대학일자리플러스센터] 절대 놓칠 수 없는 아주인 모두다 이벤트 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114084&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-20)
-
-* **[[모집] 사회대교학팀 면학 근로장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114083&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 사회대교학팀 (~2021-10-20)
-
-* **[[학부] 전공(복수,부,연계,심화전공) 신청 및 취소 기간 안내 (11.01.~11.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114082&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-10-20)
-
-* **[[대학일자리플러스센터] 해외취업 지원서_레쥬메 첨삭 프로그램](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114080&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-20)
