@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[성평등상담소] 제2회 성평등 콘텐츠 공모전 안내 (~11/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114191&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 성평등상담소 (~2021-10-22)
+
 * **[아주대학교 총장후보자 지원 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114190&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 법인사무처 (~2021-10-22)
 
@@ -86,6 +89,3 @@
 
 * **[[대학일자리플러스센터] 해외취업 지원서_레쥬메 첨삭 프로그램](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114080&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-20)
-
-* **[[학부] 2021-2학기 최종 구제 등록 기간 안내 (10.25.~10.27.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114078&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-10-20)
