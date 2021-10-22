@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[아주대학교 총장후보자 지원 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114177&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 법인사무처 (~2021-10-22)
+
+* **[[국제교류팀] 21-동계 1차 해외단기파견 모집 (~10.31일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114175&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-10-22)
+
 * **[[대학일자리플러스센터] 하반기 진로강연 콘서트(현직자 온라인 Live특강)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114163&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-21)
 
@@ -83,9 +89,3 @@
 
 * **[[포럼]일비[I’ll be]에서 아주대 학생들을 원탁토의 참여자로 초대합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114071&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 현장실습지원센터 (~2021-10-19)
-
-* **[2021년 장애대학(원)생 교육활동 지원사업 우수 콘텐츠 공모전 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114069&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2021-10-19)
-
-* **[[한국장학재단] 2021년 대학 글로벌 현장학습(동계방학) 참가학생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114062&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-10-19)
