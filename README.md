@@ -1,5 +1,17 @@
 # 최근 공지사항
 
+* **[(마감임박!) [비교과교육지원센터] 제1회 아주허브 사용후기 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114252&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2021-10-25)
+
+* **[[LINC+] 2021-2학기 창업마일리지 적립신청 및 인센티브 안내 (~12.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114250&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업교육센터 (~2021-10-25)
+
+* **[[LINC+] 2021 제7회 LINC+ 창업아이디어 경진대회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114249&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업교육센터 (~2021-10-25)
+
+* **[[LINC+] 드론 조종자(3종) 국가자격증 취득과정 신청 안내(~10.31(일))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114247&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - LINC사업팀 (~2021-10-25)
+
 * **[외부 인터넷 장애 관련 안내(완료)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114217&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-10-25)
 
@@ -77,15 +89,3 @@
 
 * **[2021 제2회 아주대학교 온라인 직무박람회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114141&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-21)
-
-* **[[대학원 과학기술정책전공] 2022학년도 전기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114138&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 공과대학교학팀 (~2021-10-21)
-
-* **[비타민데이 시행](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114137&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 보건진료소 (~2021-10-21)
-
-* **[[자연대] 2021-2학기 수학2 BSM 과목 중간고사 대학원생 부감독 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114133&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 자연과학대학교학팀 (~2021-10-21)
-
-* **[[대학일자리플러스센터] 절대 놓칠 수 없는 아주인 모두다 이벤트 안내 (재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114128&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-20)
