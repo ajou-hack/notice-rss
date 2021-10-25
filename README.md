@@ -1,5 +1,17 @@
 # 최근 공지사항
 
+* **[2021 제2회 아주대학교 온라인 직무박람회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114213&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-25)
+
+* **[[국가근로] 2021학년도 2학기 교내 인문대PC실 국가근로장학생 추가선발 공고( 구글설문지로 희망근로지 신청 필수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114212&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-10-25)
+
+* **[［임상치의학대학원］2022-전기 정시모집 전형 아주대학교 임상치의학대학원 신입생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114211&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 의과대학 교학팀 (~2021-10-25)
+
+* **[[장학]코로나극복장학(바르게장학)신청_2021.11.1(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114209&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-10-25)
+
 * **[[행사] 제8회 의약학 공동심포지엄 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114205&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 의료원 연구행정팀 (~2021-10-25)
 
@@ -77,15 +89,3 @@
 
 * **[[대학원 AI융합네트워크학과] 2022학년도 전기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114124&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 정보통신대학교학팀 (~2021-10-20)
-
-* **[[장학] 2021-2학기 인송문화재단 인송장학생 추천 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114123&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-10-20)
-
-* **[[학생상담소] 온라인 집단상담 프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114103&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생상담소 (~2021-10-20)
-
-* **[(재안내)[LINC+] 2021 제4회 산학협력 우수사례 공모전 참여 안내(~10/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114100&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀 (~2021-10-20)
-
-* **[[대학일자리플러스센터] 2021 현대자동차그룹 HMG Developer Conference](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114088&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-20)
