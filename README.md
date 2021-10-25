@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[외부 인터넷 장애 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114217&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2021-10-25)
+
+* **[[대학일자리플러스센터] 2021 물류산업 청년 온라인 채용박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114216&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-25)
+
 * **[2021 제2회 아주대학교 온라인 직무박람회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114213&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-25)
 
@@ -83,9 +89,3 @@
 
 * **[[대학원 인공지능학과] 2022학년도 전기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114126&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 정보통신대학 교학팀 (~2021-10-20)
-
-* **[(조치 완료)(중앙도서관) 서버 장비 부품 교체로 홈페이지 서비스 일시 중지 안내 (10/20 21:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114125&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2021-10-20)
-
-* **[[대학원 AI융합네트워크학과] 2022학년도 전기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114124&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 정보통신대학교학팀 (~2021-10-20)
