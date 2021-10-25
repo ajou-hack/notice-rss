@@ -1,6 +1,6 @@
 # 최근 공지사항
 
-* **[외부 인터넷 장애 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114217&amp;article.offset=0&amp;articleLimit=30)**
+* **[외부 인터넷 장애 관련 안내(완료)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114217&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-10-25)
 
 * **[[대학일자리플러스센터] 2021 물류산업 청년 온라인 채용박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114216&amp;article.offset=0&amp;articleLimit=30)**
@@ -32,6 +32,9 @@
 
 * **[(마감임박!!!)&lt;2년간 48개 프로그램 중 단 하나라도 참여한 학생들을 위한 공모전&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114196&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2021-10-22)
+
+* **[(재공지) [비교과교육지원센터] 제1회 아주허브 사용후기 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114195&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2021-10-22)
 
 * **[[LINC+] 2021 아주대 웹콘텐츠 기획 아이디어(기획안) 공모전 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114193&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - LINC사업팀 (~2021-10-22)
@@ -86,6 +89,3 @@
 
 * **[[대학일자리플러스센터] 절대 놓칠 수 없는 아주인 모두다 이벤트 안내 (재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114128&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-20)
-
-* **[[대학원 인공지능학과] 2022학년도 전기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114126&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 정보통신대학 교학팀 (~2021-10-20)
