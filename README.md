@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[[행사] 제8회 의약학 공동심포지엄 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114205&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 의료원 연구행정팀 (~2021-10-25)
+
+* **[[Remind][학부] 2021-2학기 최종 구제 등록 기간 안내 (10.25.~10.27.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114204&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-10-25)
+
+* **[[학생상담소] 온라인 집단상담 프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114203&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생상담소 (~2021-10-25)
+
 * **[LINC+사업단 뉴스레터 제42호(2021.10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114197&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2021-10-22)
 
@@ -21,7 +30,7 @@
 * **[[생활관]2021년 2학기 생활관 추가 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114188&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 생활관 (~2021-10-22)
 
-* **[[국제교류팀] 21-동계 1차 해외단기파견 모집 (~10.31일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114175&amp;article.offset=0&amp;articleLimit=30)**
+* **[[국제교류팀] 21-동계 해외단기파견 모집 (~10.31일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114175&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-10-22)
 
 * **[[대학일자리플러스센터] 하반기 진로강연 콘서트(현직자 온라인 Live특강)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114163&amp;article.offset=0&amp;articleLimit=30)**
@@ -79,13 +88,4 @@
  [비교과] - LINC사업팀 (~2021-10-20)
 
 * **[[대학일자리플러스센터] 2021 현대자동차그룹 HMG Developer Conference](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114088&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-20)
-
-* **[(재안내)2021-2학기 중간고사 대면시험 응시자의 원격시험을 위한 PC실(강의실) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114086&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-10-20)
-
-* **[[공학교육혁신센터] 제3회 대학생 AI x BOOKATHON 대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114085&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-10-20)
-
-* **[[대학일자리플러스센터] 절대 놓칠 수 없는 아주인 모두다 이벤트 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114084&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-20)
