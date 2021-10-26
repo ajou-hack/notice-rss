@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] 2021 “청년 직구(職求)하다” IT 우수 기업 9개 사와 함께하는 채용 행사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114258&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-26)
+
+* **[[홍보] 수원교육지원청 선배동행 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114256&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 커뮤니케이션팀 (~2021-10-26)
+
 * **[(마감임박!) [비교과교육지원센터] 제1회 아주허브 사용후기 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114252&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2021-10-25)
 
@@ -24,7 +30,7 @@
 * **[[국가근로] 2021학년도 2학기 교내 인문대PC실 국가근로장학생 추가선발 공고( 구글설문지로 희망근로지 신청 필수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114212&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-10-25)
 
-* **[［임상치의학대학원］2022-전기 정시모집 전형 아주대학교 임상치의학대학원 신입생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114211&amp;article.offset=0&amp;articleLimit=30)**
+* **[［임상치의학대학원］ 2022-전기 정시모집 전형 신입생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114211&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 의과대학 교학팀 (~2021-10-25)
 
 * **[[장학]코로나극복장학(바르게장학)신청_2021.11.1(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114209&amp;article.offset=0&amp;articleLimit=30)**
@@ -83,9 +89,3 @@
 
 * **[[공학교육혁신센터] 2021 파이썬으로 배우는 인공지능과 머신러닝 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114149&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-10-21)
-
-* **[총장과 함께하는 열일곱번째 Book Club에 초대합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114142&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학술정보팀 (~2021-10-21)
-
-* **[2021 제2회 아주대학교 온라인 직무박람회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114141&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-21)
