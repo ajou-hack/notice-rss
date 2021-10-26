@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114265&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2021-10-26)
+
 * **[[LINC+] 2021 동계 현장실습 운영일정 안내(학생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114264&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2021-10-26)
 
@@ -86,6 +89,3 @@
 
 * **[[대학일자리플러스센터] JAPAN Career Expo 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114159&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-21)
-
-* **[2022학년도 아주대학교 과학영재교육원 신입생선발 면접전형스태프 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114157&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 과학영재교육원 (~2021-10-21)
