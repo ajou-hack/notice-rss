@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[LINC+] 2021 동계 현장실습 운영일정 안내(학생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114264&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2021-10-26)
+
+* **[2021 인문인 진로 박람회 신청 안내 (재안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114263&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 인문대학교학팀 (~2021-10-26)
+
 * **[[대학일자리플러스센터] 2021 “청년 직구(職求)하다” IT 우수 기업 9개 사와 함께하는 채용 행사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114258&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-26)
 
@@ -83,9 +89,3 @@
 
 * **[2022학년도 아주대학교 과학영재교육원 신입생선발 면접전형스태프 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114157&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 과학영재교육원 (~2021-10-21)
-
-* **[2021년 경기도 학자금 장기연체자 신용회복 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114156&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-10-21)
-
-* **[[공학교육혁신센터] 2021 파이썬으로 배우는 인공지능과 머신러닝 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114149&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-10-21)
