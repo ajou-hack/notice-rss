@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[(학사과정)2021-동계 계절학기 국내대학 학점교류 신청 안내(21.10.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114287&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-10-26)
+
 * **[[대학일자리플러스센터] 현직자와 함께 하는 1: 1모의면접](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114282&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-26)
 
@@ -86,6 +89,3 @@
 
 * **[[성평등상담소] 제2회 성평등 콘텐츠 공모전 안내 (~11/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114191&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 성평등상담소 (~2021-10-22)
-
-* **[아주대학교 총장후보자 지원 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114190&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 법인사무처 (~2021-10-22)
