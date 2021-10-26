@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] 현직자와 함께 하는 1: 1모의면접](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114282&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-26)
+
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114275&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-10-26)
 
@@ -86,6 +89,3 @@
 
 * **[아주대학교 총장후보자 지원 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114190&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 법인사무처 (~2021-10-22)
-
-* **[「제6회 대학혁신지원사업 Webinar 컨퍼런스」 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114189&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2021-10-22)
