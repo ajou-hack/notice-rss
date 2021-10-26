@@ -1,5 +1,20 @@
 # 최근 공지사항
 
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114275&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2021-10-26)
+
+* **[[대학일자리플러스센터] 2021 KT 우수협력사 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114274&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-26)
+
+* **[2022학년도 과학영재교육원 신입생 선발에 따른 성호관 출입제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114273&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 과학영재교육원 (~2021-10-26)
+
+* **[[대학일자리플러스센터] 행정조원 모집 안내 (*휴학생만 가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114272&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-26)
+
+* **[아주대학교병원 건강증진센터 특별할인 안내(교직원, 재학생, 동문)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114271&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2021-10-26)
+
 * **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114265&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2021-10-26)
 
@@ -74,18 +89,3 @@
 
 * **[「제6회 대학혁신지원사업 Webinar 컨퍼런스」 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114189&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2021-10-22)
-
-* **[[생활관]2021년 2학기 생활관 추가 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114188&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 생활관 (~2021-10-22)
-
-* **[[국제교류팀] 21-동계 해외단기파견 모집 (~10.31일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114175&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-10-22)
-
-* **[[대학일자리플러스센터] 하반기 진로강연 콘서트(현직자 온라인 Live특강)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114163&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-21)
-
-* **[[총무팀] 정기 해충방역 시행 안내(수정공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114162&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2021-10-21)
-
-* **[[대학일자리플러스센터] JAPAN Career Expo 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114159&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-21)
