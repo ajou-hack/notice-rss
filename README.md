@@ -1,5 +1,29 @@
 # 최근 공지사항
 
+* **[[학습법] 2021-2학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집(기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114305&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-10-27)
+
+* **[[학습법] 2021-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114304&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-10-27)
+
+* **[[학습법] 2021-2학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114302&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-10-27)
+
+* **[[장학]제 26기 미래에셋 교환장학생 선발안네(2022년 봄학기 파견)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114301&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-10-27)
+
+* **[[학생상담소] 온라인 집단상담 프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114300&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생상담소 (~2021-10-27)
+
+* **[[국가근로][대학생청소년교육지원] 10월 국가근로/대학생청소년교육지원장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 10/31 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114299&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-10-27)
+
+* **[2021 제2회 아주대학교 온라인 직무박람회 개최 안내(내일부터 시작!)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114298&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-27)
+
+* **[(당일재공지)[국제교류팀] 21-동계 해외단기파견 설명회 (오늘 오후 3시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114297&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-10-27)
+
 * **[[대학일자리플러스센터] 산업프리뷰_애널리스트에게 듣는 산업전망](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114294&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-26)
 
@@ -65,27 +89,3 @@
 
 * **[[대학일자리플러스센터] 2021 물류산업 청년 온라인 채용박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114216&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-25)
-
-* **[2021 제2회 아주대학교 온라인 직무박람회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114213&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-25)
-
-* **[[국가근로] 2021학년도 2학기 교내 인문대PC실 국가근로장학생 추가선발 공고(구글설문지로 희망근로지 신청 필수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114212&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-10-25)
-
-* **[［임상치의학대학원］ 2022-전기 정시모집 전형 신입생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114211&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 의과대학 교학팀 (~2021-10-25)
-
-* **[[장학]코로나극복장학(바르게장학)신청_2021.11.1(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114209&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-10-25)
-
-* **[[행사] 제8회 의약학 공동심포지엄 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114205&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 의료원 연구행정팀 (~2021-10-25)
-
-* **[[Remind][학부] 2021-2학기 최종 구제 등록 기간 안내 (10.25.~10.27.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114204&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-10-25)
-
-* **[[학생상담소] 온라인 집단상담 프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114203&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생상담소 (~2021-10-25)
-
-* **[LINC+사업단 뉴스레터 제42호(2021.10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114197&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2021-10-22)
