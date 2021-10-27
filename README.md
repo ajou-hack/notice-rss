@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터]2021 삼성 청년 SW 아카데미 7기 모집안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114319&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-27)
+
+* **[[메이커스페이스] 파이썬을 활용한 업무 자동화 교육(기초+응용) 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114318&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2021-10-27)
+
 * **[대학혁신지원사업 프로그램 참여 후기 공모전 안내(~10/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114312&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2021-10-27)
 
@@ -83,9 +89,3 @@
 
 * **[[LINC+] 2021-2학기 창업마일리지 적립신청 및 인센티브 안내 (~12.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114250&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업교육센터 (~2021-10-25)
-
-* **[[LINC+] 2021 제7회 LINC+ 창업아이디어 경진대회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114249&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업교육센터 (~2021-10-25)
-
-* **[[LINC+] 드론 조종자(3종) 국가자격증 취득과정 신청 안내(~10.31(일))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114247&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀 (~2021-10-25)
