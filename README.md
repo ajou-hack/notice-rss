@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[홍보] 2021 창업지원사업 &#x27;대학(원)생 (탄소)창업아이템 개발지원&#x27; 참가자 모집(~11.09)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114310&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2021-10-27)
+
 * **[[학습법] 2021-2학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집(기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114305&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2021-10-27)
 
@@ -86,6 +89,3 @@
 
 * **[외부 인터넷 장애 관련 안내(완료)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114217&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-10-25)
-
-* **[[대학일자리플러스센터] 2021 물류산업 청년 온라인 채용박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114216&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-25)
