@@ -1,5 +1,17 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] 산업프리뷰_애널리스트에게 듣는 산업전망](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114294&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-26)
+
+* **[[대학일자리플러스센터] 진로시그널_연구직 공무원편](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114293&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-26)
+
+* **[[대학일자리플러스센터] 금융권(푸르덴셜생명) 선배 초청 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114292&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-26)
+
+* **[[국제교류팀]2021년 아주대학교 파란사다리 프로그램 면접대상자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114291&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-10-26)
+
 * **[(학사과정)2021-동계 계절학기 국내대학 학점교류 신청 안내(21.10.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114287&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-10-26)
 
@@ -57,7 +69,7 @@
 * **[2021 제2회 아주대학교 온라인 직무박람회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114213&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-25)
 
-* **[[국가근로] 2021학년도 2학기 교내 인문대PC실 국가근로장학생 추가선발 공고( 구글설문지로 희망근로지 신청 필수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114212&amp;article.offset=0&amp;articleLimit=30)**
+* **[[국가근로] 2021학년도 2학기 교내 인문대PC실 국가근로장학생 추가선발 공고(구글설문지로 희망근로지 신청 필수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114212&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-10-25)
 
 * **[［임상치의학대학원］ 2022-전기 정시모집 전형 신입생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114211&amp;article.offset=0&amp;articleLimit=30)**
@@ -77,15 +89,3 @@
 
 * **[LINC+사업단 뉴스레터 제42호(2021.10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114197&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2021-10-22)
-
-* **[(마감임박!!!)&lt;2년간 48개 프로그램 중 단 하나라도 참여한 학생들을 위한 공모전&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114196&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2021-10-22)
-
-* **[(재공지) [비교과교육지원센터] 제1회 아주허브 사용후기 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114195&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2021-10-22)
-
-* **[[LINC+] 2021 아주대 웹콘텐츠 기획 아이디어(기획안) 공모전 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114193&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀 (~2021-10-22)
-
-* **[[성평등상담소] 제2회 성평등 콘텐츠 공모전 안내 (~11/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114191&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 성평등상담소 (~2021-10-22)
