@@ -6,7 +6,7 @@
 * **[[메이커스페이스] 파이썬을 활용한 업무 자동화 교육(기초+응용) 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114318&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2021-10-27)
 
-* **[대학혁신지원사업 프로그램 참여 후기 공모전 안내(~10/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114312&amp;article.offset=0&amp;articleLimit=30)**
+* **[&lt;!마감임박!&gt;대학혁신지원사업 프로그램 참여 후기 공모전 안내(~10/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114312&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2021-10-27)
 
 * **[[홍보] 2021 창업지원사업 &#x27;대학(원)생 (탄소)창업아이템 개발지원&#x27; 참가자 모집(~11.09)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114310&amp;article.offset=0&amp;articleLimit=30)**
@@ -33,7 +33,7 @@
 * **[2021 제2회 아주대학교 온라인 직무박람회 개최 안내(내일부터 시작!)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114298&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-27)
 
-* **[(당일재공지)[국제교류팀] 21-동계 해외단기파견 설명회 (오늘 오후 3시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114297&amp;article.offset=0&amp;articleLimit=30)**
+* **[(당일재공지)[국제교류팀] 21-동계 해외단기파견 설명회 (오늘 오후 3시) - 종료](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114297&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-10-27)
 
 * **[[대학일자리플러스센터] 산업프리뷰_애널리스트에게 듣는 산업전망](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114294&amp;article.offset=0&amp;articleLimit=30)**
@@ -72,9 +72,6 @@
 * **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114265&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2021-10-26)
 
-* **[[LINC+] 2021 동계 현장실습 운영일정 안내(학생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114264&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2021-10-26)
-
 * **[2021 인문인 진로 박람회 신청 안내 (재안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114263&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 인문대학교학팀 (~2021-10-26)
 
@@ -88,4 +85,7 @@
  [비교과] - 비교과교육지원센터 (~2021-10-25)
 
 * **[[LINC+] 2021-2학기 창업마일리지 적립신청 및 인센티브 안내 (~12.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114250&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업교육센터 (~2021-10-25)
+
+* **[[LINC+] 2021 제7회 LINC+ 창업아이디어 경진대회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114249&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업교육센터 (~2021-10-25)
