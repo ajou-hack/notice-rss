@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[대학혁신지원사업 프로그램 참여 후기 공모전 안내(~10/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114312&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2021-10-27)
+
 * **[[홍보] 2021 창업지원사업 &#x27;대학(원)생 (탄소)창업아이템 개발지원&#x27; 참가자 모집(~11.09)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114310&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2021-10-27)
 
@@ -86,6 +89,3 @@
 
 * **[[LINC+] 드론 조종자(3종) 국가자격증 취득과정 신청 안내(~10.31(일))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114247&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - LINC사업팀 (~2021-10-25)
-
-* **[외부 인터넷 장애 관련 안내(완료)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114217&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2021-10-25)
