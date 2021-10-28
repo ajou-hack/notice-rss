@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[11.3 수 10시] 2021 아주 바이오·헬스사이언스 리서치페어 - KIURI 연구단](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114354&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - KIURI 연구단 (~2021-10-28)
+
 * **[(10/31 마감) LINC+ 2021 제4회 산학협력 우수사례 공모전 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114352&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - LINC사업팀 (~2021-10-28)
 
@@ -86,6 +89,3 @@
 
 * **[[국제교류팀]2021년 아주대학교 파란사다리 프로그램 면접대상자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114291&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-10-26)
-
-* **[(학사과정)2021-동계 계절학기 국내대학 학점교류 신청 안내(21.10.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114287&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-10-26)
