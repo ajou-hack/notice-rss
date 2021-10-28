@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[(학사과정)2021-동계 계절학기 국내대학 학점교류 신청 안내(21.10.28.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114339&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-10-28)
+
+* **[[공학교육혁신센터] 성균관대 ROBLOX로 배우는 메타버스 기초 교육](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114337&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-10-28)
+
 * **[[재공지] 코로나극복장학(바르게장학)신청_2021.11.1(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114330&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-10-28)
 
@@ -83,9 +89,3 @@
 
 * **[[대학일자리플러스센터] 2021 “청년 직구(職求)하다” IT 우수 기업 9개 사와 함께하는 채용 행사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114258&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-26)
-
-* **[[홍보] 수원교육지원청 선배동행 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114256&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 커뮤니케이션팀 (~2021-10-26)
-
-* **[(마감임박!) [비교과교육지원센터] 제1회 아주허브 사용후기 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114252&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2021-10-25)
