@@ -1,5 +1,17 @@
 # 최근 공지사항
 
+* **[(10/31 마감) LINC+ 2021 제4회 산학협력 우수사례 공모전 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114352&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - LINC사업팀 (~2021-10-28)
+
+* **[[학부]전자출결시스템 사용 매뉴얼](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114350&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-10-28)
+
+* **[2021 제2회 아주대학교 온라인 직무박람회 개최(오늘 시작!)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114349&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-28)
+
+* **[[대학일자리플러스센터] 2021 환경산업 일자리 박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114348&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-28)
+
 * **[[대학일자리플러스센터]소프트웨어학과 진로소학회 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114347&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 소프트웨어학과 (~2021-10-28)
 
@@ -77,15 +89,3 @@
 
 * **[(학사과정)2021-동계 계절학기 국내대학 학점교류 신청 안내(21.10.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114287&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-10-26)
-
-* **[[대학일자리플러스센터] 현직자와 함께 하는 1: 1모의면접](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114282&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-26)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114275&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2021-10-26)
-
-* **[[대학일자리플러스센터] 2021 KT 우수협력사 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114274&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-26)
-
-* **[2022학년도 과학영재교육원 신입생 선발에 따른 성호관 출입제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114273&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 과학영재교육원 (~2021-10-26)
