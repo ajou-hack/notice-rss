@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터]소프트웨어학과 진로소학회 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114347&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 소프트웨어학과 (~2021-10-28)
+
 * **[[11월1일] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114345&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2021-10-28)
 
@@ -86,6 +89,3 @@
 
 * **[2022학년도 과학영재교육원 신입생 선발에 따른 성호관 출입제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114273&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 과학영재교육원 (~2021-10-26)
-
-* **[[대학일자리플러스센터] 행정조원 모집 안내 (*휴학생만 가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114272&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-26)
