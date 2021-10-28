@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[11월1일] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114345&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2021-10-28)
+
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114342&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-10-28)
 
@@ -86,6 +89,3 @@
 
 * **[[대학일자리플러스센터] 행정조원 모집 안내 (*휴학생만 가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114272&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-26)
-
-* **[아주대학교병원 건강증진센터 특별할인 안내(교직원, 재학생, 동문)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114271&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2021-10-26)
