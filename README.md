@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114342&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2021-10-28)
+
+* **[[재공고][포럼]일비[I’ll be]에서 아주대 학생들을 원탁토의 참여자로 초대합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114341&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 현장실습지원센터 (~2021-10-28)
+
+* **[[대학일자리플러스센터] K-디지털 크레딧 신청안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114340&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-28)
+
 * **[(학사과정)2021-동계 계절학기 국내대학 학점교류 신청 안내(21.10.28.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114339&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-10-28)
 
@@ -80,12 +89,3 @@
 
 * **[아주대학교병원 건강증진센터 특별할인 안내(교직원, 재학생, 동문)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114271&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-10-26)
-
-* **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114265&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2021-10-26)
-
-* **[2021 인문인 진로 박람회 신청 안내 (재안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114263&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 인문대학교학팀 (~2021-10-26)
-
-* **[[대학일자리플러스센터] 2021 “청년 직구(職求)하다” IT 우수 기업 9개 사와 함께하는 채용 행사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114258&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-26)
