@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[경기도 공정특별사법경찰단 「찾아가는 불법 사금융 피해상담소」운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114356&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2021-10-28)
+
 * **[[11.3 수 10시] 2021 아주 바이오·헬스사이언스 리서치페어 - KIURI 연구단](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114354&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - KIURI 연구단 (~2021-10-28)
 
@@ -86,6 +89,3 @@
 
 * **[[대학일자리플러스센터] 금융권(푸르덴셜생명) 선배 초청 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114292&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-26)
-
-* **[[국제교류팀]2021년 아주대학교 파란사다리 프로그램 면접대상자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114291&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-10-26)
