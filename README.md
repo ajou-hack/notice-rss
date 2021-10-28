@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[재공지] 코로나극복장학(바르게장학)신청_2021.11.1(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114330&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-10-28)
+
+* **[[LINC+] 2021 동계 현장실습 운영일정 안내(학생 대상) *재공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114329&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2021-10-27)
+
 * **[[대학일자리플러스센터]2021 삼성 청년 SW 아카데미 7기 모집안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114319&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-27)
 
@@ -83,9 +89,3 @@
 
 * **[(마감임박!) [비교과교육지원센터] 제1회 아주허브 사용후기 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114252&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2021-10-25)
-
-* **[[LINC+] 2021-2학기 창업마일리지 적립신청 및 인센티브 안내 (~12.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114250&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업교육센터 (~2021-10-25)
-
-* **[[LINC+] 2021 제7회 LINC+ 창업아이디어 경진대회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114249&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업교육센터 (~2021-10-25)
