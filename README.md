@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[국제교류팀] 2021 파란사다리 최종합격자 발표 지연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114407&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-10-29)
+
+* **[재공지 [대학일자리플러스센터] 하반기 진로강연 콘서트(현직자 온라인 Live특강)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114406&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-29)
+
 * **[[불어권협력센터]『아주대학교-낭트대학교(프랑스) 문화 교류 사업』 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114402&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 불어권협력센터 (~2021-10-29)
 
@@ -39,7 +45,7 @@
 * **[[공학교육혁신센터]2021 전국 공학페스티벌 온라인 개최 안내(11/11~12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114369&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-10-29)
 
-* **[[다산학부대학](11/03~) 2021-2학기 교양과목 수업운영방식 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114366&amp;article.offset=0&amp;articleLimit=30)**
+* **[(*1차 수정*)[다산학부대학](11/03~) 2021-2학기 교양과목 수업운영방식 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114366&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2021-10-28)
 
 * **[경기도 공정특별사법경찰단 「찾아가는 불법 사금융 피해상담소」운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114356&amp;article.offset=0&amp;articleLimit=30)**
@@ -83,9 +89,3 @@
 
 * **[[재공지] 코로나극복장학(바르게장학)신청_2021.11.1(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114330&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-10-28)
-
-* **[[LINC+] 2021 동계 현장실습 운영일정 안내(학생 대상) *재공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114329&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2021-10-27)
-
-* **[[대학일자리플러스센터]2021 삼성 청년 SW 아카데미 7기 모집안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114319&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-27)
