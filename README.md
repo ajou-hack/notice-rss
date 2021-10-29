@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[장학]2022학년도 하이트진로홀딩스 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114394&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-10-29)
+
 * **[[국제교류팀] 2022-1학기 파견 중국특별교환 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114388&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-10-29)
 
@@ -86,6 +89,3 @@
 
 * **[[홍보] 2021 창업지원사업 &#x27;대학(원)생 (탄소)창업아이템 개발지원&#x27; 참가자 모집(~11.09)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114310&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2021-10-27)
-
-* **[[학습법] 2021-2학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집(기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114305&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2021-10-27)
