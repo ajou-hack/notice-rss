@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[[불어권협력센터]『아주대학교-낭트대학교(프랑스) 문화 교류 사업』 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114402&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 불어권협력센터 (~2021-10-29)
+
+* **[(마감임박 재공지)[국제교류팀] 21-동계 해외단기파견 모집 (~10.31일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114398&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-10-29)
+
+* **[[국제교류팀] 2022-1학기 파견 Ajou Home Abroad (유학생 교환) 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114397&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-10-29)
+
 * **[[장학]2022학년도 하이트진로홀딩스 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114394&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-10-29)
 
@@ -80,12 +89,3 @@
 
 * **[[대학일자리플러스센터]2021 삼성 청년 SW 아카데미 7기 모집안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114319&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-27)
-
-* **[[메이커스페이스] 파이썬을 활용한 업무 자동화 교육(기초+응용) 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114318&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2021-10-27)
-
-* **[&lt;!마감임박!&gt;대학혁신지원사업 프로그램 참여 후기 공모전 안내(~10/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114312&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2021-10-27)
-
-* **[[홍보] 2021 창업지원사업 &#x27;대학(원)생 (탄소)창업아이템 개발지원&#x27; 참가자 모집(~11.09)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114310&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2021-10-27)
