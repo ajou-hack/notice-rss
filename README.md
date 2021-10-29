@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[[홍보] 2021 아주 바이오·헬스 사이언스 리서치 페어 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114370&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 커뮤니케이션팀 (~2021-10-29)
+
+* **[[공학교육혁신센터]2021 전국 공학페스티벌 온라인 개최 안내(11/11~12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114369&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-10-29)
+
+* **[[다산학부대학](11/03~) 2021-2학기 교양과목 수업운영방식 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114366&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2021-10-28)
+
 * **[경기도 공정특별사법경찰단 「찾아가는 불법 사금융 피해상담소」운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114356&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-10-28)
 
@@ -80,12 +89,3 @@
 
 * **[(당일재공지)[국제교류팀] 21-동계 해외단기파견 설명회 (오늘 오후 3시) - 종료](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114297&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-10-27)
-
-* **[[대학일자리플러스센터] 산업프리뷰_애널리스트에게 듣는 산업전망](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114294&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-26)
-
-* **[[대학일자리플러스센터] 진로시그널_연구직 공무원편](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114293&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-26)
-
-* **[[대학일자리플러스센터] 금융권(푸르덴셜생명) 선배 초청 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114292&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-26)
