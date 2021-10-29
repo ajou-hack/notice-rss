@@ -1,7 +1,13 @@
 # 최근 공지사항
 
+* **[[국제교류팀] 2022-1학기 파견 중국특별교환 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114388&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-10-29)
+
 * **[[정보통신대학] 첨단소프트웨어대학 신설 공청회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114383&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보통신대학교학팀 (~2021-10-29)
+
+* **[[홍보] 2021 강남구 스타트업 채용 페스티벌 참가자 모집(~10/29 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114380&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 창업지원팀 (~2021-10-29)
 
 * **[[대학일자리+센터] 아주대 선배님의 슬기로운 회사생활 10문 10답 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114378&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-29)
@@ -82,10 +88,4 @@
  [기타] - LINC사업팀 (~2021-10-27)
 
 * **[[학습법] 2021-2학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집(기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114305&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2021-10-27)
-
-* **[[학습법] 2021-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114304&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2021-10-27)
-
-* **[[학습법] 2021-2학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114302&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2021-10-27)
