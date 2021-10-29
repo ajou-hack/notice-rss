@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[정보통신대학] 첨단소프트웨어대학 신설 공청회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114383&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보통신대학교학팀 (~2021-10-29)
+
 * **[[대학일자리+센터] 아주대 선배님의 슬기로운 회사생활 10문 10답 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114378&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-29)
 
@@ -86,6 +89,3 @@
 
 * **[[학습법] 2021-2학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114302&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2021-10-27)
-
-* **[[장학]제 26기 미래에셋 교환장학생 선발안네(2022년 봄학기 파견)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114301&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-10-27)
