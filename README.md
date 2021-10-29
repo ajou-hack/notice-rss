@@ -1,5 +1,17 @@
 # 최근 공지사항
 
+* **[[대학일자리+센터] 아주대 선배님의 슬기로운 회사생활 10문 10답 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114378&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-29)
+
+* **[[대학일자리+센터] 아주인 취업성공 후기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114377&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-10-29)
+
+* **[파란학기 중간교류회 응원댓글 경품 이벤트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114372&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2021-10-29)
+
+* **[[재공지] 코로나극복장학(바르게장학)신청_2021.11.1(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114371&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-10-29)
+
 * **[[홍보] 2021 아주 바이오·헬스 사이언스 리서치 페어 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114370&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 커뮤니케이션팀 (~2021-10-29)
 
@@ -77,15 +89,3 @@
 
 * **[[장학]제 26기 미래에셋 교환장학생 선발안네(2022년 봄학기 파견)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114301&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-10-27)
-
-* **[[학생상담소] 온라인 집단상담 프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114300&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생상담소 (~2021-10-27)
-
-* **[[국가근로][대학생청소년교육지원] 10월 국가근로/대학생청소년교육지원장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 10/31 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114299&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-10-27)
-
-* **[2021 제2회 아주대학교 온라인 직무박람회 개최 안내(내일부터 시작!)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114298&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-27)
-
-* **[(당일재공지)[국제교류팀] 21-동계 해외단기파견 설명회 (오늘 오후 3시) - 종료](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114297&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-10-27)
