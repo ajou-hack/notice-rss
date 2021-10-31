@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[(!찐찐막!) 장학금 받을 기회! 48개 프로그램중 참여한 프로그램이 있나요? 지금 바로 신청하세요!!(~10/31 23:59까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114422&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2021-10-31)
+
 * **[[대학일자리+센터] 놓칠수 없다! 11월 첫주 핫 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114414&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-30)
 
@@ -86,6 +89,3 @@
 
 * **[[대학일자리플러스센터] K-디지털 크레딧 신청안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114340&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-28)
-
-* **[(학사과정)2021-동계 계절학기 국내대학 학점교류 신청 안내(21.10.28.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114339&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-10-28)
