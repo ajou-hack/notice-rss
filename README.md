@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[당일공지] 홈페이지 수정 작업으로 인한 전산 서비스 중지 안내(11/01, 월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114465&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 커뮤니케이션팀 (~2021-11-01)
+
 * **[[장학-재공지] 2022년 두산연강재단 장학금 신청_11.12(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114464&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-11-01)
 
@@ -86,6 +89,3 @@
 
 * **[경기도 공정특별사법경찰단 「찾아가는 불법 사금융 피해상담소」운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114356&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-10-28)
-
-* **[[11.3 수 10시] 2021 아주 바이오·헬스사이언스 리서치페어 - KIURI 연구단](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114354&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - KIURI 연구단 (~2021-10-28)
