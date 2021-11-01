@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[대학일자리+센터] 대학일자리플러스센터 뉴스레터 제 38호 (2021.11)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114456&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-01)
+
+* **[2021 제2회 아주대학교 온라인 직무박람회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114453&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-01)
+
 * **[[공학교육혁신센터]2021 전국 공학페스티벌 10주년 AR응원메시지(~11/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114448&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-11-01)
 
@@ -30,7 +36,7 @@
 * **[[국제교류팀] 2021 파란사다리 최종합격자 발표 지연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114407&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-10-29)
 
-* **[재공지 [대학일자리플러스센터] 하반기 진로강연 콘서트(현직자 온라인 Live특강)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114406&amp;article.offset=0&amp;articleLimit=30)**
+* **[재공지 [대학일자리+센터] 하반기 진로강연 콘서트(현직자 온라인 Live특강)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114406&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-29)
 
 * **[[불어권협력센터]『아주대학교-낭트대학교(프랑스) 문화 교류 사업』 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114402&amp;article.offset=0&amp;articleLimit=30)**
@@ -83,9 +89,3 @@
 
 * **[(10/31 마감) LINC+ 2021 제4회 산학협력 우수사례 공모전 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114352&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - LINC사업팀 (~2021-10-28)
-
-* **[[학부]전자출결시스템 사용 매뉴얼](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114350&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-10-28)
-
-* **[2021 제2회 아주대학교 온라인 직무박람회 개최(오늘 시작!)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114349&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-28)
