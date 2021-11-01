@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[공학교육혁신센터]2021 전국 공학페스티벌 10주년 AR응원메시지(~11/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114448&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-11-01)
+
 * **[[공학교육혁신센터]2021 전국 공학페스티벌 온라인 개최 안내(11/11~12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114443&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-11-01)
 
@@ -85,7 +88,4 @@
  [학사] - 교무팀 (~2021-10-28)
 
 * **[2021 제2회 아주대학교 온라인 직무박람회 개최(오늘 시작!)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114349&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-28)
-
-* **[[대학일자리플러스센터] 2021 환경산업 일자리 박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114348&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-28)
