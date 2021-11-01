@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] 2021 KT AIVLE School 1기 모집안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114477&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-01)
+
 * **[[대학일자리플러스센터] 2021 관광산업 일자리박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114474&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-01)
 
@@ -86,6 +89,3 @@
 
 * **[[홍보] 2021 아주 바이오·헬스 사이언스 리서치 페어 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114370&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 커뮤니케이션팀 (~2021-10-29)
-
-* **[[공학교육혁신센터]2021 전국 공학페스티벌 온라인 개최 안내(11/11~12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114369&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-10-29)
