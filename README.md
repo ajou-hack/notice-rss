@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[장학-재공지] 2022년 두산연강재단 장학금 신청_11.12(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114464&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-11-01)
+
 * **[[대학일자리+센터] 대학일자리플러스센터 뉴스레터 제 38호 (2021.11)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114456&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-01)
 
@@ -86,6 +89,3 @@
 
 * **[[11.3 수 10시] 2021 아주 바이오·헬스사이언스 리서치페어 - KIURI 연구단](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114354&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - KIURI 연구단 (~2021-10-28)
-
-* **[(10/31 마감) LINC+ 2021 제4회 산학협력 우수사례 공모전 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114352&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀 (~2021-10-28)
