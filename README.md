@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] 2021 관광산업 일자리박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114474&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-01)
+
+* **[[메이커스페이스] 블렌더를 활용한 3D모델링 제작 교육(기초+응용) 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114469&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2021-11-01)
+
 * **[[당일공지] 홈페이지 수정 작업으로 인한 전산 서비스 중지 안내(11/01, 월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114465&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 커뮤니케이션팀 (~2021-11-01)
 
@@ -83,9 +89,3 @@
 
 * **[[공학교육혁신센터]2021 전국 공학페스티벌 온라인 개최 안내(11/11~12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114369&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-10-29)
-
-* **[(*1차 수정*)[다산학부대학](11/03~) 2021-2학기 교양과목 수업운영방식 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114366&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2021-10-28)
-
-* **[경기도 공정특별사법경찰단 「찾아가는 불법 사금융 피해상담소」운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114356&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2021-10-28)
