@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[2021 - 2학기 통학버스 운행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114484&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2021-11-01)
+
 * **[[대학일자리플러스센터] 2021 KT AIVLE School 1기 모집안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114477&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-01)
 
@@ -86,6 +89,3 @@
 
 * **[[재공지] 코로나극복장학(바르게장학)신청_2021.11.1(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114371&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-10-29)
-
-* **[[홍보] 2021 아주 바이오·헬스 사이언스 리서치 페어 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114370&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 커뮤니케이션팀 (~2021-10-29)
