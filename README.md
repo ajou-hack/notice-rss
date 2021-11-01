@@ -1,5 +1,20 @@
 # 최근 공지사항
 
+* **[[공학교육혁신센터]2021 전국 공학페스티벌 온라인 개최 안내(11/11~12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114443&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-11-01)
+
+* **[2021년 멀티미디어 강의실 점검결과(10월) 및 2021년 (11월) 점검계획입니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114442&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2021-11-01)
+
+* **[[오늘] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114441&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2021-11-01)
+
+* **[[LINC+] 드론 조종자(3종) 국가자격증 취득과정 신청 안내(~11.03(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114439&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - LINC사업팀 (~2021-11-01)
+
+* **[[Remind][학부] 전공(복수,부,연계,심화전공) 신청 및 취소 기간 안내 (11.01.~11.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114438&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-11-01)
+
 * **[(!찐찐막!) 장학금 받을 기회! 48개 프로그램중 참여한 프로그램이 있나요? 지금 바로 신청하세요!!(~10/31 23:59까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114422&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2021-10-31)
 
@@ -73,19 +88,4 @@
  [취업] - 대학일자리플러스센터 (~2021-10-28)
 
 * **[[대학일자리플러스센터] 2021 환경산업 일자리 박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114348&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-28)
-
-* **[[대학일자리플러스센터]소프트웨어학과 진로소학회 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114347&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 소프트웨어학과 (~2021-10-28)
-
-* **[[11월1일] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114345&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2021-10-28)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114342&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2021-10-28)
-
-* **[[재공고][포럼]일비[I’ll be]에서 아주대 학생들을 원탁토의 참여자로 초대합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114341&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 현장실습지원센터 (~2021-10-28)
-
-* **[[대학일자리플러스센터] K-디지털 크레딧 신청안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114340&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-28)
