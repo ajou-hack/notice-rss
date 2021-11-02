@@ -1,5 +1,17 @@
 # 최근 공지사항
 
+* **[(학사과정)2021-동계 계절학기 국내대학 학점교류 신청 안내(21.11.02.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114504&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-11-02)
+
+* **[[LINC+] 2021 동계방학 현장실습 온라인설명회 개최 안내 (11.11(목) 14시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114503&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2021-11-02)
+
+* **[(마감임박 재공지) [대학일자리+센터] 하반기 진로강연 콘서트(현직자 온라인 Live특강)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114502&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-02)
+
+* **[교수학습개발센터 계약직 모집 (~11.10 까지, 대학 비대면 수업 콘텐츠 및 자료개발 지원사업 )](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114488&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-11-01)
+
 * **[2021 - 2학기 통학버스 운행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114484&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-11-01)
 
@@ -77,15 +89,3 @@
 
 * **[[홍보] 2021 강남구 스타트업 채용 페스티벌 참가자 모집(~10/29 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114380&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 창업지원팀 (~2021-10-29)
-
-* **[[대학일자리+센터] 아주대 선배님의 슬기로운 회사생활 10문 10답 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114378&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-29)
-
-* **[[대학일자리+센터] 아주인 취업성공 후기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114377&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-29)
-
-* **[파란학기 중간교류회 응원댓글 경품 이벤트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114372&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2021-10-29)
-
-* **[[재공지] 코로나극복장학(바르게장학)신청_2021.11.1(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114371&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-10-29)
