@@ -1,5 +1,20 @@
 # 최근 공지사항
 
+* **[[국제교류팀] 2022-2학기 파견 교환 및 복수학위 프로그램 선발예고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114524&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-11-02)
+
+* **[2021 제14회 LINC+ 캡스톤디자인 경진대회 개최 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114522&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 현장실습지원센터 (~2021-11-02)
+
+* **[[학습법] 2021-2학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집(기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114521&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-11-02)
+
+* **[[학습법] 2021-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114520&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-11-02)
+
+* **[[학습법] 2021-2학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114518&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-11-02)
+
 * **[(안내)2021-2학기 10주차 이후 비대면 수업을 위한 대체 공간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114515&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-11-02)
 
@@ -74,18 +89,3 @@
 
 * **[[국제교류팀] 2021 파란사다리 최종합격자 발표 지연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114407&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-10-29)
-
-* **[재공지 [대학일자리+센터] 하반기 진로강연 콘서트(현직자 온라인 Live특강)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114406&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-29)
-
-* **[[불어권협력센터]『아주대학교-낭트대학교(프랑스) 문화 교류 사업』 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114402&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 불어권협력센터 (~2021-10-29)
-
-* **[(마감임박 재공지)[국제교류팀] 21-동계 해외단기파견 모집 (~10.31일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114398&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-10-29)
-
-* **[[국제교류팀] 2022-1학기 파견 Ajou Home Abroad (유학생 교환) 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114397&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-10-29)
-
-* **[[장학]2022학년도 하이트진로홀딩스 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114394&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-10-29)
