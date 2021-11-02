@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114510&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2021-11-02)
+
 * **[(재공지)총장과 함께하는 열일곱번째 Book Club에 초대합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114508&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학술정보팀 (~2021-11-02)
 
@@ -86,6 +89,3 @@
 
 * **[[국제교류팀] 2022-1학기 파견 중국특별교환 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114388&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-10-29)
-
-* **[[정보통신대학] 첨단소프트웨어대학 신설 공청회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114383&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보통신대학교학팀 (~2021-10-29)
