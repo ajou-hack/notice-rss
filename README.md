@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[(안내)2021-2학기 10주차 이후 비대면 수업을 위한 대체 공간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114515&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-11-02)
+
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114510&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-11-02)
 
@@ -86,6 +89,3 @@
 
 * **[[장학]2022학년도 하이트진로홀딩스 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114394&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-10-29)
-
-* **[[국제교류팀] 2022-1학기 파견 중국특별교환 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114388&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-10-29)
