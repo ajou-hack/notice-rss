@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[보건대학원] 2022학년도 전기모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114536&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 보건대학원교학팀 (~2021-11-02)
+
 * **[[국제교류팀] 2022-2학기 파견 교환 및 복수학위 프로그램 선발예고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114524&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-11-02)
 
@@ -86,6 +89,3 @@
 
 * **[[대학일자리+센터] 2021-동계방학 현장실습지원자를 위한 입사지원서 작성법 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114413&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-10-30)
-
-* **[[국제교류팀] 2021 파란사다리 최종합격자 발표 지연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114407&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-10-29)
