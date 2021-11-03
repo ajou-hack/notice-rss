@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[비교과교육지원센터] 제1회 아주허브 사용후기 공모전 만족도 조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114554&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2021-11-03)
+
 * **[(오늘마감★) [LINC+] 드론 조종자(3종) 국가자격증 취득과정 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114549&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - LINC사업팀 (~2021-11-03)
 
@@ -86,6 +89,3 @@
 
 * **[[LINC+] 드론 조종자(3종) 국가자격증 취득과정 신청 안내(~11.03(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114439&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - LINC사업팀 (~2021-11-01)
-
-* **[[Remind][학부] 전공(복수,부,연계,심화전공) 신청 및 취소 기간 안내 (11.01.~11.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114438&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-11-01)
