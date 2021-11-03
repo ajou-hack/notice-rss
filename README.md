@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[보건진료소 파견 의사 진료 재개](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114556&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 보건진료소 (~2021-11-03)
+
 * **[[비교과교육지원센터] 제1회 아주허브 사용후기 공모전 만족도 조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114554&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2021-11-03)
 
@@ -86,6 +89,3 @@
 
 * **[[오늘] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114441&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2021-11-01)
-
-* **[[LINC+] 드론 조종자(3종) 국가자격증 취득과정 신청 안내(~11.03(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114439&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀 (~2021-11-01)
