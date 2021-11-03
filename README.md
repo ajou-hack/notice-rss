@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[중앙도서관]11월 이용 교육 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114572&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2021-11-03)
+
 * **[2022 양현재 입실설명회 참석 인원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114563&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 다산학부대학교학팀 (~2021-11-03)
 
@@ -85,7 +88,4 @@
  [장학] - 학생지원팀 (~2021-11-01)
 
 * **[[대학일자리+센터] 대학일자리플러스센터 뉴스레터 제 38호 (2021.11)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114456&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-01)
-
-* **[2021 제2회 아주대학교 온라인 직무박람회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114453&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-01)
