@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[2021년 실험실 정밀안전진단 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114578&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 안전관리센터 (~2021-11-03)
+
+* **[[학부]전자출결시스템 사용 매뉴얼(학생증 태그 불가)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114577&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-11-03)
+
 * **[[중앙도서관]11월 이용 교육 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114572&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2021-11-03)
 
@@ -83,9 +89,3 @@
 
 * **[[당일공지] 홈페이지 수정 작업으로 인한 전산 서비스 중지 안내(11/01, 월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114465&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 커뮤니케이션팀 (~2021-11-01)
-
-* **[[장학-재공지] 2022년 두산연강재단 장학금 신청_11.12(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114464&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-11-01)
-
-* **[[대학일자리+센터] 대학일자리플러스센터 뉴스레터 제 38호 (2021.11)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114456&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-01)
