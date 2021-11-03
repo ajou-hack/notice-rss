@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[대학일자리+센터] 행정조원 모집 공고 (*휴학생만 가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114561&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-03)
+
 * **[[대학일자리플러스센터] 2022 써모피셔사이언티픽 코리아 온라인 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114559&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-03)
 
@@ -85,7 +88,4 @@
  [취업] - 대학일자리플러스센터 (~2021-11-01)
 
 * **[[공학교육혁신센터]2021 전국 공학페스티벌 10주년 AR응원메시지(~11/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114448&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-11-01)
-
-* **[[공학교육혁신센터]2021 전국 공학페스티벌 온라인 개최 안내(11/11~12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114443&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-11-01)
