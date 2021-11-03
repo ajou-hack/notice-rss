@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] 2022 써모피셔사이언티픽 코리아 온라인 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114559&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-03)
+
+* **[[대학일자리플러스센터] 2021 에브라임이노베이션 CEO 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114558&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-03)
+
 * **[보건진료소 파견 의사 진료 재개](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114556&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 보건진료소 (~2021-11-03)
 
@@ -83,9 +89,3 @@
 
 * **[[공학교육혁신센터]2021 전국 공학페스티벌 온라인 개최 안내(11/11~12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114443&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-11-01)
-
-* **[2021년 멀티미디어 강의실 점검결과(10월) 및 2021년 (11월) 점검계획입니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114442&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2021-11-01)
-
-* **[[오늘] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114441&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2021-11-01)
