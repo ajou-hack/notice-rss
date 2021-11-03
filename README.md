@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[(오늘마감★) [LINC+] 드론 조종자(3종) 국가자격증 취득과정 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114549&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - LINC사업팀 (~2021-11-03)
+
+* **[[대학일자리+센터] 청친강소(청년친화 강소기업) 온라인 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114544&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-02)
+
+* **[(*2차 수정*)[다산학부대학](11/03~) 2021-2학기 교양과목 수업운영방식 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114543&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2021-11-02)
+
 * **[[보건대학원] 2022학년도 전기모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114536&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 보건대학원교학팀 (~2021-11-02)
 
@@ -80,12 +89,3 @@
 
 * **[[Remind][학부] 전공(복수,부,연계,심화전공) 신청 및 취소 기간 안내 (11.01.~11.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114438&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-11-01)
-
-* **[(!찐찐막!) 장학금 받을 기회! 48개 프로그램중 참여한 프로그램이 있나요? 지금 바로 신청하세요!!(~10/31 23:59까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114422&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2021-10-31)
-
-* **[[대학일자리+센터] 놓칠수 없다! 11월 첫주 핫 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114414&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-30)
-
-* **[[대학일자리+센터] 2021-동계방학 현장실습지원자를 위한 입사지원서 작성법 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114413&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-10-30)
