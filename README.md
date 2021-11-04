@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] 2021 화학&amp;바이오 제2차 청년 온라인 일자리박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114618&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-04)
+
+* **[[대학일자리+센터] 청친강소_모의면접 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114612&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-04)
+
 * **[[모집] 축구부 프론트 8기 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114593&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2021-11-04)
 
@@ -83,9 +89,3 @@
 
 * **[2021 - 2학기 통학버스 운행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114484&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-11-01)
-
-* **[[대학일자리플러스센터] 2021 KT AIVLE School 1기 모집안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114477&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-01)
-
-* **[[대학일자리플러스센터] 2021 관광산업 일자리박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114474&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-01)
