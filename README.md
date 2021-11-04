@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[모집] 축구부 프론트 8기 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114593&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2021-11-04)
+
 * **[[비교과교육지원센터] 제1회 아주허브 사용후기 공모전 만족도 조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114584&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2021-11-04)
 
@@ -86,6 +89,3 @@
 
 * **[[대학일자리플러스센터] 2021 관광산업 일자리박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114474&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-01)
-
-* **[[메이커스페이스] 블렌더를 활용한 3D모델링 제작 교육(기초+응용) 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114469&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2021-11-01)
