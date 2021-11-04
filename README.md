@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[비교과교육지원센터] 제1회 아주허브 사용후기 공모전 만족도 조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114584&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2021-11-04)
+
 * **[2021년 실험실 정밀안전진단 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114578&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 안전관리센터 (~2021-11-03)
 
@@ -86,6 +89,3 @@
 
 * **[[메이커스페이스] 블렌더를 활용한 3D모델링 제작 교육(기초+응용) 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114469&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2021-11-01)
-
-* **[[당일공지] 홈페이지 수정 작업으로 인한 전산 서비스 중지 안내(11/01, 월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114465&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 커뮤니케이션팀 (~2021-11-01)
