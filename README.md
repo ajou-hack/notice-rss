@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[도서관] 학술정보 활용교육 동영상 OPEN &amp; 설문조사 EVENT](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114622&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2021-11-04)
+
+* **[[학생지원팀] 원천정보관 토론학습실 이용 안내 (링크 참조)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114621&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2021-11-04)
+
 * **[[대학일자리플러스센터] 2021 화학&amp;바이오 제2차 청년 온라인 일자리박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114618&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-04)
 
@@ -83,9 +89,3 @@
 
 * **[(마감임박 재공지) [대학일자리+센터] 하반기 진로강연 콘서트(현직자 온라인 Live특강)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114502&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-02)
-
-* **[교수학습개발센터 계약직 모집 (~11.10 까지, 대학 비대면 수업 콘텐츠 및 자료개발 지원사업 )](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114488&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-11-01)
-
-* **[2021 - 2학기 통학버스 운행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114484&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2021-11-01)
