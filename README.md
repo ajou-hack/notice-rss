@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[인조잔디구장 예약 재개 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114635&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 학생지원팀 (~2021-11-04)
+
 * **[[홍보] 국립국제교육원 - 2022 독일 정부초청(DAAD) 섬머코스 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114632&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-11-04)
 
@@ -7,7 +10,7 @@
  [취업] - 대학일자리플러스센터 (~2021-11-04)
 
 * **[2021학년 폭력예방교육 이수 안내 (법정필수교육)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114629&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 인권센터 (~2021-11-04)
+ [기타] - 인권센터 성평등상담소 (~2021-11-04)
 
 * **[[도서관] 학술정보 활용교육 동영상 OPEN &amp; 설문조사 EVENT](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114622&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2021-11-04)
@@ -86,6 +89,3 @@
 
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114510&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-11-02)
-
-* **[(재공지)총장과 함께하는 열일곱번째 Book Club에 초대합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114508&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학술정보팀 (~2021-11-02)
