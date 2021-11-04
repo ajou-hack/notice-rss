@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[[홍보] 국립국제교육원 - 2022 독일 정부초청(DAAD) 섬머코스 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114632&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-11-04)
+
+* **[[대학일자리플러스센터] 2021 송파구 온라인 일자리박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114630&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-04)
+
+* **[2021학년 폭력예방교육 이수 안내 (법정필수교육)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114629&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 인권센터 (~2021-11-04)
+
 * **[[도서관] 학술정보 활용교육 동영상 OPEN &amp; 설문조사 EVENT](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114622&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2021-11-04)
 
@@ -80,12 +89,3 @@
 
 * **[(재공지)총장과 함께하는 열일곱번째 Book Club에 초대합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114508&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학술정보팀 (~2021-11-02)
-
-* **[(학사과정)2021-동계 계절학기 국내대학 학점교류 신청 안내(21.11.02.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114504&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-11-02)
-
-* **[[LINC+] 2021 동계방학 현장실습 온라인설명회 개최 안내 (11.11(목) 14시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114503&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2021-11-02)
-
-* **[(마감임박 재공지) [대학일자리+센터] 하반기 진로강연 콘서트(현직자 온라인 Live특강)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114502&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-02)
