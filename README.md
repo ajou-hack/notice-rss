@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[LINC+/홍보] 청년창업가육성사업 &#x27;SUWONWAVE&#x27; 참가팀 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114669&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2021-11-05)
+
 * **[[대학일자리플러스센터] 2021 하반기 퍼시스그룹 충주사업장 특별 온라인 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114667&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-05)
 
@@ -86,6 +89,3 @@
 
 * **[(오늘마감★) [LINC+] 드론 조종자(3종) 국가자격증 취득과정 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114549&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - LINC사업팀 (~2021-11-03)
-
-* **[[대학일자리+센터] 청친강소(청년친화 강소기업) 온라인 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114544&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-02)
