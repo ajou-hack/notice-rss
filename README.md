@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[글로벌미래교육원 11월 토익스피킹/실무영어자격증 무료특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114671&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 글로벌미래교육원 (~2021-11-05)
+
 * **[[LINC+/홍보] 청년창업가육성사업 &#x27;SUWONWAVE&#x27; 참가팀 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114669&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2021-11-05)
 
@@ -86,6 +89,3 @@
 
 * **[[비교과교육지원센터] 제1회 아주허브 사용후기 공모전 만족도 조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114554&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2021-11-03)
-
-* **[(오늘마감★) [LINC+] 드론 조종자(3종) 국가자격증 취득과정 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114549&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀 (~2021-11-03)
