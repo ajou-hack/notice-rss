@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] 2021 BIXPO 전력그룹사 합동 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114651&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-05)
+
 * **[제79회 한국어능력시험 시행에 따른 성호관 출입 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114649&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 국제교육센터 (~2021-11-05)
 
@@ -85,7 +88,4 @@
  [행사] - 현장실습지원센터 (~2021-11-02)
 
 * **[[학습법] 2021-2학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집(기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114521&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2021-11-02)
-
-* **[[학습법] 2021-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114520&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2021-11-02)
