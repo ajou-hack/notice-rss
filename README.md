@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[비교과교육지원센터] 제1회 아주허브 사용후기 공모전 만족도 조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114638&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2021-11-05)
+
+* **[학생자치 공간 개방 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114636&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2021-11-04)
+
 * **[인조잔디구장 예약 재개 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114635&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 학생지원팀 (~2021-11-04)
 
@@ -83,9 +89,3 @@
 
 * **[[학습법] 2021-2학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114518&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2021-11-02)
-
-* **[(안내)2021-2학기 10주차 이후 비대면 수업을 위한 대체 공간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114515&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-11-02)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114510&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2021-11-02)
