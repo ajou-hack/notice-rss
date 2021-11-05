@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[2021년 아주 희망 학UP 멘토링 멘티 추가모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114653&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 입학처 (~2021-11-05)
+
+* **[[11월8일] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114652&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2021-11-05)
+
 * **[[대학일자리플러스센터] 2021 BIXPO 전력그룹사 합동 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114651&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-05)
 
@@ -83,9 +89,3 @@
 
 * **[[국제교류팀] 2022-2학기 파견 교환 및 복수학위 프로그램 선발예고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114524&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-11-02)
-
-* **[2021 제14회 LINC+ 캡스톤디자인 경진대회 개최 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114522&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 현장실습지원센터 (~2021-11-02)
-
-* **[[학습법] 2021-2학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집(기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114521&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2021-11-02)
