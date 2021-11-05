@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[2021 인문인 진로박람회 2차 참가 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114664&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 인문대학교학팀 (~2021-11-05)
+
 * **[2021년 아주 희망 학UP 멘토링 멘티 추가모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114653&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학처 (~2021-11-05)
 
@@ -86,6 +89,3 @@
 
 * **[[보건대학원] 2022학년도 전기모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114536&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 보건대학원교학팀 (~2021-11-02)
-
-* **[[국제교류팀] 2022-2학기 파견 교환 및 복수학위 프로그램 선발예고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114524&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-11-02)
