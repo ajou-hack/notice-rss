@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[대학일자리+센터] 오프라인_모의면접 참여자 모집(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114675&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-05)
+
 * **[글로벌미래교육원 11월 토익스피킹/실무영어자격증 무료특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114671&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 글로벌미래교육원 (~2021-11-05)
 
@@ -86,6 +89,3 @@
 
 * **[보건진료소 파견 의사 진료 재개](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114556&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 보건진료소 (~2021-11-03)
-
-* **[[비교과교육지원센터] 제1회 아주허브 사용후기 공모전 만족도 조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114554&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2021-11-03)
