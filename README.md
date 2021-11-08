@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[[봉사활동] 오산남부청소년문화의집 방과후아카데미 꿈TREE 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114687&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2021-11-08)
+
+* **[ICT 콜로키움 2021 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114686&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 전자공학과 (~2021-11-08)
+
+* **[[Remind][학부] 전공(복수,부,연계,심화전공) 신청 및 취소 기간 안내 (11.01.~11.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114685&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-11-08)
+
 * **[[대학일자리+센터] 오프라인_모의면접 참여자 모집(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114675&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-05)
 
@@ -80,12 +89,3 @@
 
 * **[[대학일자리+센터] 행정조원 모집 공고 (*휴학생만 가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114561&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-03)
-
-* **[[대학일자리플러스센터] 2022 써모피셔사이언티픽 코리아 온라인 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114559&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-03)
-
-* **[[대학일자리플러스센터] 2021 에브라임이노베이션 CEO 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114558&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-03)
-
-* **[보건진료소 파견 의사 진료 재개](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114556&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 보건진료소 (~2021-11-03)
