@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[(학사과정)2021-동계 계절학기 국내대학 학점교류 신청 안내(21.11.08.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114719&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-11-08)
+
+* **[전기공사공제조합장학회 2022년 제17기 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114718&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-11-08)
+
 * **[[교무팀] 휴학생 12~2월 근로장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114714&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 교무팀 (~2021-11-08)
 
@@ -83,9 +89,3 @@
 
 * **[[비교과교육지원센터] 제1회 아주허브 사용후기 공모전 만족도 조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114638&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2021-11-05)
-
-* **[학생자치 공간 개방 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114636&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2021-11-04)
-
-* **[인조잔디구장 예약 재개 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114635&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 학생지원팀 (~2021-11-04)
