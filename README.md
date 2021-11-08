@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[교무팀] 휴학생 12~2월 근로장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114714&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 교무팀 (~2021-11-08)
+
 * **[[LINC+] 2021 제4회 산학협력 우수사례 공모전 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114704&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - LINC사업팀 (~2021-11-08)
 
@@ -86,6 +89,3 @@
 
 * **[인조잔디구장 예약 재개 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114635&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 학생지원팀 (~2021-11-04)
-
-* **[[홍보] 국립국제교육원 - 2022 독일 정부초청(DAAD) 섬머코스 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114632&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-11-04)
