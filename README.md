@@ -1,5 +1,41 @@
 # 최근 공지사항
 
+* **[[대학일자리+센터] 행정조원 모집 공고 (*휴학생만 가능, 기간연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114701&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-08)
+
+* **[[유학생입학팀] 2021 유학생 만족도조사 안내 / 2021 Satisfaction Survey on Ajou Life](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114699&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 유학생입학팀 (~2021-11-08)
+
+* **[[재공지]제 26기 미래에셋 교환장학생 선발안내(2022년 봄학기 파견)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114698&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-11-08)
+
+* **[[학습법] 2021-2학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집(기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114697&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-11-08)
+
+* **[[학습법] 2021-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114696&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-11-08)
+
+* **[[학습법] 2021-2학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114695&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-11-08)
+
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114693&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2021-11-08)
+
+* **[[공학교육혁신센터]2021 전국 공학페스티벌 10주년 AR응원메시지(~11/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114692&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-11-08)
+
+* **[[공학교육혁신센터]2021 전국 공학페스티벌 온라인 개최 안내(11/11~12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114691&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-11-08)
+
+* **[[장학]국가고시장학, 국가자격장학 신청_2021.11.19(금) 17:00 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114690&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-11-08)
+
+* **[(재공지)『아주대학교-낭트대학교(프랑스) 문화 교류 사업』 참가자 모집(~11.12.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114689&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 불어권협력센터 (~2021-11-08)
+
+* **[[장학]신입학장학 도서구입비, 어학지원금 신청_11.19(금) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114688&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-11-08)
+
 * **[[봉사활동] 오산남부청소년문화의집 방과후아카데미 꿈TREE 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114687&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2021-11-08)
 
@@ -53,39 +89,3 @@
 
 * **[[대학일자리플러스센터] 2021 송파구 온라인 일자리박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114630&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-04)
-
-* **[2021학년 폭력예방교육 이수 안내 (법정필수교육)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114629&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 인권센터 성평등상담소 (~2021-11-04)
-
-* **[[도서관] 학술정보 활용교육 동영상 OPEN &amp; 설문조사 EVENT](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114622&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2021-11-04)
-
-* **[[학생지원팀] 원천정보관 토론학습실 이용 안내 (링크 참조)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114621&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2021-11-04)
-
-* **[[대학일자리플러스센터] 2021 화학&amp;바이오 제2차 청년 온라인 일자리박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114618&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-04)
-
-* **[[대학일자리+센터] 청친강소_모의면접 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114612&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-04)
-
-* **[[모집] 축구부 프론트 8기 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114593&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2021-11-04)
-
-* **[[비교과교육지원센터] 제1회 아주허브 사용후기 공모전 만족도 조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114584&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2021-11-04)
-
-* **[2021년 실험실 정밀안전진단 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114578&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 안전관리센터 (~2021-11-03)
-
-* **[[학부]전자출결시스템 사용 매뉴얼(학생증 태그 불가)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114577&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-11-03)
-
-* **[[중앙도서관]11월 이용 교육 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114572&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2021-11-03)
-
-* **[2022 양현재 입실설명회 참석 인원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114563&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 다산학부대학교학팀 (~2021-11-03)
-
-* **[[대학일자리+센터] 행정조원 모집 공고 (*휴학생만 가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114561&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-03)
