@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[LINC+] 2021 제4회 산학협력 우수사례 공모전 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114704&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - LINC사업팀 (~2021-11-08)
+
 * **[[대학일자리+센터] 행정조원 모집 공고 (*휴학생만 가능, 기간연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114701&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-08)
 
@@ -86,6 +89,3 @@
 
 * **[[홍보] 국립국제교육원 - 2022 독일 정부초청(DAAD) 섬머코스 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114632&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-11-04)
-
-* **[[대학일자리플러스센터] 2021 송파구 온라인 일자리박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114630&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-04)
