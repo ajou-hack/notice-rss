@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[메이커스페이스] 팅커캐드를 활용한 3D피규어 모델링 기초교육 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114724&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2021-11-08)
+
+* **[[대학일자리+센터] 2021 대학일자리플러스센터 정책체감도 및 만족도 조사 안내(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114723&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-08)
+
 * **[(학사과정)2021-동계 계절학기 국내대학 학점교류 신청 안내(21.11.08.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114719&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-11-08)
 
@@ -83,9 +89,3 @@
 
 * **[[대학일자리플러스센터] 2021 BIXPO 전력그룹사 합동 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114651&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-05)
-
-* **[제79회 한국어능력시험 시행에 따른 성호관 출입 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114649&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 국제교육센터 (~2021-11-05)
-
-* **[[비교과교육지원센터] 제1회 아주허브 사용후기 공모전 만족도 조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114638&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2021-11-05)
