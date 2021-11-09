@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[LINC+] 2021 동계방학 현장실습 온라인설명회 개최 안내 (11.11(목) 14시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114759&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2021-11-09)
+
 * **[[국제교류팀] 근로 학생을 모집합니다 (~11.16(화))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114755&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-11-09)
 
@@ -86,6 +89,3 @@
 
 * **[ICT 콜로키움 2021 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114686&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 전자공학과 (~2021-11-08)
-
-* **[[Remind][학부] 전공(복수,부,연계,심화전공) 신청 및 취소 기간 안내 (11.01.~11.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114685&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-11-08)
