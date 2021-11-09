@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[인공지능융합학과와 LINC+사업단이 함께하는 AI 스타트업 실무 전문가 세미나](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114760&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 정보통신대학교학팀 (~2021-11-09)
+
 * **[[LINC+] 2021 동계방학 현장실습 온라인설명회 개최 안내 (11.11(목) 14시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114759&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2021-11-09)
 
@@ -86,6 +89,3 @@
 
 * **[[봉사활동] 오산남부청소년문화의집 방과후아카데미 꿈TREE 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114687&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2021-11-08)
-
-* **[ICT 콜로키움 2021 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114686&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 전자공학과 (~2021-11-08)
