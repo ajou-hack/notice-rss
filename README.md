@@ -1,9 +1,15 @@
 # 최근 공지사항
 
+* **[[대학경쟁력연구원] 11.11 HEPA Forum 2021](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114736&amp;article.offset=0&amp;articleLimit=30)**
+ [학술] - 대학경쟁력연구원 (~2021-11-09)
+
+* **[[대학일자리플러스센터]국내,해외 무역/해외영업 취업특강 프로그램 참가자 모집(11.15(월)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114735&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-09)
+
 * **[[메이커스페이스] 팅커캐드를 활용한 3D피규어 모델링 기초교육 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114724&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2021-11-08)
 
-* **[[대학일자리+센터] 2021 대학일자리플러스센터 정책체감도 및 만족도 조사 안내(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114723&amp;article.offset=0&amp;articleLimit=30)**
+* **[[대학일자리+센터] 2021 [마감] 대학일자리플러스센터 정책체감도 및 만족도 조사 안내(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114723&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-08)
 
 * **[(학사과정)2021-동계 계절학기 국내대학 학점교류 신청 안내(21.11.08.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114719&amp;article.offset=0&amp;articleLimit=30)**
@@ -39,7 +45,7 @@
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114693&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-11-08)
 
-* **[[공학교육혁신센터]2021 전국 공학페스티벌 10주년 AR응원메시지(~11/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114692&amp;article.offset=0&amp;articleLimit=30)**
+* **[(종료)[공학교육혁신센터]2021 전국 공학페스티벌 10주년 AR응원메시지(~11/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114692&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-11-08)
 
 * **[[공학교육혁신센터]2021 전국 공학페스티벌 온라인 개최 안내(11/11~12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114691&amp;article.offset=0&amp;articleLimit=30)**
@@ -83,9 +89,3 @@
 
 * **[2021년 아주 희망 학UP 멘토링 멘티 추가모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114653&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학처 (~2021-11-05)
-
-* **[[11월8일] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114652&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2021-11-05)
-
-* **[[대학일자리플러스센터] 2021 BIXPO 전력그룹사 합동 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114651&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-05)
