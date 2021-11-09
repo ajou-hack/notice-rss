@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[[국제교류팀] 근로 학생을 모집합니다 (~11.16(화))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114755&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-11-09)
+
+* **[[학생지원팀] 코로나극복장학(국가장학) 신청_11.22.(월) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114753&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-11-09)
+
+* **[[융복합의료제품규제과학연구센터] 학생연구원 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114752&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 약학대학 교학팀 (~2021-11-09)
+
 * **[[봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집(11/23)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114746&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2021-11-09)
 
@@ -80,12 +89,3 @@
 
 * **[[Remind][학부] 전공(복수,부,연계,심화전공) 신청 및 취소 기간 안내 (11.01.~11.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114685&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-11-08)
-
-* **[[대학일자리+센터] 오프라인_모의면접 참여자 모집(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114675&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-05)
-
-* **[글로벌미래교육원 11월 토익스피킹/실무영어자격증 무료특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114671&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 글로벌미래교육원 (~2021-11-05)
-
-* **[[LINC+/홍보] 청년창업가육성사업 &#x27;SUWONWAVE&#x27; 참가팀 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114669&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2021-11-05)
