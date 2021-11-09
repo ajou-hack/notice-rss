@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집(11/23)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114746&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2021-11-09)
+
 * **[[대학일자리+센터] 커리어하이와 함께하는 산업프리뷰 (재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114743&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-09)
 
@@ -86,6 +89,3 @@
 
 * **[[LINC+/홍보] 청년창업가육성사업 &#x27;SUWONWAVE&#x27; 참가팀 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114669&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2021-11-05)
-
-* **[[대학일자리플러스센터] 2021 하반기 퍼시스그룹 충주사업장 특별 온라인 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114667&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-05)
