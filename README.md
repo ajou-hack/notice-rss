@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[[대학일자리+센터] 커리어하이와 함께하는 산업프리뷰 (재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114743&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-09)
+
+* **[2021 제2회 아주대학교 온라인 직무박람회 안내(다시보기 11/12(금) 종료!)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114742&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-09)
+
+* **[파란사다리 추가 모집 안내 (~11.14 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114741&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 국제교류팀 (~2021-11-09)
+
 * **[[대학경쟁력연구원] 11.11 HEPA Forum 2021](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114736&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - 대학경쟁력연구원 (~2021-11-09)
 
@@ -80,12 +89,3 @@
 
 * **[[대학일자리플러스센터] 2021 하반기 퍼시스그룹 충주사업장 특별 온라인 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114667&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-05)
-
-* **[[11월9일(화) 10시접수~] 2021 반도체 전공정 집중과정 (초급-3차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114666&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-05)
-
-* **[2021 인문인 진로박람회 2차 참가 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114664&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 인문대학교학팀 (~2021-11-05)
-
-* **[2021년 아주 희망 학UP 멘토링 멘티 추가모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114653&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 입학처 (~2021-11-05)
