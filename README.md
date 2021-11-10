@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[학부]2021-2 수업평가 실시 안내(Fall Semester Course Evaluation)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114808&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-11-10)
+
 * **[2022 양현재 입실설명회 대면 참석 장소 및 비대면 ZOOM링크 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114799&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 다산학부대학교학팀 (~2021-11-10)
 
@@ -86,6 +89,3 @@
 
 * **[[학습법] 2021-2학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114695&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2021-11-08)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114693&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2021-11-08)
