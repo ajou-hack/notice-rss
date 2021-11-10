@@ -1,5 +1,17 @@
 # 최근 공지사항
 
+* **[2022학년도 1학기 인공지능융합학과 인공지능융합전공[복수전공, 부전공] 모집 및 설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114813&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 정보통신대학교학팀 (~2021-11-10)
+
+* **[[대학일자리플러스센터] 2021 디지털뉴딜 온라인 일자리박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114812&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-10)
+
+* **[[대학일자리플러스센터] CJ와 함께하는 온라인 직무 멘토링](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114811&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-10)
+
+* **[2022학년도 논술고사 근로스태프 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114809&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 입학팀 (~2021-11-10)
+
 * **[[학부]2021-2 수업평가 실시 안내(Fall Semester Course Evaluation)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114808&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-11-10)
 
@@ -27,7 +39,7 @@
 * **[[LINC+] 2021 동계방학 현장실습 온라인설명회 개최 안내 (11.11(목) 14시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114759&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2021-11-09)
 
-* **[[국제교류팀] 근로 학생을 모집합니다 (~11.16(화))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114755&amp;article.offset=0&amp;articleLimit=30)**
+* **[[국제교류팀] 근로 학생을 모집합니다 (~11.16(화)) - 수정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114755&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-11-09)
 
 * **[[학생지원팀] 코로나극복장학(국가장학) 신청_11.22.(월) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114753&amp;article.offset=0&amp;articleLimit=30)**
@@ -77,15 +89,3 @@
 
 * **[[유학생입학팀] 2021 유학생 만족도조사 안내 / 2021 Satisfaction Survey on Ajou Life](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114699&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 유학생입학팀 (~2021-11-08)
-
-* **[[재공지]제 26기 미래에셋 교환장학생 선발안내(2022년 봄학기 파견)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114698&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-11-08)
-
-* **[[학습법] 2021-2학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집(기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114697&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2021-11-08)
-
-* **[[학습법] 2021-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114696&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2021-11-08)
-
-* **[[학습법] 2021-2학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114695&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2021-11-08)
