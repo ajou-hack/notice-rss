@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[(학사)2021-동계 계절수업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114773&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-11-10)
+
 * **[[학생상담소] 위기 심리상담 신청서 &quot;지금 마음이 너무 힘들어 죽고 싶다는 생각이 자주 나요.&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114767&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생상담소 (~2021-11-10)
 
@@ -86,6 +89,3 @@
 
 * **[(재공지)『아주대학교-낭트대학교(프랑스) 문화 교류 사업』 참가자 모집(~11.12.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114689&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 불어권협력센터 (~2021-11-08)
-
-* **[[장학]신입학장학 도서구입비, 어학지원금 신청_11.19(금) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114688&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-11-08)
