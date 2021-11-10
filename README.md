@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] 2021 롯데백화점 채용 상담 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114791&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-10)
+
+* **[[LINC+]그린뉴딜 아이디어 펀딩 연합캠프 참가자 모집(~2021.11.17(수)) 온오프라인 병행 ※신청기간 수정※](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114790&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - LINC사업팀(창업교육센터) (~2021-11-10)
+
 * **[[봉사활동] 2021년도 서부공감 위피스쿨 10기 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114789&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2021-11-10)
 
@@ -83,9 +89,3 @@
 
 * **[(종료)[공학교육혁신센터]2021 전국 공학페스티벌 10주년 AR응원메시지(~11/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114692&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-11-08)
-
-* **[[공학교육혁신센터]2021 전국 공학페스티벌 온라인 개최 안내(11/11~12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114691&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-11-08)
-
-* **[[장학]국가고시장학, 국가자격장학 신청_2021.11.19(금) 17:00 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114690&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-11-08)
