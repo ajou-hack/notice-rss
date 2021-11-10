@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[2022 양현재 입실설명회 대면 참석 장소 및 비대면 ZOOM링크 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114799&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 다산학부대학교학팀 (~2021-11-10)
+
 * **[[대학일자리플러스센터] 2021 롯데백화점 채용 상담 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114791&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-10)
 
@@ -86,6 +89,3 @@
 
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114693&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-11-08)
-
-* **[(종료)[공학교육혁신센터]2021 전국 공학페스티벌 10주년 AR응원메시지(~11/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114692&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-11-08)
