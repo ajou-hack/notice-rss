@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[봉사활동] 2021년도 서부공감 위피스쿨 10기 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114789&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2021-11-10)
+
 * **[(학사)2021-동계 계절수업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114773&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-11-10)
 
@@ -86,6 +89,3 @@
 
 * **[[장학]국가고시장학, 국가자격장학 신청_2021.11.19(금) 17:00 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114690&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-11-08)
-
-* **[(재공지)『아주대학교-낭트대학교(프랑스) 문화 교류 사업』 참가자 모집(~11.12.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114689&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 불어권협력센터 (~2021-11-08)
