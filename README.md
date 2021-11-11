@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[학생지원팀] 학생자치공간 출입 권한 등록 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114818&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2021-11-11)
+
+* **[[공학교육혁신센터]2021 전국 공학페스티벌 온라인 개최 안내(11/11~12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114817&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-11-11)
+
 * **[2022학년도 1학기 인공지능융합학과 인공지능융합전공[복수전공, 부전공] 모집 및 설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114813&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 정보통신대학교학팀 (~2021-11-10)
 
@@ -83,9 +89,3 @@
 
 * **[[LINC+] 2021 제4회 산학협력 우수사례 공모전 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114704&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - LINC사업팀 (~2021-11-08)
-
-* **[[대학일자리+센터] 행정조원 모집 공고 (*휴학생만 가능, 기간연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114701&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-08)
-
-* **[[유학생입학팀] 2021 유학생 만족도조사 안내 / 2021 Satisfaction Survey on Ajou Life](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114699&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 유학생입학팀 (~2021-11-08)
