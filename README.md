@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[홍보] 2021 서울 글로벌 포토저널리즘 사진전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114829&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 커뮤니케이션팀 (~2021-11-11)
+
 * **[(당일재공지)[LINC+] 2021 동계방학 현장실습 온라인설명회 개최 안내 (11.11(목) 14시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114826&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2021-11-11)
 
@@ -86,6 +89,3 @@
 
 * **[(학사과정)2021-동계 계절학기 국내대학 학점교류 신청 안내(21.11.08.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114719&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-11-08)
-
-* **[전기공사공제조합장학회 2022년 제17기 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114718&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-11-08)
