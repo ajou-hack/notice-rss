@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] 2021 대한민국 직무INSIGHT 언택트 직무박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114843&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-11)
+
 * **[[학생지원팀] 원천정보관 토론학습실 이용 재안내 (링크 참조)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114834&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2021-11-11)
 
@@ -86,6 +89,3 @@
 
 * **[[대학경쟁력연구원] 11.11 HEPA Forum 2021](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114736&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - 대학경쟁력연구원 (~2021-11-09)
-
-* **[[대학일자리플러스센터]국내,해외 무역/해외영업 취업특강 프로그램 참가자 모집(11.15(월)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114735&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-09)
