@@ -1,7 +1,13 @@
 # 최근 공지사항
 
-* **[[대학일자리플러스센터] 2021 대한민국 직무INSIGHT 언택트 직무박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114843&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-11)
+* **[2021학년도 동아리박람회(문화제) 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114855&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2021-11-11)
+
+* **[아주대학교 제17대 총장후보자 지원 접수 결과](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114851&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총장후보자 천거위원회 (~2021-11-11)
+
+* **[[모집] 축구부 프론트 8기 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114844&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2021-11-11)
 
 * **[[학생지원팀] 원천정보관 토론학습실 이용 재안내 (링크 참조)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114834&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2021-11-11)
@@ -83,9 +89,3 @@
 
 * **[2021 제2회 아주대학교 온라인 직무박람회 안내(다시보기 11/12(금) 종료!)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114742&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-09)
-
-* **[파란사다리 추가 모집 안내 (~11.14 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114741&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 국제교류팀 (~2021-11-09)
-
-* **[[대학경쟁력연구원] 11.11 HEPA Forum 2021](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114736&amp;article.offset=0&amp;articleLimit=30)**
- [학술] - 대학경쟁력연구원 (~2021-11-09)
