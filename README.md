@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[[학생지원팀] 원천정보관 토론학습실 이용 재안내 (링크 참조)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114834&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2021-11-11)
+
+* **[대학혁신지원사업 프로그램 참여후기 공모전 수상자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114833&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2021-11-11)
+
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114831&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2021-11-11)
+
 * **[[홍보] 2021 서울 글로벌 포토저널리즘 사진전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114829&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 커뮤니케이션팀 (~2021-11-11)
 
@@ -80,12 +89,3 @@
 
 * **[[대학일자리플러스센터]국내,해외 무역/해외영업 취업특강 프로그램 참가자 모집(11.15(월)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114735&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-09)
-
-* **[[메이커스페이스] 팅커캐드를 활용한 3D피규어 모델링 기초교육 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114724&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2021-11-08)
-
-* **[[대학일자리+센터] 2021 [마감] 대학일자리플러스센터 정책체감도 및 만족도 조사 안내(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114723&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-08)
-
-* **[(학사과정)2021-동계 계절학기 국내대학 학점교류 신청 안내(21.11.08.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114719&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-11-08)
