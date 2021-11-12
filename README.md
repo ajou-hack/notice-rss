@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[(마감임박 재공지)[국제교류팀] 파란사다리 추가 모집 안내 (~11.14 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114891&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-11-12)
+
 * **[[홍보] 차세대융합기술연구원 융합기술심포지엄(ConTech2021)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114884&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 커뮤니케이션팀 (~2021-11-12)
 
@@ -86,6 +89,3 @@
 
 * **[2022 양현재 입실설명회 대면 참석 장소 및 비대면 ZOOM링크 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114799&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 다산학부대학교학팀 (~2021-11-10)
-
-* **[[대학일자리플러스센터] 2021 롯데백화점 채용 상담 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114791&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-10)
