@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[홍보] 차세대융합기술연구원 융합기술심포지엄(ConTech2021)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114884&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 커뮤니케이션팀 (~2021-11-12)
+
+* **[2021년 아주대학교 연구실 안전 공모전 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114883&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 안전관리센터 (~2021-11-12)
+
 * **[2022학년도 업무용 탁상달력·수첩 배포 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114882&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 커뮤니케이션팀 (~2021-11-12)
 
@@ -18,7 +24,7 @@
 * **[[LINC+] 2021 동계방학 현장실습 2차 온라인설명회 개최 안내 (11.23(화) 18시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114864&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2021-11-12)
 
-* **[[LINC+] 2021 아주대 웹콘텐츠 기획 아이디어(기획안) 공모전 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114863&amp;article.offset=0&amp;articleLimit=30)**
+* **[[LINC+] 2021 아주대 웹콘텐츠 기획 아이디어 공모전 참여 안내(참여대상 수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114863&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - LINC사업팀 (~2021-11-12)
 
 * **[[당일재공지] 국제교류팀 2022-2학기 파견 교환 및 복수학위 1차모집 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114861&amp;article.offset=0&amp;articleLimit=30)**
@@ -83,9 +89,3 @@
 
 * **[[대학일자리플러스센터] 2021 롯데백화점 채용 상담 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114791&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-10)
-
-* **[[LINC+]그린뉴딜 아이디어 펀딩 연합캠프 참가자 모집(~2021.11.17(수)) 온오프라인 병행 ※신청기간 수정※](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114790&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀(창업교육센터) (~2021-11-10)
-
-* **[[봉사활동] 2021년도 서부공감 위피스쿨 10기 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114789&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2021-11-10)
