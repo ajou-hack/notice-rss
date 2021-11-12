@@ -1,5 +1,17 @@
 # 최근 공지사항
 
+* **[[LINC+] 2021 아주대 웹콘텐츠 기획 아이디어(기획안) 공모전 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114863&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - LINC사업팀 (~2021-11-12)
+
+* **[[당일재공지] 국제교류팀 2022-2학기 파견 교환 및 복수학위 1차모집 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114861&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-11-12)
+
+* **[[비교과교육지원센터] 제1회 Ajou Hub 사용 후기 공모전 수상자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114860&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2021-11-12)
+
+* **[[공학교육혁신센터]2021 전국 공학페스티벌 온라인 개최 안내(11/11~12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114857&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-11-12)
+
 * **[2021학년도 동아리박람회(문화제) 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114855&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2021-11-11)
 
@@ -77,15 +89,3 @@
 
 * **[[학생지원팀] 코로나극복장학(국가장학) 신청_11.22.(월) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114753&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-11-09)
-
-* **[[융복합의료제품규제과학연구센터] 학생연구원 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114752&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 약학대학 교학팀 (~2021-11-09)
-
-* **[[봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집(11/23)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114746&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2021-11-09)
-
-* **[[대학일자리+센터] 커리어하이와 함께하는 산업프리뷰 (재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114743&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-09)
-
-* **[2021 제2회 아주대학교 온라인 직무박람회 안내(다시보기 11/12(금) 종료!)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114742&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-09)
