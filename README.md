@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[LINC+] 2021 동계방학 현장실습 2차 온라인설명회 개최 안내 (11.23(화) 18시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114864&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2021-11-12)
+
 * **[[LINC+] 2021 아주대 웹콘텐츠 기획 아이디어(기획안) 공모전 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114863&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - LINC사업팀 (~2021-11-12)
 
@@ -86,6 +89,3 @@
 
 * **[[국제교류팀] 근로 학생을 모집합니다 (~11.16(화)) - 수정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114755&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-11-09)
-
-* **[[학생지원팀] 코로나극복장학(국가장학) 신청_11.22.(월) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114753&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-11-09)
