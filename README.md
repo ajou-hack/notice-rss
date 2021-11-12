@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[2022학년도 업무용 탁상달력·수첩 배포 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114882&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 커뮤니케이션팀 (~2021-11-12)
+
+* **[아주대학교 체육관 및 체력단련실 개방 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114880&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2021-11-12)
+
+* **[(수정재공지)[국제교류팀] 근로 학생을 모집합니다 (~11.16(화))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114877&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-11-12)
+
 * **[제79회 한국어능력시험(TOPIK) 시행에 따른 성호관 출입제한 재안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114874&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교육센터 (~2021-11-12)
 
@@ -80,12 +89,3 @@
 
 * **[[봉사활동] 2021년도 서부공감 위피스쿨 10기 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114789&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2021-11-10)
-
-* **[(학사)2021-동계 계절수업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114773&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-11-10)
-
-* **[[학생상담소] 위기 심리상담 신청서 &quot;지금 마음이 너무 힘들어 죽고 싶다는 생각이 자주 나요.&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114767&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생상담소 (~2021-11-10)
-
-* **[인공지능융합학과와 LINC+사업단이 함께하는 AI 스타트업 실무 전문가 세미나](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114760&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 정보통신대학교학팀 (~2021-11-09)
