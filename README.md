@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[2022 논술고사 실시에 따른 캠퍼스 출입제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114871&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 입학팀 (~2021-11-12)
+
 * **[[LINC+] 2021 동계방학 현장실습 2차 온라인설명회 개최 안내 (11.23(화) 18시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114864&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2021-11-12)
 
@@ -86,6 +89,3 @@
 
 * **[[LINC+] 2021 동계방학 현장실습 온라인설명회 개최 안내 (11.11(목) 14시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114759&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2021-11-09)
-
-* **[[국제교류팀] 근로 학생을 모집합니다 (~11.16(화)) - 수정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114755&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-11-09)
