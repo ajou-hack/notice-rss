@@ -1,6 +1,9 @@
 # 최근 공지사항
 
-* **[2022 논술고사 실시에 따른 캠퍼스 출입제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114871&amp;article.offset=0&amp;articleLimit=30)**
+* **[제79회 한국어능력시험(TOPIK) 시행에 따른 성호관 출입제한 재안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114874&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교육센터 (~2021-11-12)
+
+* **[2022학년도 논술고사 실시에 따른 캠퍼스 출입제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114871&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 입학팀 (~2021-11-12)
 
 * **[[LINC+] 2021 동계방학 현장실습 2차 온라인설명회 개최 안내 (11.23(화) 18시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114864&amp;article.offset=0&amp;articleLimit=30)**
@@ -86,6 +89,3 @@
 
 * **[인공지능융합학과와 LINC+사업단이 함께하는 AI 스타트업 실무 전문가 세미나](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114760&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 정보통신대학교학팀 (~2021-11-09)
-
-* **[[LINC+] 2021 동계방학 현장실습 온라인설명회 개최 안내 (11.11(목) 14시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114759&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2021-11-09)
