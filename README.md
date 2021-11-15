@@ -1,5 +1,23 @@
 # 최근 공지사항
 
+* **[[종합지원센터] 휴학생 행정인턴(1명) 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114929&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2021-11-15)
+
+* **[[오늘] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114928&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2021-11-15)
+
+* **[[Remind][학부] 전공(복수,부,연계,심화전공) 신청 및 취소 기간 안내 (11.01.~11.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114924&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-11-15)
+
+* **[[대학일자리플러스센터] 2022년 하나금융TI 채용연계형 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114921&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-15)
+
+* **[[대학일자리플러스센터] 2022학년도 한국폴리텍대학 광명융합기술교육원 취업연계 기술교육(10개월 과정) 신입생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114920&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-15)
+
+* **[2022학년도 대학수학능력시험 당일 소음방지 협조 요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114919&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2021-11-15)
+
 * **[(마감임박 재공지)[국제교류팀] 파란사다리 추가 모집 안내 (~11.14 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114891&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-11-12)
 
@@ -71,21 +89,3 @@
 
 * **[[공학교육혁신센터]2021 전국 공학페스티벌 온라인 개최 안내(11/11~12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114817&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-11-11)
-
-* **[2022학년도 1학기 인공지능융합학과 인공지능융합전공[복수전공, 부전공] 모집 및 설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114813&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 정보통신대학교학팀 (~2021-11-10)
-
-* **[[대학일자리플러스센터] 2021 디지털뉴딜 온라인 일자리박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114812&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-10)
-
-* **[[대학일자리플러스센터] CJ와 함께하는 온라인 직무 멘토링](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114811&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-10)
-
-* **[2022학년도 논술고사 근로스태프 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114809&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 입학팀 (~2021-11-10)
-
-* **[[학부]2021-2 수업평가 실시 안내(Fall Semester Course Evaluation)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114808&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-11-10)
-
-* **[2022 양현재 입실설명회 대면 참석 장소 및 비대면 ZOOM링크 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114799&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 다산학부대학교학팀 (~2021-11-10)
