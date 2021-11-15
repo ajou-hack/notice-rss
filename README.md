@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[경기마라톤 대회 안내 및 참가접수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114967&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 커뮤니케이션팀 (~2021-11-15)
+
+* **[[LINC+]그린뉴딜 아이디어 펀딩 연합캠프 참가자 모집(~2021.11.17(수)자정까지) 온오프라인 병행 ※신청기간 확인※](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114966&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - LINC사업팀(창업교육센터) (~2021-11-15)
+
 * **[2021학년도 동아리박람회(문화제) 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114949&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2021-11-15)
 
@@ -83,9 +89,3 @@
 
 * **[아주대학교 제17대 총장후보자 지원 접수 결과](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114851&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총장후보자 천거위원회 (~2021-11-11)
-
-* **[[모집] 축구부 프론트 8기 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114844&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2021-11-11)
-
-* **[[학생지원팀] 원천정보관 토론학습실 이용 재안내 (링크 참조)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114834&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2021-11-11)
