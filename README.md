@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[재공지] [LINC+] 2021 제7회 LINC+ 창업아이디어 경진대회 개최 안내(~11.19일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114993&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업교육센터 (~2021-11-15)
+
 * **[[메이커스페이스] 아두이노 모르고 따라하기 기초교육 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114973&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2021-11-15)
 
@@ -86,6 +89,3 @@
 
 * **[[당일재공지] 국제교류팀 2022-2학기 파견 교환 및 복수학위 1차모집 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114861&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-11-12)
-
-* **[[비교과교육지원센터] 제1회 Ajou Hub 사용 후기 공모전 수상자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114860&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2021-11-12)
