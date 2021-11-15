@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[[메이커스페이스] 아두이노 모르고 따라하기 기초교육 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114973&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2021-11-15)
+
+* **[[학생상담소] &quot;DBT 마음챙김으로 정서 스트레스 관리하기&quot; 특강 참여자 모집(선착순 15명)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114971&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생상담소 (~2021-11-15)
+
+* **[[대학일자리플러스센터] 2021 온라인 공직박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114969&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-15)
+
 * **[경기마라톤 대회 안내 및 참가접수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114967&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 커뮤니케이션팀 (~2021-11-15)
 
@@ -80,12 +89,3 @@
 
 * **[[비교과교육지원센터] 제1회 Ajou Hub 사용 후기 공모전 수상자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114860&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2021-11-12)
-
-* **[[공학교육혁신센터]2021 전국 공학페스티벌 온라인 개최 안내(11/11~12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114857&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-11-12)
-
-* **[2021학년도 동아리박람회(문화제) 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114855&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2021-11-11)
-
-* **[아주대학교 제17대 총장후보자 지원 접수 결과](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114851&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총장후보자 천거위원회 (~2021-11-11)
