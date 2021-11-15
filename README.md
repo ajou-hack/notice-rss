@@ -1,5 +1,17 @@
 # 최근 공지사항
 
+* **[[공학교육혁신센터] 2021 단아한인 U스피치 경진대회 인기투표 이벤트 안내(~11/19)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114939&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-11-15)
+
+* **[글로벌미래교육원 11월 토익스피킹/실무영어자격증 무료특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114934&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 글로벌미래교육원 (~2021-11-15)
+
+* **[[국제교류팀] 21-동계 2차 해외단기파견 모집 (~11.21일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114933&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-11-15)
+
+* **[[학생지원팀] 학생자치공간 출입 권한 등록 신청_11.17(수) 15:00시까지(추가)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114932&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2021-11-15)
+
 * **[[종합지원센터] 휴학생 행정인턴(1명) 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114929&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2021-11-15)
 
@@ -77,15 +89,3 @@
 
 * **[[홍보] 2021 서울 글로벌 포토저널리즘 사진전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114829&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 커뮤니케이션팀 (~2021-11-11)
-
-* **[(당일재공지)[LINC+] 2021 동계방학 현장실습 온라인설명회 개최 안내 (11.11(목) 14시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114826&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2021-11-11)
-
-* **[(학사과정)2021-동계 계절학기 국내대학 학점교류 신청 안내(21.11.11.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114821&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-11-11)
-
-* **[[학생지원팀] 학생자치공간 출입 권한 등록 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114818&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2021-11-11)
-
-* **[[공학교육혁신센터]2021 전국 공학페스티벌 온라인 개최 안내(11/11~12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114817&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-11-11)
