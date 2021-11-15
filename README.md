@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[2021학년도 동아리박람회(문화제) 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114949&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2021-11-15)
+
+* **[[학습법] 2021-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114948&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-11-15)
+
+* **[[학습법] 2021-2학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114947&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-11-15)
+
 * **[[공학교육혁신센터] 2021 단아한인 U스피치 경진대회 인기투표 이벤트 안내(~11/19)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114939&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-11-15)
 
@@ -80,12 +89,3 @@
 
 * **[[학생지원팀] 원천정보관 토론학습실 이용 재안내 (링크 참조)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114834&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2021-11-11)
-
-* **[대학혁신지원사업 프로그램 참여후기 공모전 수상자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114833&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2021-11-11)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114831&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2021-11-11)
-
-* **[[홍보] 2021 서울 글로벌 포토저널리즘 사진전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114829&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 커뮤니케이션팀 (~2021-11-11)
