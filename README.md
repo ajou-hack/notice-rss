@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[2021년 2학기 국가장학금 유형2 지급일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115026&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-11-16)
+
 * **[[대학일자리플러스센터 X 소프트웨어학과] 소프트웨어학과 맞춤 취업 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115008&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-15)
 
@@ -86,6 +89,3 @@
 
 * **[2022학년도 논술고사 실시에 따른 캠퍼스 출입제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114871&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 입학팀 (~2021-11-12)
-
-* **[[LINC+] 2021 동계방학 현장실습 2차 온라인설명회 개최 안내 (11.23(화) 18시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114864&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2021-11-12)
