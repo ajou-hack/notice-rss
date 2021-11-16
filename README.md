@@ -3,6 +3,9 @@
 * **[[대학일자리플러스센터 X 소프트웨어학과] 소프트웨어학과 맞춤 취업 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115008&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-15)
 
+* **[[재공지] ♥장애인식개선교육 전문강사 특강♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115000&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2021-11-15)
+
 * **[[재공지] [LINC+] 2021 제7회 LINC+ 창업아이디어 경진대회 개최 안내(~11.19일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114993&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업교육센터 (~2021-11-15)
 
@@ -86,6 +89,3 @@
 
 * **[[LINC+] 2021 동계방학 현장실습 2차 온라인설명회 개최 안내 (11.23(화) 18시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114864&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2021-11-12)
-
-* **[[LINC+] 2021 아주대 웹콘텐츠 기획 아이디어 공모전 참여 안내(참여대상 수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114863&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀 (~2021-11-12)
