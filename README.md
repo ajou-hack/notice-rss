@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[시설팀] 에너지센터 공사일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115050&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2021-11-16)
+
 * **[2021년 2학기 국가장학금 유형2 지급일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115026&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-11-16)
 
@@ -14,6 +17,9 @@
 
 * **[[메이커스페이스] 아두이노 모르고 따라하기 기초교육 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114973&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2021-11-15)
+
+* **[국제교육센터 제7기 아주글로벌버디(AJOU GLOBAL BUDDY) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114972&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교육센터 (~2021-11-15)
 
 * **[[학생상담소] &quot;DBT 마음챙김으로 정서 스트레스 관리하기&quot; 특강 참여자 모집(선착순 15명)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114971&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생상담소 (~2021-11-15)
@@ -83,9 +89,3 @@
 
 * **[(수정재공지)[국제교류팀] 근로 학생을 모집합니다 (~11.16(화))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114877&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-11-12)
-
-* **[제79회 한국어능력시험(TOPIK) 시행에 따른 성호관 출입제한 재안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114874&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교육센터 (~2021-11-12)
-
-* **[2022학년도 논술고사 실시에 따른 캠퍼스 출입제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114871&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 입학팀 (~2021-11-12)
