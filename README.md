@@ -1,5 +1,17 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] 2021년 하반기 미국인턴&amp;취업 K-move Shcool 온라인 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115084&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-17)
+
+* **[[장학]코로나극복장학(바르게장학)결과발표_11.24(수) 13:00](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115082&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-11-17)
+
+* **[[LINC+] 2021 동계 Early-Bird 현장실습 학생 참여신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115080&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2021-11-17)
+
+* **[[대학일자리플러스센터] 2022 Dell Technologies 신입사원 온라인 채용 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115079&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-17)
+
 * **[(기간연장)2021년 경기도 학자금 장기연체자 신용회복 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115078&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-11-17)
 
@@ -77,15 +89,3 @@
 
 * **[[대학일자리플러스센터] 2022학년도 한국폴리텍대학 광명융합기술교육원 취업연계 기술교육(10개월 과정) 신입생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114920&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-15)
-
-* **[2022학년도 대학수학능력시험 당일 소음방지 협조 요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114919&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2021-11-15)
-
-* **[(마감임박 재공지)[국제교류팀] 파란사다리 추가 모집 안내 (~11.14 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114891&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-11-12)
-
-* **[[홍보] 차세대융합기술연구원 융합기술심포지엄(ConTech2021)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114884&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 커뮤니케이션팀 (~2021-11-12)
-
-* **[2021년 아주대학교 연구실 안전 공모전 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114883&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 안전관리센터 (~2021-11-12)
