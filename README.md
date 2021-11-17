@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[LINC+]그린뉴딜 아이디어 펀딩 연합캠프 참가자 모집(금일마감!!!!!!!) 온오프라인 병행 (자정까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115109&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - LINC사업팀(창업교육센터) (~2021-11-17)
+
+* **[[홍보] 외교부 - 2021년 하반기 국립외교원 국민외교아카데미 대학생 외교 연수과정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115105&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-11-17)
+
 * **[(학사과정)2021-동계 계절학기 국내대학 학점교류 신청 안내(21.11.17.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115104&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-11-17)
 
@@ -83,9 +89,3 @@
 
 * **[[학생지원팀] 학생자치공간 출입 권한 등록 신청_11.17(수) 15:00시까지(추가)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114932&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2021-11-15)
-
-* **[[종합지원센터] 휴학생 행정인턴(1명) 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114929&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2021-11-15)
-
-* **[[오늘] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114928&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2021-11-15)
