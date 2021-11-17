@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[학부]2022-1학기 재학생/복학생 통합 전과 신청 안내(11.22.~11.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115116&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-11-17)
+
 * **[[LINC+]그린뉴딜 아이디어 펀딩 연합캠프 참가자 모집(금일마감!!!!!!!) 온오프라인 병행 (자정까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115109&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - LINC사업팀(창업교육센터) (~2021-11-17)
 
@@ -86,6 +89,3 @@
 
 * **[[국제교류팀] 21-동계 2차 해외단기파견 모집 (~11.21일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114933&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-11-15)
-
-* **[[학생지원팀] 학생자치공간 출입 권한 등록 신청_11.17(수) 15:00시까지(추가)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114932&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2021-11-15)
