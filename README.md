@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[(재공지) [성평등상담소] 제2회 성평등 콘텐츠 공모전 안내 (~11/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115089&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 성평등상담소 (~2021-11-17)
+
+* **[(당일재공지)[국제교류팀] 21-동계 2차 해외단기파견 설명회 (오늘 오후 3시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115088&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-11-17)
+
 * **[[대학일자리플러스센터] 2021년 하반기 미국인턴&amp;취업 K-move Shcool 온라인 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115084&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-17)
 
@@ -83,9 +89,3 @@
 
 * **[[Remind][학부] 전공(복수,부,연계,심화전공) 신청 및 취소 기간 안내 (11.01.~11.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114924&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-11-15)
-
-* **[[대학일자리플러스센터] 2022년 하나금융TI 채용연계형 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114921&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-15)
-
-* **[[대학일자리플러스센터] 2022학년도 한국폴리텍대학 광명융합기술교육원 취업연계 기술교육(10개월 과정) 신입생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114920&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-15)
