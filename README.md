@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[(기간연장)2021년 경기도 학자금 장기연체자 신용회복 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115078&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-11-17)
+
+* **[[대학일자리+센터] 온라인 직무 컨퍼런스 - 잇다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115073&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-17)
+
+* **[[대학일자리+센터] 한국콘텐츠 진흥원 - 2021 캐릭터라이선싱페어](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115071&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-17)
+
 * **[[시설팀] 에너지센터 공사일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115050&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2021-11-16)
 
@@ -80,12 +89,3 @@
 
 * **[2021년 아주대학교 연구실 안전 공모전 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114883&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 안전관리센터 (~2021-11-12)
-
-* **[2022학년도 업무용 탁상달력·수첩 배포 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114882&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 커뮤니케이션팀 (~2021-11-12)
-
-* **[아주대학교 체육관 및 체력단련실 개방 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114880&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2021-11-12)
-
-* **[(수정재공지)[국제교류팀] 근로 학생을 모집합니다 (~11.16(화))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114877&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-11-12)
