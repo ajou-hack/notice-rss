@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[(학사과정)2021-동계 계절학기 국내대학 학점교류 신청 안내(21.11.17.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115104&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-11-17)
+
 * **[(재공지) [성평등상담소] 제2회 성평등 콘텐츠 공모전 안내 (~11/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115089&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 성평등상담소 (~2021-11-17)
 
@@ -86,6 +89,3 @@
 
 * **[[오늘] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114928&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2021-11-15)
-
-* **[[Remind][학부] 전공(복수,부,연계,심화전공) 신청 및 취소 기간 안내 (11.01.~11.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114924&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-11-15)
