@@ -1,6 +1,6 @@
 # 최근 공지사항
 
-* **[[학부]2022-1학기 재학생/복학생 통합 전과 신청 안내(11.22.~11.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115116&amp;article.offset=0&amp;articleLimit=30)**
+* **[[학부]2022-1학기 재학생/휴학생 통합 전과 신청 안내(11.22.~11.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115116&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-11-17)
 
 * **[[LINC+]그린뉴딜 아이디어 펀딩 연합캠프 참가자 모집(금일마감!!!!!!!) 온오프라인 병행 (자정까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115109&amp;article.offset=0&amp;articleLimit=30)**
