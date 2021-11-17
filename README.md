@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[국제교류팀] 2022-1학기 온라인 교환학생 모집 요강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115147&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-11-17)
+
+* **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115139&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2021-11-17)
+
 * **[[학부]2022-1학기 재학생/휴학생 통합 전과 신청 안내(11.22.~11.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115116&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-11-17)
 
@@ -83,9 +89,3 @@
 
 * **[[공학교육혁신센터] 2021 단아한인 U스피치 경진대회 인기투표 이벤트 안내(~11/19)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114939&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-11-15)
-
-* **[글로벌미래교육원 11월 토익스피킹/실무영어자격증 무료특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114934&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 글로벌미래교육원 (~2021-11-15)
-
-* **[[국제교류팀] 21-동계 2차 해외단기파견 모집 (~11.21일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114933&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-11-15)
