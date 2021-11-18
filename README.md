@@ -1,6 +1,9 @@
 # 최근 공지사항
 
-* **[2021-2 파란학기제 성과발표회 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115194&amp;article.offset=0&amp;articleLimit=30)**
+* **[[대학일자리플러스센터] LG디스플레이 현직자와 함께하는 온라인 직무토크콘서트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115202&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-18)
+
+* **[2021-2 파란학기제 성과발표회 근로학생 모집[마감되었습니다]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115194&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2021-11-18)
 
 * **[[대학일자리플러스센터] 2021 글로벌 ESG 온라인 채용상담회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115186&amp;article.offset=0&amp;articleLimit=30)**
@@ -86,6 +89,3 @@
 
 * **[[대학일자리플러스센터 X 소프트웨어학과] 소프트웨어학과 맞춤 취업 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115008&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-15)
-
-* **[[재공지] ♥장애인식개선교육 전문강사 특강♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115000&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2021-11-15)
