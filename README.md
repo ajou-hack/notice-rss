@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[(재공지)[종합지원센터] 휴학생 행정인턴(1명) 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115180&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2021-11-18)
+
 * **[인공지능융합학과와 LINC+사업단이 함께하는 AI 스타트업 실무 전문가 세미나](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115179&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 정보통신대학교학팀 (~2021-11-18)
 
@@ -15,7 +18,7 @@
 * **[[11월22일] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115166&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2021-11-18)
 
-* **[[공학교육혁신센터] AI Speaker를 활용한 데이터 분석 교육 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115160&amp;article.offset=0&amp;articleLimit=30)**
+* **[마감 [공학교육혁신센터] AI Speaker를 활용한 데이터 분석 교육 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115160&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-11-18)
 
 * **[[학생상담소] 마음챙김으로 정서스트레스 관리하기 특강 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115154&amp;article.offset=0&amp;articleLimit=30)**
@@ -86,6 +89,3 @@
 
 * **[국제교육센터 제7기 아주글로벌버디(AJOU GLOBAL BUDDY) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114972&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교육센터 (~2021-11-15)
-
-* **[[학생상담소] &quot;DBT 마음챙김으로 정서 스트레스 관리하기&quot; 특강 참여자 모집(선착순 15명)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114971&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생상담소 (~2021-11-15)
