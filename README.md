@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[인공지능융합학과와 LINC+사업단이 함께하는 AI 스타트업 실무 전문가 세미나](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115179&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 정보통신대학교학팀 (~2021-11-18)
+
+* **[[대학일자리+센터] 학교추천전형! 앰코테크놀로지코리아(주) 추천채용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115178&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-18)
+
 * **[[중앙도서관] 정보지원실 휴학생 아르바이트 모집 (~11/24 AM 09:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115177&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2021-11-18)
 
@@ -83,9 +89,3 @@
 
 * **[[학생상담소] &quot;DBT 마음챙김으로 정서 스트레스 관리하기&quot; 특강 참여자 모집(선착순 15명)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114971&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생상담소 (~2021-11-15)
-
-* **[[대학일자리플러스센터] 2021 온라인 공직박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114969&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-15)
-
-* **[경기마라톤 대회 안내 및 참가접수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114967&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 커뮤니케이션팀 (~2021-11-15)
