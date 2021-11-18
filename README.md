@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[학생상담소] 마음챙김으로 정서스트레스 관리하기 특강 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115154&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생상담소 (~2021-11-18)
+
 * **[[국제교류팀] 2022-1학기 온라인 교환학생 모집 요강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115147&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-11-17)
 
@@ -86,6 +89,3 @@
 
 * **[[학습법] 2021-2학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114947&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2021-11-15)
-
-* **[[공학교육혁신센터] 2021 단아한인 U스피치 경진대회 인기투표 이벤트 안내(~11/19)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114939&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-11-15)
