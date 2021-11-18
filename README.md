@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[2021-2 파란학기제 성과발표회 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115194&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2021-11-18)
+
+* **[[대학일자리플러스센터] 2021 글로벌 ESG 온라인 채용상담회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115186&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-18)
+
 * **[(재공지)[종합지원센터] 휴학생 행정인턴(1명) 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115180&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2021-11-18)
 
@@ -69,6 +75,9 @@
 * **[[대학일자리+센터] 한국콘텐츠 진흥원 - 2021 캐릭터라이선싱페어](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115071&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-17)
 
+* **[2021-2 파란학기제 성과발표회 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115060&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2021-11-16)
+
 * **[[시설팀] 에너지센터 공사일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115050&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2021-11-16)
 
@@ -80,12 +89,3 @@
 
 * **[[재공지] ♥장애인식개선교육 전문강사 특강♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115000&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2021-11-15)
-
-* **[[재공지] [LINC+] 2021 제7회 LINC+ 창업아이디어 경진대회 개최 안내(~11.19일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114993&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업교육센터 (~2021-11-15)
-
-* **[[메이커스페이스] 아두이노 모르고 따라하기 기초교육 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114973&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2021-11-15)
-
-* **[국제교육센터 제7기 아주글로벌버디(AJOU GLOBAL BUDDY) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114972&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교육센터 (~2021-11-15)
