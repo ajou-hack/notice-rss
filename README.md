@@ -1,5 +1,17 @@
 # 최근 공지사항
 
+* **[[중앙도서관] 정보지원실 휴학생 아르바이트 모집 (~11/24 AM 09:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115177&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2021-11-18)
+
+* **[총장과 함께하는 열여덟번째 Book Club에 초대합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115168&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학술정보팀 (~2021-11-18)
+
+* **[[11월22일] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115166&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2021-11-18)
+
+* **[[공학교육혁신센터] AI Speaker를 활용한 데이터 분석 교육 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115160&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-11-18)
+
 * **[[학생상담소] 마음챙김으로 정서스트레스 관리하기 특강 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115154&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생상담소 (~2021-11-18)
 
@@ -77,15 +89,3 @@
 
 * **[경기마라톤 대회 안내 및 참가접수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114967&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 커뮤니케이션팀 (~2021-11-15)
-
-* **[[LINC+]그린뉴딜 아이디어 펀딩 연합캠프 참가자 모집(~2021.11.17(수)자정까지) 온오프라인 병행 ※신청기간 확인※](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114966&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀(창업교육센터) (~2021-11-15)
-
-* **[2021학년도 동아리박람회(문화제) 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114949&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2021-11-15)
-
-* **[[학습법] 2021-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114948&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2021-11-15)
-
-* **[[학습법] 2021-2학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=114947&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2021-11-15)
