@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[[봉사활동] 2021 잠실청소년산타 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115210&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2021-11-19)
+
+* **[[대학일자리플러스센터] 2021-동계 토익사관학교 수강생 모집합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115208&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-19)
+
+* **[[공학교육혁신센터] 2021 단아한인 U스피치 경진대회 인기투표 이벤트 안내(~11/19 15시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115204&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-11-19)
+
 * **[[대학일자리플러스센터] LG디스플레이 현직자와 함께하는 온라인 직무토크콘서트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115202&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-18)
 
@@ -80,12 +89,3 @@
 
 * **[2021-2 파란학기제 성과발표회 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115060&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2021-11-16)
-
-* **[[시설팀] 에너지센터 공사일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115050&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2021-11-16)
-
-* **[2021년 2학기 국가장학금 유형2 지급일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115026&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-11-16)
-
-* **[[대학일자리플러스센터 X 소프트웨어학과] 소프트웨어학과 맞춤 취업 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115008&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-15)
