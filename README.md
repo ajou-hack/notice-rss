@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] 11월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115213&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-19)
+
 * **[[봉사활동] 2021 잠실청소년산타 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115210&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2021-11-19)
 
@@ -86,6 +89,3 @@
 
 * **[[대학일자리+센터] 한국콘텐츠 진흥원 - 2021 캐릭터라이선싱페어](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115071&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-17)
-
-* **[2021-2 파란학기제 성과발표회 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115060&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2021-11-16)
