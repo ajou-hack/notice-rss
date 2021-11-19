@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[[기간연장] [LINC+] 2021 제7회 LINC+ 창업아이디어 경진대회 개최 안내(~11.28일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115229&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업교육센터 (~2021-11-19)
+
+* **[[홍보] 국립국제교육원 - 2022-2023 헝가리 정부초청 장학생(Stipendium Hungaricum) 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115225&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-11-19)
+
+* **[[대학일자리플러스센터] (11/23 10시접수~) 2021 반도체 심화과정 2차 과정 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115224&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-19)
+
 * **[[LINC+] 2021 동계방학 현장실습 2차 온라인설명회 개최 안내 (11.23(화) 18시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115220&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2021-11-19)
 
@@ -79,13 +88,4 @@
  [취업] - 대학일자리플러스센터 (~2021-11-17)
 
 * **[[장학]코로나극복장학(바르게장학)결과발표_11.24(수) 13:00](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115082&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-11-17)
-
-* **[[LINC+] 2021 동계 Early-Bird 현장실습 학생 참여신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115080&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2021-11-17)
-
-* **[[대학일자리플러스센터] 2022 Dell Technologies 신입사원 온라인 채용 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115079&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-17)
-
-* **[(기간연장)2021년 경기도 학자금 장기연체자 신용회복 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115078&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-11-17)
