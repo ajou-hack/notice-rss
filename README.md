@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[LINC+] 2021 동계방학 현장실습 2차 온라인설명회 개최 안내 (11.23(화) 18시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115220&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2021-11-19)
+
+* **[[LINC+] 2021 동계방학 현장실습 학생 지원신청 안내(★현재 접수중)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115219&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2021-11-19)
+
 * **[[대학일자리플러스센터] 11월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115213&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-19)
 
@@ -83,9 +89,3 @@
 
 * **[(기간연장)2021년 경기도 학자금 장기연체자 신용회복 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115078&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-11-17)
-
-* **[[대학일자리+센터] 온라인 직무 컨퍼런스 - 잇다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115073&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-17)
-
-* **[[대학일자리+센터] 한국콘텐츠 진흥원 - 2021 캐릭터라이선싱페어](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115071&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-17)
