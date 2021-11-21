@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[LINC+] 환경부 국립생물자원관 동계방학 대학생 현장실습 참가자 모집(~11.25까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115239&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2021-11-21)
+
 * **[(마감임박 재공지)[국제교류팀] 21-동계 2차 해외단기파견 모집 (~11.21일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115232&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-11-19)
 
@@ -86,6 +89,3 @@
 
 * **[(재공지) [성평등상담소] 제2회 성평등 콘텐츠 공모전 안내 (~11/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115089&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 성평등상담소 (~2021-11-17)
-
-* **[(당일재공지)[국제교류팀] 21-동계 2차 해외단기파견 설명회 (오늘 오후 3시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115088&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-11-17)
