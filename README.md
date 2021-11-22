@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[메이커스페이스]3D스캐너를 활용한 스캐닝 기초교육 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115274&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2021-11-22)
+
 * **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115273&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2021-11-22)
 
@@ -86,6 +89,3 @@
 
 * **[[중앙도서관] 정보지원실 휴학생 아르바이트 모집 (~11/24 AM 09:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115177&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2021-11-18)
-
-* **[총장과 함께하는 열여덟번째 Book Club에 초대합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115168&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학술정보팀 (~2021-11-18)
