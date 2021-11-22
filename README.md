@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115273&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2021-11-22)
+
+* **[[학사]2022-1학기 재입학 시행 안내(12.01.~12.23.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115271&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-11-22)
+
 * **[[중앙도서관] 북큐레이션 도서 안내 - 위드 코로나 테마](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115253&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2021-11-22)
 
@@ -15,10 +21,10 @@
 * **[[오늘] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115246&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2021-11-22)
 
-* **[[Remind][학부]2022-1학기 재학생/휴학생 통합 전과 신청 안내(11.22.~11.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115245&amp;article.offset=0&amp;articleLimit=30)**
+* **[[Remind][학사]2022-1학기 재학생/휴학생 통합 전과 신청 안내(11.22.~11.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115245&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-11-22)
 
-* **[[Remind][학부] 전공(복수,부,연계,심화전공) 신청 및 취소 기간 안내 (11.01.~11.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115244&amp;article.offset=0&amp;articleLimit=30)**
+* **[[Remind][학사]전공(복수,부,연계,심화전공) 신청 및 취소 기간 안내 (11.01.~11.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115244&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-11-22)
 
 * **[[학생상담소] 마음챙김으로 정서스트레스 관리하기 특강 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115243&amp;article.offset=0&amp;articleLimit=30)**
@@ -83,9 +89,3 @@
 
 * **[총장과 함께하는 열여덟번째 Book Club에 초대합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115168&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학술정보팀 (~2021-11-18)
-
-* **[[11월22일] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115166&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2021-11-18)
-
-* **[마감 [공학교육혁신센터] AI Speaker를 활용한 데이터 분석 교육 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115160&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-11-18)
