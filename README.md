@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[[중앙도서관] 북큐레이션 도서 안내 - 위드 코로나 테마](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115253&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2021-11-22)
+
+* **[[중앙도서관] 2021학년도 동계방학 면학장학생 모집 (~12/6 am09:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115252&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2021-11-22)
+
+* **[[학생지원팀] 원천정보관 토론학습실 이용 재안내 (링크 참조)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115251&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2021-11-22)
+
 * **[[대학일자리플러스센터] 2022 현대자동차 서비스 하이테크 인턴 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115247&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-22)
 
@@ -80,12 +89,3 @@
 
 * **[마감 [공학교육혁신센터] AI Speaker를 활용한 데이터 분석 교육 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115160&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-11-18)
-
-* **[[학생상담소] 마음챙김으로 정서스트레스 관리하기 특강 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115154&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생상담소 (~2021-11-18)
-
-* **[[국제교류팀] 2022-1학기 온라인 교환학생 모집 요강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115147&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-11-17)
-
-* **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115139&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2021-11-17)
