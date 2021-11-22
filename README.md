@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[[학부] 2021-동계 계절수업 수강신청 취소신청지연 제도 안내(전체학생 테스트:11/25(목)~11/26(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115291&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-11-22)
+
+* **[2021 제14회 LINC+ 캡스톤디자인 경진대회 개최 안내(~12.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115290&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2021-11-22)
+
+* **[파란학기 스텝코(STEP-CO)팀 제로웨이스트 샵 플리마켓 개최 (12/1(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115287&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 대학교육혁신원운영팀 (~2021-11-22)
+
 * **[[메이커스페이스]3D스캐너를 활용한 스캐닝 기초교육 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115274&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2021-11-22)
 
@@ -80,12 +89,3 @@
 
 * **[(재공지)[종합지원센터] 휴학생 행정인턴(1명) 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115180&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2021-11-18)
-
-* **[인공지능융합학과와 LINC+사업단이 함께하는 AI 스타트업 실무 전문가 세미나](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115179&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 정보통신대학교학팀 (~2021-11-18)
-
-* **[[대학일자리+센터] 학교추천전형! 앰코테크놀로지코리아(주) 추천채용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115178&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-18)
-
-* **[[중앙도서관] 정보지원실 휴학생 아르바이트 모집 (~11/24 AM 09:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115177&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2021-11-18)
