@@ -1,5 +1,17 @@
 # 최근 공지사항
 
+* **[[학습법] 2021-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115315&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-11-23)
+
+* **[[학습법] 2021-2학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115314&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-11-23)
+
+* **[[수정][학사]2022-1학기 재입학 시행 안내(12.01.~12.23.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115313&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-11-23)
+
+* **[[국가근로] 2021-2학기 한국장학재단 동계방학 집중근로 프로그램 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115309&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-11-23)
+
 * **[[대학일자리+센터]AJOU U + : 미래에 대한 불안과 스트레스 관리 (선착순20명 모집)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115308&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-23)
 
@@ -23,9 +35,6 @@
 
 * **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115273&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2021-11-22)
-
-* **[[학사]2022-1학기 재입학 시행 안내(12.01.~12.23.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115271&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-11-22)
 
 * **[[중앙도서관] 북큐레이션 도서 안내 - 위드 코로나 테마](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115253&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2021-11-22)
@@ -80,12 +89,3 @@
 
 * **[[봉사활동] 2021 잠실청소년산타 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115210&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2021-11-19)
-
-* **[[대학일자리플러스센터] 2021-동계 토익사관학교 수강생 모집합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115208&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-19)
-
-* **[[공학교육혁신센터] 2021 단아한인 U스피치 경진대회 인기투표 이벤트 안내(~11/19 15시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115204&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-11-19)
-
-* **[[대학일자리플러스센터] LG디스플레이 현직자와 함께하는 온라인 직무토크콘서트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115202&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-18)
