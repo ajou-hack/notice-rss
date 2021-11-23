@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[[대학일자리+센터]AJOU U + : 미래에 대한 불안과 스트레스 관리 (선착순20명 모집)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115308&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-23)
+
+* **[[한국장학재단] 2022년 1학기 국가장학금 1차 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115307&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-11-23)
+
+* **[(당일재공지)[LINC+] 2021 동계방학 현장실습 2차 온라인설명회 개최 안내 (11.23(화) 18시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115301&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2021-11-23)
+
 * **[[학부] 2021-동계 계절수업 수강신청 취소신청지연 제도 안내(전체학생 테스트:11/25(목)~11/26(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115291&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-11-22)
 
@@ -80,12 +89,3 @@
 
 * **[[대학일자리플러스센터] LG디스플레이 현직자와 함께하는 온라인 직무토크콘서트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115202&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-18)
-
-* **[2021-2 파란학기제 성과발표회 근로학생 모집[마감되었습니다]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115194&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2021-11-18)
-
-* **[[대학일자리플러스센터] 2021 글로벌 ESG 온라인 채용상담회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115186&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-18)
-
-* **[(재공지)[종합지원센터] 휴학생 행정인턴(1명) 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115180&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2021-11-18)
