@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] 취준진담웨비나 OECD진출(YAP)설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115336&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-23)
+
+* **[[혁신공유대학사업] 미래자동차 교육과정 동계계절학기 학점교류 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115335&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-11-23)
+
 * **[[융복합의료제품규제과학연구센터] 근로학생 모집(~12/1)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115333&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 약학대학 교학팀 (~2021-11-23)
 
@@ -83,9 +89,3 @@
 
 * **[[기간연장] [LINC+] 2021 제7회 LINC+ 창업아이디어 경진대회 개최 안내(~11.28일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115229&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업교육센터 (~2021-11-19)
-
-* **[[홍보] 국립국제교육원 - 2022-2023 헝가리 정부초청 장학생(Stipendium Hungaricum) 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115225&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-11-19)
-
-* **[[대학일자리플러스센터] (11/23 10시접수~) 2021 반도체 심화과정 2차 과정 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115224&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-19)
