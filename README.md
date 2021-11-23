@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[융복합의료제품규제과학연구센터] 근로학생 모집(~12/1)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115333&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 약학대학 교학팀 (~2021-11-23)
+
 * **[2021-2 파란학기제 성과발표회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115330&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2021-11-23)
 
@@ -86,6 +89,3 @@
 
 * **[[대학일자리플러스센터] (11/23 10시접수~) 2021 반도체 심화과정 2차 과정 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115224&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-19)
-
-* **[[LINC+] 2021 동계방학 현장실습 2차 온라인설명회 개최 안내 (11.23(화) 18시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115220&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2021-11-19)
