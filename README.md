@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] 일본취업 전망, 이력서, 면접 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115320&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-23)
+
+* **[[대학일자리플러스센터] 재무회계, 금융권 직무특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115319&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-23)
+
 * **[[학습법] 2021-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115315&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2021-11-23)
 
@@ -83,9 +89,3 @@
 
 * **[[LINC+] 2021 동계방학 현장실습 학생 지원신청 안내(★현재 접수중)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115219&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2021-11-19)
-
-* **[[대학일자리플러스센터] 11월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115213&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-19)
-
-* **[[봉사활동] 2021 잠실청소년산타 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115210&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2021-11-19)
