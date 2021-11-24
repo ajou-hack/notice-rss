@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[기간연장] [LINC+] 2021 제7회 LINC+ 창업아이디어 경진대회 개최 안내(~11.28일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115345&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업교육센터 (~2021-11-23)
+
 * **[[국가근로] 2022학년도 1학기(3~8월) 국가근로장학금 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115340&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-11-23)
 
@@ -86,6 +89,3 @@
 
 * **[(마감임박 재공지)[국제교류팀] 21-동계 2차 해외단기파견 모집 (~11.21일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115232&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-11-19)
-
-* **[글로벌미래교육원 11월 토익스피킹/실무영어자격증 무료특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115231&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 글로벌미래교육원 (~2021-11-19)
