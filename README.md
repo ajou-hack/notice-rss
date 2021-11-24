@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[재공지][유학생입학팀] 2021 유학생 만족도조사 안내 / 2021 Satisfaction Survey on Ajou Life](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115365&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 유학생입학팀 (~2021-11-24)
+
+* **[(학사)2021-동계 계절수업 안내(수강번호 추가)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115361&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-11-24)
+
 * **[[대학일자리플러스센터]진로-취업 도서 대출서비스](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115356&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-24)
 
@@ -83,9 +89,3 @@
 
 * **[[Remind][학사]2022-1학기 재학생/휴학생 통합 전과 신청 안내(11.22.~11.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115245&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-11-22)
-
-* **[[Remind][학사]전공(복수,부,연계,심화전공) 신청 및 취소 기간 안내 (11.01.~11.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115244&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-11-22)
-
-* **[[학생상담소] 마음챙김으로 정서스트레스 관리하기 특강 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115243&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생상담소 (~2021-11-22)
