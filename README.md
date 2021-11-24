@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] 2021 수원시 일자리 박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115352&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-24)
+
 * **[[기간연장] [LINC+] 2021 제7회 LINC+ 창업아이디어 경진대회 개최 안내(~11.28일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115345&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업교육센터 (~2021-11-23)
 
@@ -86,6 +89,3 @@
 
 * **[[LINC+] 환경부 국립생물자원관 동계방학 대학생 현장실습 참가자 모집(~11.25까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115239&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2021-11-21)
-
-* **[(마감임박 재공지)[국제교류팀] 21-동계 2차 해외단기파견 모집 (~11.21일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115232&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-11-19)
