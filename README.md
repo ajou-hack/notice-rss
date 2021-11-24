@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[혁신공유대학사업] (제출일정 수정)미래자동차 교육과정 동계계절학기 학점교류 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115379&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-11-24)
+
+* **[보건진료소 파견 의사 진료 중단](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115376&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 보건진료소 (~2021-11-24)
+
 * **[[재공지][유학생입학팀] 2021 유학생 만족도조사 안내 / 2021 Satisfaction Survey on Ajou Life](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115365&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 유학생입학팀 (~2021-11-24)
 
@@ -83,9 +89,3 @@
 
 * **[[대학일자리플러스센터] 2022 현대자동차 서비스 하이테크 인턴 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115247&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-22)
-
-* **[[오늘] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115246&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2021-11-22)
-
-* **[[Remind][학사]2022-1학기 재학생/휴학생 통합 전과 신청 안내(11.22.~11.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115245&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-11-22)
