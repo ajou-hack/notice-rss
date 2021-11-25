@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[「대학혁신지원사업 성과 확산 포럼-학생 성공을 위한 교육 혁신」개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115409&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 대학교육혁신원운영팀 (~2021-11-25)
+
 * **[[총무팀] 찾아가는 이동 소비자상담소 운영 안내(퀴즈 풀면 선물을 드려요)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115407&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-11-25)
 
@@ -86,6 +89,3 @@
 
 * **[[학부] 2021-동계 계절수업 수강신청 취소신청지연 제도 안내(전체학생 테스트:11/25(목)~11/26(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115291&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-11-22)
-
-* **[2021 제14회 LINC+ 캡스톤디자인 경진대회 개최 안내(~12.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115290&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2021-11-22)
