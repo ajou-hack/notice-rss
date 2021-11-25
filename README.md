@@ -1,5 +1,17 @@
 # 최근 공지사항
 
+* **[[총무팀] 찾아가는 이동 소비자상담소 운영 안내(퀴즈 풀면 선물을 드려요)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115407&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2021-11-25)
+
+* **[[대학일자리플러스센터] 2021 Dell Technologies 대졸 신입사원 공채 설명회(인문계, IT 등 모든 전공자 참가 가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115405&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-25)
+
+* **[[11월29일] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115403&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2021-11-25)
+
+* **[인공지능 학습용 데이터 구축 경진대회 (BMD 데이터)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115402&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 정보통신대학교학팀 (~2021-11-25)
+
 * **[[생활관]2021년 동계 방학 생활관 입사 신청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115398&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 생활관 (~2021-11-25)
 
@@ -77,15 +89,3 @@
 
 * **[2021 제14회 LINC+ 캡스톤디자인 경진대회 개최 안내(~12.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115290&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2021-11-22)
-
-* **[파란학기 스텝코(STEP-CO)팀 제로웨이스트 샵 플리마켓 개최 (12/1(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115287&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 대학교육혁신원운영팀 (~2021-11-22)
-
-* **[[메이커스페이스]3D스캐너를 활용한 스캐닝 기초교육 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115274&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2021-11-22)
-
-* **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115273&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2021-11-22)
-
-* **[[중앙도서관] 북큐레이션 도서 안내 - 위드 코로나 테마](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115253&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2021-11-22)
