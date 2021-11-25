@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[시설팀] 에너지센터 공사안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115413&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2021-11-25)
+
 * **[「대학혁신지원사업 성과 확산 포럼-학생 성공을 위한 교육 혁신」개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115409&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 대학교육혁신원운영팀 (~2021-11-25)
 
@@ -86,6 +89,3 @@
 
 * **[(당일재공지)[LINC+] 2021 동계방학 현장실습 2차 온라인설명회 개최 안내 (11.23(화) 18시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115301&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2021-11-23)
-
-* **[[학부] 2021-동계 계절수업 수강신청 취소신청지연 제도 안내(전체학생 테스트:11/25(목)~11/26(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115291&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-11-22)
