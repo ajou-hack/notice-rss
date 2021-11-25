@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[통학버스 사당노선 정차 위치 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115415&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2021-11-25)
+
 * **[[시설팀] 에너지센터 공사안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115413&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2021-11-25)
 
@@ -86,6 +89,3 @@
 
 * **[[한국장학재단] 2022년 1학기 국가장학금 1차 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115307&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-11-23)
-
-* **[(당일재공지)[LINC+] 2021 동계방학 현장실습 2차 온라인설명회 개최 안내 (11.23(화) 18시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115301&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2021-11-23)
