@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[(학사과정)2021-동계 계절학기 국내대학 학점교류 신청 안내(21.11.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115447&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-11-26)
+
 * **[[수학과 대학원] 2022학년도 전기 데이터사이언스 전공 신입생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115441&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 수학과 (~2021-11-26)
 
@@ -85,7 +88,4 @@
  [파란학기제] - 대학교육혁신원운영팀 (~2021-11-23)
 
 * **[[대학일자리플러스센터] 일본취업 전망, 이력서, 면접 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115320&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-23)
-
-* **[[대학일자리플러스센터] 재무회계, 금융권 직무특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115319&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-23)
