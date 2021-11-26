@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] 11월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115452&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-26)
+
 * **[[국가근로][대학생청소년교육지원] 11월 국가근로/대학생청소년교육지원장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 11/30 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115451&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-11-26)
 
@@ -86,6 +89,3 @@
 
 * **[[대학일자리플러스센터] 취준진담웨비나 OECD진출(YAP)설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115336&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-23)
-
-* **[[혁신공유대학사업] 미래자동차 교육과정 동계계절학기 학점교류 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115335&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-11-23)
