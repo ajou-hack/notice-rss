@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] 2021 경기도 온라인 청년 채용박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115434&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-26)
+
+* **[[당일재공지] 2021 아주대학교 학부생 융합정책포럼 일비(I&#x27;ll be) 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115432&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 현장실습지원센터 (~2021-11-26)
+
+* **[[기획팀]아주대학교 학칙 개정(안) 사전 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115421&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2021-11-25)
+
 * **[통학버스 사당노선 정차 위치 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115415&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-11-25)
 
@@ -80,12 +89,3 @@
 
 * **[[수정][학사]2022-1학기 재입학 시행 안내(12.01.~12.23.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115313&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-11-23)
-
-* **[[국가근로] 2021-2학기 한국장학재단 동계방학 집중근로 프로그램 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115309&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-11-23)
-
-* **[[대학일자리+센터]AJOU U + : 미래에 대한 불안과 스트레스 관리 (선착순20명 모집)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115308&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-23)
-
-* **[[한국장학재단] 2022년 1학기 국가장학금 1차 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115307&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-11-23)
