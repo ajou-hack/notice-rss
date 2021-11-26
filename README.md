@@ -1,5 +1,17 @@
 # 최근 공지사항
 
+* **[[국가근로][대학생청소년교육지원] 11월 국가근로/대학생청소년교육지원장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 11/30 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115451&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-11-26)
+
+* **[[대학일자리플러스센터] 졸업생 및 초과학기생을 위한 &#x27;네오챌린지11기&#x27;,&#x27;네오챌린지플러스3기&#x27; 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115450&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-26)
+
+* **[[글로벌교양학부] 2021-2 교양과목 기말고사 대학원생 감독자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115449&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 글로벌교양학부 (~2021-11-26)
+
+* **[[대학일자리플러스센터] 2021 수원시 일자리 박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115448&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-11-26)
+
 * **[(학사과정)2021-동계 계절학기 국내대학 학점교류 신청 안내(21.11.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115447&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-11-26)
 
@@ -66,9 +78,6 @@
 * **[[대학일자리플러스센터]진로-취업 도서 대출서비스](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115356&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-24)
 
-* **[[대학일자리플러스센터] 2021 수원시 일자리 박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115352&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-24)
-
 * **[[기간연장] [LINC+] 2021 제7회 LINC+ 창업아이디어 경진대회 개최 안내(~11.28일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115345&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업교육센터 (~2021-11-23)
 
@@ -80,12 +89,3 @@
 
 * **[[혁신공유대학사업] 미래자동차 교육과정 동계계절학기 학점교류 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115335&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-11-23)
-
-* **[[융복합의료제품규제과학연구센터] 근로학생 모집(~12/1)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115333&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 약학대학 교학팀 (~2021-11-23)
-
-* **[2021-2 파란학기제 성과발표회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115330&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2021-11-23)
-
-* **[[대학일자리플러스센터] 일본취업 전망, 이력서, 면접 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115320&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-23)
