@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[LINC+] 2021-2학기 창업마일리지 적립신청 및 인센티브 안내 (~12.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115440&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업교육센터 (~2021-11-26)
+
+* **[[마감임박] [LINC+] 2021 제7회 LINC+ 창업아이디어 경진대회 개최 안내(~11.28일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115439&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업교육센터 (~2021-11-26)
+
 * **[[대학일자리플러스센터] 2021 경기도 온라인 청년 채용박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115434&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-26)
 
@@ -83,9 +89,3 @@
 
 * **[[학습법] 2021-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115315&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2021-11-23)
-
-* **[[학습법] 2021-2학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115314&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2021-11-23)
-
-* **[[수정][학사]2022-1학기 재입학 시행 안내(12.01.~12.23.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115313&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-11-23)
