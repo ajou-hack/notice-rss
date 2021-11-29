@@ -1,5 +1,23 @@
 # 최근 공지사항
 
+* **[[오늘] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115474&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2021-11-29)
+
+* **[[글로벌미래교육원] 겨울학기(2022년1~2월) 평생교육프로그램 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115473&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 글로벌미래교육원 (~2021-11-29)
+
+* **[2021-2 파란학기제 성과발표회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115472&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2021-11-29)
+
+* **[양지현 공인회계사, 세무사 준비 실원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115470&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 경영대학교학팀 (~2021-11-29)
+
+* **[[홍보][대학원] 벤처천억기업 성공요인 분석 소논문 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115469&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 일반대학원 (~2021-11-29)
+
+* **[국제교육센터 제7기 아주글로벌 버디(AJOU GLOBAL BUDDY) 모집 (재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115468&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 국제교육센터 (~2021-11-29)
+
 * **[[대학일자리플러스센터] 11월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115452&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-26)
 
@@ -9,7 +27,7 @@
 * **[[대학일자리플러스센터] 졸업생 및 초과학기생을 위한 &#x27;네오챌린지11기&#x27;,&#x27;네오챌린지플러스3기&#x27; 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115450&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-26)
 
-* **[[글로벌교양학부] 2021-2 교양과목 기말고사 대학원생 감독자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115449&amp;article.offset=0&amp;articleLimit=30)**
+* **[[마감되었습니다][글로벌교양학부] 2021-2 교양과목 기말고사 대학원생 감독자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115449&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 글로벌교양학부 (~2021-11-26)
 
 * **[[대학일자리플러스센터] 2021 수원시 일자리 박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115448&amp;article.offset=0&amp;articleLimit=30)**
@@ -71,21 +89,3 @@
 
 * **[보건진료소 파견 의사 진료 중단](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115376&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 보건진료소 (~2021-11-24)
-
-* **[[재공지][유학생입학팀] 2021 유학생 만족도조사 안내 / 2021 Satisfaction Survey on Ajou Life](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115365&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 유학생입학팀 (~2021-11-24)
-
-* **[(학사)2021-동계 계절수업 안내(수강번호 추가)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115361&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-11-24)
-
-* **[[대학일자리플러스센터]진로-취업 도서 대출서비스](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115356&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-24)
-
-* **[[기간연장] [LINC+] 2021 제7회 LINC+ 창업아이디어 경진대회 개최 안내(~11.28일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115345&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업교육센터 (~2021-11-23)
-
-* **[[국가근로] 2022학년도 1학기(3~8월) 국가근로장학금 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115340&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-11-23)
-
-* **[[대학일자리플러스센터] 취준진담웨비나 OECD진출(YAP)설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115336&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-23)
