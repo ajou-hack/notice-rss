@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[(기간연장) [성평등상담소] 제2회 성평등 콘텐츠 공모전 안내 (~01/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115504&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 성평등상담소 (~2021-11-29)
+
+* **[(국제교류팀) 2022-2학기 파견 교환학생 및 복수학위 1차모집 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115503&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-11-29)
+
 * **[[메이커스페이스] 3D프린터(SLA방식) 운용 기초교육(오후반) 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115498&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2021-11-29)
 
@@ -83,9 +89,3 @@
 
 * **[[시설팀] 에너지센터 공사안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115413&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2021-11-25)
-
-* **[「대학혁신지원사업 성과 확산 포럼-학생 성공을 위한 교육 혁신」개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115409&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 대학교육혁신원운영팀 (~2021-11-25)
-
-* **[[총무팀] 찾아가는 이동 소비자상담소 운영 안내(퀴즈 풀면 선물을 드려요)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115407&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2021-11-25)
