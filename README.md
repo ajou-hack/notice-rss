@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[[학생지원팀] 원천정보관 토론학습실 이용 재안내 (링크 참조)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115477&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2021-11-29)
+
+* **[[LINC+] 2021 동계방학 현장실습을 망설이는 학생들을 위한 수요조사(~12/5까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115476&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2021-11-29)
+
+* **[[LINC+] 2021 동계방학 현장실습 학생 지원신청 안내(★현재 접수중)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115475&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2021-11-29)
+
 * **[[오늘] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115474&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2021-11-29)
 
@@ -17,6 +26,9 @@
 
 * **[국제교육센터 제7기 아주글로벌 버디(AJOU GLOBAL BUDDY) 모집 (재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115468&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 국제교육센터 (~2021-11-29)
+
+* **[[공학교육혁신센터] 2021 Intercultural Peer Learning 참가 학생 모집 (~12/8(수)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115466&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-11-29)
 
 * **[[대학일자리플러스센터] 11월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115452&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-26)
@@ -77,15 +89,3 @@
 
 * **[[생활관]2021년 동계 방학 생활관 입사 신청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115398&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 생활관 (~2021-11-25)
-
-* **[[공학교육혁신센터] 3D 프린팅 직무설명회 및 글로벌기업 견학 개최 및 참가학생 모집 (~12/1(수)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115397&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-11-25)
-
-* **[2021 아주대학교 학부생 융합정책포럼 일비(I&#x27;ll be) 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115383&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 현장실습지원센터 (~2021-11-24)
-
-* **[[혁신공유대학사업] (제출일정 수정)미래자동차 교육과정 동계계절학기 학점교류 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115379&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-11-24)
-
-* **[보건진료소 파견 의사 진료 중단](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115376&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 보건진료소 (~2021-11-24)
