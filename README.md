@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[2021 제14회 LINC+ 캡스톤디자인 경진대회 개최 안내(~12.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115487&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2021-11-29)
+
 * **[[학생지원팀] 원천정보관 토론학습실 이용 재안내 (링크 참조)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115477&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2021-11-29)
 
@@ -86,6 +89,3 @@
 
 * **[인공지능 학습용 데이터 구축 경진대회 (BMD 데이터)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115402&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 정보통신대학교학팀 (~2021-11-25)
-
-* **[[생활관]2021년 동계 방학 생활관 입사 신청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115398&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 생활관 (~2021-11-25)
