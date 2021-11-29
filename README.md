@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[파란학기]스텝코X제로웨이스트샵 &#x27;플리마켓&#x27; 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115507&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2021-11-29)
+
 * **[(기간연장) [성평등상담소] 제2회 성평등 콘텐츠 공모전 안내 (~01/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115504&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 성평등상담소 (~2021-11-29)
 
@@ -86,6 +89,3 @@
 
 * **[통학버스 사당노선 정차 위치 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115415&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-11-25)
-
-* **[[시설팀] 에너지센터 공사안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115413&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2021-11-25)
