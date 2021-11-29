@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[[메이커스페이스] 3D프린터(SLA방식) 운용 기초교육(오후반) 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115498&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2021-11-29)
+
+* **[[메이커스페이스] 3D프린터(SLA방식) 운용 기초교육(오전반) 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115497&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2021-11-29)
+
+* **[[메이커스페이스] 감각적인 3D모델링을 위한 스케치업 기초교육 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115496&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2021-11-29)
+
 * **[2021 제14회 LINC+ 캡스톤디자인 경진대회 개최 안내(~12.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115487&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2021-11-29)
 
@@ -80,12 +89,3 @@
 
 * **[[총무팀] 찾아가는 이동 소비자상담소 운영 안내(퀴즈 풀면 선물을 드려요)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115407&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-11-25)
-
-* **[[대학일자리플러스센터] 2021 Dell Technologies 대졸 신입사원 공채 설명회(인문계, IT 등 모든 전공자 참가 가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115405&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-25)
-
-* **[[11월29일] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115403&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2021-11-25)
-
-* **[인공지능 학습용 데이터 구축 경진대회 (BMD 데이터)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115402&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 정보통신대학교학팀 (~2021-11-25)
