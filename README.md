@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[(재공지)총장과 함께하는 열여덟번째 Book Club에 초대합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115518&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학술정보팀 (~2021-11-30)
+
 * **[[파란학기]스텝코X제로웨이스트샵 &#x27;플리마켓&#x27; 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115507&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2021-11-29)
 
@@ -86,6 +89,3 @@
 
 * **[[기획팀]아주대학교 학칙 개정(안) 사전 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115421&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 기획팀 (~2021-11-25)
-
-* **[통학버스 사당노선 정차 위치 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115415&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2021-11-25)
