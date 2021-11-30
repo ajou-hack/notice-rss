@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[한국장학재단] 2021년 2학기 인문100년 장학금 일시지원(한학기지원) 유형 선발 안내(~12/6, 24시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116238&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-11-30)
+
 * **[[대학원 인공지능학과] 2022학년도 전기 수시1차 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116215&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 정보통신대학 교학팀 (~2021-11-30)
 
@@ -86,6 +89,3 @@
 
 * **[[대학일자리플러스센터] 11월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115452&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-26)
-
-* **[[국가근로][대학생청소년교육지원] 11월 국가근로/대학생청소년교육지원장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 11/30 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115451&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-11-26)
