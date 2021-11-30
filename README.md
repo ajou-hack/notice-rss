@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[학사] 2022-1학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115528&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-11-30)
+
+* **[【 일반대학원 융합의과학과】 2022학년도 전기 신입생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115527&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 의과대학교학팀 (~2021-11-30)
+
 * **[(재공지)총장과 함께하는 열여덟번째 Book Club에 초대합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115518&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학술정보팀 (~2021-11-30)
 
@@ -83,9 +89,3 @@
 
 * **[[대학일자리플러스센터] 2021 경기도 온라인 청년 채용박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115434&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-26)
-
-* **[[당일재공지] 2021 아주대학교 학부생 융합정책포럼 일비(I&#x27;ll be) 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115432&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 현장실습지원센터 (~2021-11-26)
-
-* **[[기획팀]아주대학교 학칙 개정(안) 사전 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115421&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2021-11-25)
