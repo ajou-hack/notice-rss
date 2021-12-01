@@ -1,5 +1,17 @@
 # 최근 공지사항
 
+* **[2021년11월 정기점검 점검결과 및 2021년12월 정기점검 계획표 입니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116259&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2021-12-01)
+
+* **[[대학일자리플러스센터] 월드잡 해외취업센터 프로그램 K-class 등](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116258&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-01)
+
+* **[[Remind][학사]2022-1학기 재입학 시행 안내(12.01.~12.23.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116257&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-12-01)
+
+* **[[학생상담소] 2021학년도 학생상담소 상담수기공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116255&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생상담소 (~2021-12-01)
+
 * **[[대학일자리플러스센터] 영상편집 프리미어프로 자격과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116247&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-30)
 
@@ -15,7 +27,7 @@
 * **[[대학원 AI융합네트워크학과] 2022학년도 전기 수시 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116212&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 정보통신대학교학팀 (~2021-11-30)
 
-* **[[공학교육혁신센터] 단아한인 아두이노 드론 만들고 코딩하고 날리기(선착순 6명)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115902&amp;article.offset=0&amp;articleLimit=30)**
+* **[마감-[공학교육혁신센터] 단아한인 아두이노 드론 만들고 코딩하고 날리기(선착순 6명)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115902&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-11-30)
 
 * **[[중앙도서관]12월 이용 교육 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115593&amp;article.offset=0&amp;articleLimit=30)**
@@ -77,15 +89,3 @@
 
 * **[[글로벌미래교육원] 겨울학기(2022년1~2월) 평생교육프로그램 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115473&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 글로벌미래교육원 (~2021-11-29)
-
-* **[2021-2 파란학기제 성과발표회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115472&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2021-11-29)
-
-* **[양지현 공인회계사, 세무사 준비 실원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115470&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 경영대학교학팀 (~2021-11-29)
-
-* **[[홍보][대학원] 벤처천억기업 성공요인 분석 소논문 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115469&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 일반대학원 (~2021-11-29)
-
-* **[국제교육센터 제7기 아주글로벌 버디(AJOU GLOBAL BUDDY) 모집 (재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115468&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 국제교육센터 (~2021-11-29)
