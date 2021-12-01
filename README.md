@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[2022학년도 수시 논술고사 실시에 따른 건물 출입 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116270&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 입학처 (~2021-12-01)
+
 * **[[공학교육혁신센터] 2021 Intercultural Peer Learning 참가 학생 모집 (~12/8(수)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116267&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-12-01)
 
@@ -86,6 +89,3 @@
 
 * **[[학생지원팀] 원천정보관 토론학습실 이용 재안내 (링크 참조)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115477&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2021-11-29)
-
-* **[[LINC+] 2021 동계방학 현장실습을 망설이는 학생들을 위한 수요조사(~12/5까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115476&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2021-11-29)
