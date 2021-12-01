@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[인공지능융합학과와 LINC+사업단이 함께하는 AI 스타트업 실무 전문가 세미나](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116888&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 정보통신대학교학팀 (~2021-12-01)
+
 * **[2022학년도 수시 논술고사 실시에 따른 건물 출입 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116270&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 입학처 (~2021-12-01)
 
@@ -86,6 +89,3 @@
 
 * **[2021 제14회 LINC+ 캡스톤디자인 경진대회 개최 안내(~12.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115487&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2021-11-29)
-
-* **[[학생지원팀] 원천정보관 토론학습실 이용 재안내 (링크 참조)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115477&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2021-11-29)
