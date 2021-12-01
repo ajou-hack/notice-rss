@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[2021-2 파란학기제 성과발표회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=118230&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2021-12-01)
+
 * **[[봉사활동] (대사협) 월드프렌즈코리아(WFK) 온라인 청년 중기봉사단(환경분야) 모집(~12/14)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=117831&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2021-12-01)
 
@@ -86,6 +89,3 @@
 
 * **[(기간연장) [성평등상담소] 제2회 성평등 콘텐츠 공모전 안내 (~01/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115504&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 성평등상담소 (~2021-11-29)
-
-* **[(국제교류팀) 2022-2학기 파견 교환학생 및 복수학위 1차모집 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115503&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-11-29)
