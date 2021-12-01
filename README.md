@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[봉사활동] (대사협) 월드프렌즈코리아(WFK) 온라인 청년 중기봉사단(환경분야) 모집(~12/14)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=117831&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2021-12-01)
+
+* **[[대학일자리플러스센터] 동계방학 취업동아리13기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=117825&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-01)
+
 * **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=117814&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2021-12-01)
 
@@ -83,9 +89,3 @@
 
 * **[(국제교류팀) 2022-2학기 파견 교환학생 및 복수학위 1차모집 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115503&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-11-29)
-
-* **[[메이커스페이스] 3D프린터(SLA방식) 운용 기초교육(오후반) 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115498&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2021-11-29)
-
-* **[[메이커스페이스] 3D프린터(SLA방식) 운용 기초교육(오전반) 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115497&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2021-11-29)
