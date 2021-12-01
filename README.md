@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=117814&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2021-12-01)
+
+* **[[글로벌제약임상대학원] 2022학년도 1학기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116890&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 글로벌제약임상대학원 교학팀 (~2021-12-01)
+
 * **[인공지능융합학과와 LINC+사업단이 함께하는 AI 스타트업 실무 전문가 세미나](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116888&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 정보통신대학교학팀 (~2021-12-01)
 
@@ -83,9 +89,3 @@
 
 * **[[메이커스페이스] 3D프린터(SLA방식) 운용 기초교육(오전반) 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115497&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2021-11-29)
-
-* **[[메이커스페이스] 감각적인 3D모델링을 위한 스케치업 기초교육 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115496&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2021-11-29)
-
-* **[2021 제14회 LINC+ 캡스톤디자인 경진대회 개최 안내(~12.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115487&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2021-11-29)
