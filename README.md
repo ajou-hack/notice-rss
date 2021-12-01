@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[[공학교육혁신센터] 2021 Intercultural Peer Learning 참가 학생 모집 (~12/8(수)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116267&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-12-01)
+
+* **[[공학교육혁신센터] 2021 AJOU E-UR Poster 온라인 전시 참여하고 경품 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116266&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-12-01)
+
+* **[[홍보] 국립국제교육원 - 2022 사우디아라비아 정부초청 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116262&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-12-01)
+
 * **[2021년11월 정기점검 점검결과 및 2021년12월 정기점검 계획표 입니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116259&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-01)
 
@@ -80,12 +89,3 @@
 
 * **[[LINC+] 2021 동계방학 현장실습을 망설이는 학생들을 위한 수요조사(~12/5까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115476&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2021-11-29)
-
-* **[[LINC+] 2021 동계방학 현장실습 학생 지원신청 안내(★현재 접수중)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115475&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2021-11-29)
-
-* **[[오늘] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115474&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2021-11-29)
-
-* **[[글로벌미래교육원] 겨울학기(2022년1~2월) 평생교육프로그램 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115473&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 글로벌미래교육원 (~2021-11-29)
