@@ -1,9 +1,12 @@
 # 최근 공지사항
 
+* **[[홍보] 한국교통안전공단 알뜰교통카드](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=120786&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 커뮤니케이션팀 (~2021-12-02)
+
 * **[[홍보] 한중일3국협력사무국(TCS) 주최 한·중·일 대학(원)생 대상 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=118265&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-12-02)
 
-* **[!!바로오늘!!연암관로비!! 파란학기 성과발표회 구경하시고 선착순 기념품 받아가세요](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=118264&amp;article.offset=0&amp;articleLimit=30)**
+* **[!!바로오늘!!연암관로비!!4시 30분까지만!! 파란학기 성과발표회 구경하시고 선착순 기념품 받아가세요](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=118264&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원 (~2021-12-02)
 
 * **[(학사과정) 2021-동계 계절수업 수강료 납부 및 환불 안내 (2021.12.14. ~ 12.16.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=118259&amp;article.offset=0&amp;articleLimit=30)**
@@ -86,6 +89,3 @@
 
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115584&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-11-30)
-
-* **[2022학년도 논술고사 근로스태프 *추가*모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115583&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 입학처 (~2021-11-30)
