@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[다산학부대학] 2021-동계 계절학기 BSM 추가 여석 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=120787&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2021-12-02)
+
 * **[[홍보] 한국교통안전공단 알뜰교통카드](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=120786&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 커뮤니케이션팀 (~2021-12-02)
 
@@ -85,7 +88,4 @@
  [학사] - 교무팀 (~2021-11-30)
 
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115589&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2021-11-30)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115584&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-11-30)
