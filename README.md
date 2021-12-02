@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 39호 (2021.12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=118249&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-02)
+
 * **[2021-2 파란학기제 성과발표회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=118230&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2021-12-01)
 
@@ -86,6 +89,3 @@
 
 * **[[파란학기]스텝코X제로웨이스트샵 &#x27;플리마켓&#x27; 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115507&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2021-11-29)
-
-* **[(기간연장) [성평등상담소] 제2회 성평등 콘텐츠 공모전 안내 (~01/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115504&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 성평등상담소 (~2021-11-29)
