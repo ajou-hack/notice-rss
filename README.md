@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[12월 6일] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=118251&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2021-12-02)
+
 * **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 39호 (2021.12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=118249&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-02)
 
@@ -86,6 +89,3 @@
 
 * **[(재공지)총장과 함께하는 열여덟번째 Book Club에 초대합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115518&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학술정보팀 (~2021-11-30)
-
-* **[[파란학기]스텝코X제로웨이스트샵 &#x27;플리마켓&#x27; 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115507&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2021-11-29)
