@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[[홍보] 한중일3국협력사무국(TCS) 주최 한·중·일 대학(원)생 대상 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=118265&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-12-02)
+
+* **[!!바로오늘!!연암관로비!! 파란학기 성과발표회 구경하시고 선착순 기념품 받아가세요](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=118264&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원 (~2021-12-02)
+
+* **[(학사과정) 2021-동계 계절수업 수강료 납부 및 환불 안내 (2021.12.14. ~ 12.16.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=118259&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-12-02)
+
 * **[[12월 6일] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=118251&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2021-12-02)
 
@@ -80,12 +89,3 @@
 
 * **[2022학년도 논술고사 근로스태프 *추가*모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115583&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학처 (~2021-11-30)
-
-* **[[학사] 2022-1학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115528&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-11-30)
-
-* **[【 일반대학원 융합의과학과】 2022학년도 전기 신입생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115527&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 의과대학교학팀 (~2021-11-30)
-
-* **[(재공지)총장과 함께하는 열여덟번째 Book Club에 초대합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115518&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학술정보팀 (~2021-11-30)
