@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[글로벌미래교육원]실무영어자격증/토익스피킹 겨울특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=130330&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 글로벌미래교육원 (~2021-12-03)
+
 * **[[대학일자리플러스센터] 12월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=127983&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-03)
 
@@ -86,6 +89,3 @@
 
 * **[[공학교육혁신센터] 2021 AJOU E-UR Poster 온라인 전시 참여하고 경품 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116266&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-12-01)
-
-* **[[홍보] 국립국제교육원 - 2022 사우디아라비아 정부초청 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116262&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-12-01)
