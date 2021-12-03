@@ -1,5 +1,17 @@
 # 최근 공지사항
 
+* **[[공학교육혁신센터] 2021 Intercultural Peer Learning 참가 학생 모집 (~12/8(수)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=123416&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-12-03)
+
+* **[[다산학부대학] 2021-동계 계절학기 BSM 추가 여석 안내(수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=123414&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2021-12-03)
+
+* **[[공학교육혁신센터] 2021 AJOU E-UR Poster 온라인 전시 참여하고 경품 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=123412&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-12-03)
+
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=123408&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2021-12-02)
+
 * **[[대학일자리플러스센터] 2021 서울시 여성 일자리 박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=123405&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-02)
 
@@ -77,15 +89,3 @@
 
 * **[[한국장학재단] 2021년 2학기 인문100년 장학금 일시지원(한학기지원) 유형 선발 안내(~12/6, 24시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116238&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-11-30)
-
-* **[[대학원 인공지능학과] 2022학년도 전기 수시1차 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116215&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 정보통신대학 교학팀 (~2021-11-30)
-
-* **[[대학원 AI융합네트워크학과] 2022학년도 전기 수시 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116212&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 정보통신대학교학팀 (~2021-11-30)
-
-* **[마감-[공학교육혁신센터] 단아한인 아두이노 드론 만들고 코딩하고 날리기(선착순 6명)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115902&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-11-30)
-
-* **[[중앙도서관]12월 이용 교육 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=115593&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2021-11-30)
