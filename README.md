@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[학생상담소] 2021학년도 학생상담소 상담수기공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=127925&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생상담소 (~2021-12-03)
+
 * **[[공학교육혁신센터] 2021 Intercultural Peer Learning 참가 학생 모집 (~12/8(수)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=123416&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-12-03)
 
@@ -86,6 +89,3 @@
 
 * **[[대학일자리플러스센터] 포토샵 자격과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116246&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-30)
-
-* **[[한국장학재단] 2021년 2학기 인문100년 장학금 일시지원(한학기지원) 유형 선발 안내(~12/6, 24시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116238&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-11-30)
