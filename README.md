@@ -1,5 +1,17 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터] 12월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=127983&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-03)
+
+* **[[12월6일(월) 10시접수~] 2021 동계 반도체 공정실습 과정(패터닝, 전기적 특성측정 및 분석, 박막형성)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=127979&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-03)
+
+* **[[대학일자리플러스센터] NEW! 진로(저학년)/ 취업(고학년) 워크북](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=127976&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-03)
+
+* **[[파란학기] CIWEI팀 아쿠아로레 전시 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=127971&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2021-12-03)
+
 * **[[긴급] 자료실 임시 휴관(2022 수시 논술고사 시행 및 코로나 방역 대응) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=127940&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2021-12-03)
 
@@ -77,15 +89,3 @@
 
 * **[[홍보] 국립국제교육원 - 2022 사우디아라비아 정부초청 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116262&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-12-01)
-
-* **[2021년11월 정기점검 점검결과 및 2021년12월 정기점검 계획표 입니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116259&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2021-12-01)
-
-* **[[대학일자리플러스센터] 월드잡 해외취업센터 프로그램 K-class 등](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116258&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-01)
-
-* **[[Remind][학사]2022-1학기 재입학 시행 안내(12.01.~12.23.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116257&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-12-01)
-
-* **[[학생상담소] 2021학년도 학생상담소 상담수기공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116255&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생상담소 (~2021-12-01)
