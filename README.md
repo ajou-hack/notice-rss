@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[메이커스페이스]유니티엔진을 활용한 콘텐츠 제작 기초·응용 교육 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=127935&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2021-12-03)
+
 * **[[학생상담소] 2021학년도 학생상담소 상담수기공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=127925&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생상담소 (~2021-12-03)
 
@@ -85,7 +88,4 @@
  [기타] - 학생상담소 (~2021-12-01)
 
 * **[[대학일자리플러스센터] 영상편집 프리미어프로 자격과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116247&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-11-30)
-
-* **[[대학일자리플러스센터] 포토샵 자격과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116246&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-11-30)
