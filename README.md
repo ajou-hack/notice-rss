@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터][Rising Startup] 스타트업 연합채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=132263&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-06)
+
 * **[[학습법] 2021-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=130351&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2021-12-06)
 
@@ -86,6 +89,3 @@
 
 * **[2021-2 파란학기제 성과발표회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=118230&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2021-12-01)
-
-* **[[봉사활동] (대사협) 월드프렌즈코리아(WFK) 온라인 청년 중기봉사단(환경분야) 모집(~12/14)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=117831&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2021-12-01)
