@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[대학일자리플러스센터]K-Digital Credit 디지털 기초역량훈련과정!!(수강생 리뷰 포함)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=134498&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-06)
+
 * **[[홍보] 2021년도 APEC 앙트너프러너십 교육프로그램(AEEP) 국내 대학생 참가자 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=133441&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2021-12-06)
 
@@ -86,6 +89,3 @@
 
 * **[[홍보] 한중일3국협력사무국(TCS) 주최 한·중·일 대학(원)생 대상 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=118265&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-12-02)
-
-* **[!!바로오늘!!연암관로비!!4시 30분까지만!! 파란학기 성과발표회 구경하시고 선착순 기념품 받아가세요](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=118264&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원 (~2021-12-02)
