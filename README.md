@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[홍보] 2021년도 APEC 앙트너프러너십 교육프로그램(AEEP) 국내 대학생 참가자 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=133441&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2021-12-06)
+
 * **[[홍보] 2021 글로벌 AI 컨퍼런스 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=132518&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2021-12-06)
 
@@ -86,6 +89,3 @@
 
 * **[!!바로오늘!!연암관로비!!4시 30분까지만!! 파란학기 성과발표회 구경하시고 선착순 기념품 받아가세요](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=118264&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원 (~2021-12-02)
-
-* **[(학사과정) 2021-동계 계절수업 수강료 납부 및 환불 안내 (2021.12.14. ~ 12.16.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=118259&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-12-02)
