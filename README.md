@@ -1,5 +1,14 @@
 # 최근 공지사항
 
+* **[[홍보] 2021 글로벌 AI 컨퍼런스 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=132518&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2021-12-06)
+
+* **[[대학일자리플러스센터]대학일자리플러스센터 서비스 모아보기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=132506&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-06)
+
+* **[[시설팀] 상수도관 보수공사에 따른 단수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=132456&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2021-12-06)
+
 * **[[대학일자리플러스센터][Rising Startup] 스타트업 연합채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=132263&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-06)
 
@@ -80,12 +89,3 @@
 
 * **[(학사과정) 2021-동계 계절수업 수강료 납부 및 환불 안내 (2021.12.14. ~ 12.16.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=118259&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-12-02)
-
-* **[[12월 6일] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=118251&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2021-12-02)
-
-* **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 39호 (2021.12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=118249&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-02)
-
-* **[2021-2 파란학기제 성과발표회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=118230&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2021-12-01)
