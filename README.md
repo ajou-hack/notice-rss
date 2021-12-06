@@ -1,5 +1,17 @@
 # 최근 공지사항
 
+* **[양현재(養賢齋) 모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=130347&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 다산학부대학교학팀 (~2021-12-06)
+
+* **[[오늘] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=130344&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2021-12-06)
+
+* **[[공학교육혁신센터] 2021 AJOU E-UR Poster 온라인 전시 참여하고 경품 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=130342&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-12-06)
+
+* **[[공학교육혁신센터] 2021 Intercultural Peer Learning Program 참가 학생 모집 (~12/8(수)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=130340&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-12-06)
+
 * **[[글로벌미래교육원]실무영어자격증/토익스피킹 겨울특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=130330&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 글로벌미래교육원 (~2021-12-03)
 
@@ -77,15 +89,3 @@
 
 * **[[글로벌제약임상대학원] 2022학년도 1학기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116890&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 글로벌제약임상대학원 교학팀 (~2021-12-01)
-
-* **[인공지능융합학과와 LINC+사업단이 함께하는 AI 스타트업 실무 전문가 세미나](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116888&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 정보통신대학교학팀 (~2021-12-01)
-
-* **[2022학년도 수시 논술고사 실시에 따른 건물 출입 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116270&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 입학처 (~2021-12-01)
-
-* **[[공학교육혁신센터] 2021 Intercultural Peer Learning 참가 학생 모집 (~12/8(수)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116267&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-12-01)
-
-* **[[공학교육혁신센터] 2021 AJOU E-UR Poster 온라인 전시 참여하고 경품 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116266&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-12-01)
