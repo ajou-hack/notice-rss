@@ -1,6 +1,15 @@
 # 최근 공지사항
 
-* **[양현재(養賢齋) 모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=130347&amp;article.offset=0&amp;articleLimit=30)**
+* **[[학습법] 2021-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=130351&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-12-06)
+
+* **[[학습법] 2021-2학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=130350&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-12-06)
+
+* **[[학습법] 2021-2학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=130349&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-12-06)
+
+* **[로스쿨준비반 양현재(養賢齋) 모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=130347&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 다산학부대학교학팀 (~2021-12-06)
 
 * **[[오늘] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=130344&amp;article.offset=0&amp;articleLimit=30)**
@@ -80,12 +89,3 @@
 
 * **[[봉사활동] (대사협) 월드프렌즈코리아(WFK) 온라인 청년 중기봉사단(환경분야) 모집(~12/14)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=117831&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2021-12-01)
-
-* **[[대학일자리플러스센터] 동계방학 취업동아리13기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=117825&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-01)
-
-* **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=117814&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2021-12-01)
-
-* **[[글로벌제약임상대학원] 2022학년도 1학기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=116890&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 글로벌제약임상대학원 교학팀 (~2021-12-01)
