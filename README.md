@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[2021-2학기 제 14회 강의페어링 공모전 포스터 판넬 전시](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=139599&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산융복합교육센터 (~2021-12-06)
+
 * **[[대학일자리플러스센터]K-Digital Credit 디지털 기초역량훈련과정!!(수강생 리뷰 포함)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=134498&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-06)
 
@@ -86,6 +89,3 @@
 
 * **[[홍보] 한국교통안전공단 알뜰교통카드](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=120786&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 커뮤니케이션팀 (~2021-12-02)
-
-* **[[홍보] 한중일3국협력사무국(TCS) 주최 한·중·일 대학(원)생 대상 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=118265&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-12-02)
