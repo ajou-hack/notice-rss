@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[2021학년도 2학기 동계방학 일반 교내외 국가근로장학생 대체선발 공고(희망근로장학기관 신청 필수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=142626&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-12-07)
+
 * **[시스템 보안 작업으로 인한 전산 서비스 중지 안내(12/16, 목)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=142381&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
@@ -89,6 +92,3 @@
 
 * **[[글로벌미래교육원]실무영어자격증/토익스피킹 겨울특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=130330&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 글로벌미래교육원 (~2021-12-03)
-
-* **[[대학일자리플러스센터] 12월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=127983&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-03)
