@@ -3,6 +3,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[Remind][학사]2022-1학기 재입학 시행 안내(12.01.~12.23.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141581&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-12-07)
+
+* **[[Remind][학사] 2022-1학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141580&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-12-07)
+
+* **[[대학일자리플러스센터] 2022-상반기 대비 대기업 직무적성 프로그램 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141579&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-07)
+
 * **[[대학일자리플러스센터] 2022-상반기 대비 공기업 직무적성(NCS 문제풀이 특강) 프로그램 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141578&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-07)
 
@@ -83,12 +92,3 @@
 
 * **[[대학일자리플러스센터] NEW! 진로(저학년)/ 취업(고학년) 워크북](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=127976&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-03)
-
-* **[[파란학기] CIWEI팀 아쿠아로레 전시 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=127971&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2021-12-03)
-
-* **[[긴급] 자료실 임시 휴관(2022 수시 논술고사 시행 및 코로나 방역 대응) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=127940&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2021-12-03)
-
-* **[[메이커스페이스]유니티엔진을 활용한 콘텐츠 제작 기초·응용 교육 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=127935&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2021-12-03)
