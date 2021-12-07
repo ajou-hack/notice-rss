@@ -1,5 +1,17 @@
 # 최근 공지사항
 
+* **[[학습법] 2021학년도 학습리더워크숍(1차) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=140932&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-12-07)
+
+* **[[메이커스페이스]3D스캔을 활용한 포토리얼리즘 3D데이터 제작 기초·응용 교육 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=140198&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2021-12-07)
+
+* **[2022년 1학기 삼성드림클래스 대학생 멘토 선발_12.20(월) 10:00 마감](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=140194&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-12-07)
+
+* **[[재공지]「대학혁신지원사업 성과 확산 포럼-학생 성공을 위한 교육 혁신」안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=140190&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 대학교육혁신원운영팀 (~2021-12-07)
+
 * **[2021-2학기 제 14회 강의페어링 공모전 포스터 판넬 전시](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=139599&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산융복합교육센터 (~2021-12-06)
 
@@ -77,15 +89,3 @@
 
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=123408&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-12-02)
-
-* **[[대학일자리플러스센터] 2021 서울시 여성 일자리 박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=123405&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-02)
-
-* **[[다산학부대학] 2021-동계 계절학기 영역별교양 추가 여석 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=122574&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2021-12-02)
-
-* **[[다산학부대학] 2021-동계 계절학기 BSM 추가 여석 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=120787&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2021-12-02)
-
-* **[[홍보] 한국교통안전공단 알뜰교통카드](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=120786&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 커뮤니케이션팀 (~2021-12-02)
