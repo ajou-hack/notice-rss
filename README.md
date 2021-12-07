@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[대학일자리플러스센터] 경기지역 대학일자리플러스센터 연합캠프 참여자 모집합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=142121&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-07)
+
 * **[[Remind][학사]2022-1학기 재입학 시행 안내(12.01.~12.23.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141581&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-12-07)
 
@@ -88,7 +91,4 @@
  [취업] - 대학일자리플러스센터 (~2021-12-03)
 
 * **[[12월6일(월) 10시접수~] 2021 동계 반도체 공정실습 과정(패터닝, 전기적 특성측정 및 분석, 박막형성)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=127979&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-03)
-
-* **[[대학일자리플러스센터] NEW! 진로(저학년)/ 취업(고학년) 워크북](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=127976&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-03)
