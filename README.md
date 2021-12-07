@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[시스템 보안 작업으로 인한 전산 서비스 중지 안내(12/16, 목)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=142381&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2021-12-07)
+
 * **[[대학일자리플러스센터] 경기지역 대학일자리플러스센터 연합캠프 참여자 모집합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=142121&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-07)
 
@@ -88,7 +91,4 @@
  [기타] - 글로벌미래교육원 (~2021-12-03)
 
 * **[[대학일자리플러스센터] 12월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=127983&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-03)
-
-* **[[12월6일(월) 10시접수~] 2021 동계 반도체 공정실습 과정(패터닝, 전기적 특성측정 및 분석, 박막형성)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=127979&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-03)
