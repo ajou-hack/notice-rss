@@ -3,6 +3,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[공학교육혁신센터] 2021 AJOU E-UR Poster 온라인 전시 참여하고 경품 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=142669&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-12-08)
+
+* **[2022학년도 1학기 장학신청_12.31(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=142664&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-12-08)
+
 * **[2021학년도 2학기 동계방학 일반 교내외 국가근로장학생 대체선발 공고(희망근로장학기관 신청 필수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=142626&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-12-07)
 
@@ -86,9 +92,3 @@
 
 * **[[공학교육혁신센터] 2021 AJOU E-UR Poster 온라인 전시 참여하고 경품 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=130342&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-12-06)
-
-* **[[공학교육혁신센터] 2021 Intercultural Peer Learning Program 참가 학생 모집 (~12/8(수)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=130340&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-12-06)
-
-* **[[글로벌미래교육원]실무영어자격증/토익스피킹 겨울특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=130330&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 글로벌미래교육원 (~2021-12-03)
