@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[대학일자리플러스센터] &#x27;21대학일자리(플러스)센터 체감도조사 - 경품 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=146909&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-08)
+
 * **[[메이커스페이스] 운영일자 변경안내 (2021.12.08-12.17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=146898&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2021-12-08)
 
@@ -89,6 +92,3 @@
 
 * **[[홍보] 2021년도 APEC 앙트너프러너십 교육프로그램(AEEP) 국내 대학생 참가자 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=133441&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2021-12-06)
-
-* **[[홍보] 2021 글로벌 AI 컨퍼런스 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=132518&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2021-12-06)
