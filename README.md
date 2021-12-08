@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[학부]2021-2학기 수업 운영 안내 (12.8 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=144649&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-12-08)
+
 * **[[대학일자리플러스센터] 2022 KOFA주한외국기업연합회 서포터즈 16기 모집공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=144577&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-08)
 
@@ -89,6 +92,3 @@
 
 * **[[학습법] 2021-2학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=130349&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2021-12-06)
-
-* **[로스쿨준비반 양현재(養賢齋) 모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=130347&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 다산학부대학교학팀 (~2021-12-06)
