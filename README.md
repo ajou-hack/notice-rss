@@ -3,6 +3,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[메이커스페이스] 운영일자 변경안내 (2021.12.08-12.17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=146898&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2021-12-08)
+
+* **[[재안내-학부]2021-2학기 수업평가 실시 안내(Fall Semester Course Evaluation)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=146894&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-12-08)
+
 * **[[장학] 2022년 건설근로자 대학생 자녀 [협성장학생] 신청 안내_1월 10일까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=146890&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-12-08)
 
@@ -86,9 +92,3 @@
 
 * **[[홍보] 2021 글로벌 AI 컨퍼런스 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=132518&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2021-12-06)
-
-* **[[대학일자리플러스센터]대학일자리플러스센터 서비스 모아보기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=132506&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-06)
-
-* **[[시설팀] 상수도관 보수공사에 따른 단수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=132456&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2021-12-06)
