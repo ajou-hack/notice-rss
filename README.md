@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[장학] 2022년 건설근로자 대학생 자녀 [협성장학생] 신청 안내_1월 10일까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=146890&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-12-08)
+
 * **[[대학일자리플러스센터] 매일유업(주) 영업직무 채용연계형 인턴십 추천채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=145126&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-08)
 
@@ -89,6 +92,3 @@
 
 * **[[시설팀] 상수도관 보수공사에 따른 단수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=132456&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2021-12-06)
-
-* **[[대학일자리플러스센터][Rising Startup] 스타트업 연합채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=132263&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-06)
