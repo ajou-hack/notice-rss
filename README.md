@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[★수강신청,공고성적 불이익★ 공학인증 2021학년도 2학기 학생상담 안내 (2021.12.13.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=146974&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-12-09)
+
 * **[인공지능융합학과와 LINC+사업단이 함께하는 AI 스타트업 실무 전문가 세미나](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=146929&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 정보통신대학교학팀 (~2021-12-09)
 
@@ -89,6 +92,3 @@
 
 * **[2022년 1학기 삼성드림클래스 대학생 멘토 선발_12.20(월) 10:00 마감](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=140194&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-12-07)
-
-* **[[재공지]「대학혁신지원사업 성과 확산 포럼-학생 성공을 위한 교육 혁신」안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=140190&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 대학교육혁신원운영팀 (~2021-12-07)
