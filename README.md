@@ -3,6 +3,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[2022-1학기 파란학기 MOOC 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147043&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2021-12-09)
+
+* **[2022-1학기 파란학기 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147041&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2021-12-09)
+
+* **[편입학전형 일정 안내 및 협조 요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147035&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 입학처 (~2021-12-09)
+
 * **[★수강신청,공고성적 불이익★ 공학인증 2021학년도 2학기 학생상담 안내 (2021.12.13.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=146974&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-12-09)
 
@@ -83,12 +92,3 @@
 
 * **[[학습법] 2021학년도 학습리더워크숍(2차) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141511&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2021-12-07)
-
-* **[[학습법] 2021학년도 학습리더워크숍(1차) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=140932&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2021-12-07)
-
-* **[[메이커스페이스]3D스캔을 활용한 포토리얼리즘 3D데이터 제작 기초·응용 교육 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=140198&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2021-12-07)
-
-* **[2022년 1학기 삼성드림클래스 대학생 멘토 선발_12.20(월) 10:00 마감](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=140194&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-12-07)
