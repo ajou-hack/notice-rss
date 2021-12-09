@@ -3,6 +3,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[인공지능융합학과와 LINC+사업단이 함께하는 AI 스타트업 실무 전문가 세미나](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=146929&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 정보통신대학교학팀 (~2021-12-09)
+
+* **[K-BioX &amp; K-Genome 공동 심포지엄 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=146928&amp;article.offset=0&amp;articleLimit=30)**
+ [학술] - 의과대학 생리학교실 (~2021-12-09)
+
 * **[[공학교육혁신센터] 2021 한국신재생에너지SC와 함께하는 수소·연료전지 분야 직무 교육 및 설명회(~16일 10시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=146919&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-12-09)
 
@@ -86,9 +92,3 @@
 
 * **[[재공지]「대학혁신지원사업 성과 확산 포럼-학생 성공을 위한 교육 혁신」안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=140190&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 대학교육혁신원운영팀 (~2021-12-07)
-
-* **[2021-2학기 제 14회 강의페어링 공모전 포스터 판넬 전시](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=139599&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산융복합교육센터 (~2021-12-06)
-
-* **[[대학일자리플러스센터]K-Digital Credit 디지털 기초역량훈련과정!!(수강생 리뷰 포함)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=134498&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-06)
