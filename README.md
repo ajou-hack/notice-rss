@@ -3,6 +3,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[「대학혁신지원사업 성과 확산 포럼-학생 성공을 위한 교육 혁신」안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147160&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2021-12-09)
+
+* **[[공학교육혁신센터] 2021 AJOU E-UR Poster 온라인 전시 참여하고 경품 받자!(~10일 3시까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147159&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-12-09)
+
 * **[2022-1학기 파란학기 MOOC 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147043&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2021-12-09)
 
@@ -86,9 +92,3 @@
 
 * **[[LINC+] 2021 동계방학 현장실습 학생 지원신청 안내(★현재 접수중)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141551&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2021-12-07)
-
-* **[[학습법] 2021학년도 학습리더워크숍(3차) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141545&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2021-12-07)
-
-* **[[학습법] 2021학년도 학습리더워크숍(2차) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141511&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2021-12-07)
