@@ -3,6 +3,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[자연대] 2021-2학기 화학 BSM 과목 기말고사 대학원생 부감독 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147196&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 자연과학대학교학팀 (~2021-12-10)
+
+* **[[대학일자리플러스센터] (선착순)동계방학 취업동아리13기 모집중!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147195&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-10)
+
 * **[[파란학기] AMA팀 온라인 콘서트 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147193&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2021-12-10)
 
@@ -86,9 +92,3 @@
 
 * **[[대학일자리플러스센터] 2022 KOFA주한외국기업연합회 서포터즈 16기 모집공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=144577&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-08)
-
-* **[[학생상담소] 2021학년도 학생상담소 상담수기공모전 (D-3)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=144554&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생상담소 (~2021-12-08)
-
-* **[[의과대학 교학팀] 재학생 단기 아르바이트 모집(집기비품 운반)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=142689&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 의과대학 교학팀 (~2021-12-08)
