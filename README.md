@@ -3,6 +3,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[파란학기] AMA팀 온라인 콘서트 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147193&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2021-12-10)
+
+* **[[대학일자리플러스센터] 동계 빅데이터 단기스쿨(입문/심화) 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147190&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-10)
+
+* **[[대학일자리플러스센터] 삼성그룹 자소서 완성반 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147189&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-10)
+
 * **[[긴급공지] 실험동물연구센터 세척기 고장에 따른 케이지 교체 주기 변경 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147183&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 실험동물연구센터 (~2021-12-10)
 
@@ -83,12 +92,3 @@
 
 * **[[의과대학 교학팀] 재학생 단기 아르바이트 모집(집기비품 운반)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=142689&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 의과대학 교학팀 (~2021-12-08)
-
-* **[[공학교육혁신센터] 2021 AJOU E-UR Poster 온라인 전시 참여하고 경품 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=142669&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-12-08)
-
-* **[2022학년도 1학기 장학신청_12.31(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=142664&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-12-08)
-
-* **[[국가근로] 2021학년도 2학기 동계방학 일반 교내외 국가근로장학생 대체선발 공고(희망근로장학기관 신청 필수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=142626&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-12-07)
