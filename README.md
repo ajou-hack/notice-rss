@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[12월 13일] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147180&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2021-12-10)
+
 * **[[장학] 2022-1학기 농립축산식품부 대학장학금 신청 안내_1.15(수) 17시까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147176&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-12-10)
 
@@ -89,6 +92,3 @@
 
 * **[[대학일자리플러스센터] 경기지역 대학일자리플러스센터 연합캠프 참여자 모집합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=142121&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-07)
-
-* **[[Remind][학사]2022-1학기 재입학 시행 안내(12.01.~12.23.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141581&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-12-07)
