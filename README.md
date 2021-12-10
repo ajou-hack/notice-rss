@@ -3,6 +3,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[(학사과정) 2021-동계 계절수업 수강료 납부 및 환불 안내 (2021.12.14. ~ 12.16.)(계절학기 등록)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147170&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-12-10)
+
+* **[2021-2학기 기말고사 대면시험 응시자의 원격시험을 위한 PC실(강의실) 안내(12.10.추가)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147166&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-12-10)
+
 * **[「대학혁신지원사업 성과 확산 포럼-학생 성공을 위한 교육 혁신」안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147160&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2021-12-09)
 
@@ -86,9 +92,3 @@
 
 * **[[대학일자리플러스센터] 2022-상반기 대비 공기업 직무적성(NCS 문제풀이 특강) 프로그램 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141578&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-07)
-
-* **[[공학교육혁신센터] 영상 크리에이터 마스터 교육 과정 개최 및 학생 모집 안내(~12/12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141553&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-12-07)
-
-* **[[LINC+] 2021 동계방학 현장실습 학생 지원신청 안내(★현재 접수중)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141551&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2021-12-07)
