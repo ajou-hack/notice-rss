@@ -3,6 +3,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[긴급공지] 실험동물연구센터 세척기 고장에 따른 케이지 교체 주기 변경 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147183&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 실험동물연구센터 (~2021-12-10)
+
+* **[[대학일자리플러스센터] 12월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147181&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-10)
+
 * **[[12월 13일] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147180&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2021-12-10)
 
@@ -86,9 +92,3 @@
 
 * **[[국가근로] 2021학년도 2학기 동계방학 일반 교내외 국가근로장학생 대체선발 공고(희망근로장학기관 신청 필수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=142626&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-12-07)
-
-* **[시스템 보안 작업으로 인한 전산 서비스 중지 안내(12/16, 목)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=142381&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2021-12-07)
-
-* **[[대학일자리플러스센터] 경기지역 대학일자리플러스센터 연합캠프 참여자 모집합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=142121&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-07)
