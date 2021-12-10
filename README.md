@@ -3,6 +3,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[Implementation of Library Vaccination Pass (&#x27;21.12.13 Mon ~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147175&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - Central Library (~2021-12-10)
+
+* **[중앙도서관 방역패스 시행 안내 (&#x27;21.12.13 월요일 ~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147174&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2021-12-10)
+
 * **[(학사과정) 2021-동계 계절수업 수강료 납부 및 환불 안내 (2021.12.14. ~ 12.16.)(계절학기 등록)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147170&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-12-10)
 
@@ -86,9 +92,3 @@
 
 * **[[Remind][학사] 2022-1학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141580&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-12-07)
-
-* **[[대학일자리플러스센터] 2022-상반기 대비 대기업 직무적성 프로그램 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141579&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-07)
-
-* **[[대학일자리플러스센터] 2022-상반기 대비 공기업 직무적성(NCS 문제풀이 특강) 프로그램 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141578&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-07)
