@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[자연대] 2021-2학기 수학 BSM 과목 기말고사 대학원생 부감독 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147198&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 자연과학대학교학팀 (~2021-12-10)
+
 * **[[자연대] 2021-2학기 화학 BSM 과목 기말고사 대학원생 부감독 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147196&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 자연과학대학교학팀 (~2021-12-10)
 
@@ -89,6 +92,3 @@
 
 * **[[학부]2021-2학기 수업 운영 안내 (12.8 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=144649&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-12-08)
-
-* **[[대학일자리플러스센터] 2022 KOFA주한외국기업연합회 서포터즈 16기 모집공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=144577&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-08)
