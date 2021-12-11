@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[시설팀] 상수도관 보수공사 완료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147199&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2021-12-11)
+
 * **[[자연대] 2021-2학기 수학 BSM 과목 기말고사 대학원생 부감독 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147198&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 자연과학대학교학팀 (~2021-12-10)
 
@@ -88,7 +91,4 @@
  [취업] - 대학일자리플러스센터 (~2021-12-08)
 
 * **[2021-2학기 기말고사 대면시험 응시자의 원격시험을 위한 PC실(강의실) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=145123&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-12-08)
-
-* **[[학부]2021-2학기 수업 운영 안내 (12.8 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=144649&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-12-08)
