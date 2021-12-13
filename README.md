@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147709&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2021-12-13)
+
 * **[[봉사활동] 「결식아동돕기 사랑의 쌀」배달 봉사자 모집(12/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147656&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2021-12-13)
 
@@ -89,6 +92,3 @@
 
 * **[인공지능융합학과와 LINC+사업단이 함께하는 AI 스타트업 실무 전문가 세미나](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=146929&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 정보통신대학교학팀 (~2021-12-09)
-
-* **[K-BioX &amp; K-Genome 공동 심포지엄 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=146928&amp;article.offset=0&amp;articleLimit=30)**
- [학술] - 의과대학 생리학교실 (~2021-12-09)
