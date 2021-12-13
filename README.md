@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[21학년도 제8차 동물실험기초/보수교육 -2021년 12월 29일(수)-온라인교육](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147203&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 실험동물연구센터 (~2021-12-13)
+
 * **[[시설팀] 상수도관 보수공사 완료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147199&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2021-12-11)
 
@@ -89,6 +92,3 @@
 
 * **[[대학일자리플러스센터] 매일유업(주) 영업직무 채용연계형 인턴십 추천채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=145126&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-08)
-
-* **[2021-2학기 기말고사 대면시험 응시자의 원격시험을 위한 PC실(강의실) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=145123&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-12-08)
