@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[봉사활동] 「결식아동돕기 사랑의 쌀」배달 봉사자 모집(12/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147656&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2021-12-13)
+
 * **[★수강신청,공고성적 불이익★ 공학인증 2021학년도 2학기 학생상담 기간 연장 안내 (2021.12.17.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147470&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-12-13)
 
@@ -89,6 +92,3 @@
 
 * **[K-BioX &amp; K-Genome 공동 심포지엄 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=146928&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - 의과대학 생리학교실 (~2021-12-09)
-
-* **[[공학교육혁신센터] 2021 한국신재생에너지SC와 함께하는 수소·연료전지 분야 직무 교육 및 설명회(~16일 10시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=146919&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-12-09)
