@@ -3,6 +3,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[★수강신청,공고성적 불이익★ 공학인증 2021학년도 2학기 학생상담 기간 연장 안내 (2021.12.17.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147470&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-12-13)
+
+* **[[대학일자리플러스센터] 산규주식회사 플랜트엔지니어링 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147441&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-13)
+
 * **[[대학일자리플러스센터] 아이티센그룹 IT엔지니어 추천채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147386&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-13)
 
@@ -86,9 +92,3 @@
 
 * **[[공학교육혁신센터] 2021 한국신재생에너지SC와 함께하는 수소·연료전지 분야 직무 교육 및 설명회(~16일 10시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=146919&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-12-09)
-
-* **[[대학일자리플러스센터] &#x27;21대학일자리(플러스)센터 체감도조사 - 경품 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=146909&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-08)
-
-* **[[메이커스페이스] 운영일자 변경안내 (2021.12.08-12.17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=146898&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2021-12-08)
