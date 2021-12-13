@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[대학일자리플러스센터] (주)유베이스 GBS 특별과제 진행 인턴 추천채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147805&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-13)
+
 * **[아주대 학보사 수습기자 정기모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학보사 (~2021-12-13)
 
@@ -89,6 +92,3 @@
 
 * **[2021-2학기 기말고사 대면시험 응시자의 원격시험을 위한 PC실(강의실) 안내(12.10.추가)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147166&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-12-10)
-
-* **[「대학혁신지원사업 성과 확산 포럼-학생 성공을 위한 교육 혁신」안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147160&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2021-12-09)
