@@ -3,6 +3,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[대학일자리플러스센터] 아이티센그룹 IT엔지니어 추천채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147386&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-13)
+
+* **[[학생지원팀] 원천정보관 토론학습실 이용 재안내 (링크 참조)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147278&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2021-12-13)
+
+* **[[오늘] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147272&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2021-12-13)
+
 * **[21학년도 제8차 동물실험기초/보수교육 -2021년 12월 29일(수)-온라인교육](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147203&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 실험동물연구센터 (~2021-12-13)
 
@@ -83,12 +92,3 @@
 
 * **[[메이커스페이스] 운영일자 변경안내 (2021.12.08-12.17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=146898&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2021-12-08)
-
-* **[[재안내-학부]2021-2학기 수업평가 실시 안내(Fall Semester Course Evaluation)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=146894&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-12-08)
-
-* **[[장학] 2022년 건설근로자 대학생 자녀 [협성장학생] 신청 안내_1월 10일까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=146890&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-12-08)
-
-* **[[대학일자리플러스센터] 매일유업(주) 영업직무 채용연계형 인턴십 추천채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=145126&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-08)
