@@ -3,6 +3,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[국가근로] [기간연장] 2021학년도 2학기 동계방학 일반 교내외 국가근로장학생 대체선발 공고(희망근로장학기관 신청 필수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147786&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-12-13)
+
+* **[[의과대학 교학팀] 재학생 단기 아르바이트 모집(집기비품 운반)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147785&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 의과대학 교학팀 (~2021-12-13)
+
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147709&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-12-13)
 
@@ -86,9 +92,3 @@
 
 * **[편입학전형 일정 안내 및 협조 요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147035&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 입학처 (~2021-12-09)
-
-* **[★수강신청,공고성적 불이익★ 공학인증 2021학년도 2학기 학생상담 안내 (2021.12.13.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=146974&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-12-09)
-
-* **[인공지능융합학과와 LINC+사업단이 함께하는 AI 스타트업 실무 전문가 세미나](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=146929&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 정보통신대학교학팀 (~2021-12-09)
