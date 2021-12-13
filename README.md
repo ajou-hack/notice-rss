@@ -3,7 +3,19 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
-* **[[국가근로] [기간연장] 2021학년도 2학기 동계방학 일반 교내외 국가근로장학생 대체선발 공고(희망근로장학기관 신청 필수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147786&amp;article.offset=0&amp;articleLimit=30)**
+* **[아주대 학보사 수습기자 정기모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147802&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학보사 (~2021-12-13)
+
+* **[[수원도시재단] 혁신 아이디어 도출 우수 메이커 경연대회 참가자 모집(~12/19 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147801&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 창업지원팀 (~2021-12-13)
+
+* **[2021-2학기 기말고사 부정행위 방지 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147799&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-12-13)
+
+* **[[교무팀] 대면시험 방역수칙 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147798&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-12-13)
+
+* **[(기간연장) [국가근로] 2021학년도 2학기 동계방학 일반 교내외 국가근로장학생 대체선발 공고(희망근로장학기관 신청 필수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147786&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-12-13)
 
 * **[[의과대학 교학팀] 재학생 단기 아르바이트 모집(집기비품 운반)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147785&amp;article.offset=0&amp;articleLimit=30)**
@@ -80,15 +92,3 @@
 
 * **[「대학혁신지원사업 성과 확산 포럼-학생 성공을 위한 교육 혁신」안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147160&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2021-12-09)
-
-* **[[공학교육혁신센터] 2021 AJOU E-UR Poster 온라인 전시 참여하고 경품 받자!(~10일 3시까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147159&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-12-09)
-
-* **[2022-1학기 파란학기 MOOC 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147043&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2021-12-09)
-
-* **[2022-1학기 파란학기 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147041&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2021-12-09)
-
-* **[편입학전형 일정 안내 및 협조 요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147035&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 입학처 (~2021-12-09)
