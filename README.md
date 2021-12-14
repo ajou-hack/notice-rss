@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[파란학기제] 2022-1학기 파란학기제 설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147813&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2021-12-14)
+
 * **[[대학일자리플러스센터] 파이널 취업특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147809&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-14)
 
@@ -89,6 +92,3 @@
 
 * **[Implementation of Library Vaccination Pass (&#x27;21.12.13 Mon ~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147175&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - Central Library (~2021-12-10)
-
-* **[중앙도서관 방역패스 시행 안내 (&#x27;21.12.13 월요일 ~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147174&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2021-12-10)
