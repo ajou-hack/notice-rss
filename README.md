@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[경기도일자리재단]2021 경기도 온라인 청년 채용 박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147833&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-14)
+
 * **[[파란학기제] 2022-1학기 파란학기제 설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147813&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2021-12-14)
 
@@ -89,6 +92,3 @@
 
 * **[[장학] 2022-1학기 농립축산식품부 대학장학금 신청 안내_1.15(수) 17시까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147176&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-12-10)
-
-* **[Implementation of Library Vaccination Pass (&#x27;21.12.13 Mon ~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147175&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - Central Library (~2021-12-10)
