@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[「제7회 대학혁신지원사업 Webinar 컨퍼런스」 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147870&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2021-12-14)
+
 * **[[경기도일자리재단]2021 경기도 온라인 청년 채용 박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147833&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-14)
 
@@ -39,7 +42,7 @@
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147709&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-12-13)
 
-* **[[봉사활동] 「결식아동돕기 사랑의 쌀」배달 봉사자 모집(12/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147656&amp;article.offset=0&amp;articleLimit=30)**
+* **[[봉사활동] 「결식아동돕기 사랑의 쌀」배달 봉사자 모집(마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147656&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2021-12-13)
 
 * **[★수강신청,공고성적 불이익★ 공학인증 2021학년도 2학기 학생상담 기간 연장 안내 (2021.12.17.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147470&amp;article.offset=0&amp;articleLimit=30)**
@@ -89,6 +92,3 @@
 
 * **[[12월 13일] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147180&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2021-12-10)
-
-* **[[장학] 2022-1학기 농립축산식품부 대학장학금 신청 안내_1.15(수) 17시까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147176&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-12-10)
