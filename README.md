@@ -3,6 +3,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[대학일자리플러스센터] 파이널 취업특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147809&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-14)
+
+* **[(학사과정) 2021-동계 계절수업 수강료 납부 및 환불 안내 (2021.12.14. ~ 12.16.)(계절학기 등록)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147807&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-12-14)
+
 * **[[대학일자리플러스센터] (주)유베이스 GBS 특별과제 진행 인턴 추천채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147805&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-13)
 
@@ -86,9 +92,3 @@
 
 * **[중앙도서관 방역패스 시행 안내 (&#x27;21.12.13 월요일 ~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147174&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2021-12-10)
-
-* **[(학사과정) 2021-동계 계절수업 수강료 납부 및 환불 안내 (2021.12.14. ~ 12.16.)(계절학기 등록)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147170&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-12-10)
-
-* **[2021-2학기 기말고사 대면시험 응시자의 원격시험을 위한 PC실(강의실) 안내(12.10.추가)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147166&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-12-10)
