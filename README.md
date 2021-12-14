@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[(기간연장) [메이커스페이스] 운영일자 변경안내 (2021.12.08-12.24)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147882&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2021-12-14)
+
 * **[「제7회 대학혁신지원사업 Webinar 컨퍼런스」 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147870&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2021-12-14)
 
@@ -89,6 +92,3 @@
 
 * **[[대학일자리플러스센터] 12월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147181&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-10)
-
-* **[[12월 13일] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147180&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2021-12-10)
