@@ -3,6 +3,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[아주강좌] 2022-1 아주강좌 강연자 추천요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147903&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 다산학부대학교학팀 (~2021-12-14)
+
+* **[[대학일자리플러스센터] 2021 SW역량테스트 대비 모의테스트 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147902&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-14)
+
+* **[[대학일자리플러스센터] STA 테스팅컨설팅 채용전환형 인턴십 및 실무 기초교육 프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147899&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-14)
+
 * **[(기간연장) [메이커스페이스] 운영일자 변경안내 (2021.12.08-12.24)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147882&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2021-12-14)
 
@@ -82,13 +91,4 @@
  [파란학기제] - 대학교육혁신원운영팀 (~2021-12-10)
 
 * **[[대학일자리플러스센터] 동계 빅데이터 단기스쿨(입문/심화) 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147190&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-10)
-
-* **[[대학일자리플러스센터] 삼성그룹 자소서 완성반 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147189&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-10)
-
-* **[[긴급공지] 실험동물연구센터 세척기 고장에 따른 케이지 교체 주기 변경 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147183&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 실험동물연구센터 (~2021-12-10)
-
-* **[[대학일자리플러스센터] 12월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147181&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-10)
