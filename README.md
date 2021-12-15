@@ -3,6 +3,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[국제대학원] 함께 일할 근로장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147929&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 국제대학원 교학팀 (~2021-12-15)
+
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147913&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2021-12-14)
+
 * **[[아주강좌] 2022-1 아주강좌 강연자 추천요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147903&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 다산학부대학교학팀 (~2021-12-14)
 
@@ -85,10 +91,4 @@
  [학사] - 자연과학대학교학팀 (~2021-12-10)
 
 * **[[대학일자리플러스센터] (선착순)동계방학 취업동아리13기 모집중!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147195&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-10)
-
-* **[[파란학기] AMA팀 온라인 콘서트 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147193&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2021-12-10)
-
-* **[[대학일자리플러스센터] 동계 빅데이터 단기스쿨(입문/심화) 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147190&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-10)
