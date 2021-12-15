@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[서버 패치 작업으로 인한 홈페이지 서비스 중단 안내(12/16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147947&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 커뮤니케이션팀 (~2021-12-15)
+
 * **[[국제교육센터] 제70회 모의토익 실시 공고(2022.1.4(화) 15:30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147943&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교육센터 (~2021-12-15)
 
@@ -89,6 +92,3 @@
 
 * **[[시설팀] 상수도관 보수공사 완료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147199&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2021-12-11)
-
-* **[[자연대] 2021-2학기 수학 BSM 과목 기말고사 대학원생 부감독 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147198&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 자연과학대학교학팀 (~2021-12-10)
