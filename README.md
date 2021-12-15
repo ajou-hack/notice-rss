@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[메이커스페이스] 감각적인 PT를 위한 렌더링&amp;이미지편집 기초교육 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147948&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2021-12-15)
+
 * **[서버 패치 작업으로 인한 홈페이지 서비스 중단 안내(12/16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147947&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 커뮤니케이션팀 (~2021-12-15)
 
@@ -89,6 +92,3 @@
 
 * **[21학년도 제8차 동물실험기초/보수교육 -2021년 12월 29일(수)-온라인교육](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147203&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 실험동물연구센터 (~2021-12-13)
-
-* **[[시설팀] 상수도관 보수공사 완료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147199&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2021-12-11)
