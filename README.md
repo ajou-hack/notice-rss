@@ -3,6 +3,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[공학교육혁신센터] 2021 Global Dream Connecting 개최(~12/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147935&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-12-15)
+
 * **[[국제대학원] 함께 일할 근로장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147929&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 국제대학원 교학팀 (~2021-12-15)
 
@@ -89,6 +92,3 @@
 
 * **[[자연대] 2021-2학기 화학 BSM 과목 기말고사 대학원생 부감독 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147196&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 자연과학대학교학팀 (~2021-12-10)
-
-* **[[대학일자리플러스센터] (선착순)동계방학 취업동아리13기 모집중!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147195&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-10)
