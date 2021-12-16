@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[학부][졸업]2022-1학기 학사학위취득유예 신청 안내(2021.12.29.~2022.01.18.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147983&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-12-16)
+
+* **[실험실 안전관리 정보망 홈페이지 정상 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147982&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 안전관리센터 (~2021-12-16)
+
 * **[[아주규제과학센터] 융복합의료제품 규제과학연구센터 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147981&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 약학대학 교학팀 (~2021-12-16)
 
@@ -89,9 +95,3 @@
 
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147709&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-12-13)
-
-* **[[봉사활동] 「결식아동돕기 사랑의 쌀」배달 봉사자 모집(마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147656&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2021-12-13)
-
-* **[★수강신청,공고성적 불이익★ 공학인증 2021학년도 2학기 학생상담 기간 연장 안내 (2021.12.17.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147470&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-12-13)
