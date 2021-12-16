@@ -1,7 +1,13 @@
 # 최근 공지사항
 
+* **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 커뮤니케이션팀 (~2021-12-16)
+
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
+
+* **[[아주규제과학센터] 융복합의료제품 규제과학연구센터 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147981&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 약학대학 교학팀 (~2021-12-16)
 
 * **[(오늘마감)(학사과정) 2021-동계 계절수업 수강료 납부 및 환불 안내 (2021.12.14. ~ 12.16.)(계절학기 등록)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147972&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-12-16)
@@ -24,7 +30,7 @@
 * **[[메이커스페이스] 감각적인 PT를 위한 렌더링&amp;이미지편집 기초교육 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147948&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2021-12-15)
 
-* **[[국제교육센터] 제70회 모의토익 실시 공고(2022.1.4(화) 15:30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147943&amp;article.offset=0&amp;articleLimit=30)**
+* **[[접수 마감되었습니다!] [국제교육센터] 제70회 모의토익 실시 공고(2022.1.4(화) 15:30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147943&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교육센터 (~2021-12-15)
 
 * **[[국제대학원] 함께 일할 근로장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147929&amp;article.offset=0&amp;articleLimit=30)**
@@ -89,6 +95,3 @@
 
 * **[★수강신청,공고성적 불이익★ 공학인증 2021학년도 2학기 학생상담 기간 연장 안내 (2021.12.17.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147470&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-12-13)
-
-* **[[대학일자리플러스센터] 산규주식회사 플랜트엔지니어링 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147441&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-13)
