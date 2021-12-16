@@ -3,14 +3,20 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[대학일자리플러스센터]동계방학 컨설팅분야 일경험 추천 (주)유베이스 금일 14시 마감](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147958&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-16)
+
+* **[[혁신공유대학사업](재공지) 2021학년도 동계 미래자동차 분야 &#x27;인문사회계열(분반)&#x27; 취업역량 아카데미(Skill-Up 프로그램)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147957&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신공유팀 (~2021-12-16)
+
+* **[[공학교육혁신센터] 2021 Global Dream Connecting 개최(~12/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147956&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-12-16)
+
 * **[[메이커스페이스] 감각적인 PT를 위한 렌더링&amp;이미지편집 기초교육 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147948&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2021-12-15)
 
 * **[[국제교육센터] 제70회 모의토익 실시 공고(2022.1.4(화) 15:30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147943&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교육센터 (~2021-12-15)
-
-* **[[공학교육혁신센터] 2021 Global Dream Connecting 개최(~12/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147935&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-12-15)
 
 * **[[국제대학원] 함께 일할 근로장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147929&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 국제대학원 교학팀 (~2021-12-15)
@@ -86,9 +92,3 @@
 
 * **[[오늘] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147272&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2021-12-13)
-
-* **[21학년도 제8차 동물실험기초/보수교육 -2021년 12월 29일(수)-온라인교육](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147203&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 실험동물연구센터 (~2021-12-13)
-
-* **[[시설팀] 상수도관 보수공사 완료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147199&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2021-12-11)
