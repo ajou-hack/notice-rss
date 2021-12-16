@@ -3,6 +3,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[Remind][학사] 2022-1학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147966&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-12-16)
+
+* **[[Remind][학사]2022-1학기 재입학 시행 안내(12.01.~12.23.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147965&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-12-16)
+
 * **[[대학일자리플러스센터]동계방학 컨설팅분야 일경험 추천 (주)유베이스 금일 14시 마감](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147958&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-16)
 
@@ -86,9 +92,3 @@
 
 * **[[대학일자리플러스센터] 아이티센그룹 IT엔지니어 추천채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147386&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-13)
-
-* **[[학생지원팀] 원천정보관 토론학습실 이용 재안내 (링크 참조)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147278&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2021-12-13)
-
-* **[[오늘] 총장티타임 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147272&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2021-12-13)
