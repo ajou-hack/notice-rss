@@ -6,6 +6,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[글로벌미래교육원]실무영어자격증/토익스피킹 겨울특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148024&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 글로벌미래교육원 (~2021-12-17)
+
+* **[★아주 희망 카운슬러 추가 모집★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148023&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 입학팀 (~2021-12-17)
+
+* **[[대학일자리플러스센터] 12월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148020&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-17)
+
 * **[★수강신청,공고성적 불이익★ 공학인증 2021학년도 2학기 학생상담 기간 연장 안내 (2021.12.28.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148017&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-12-17)
 
@@ -86,12 +95,3 @@
 
 * **[[대학일자리플러스센터] 파이널 취업특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147809&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-14)
-
-* **[(학사과정) 2021-동계 계절수업 수강료 납부 및 환불 안내 (2021.12.14. ~ 12.16.)(계절학기 등록)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147807&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-12-14)
-
-* **[[대학일자리플러스센터] (주)유베이스 GBS 특별과제 진행 인턴 추천채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147805&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-13)
-
-* **[아주대 학보사 수습기자 정기모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147802&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학보사 (~2021-12-13)
