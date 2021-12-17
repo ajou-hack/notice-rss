@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[★수강신청,공고성적 불이익★ 공학인증 2021학년도 2학기 학생상담 기간 연장 안내 (2021.12.28.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148017&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-12-17)
+
+* **[[LINC+]총장과 함께하는 LINC+와의 끝없는 도전(소독티슈 배포)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148014&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - LINC사업팀 (~2021-12-17)
+
 * **[[대학일자리플러스센터] 2022년 국가직 지역인재 7급 수습공무원 추천 대상자 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147998&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-17)
 
@@ -89,9 +95,3 @@
 
 * **[아주대 학보사 수습기자 정기모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학보사 (~2021-12-13)
-
-* **[[수원도시재단] 혁신 아이디어 도출 우수 메이커 경연대회 참가자 모집(~12/19 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147801&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 창업지원팀 (~2021-12-13)
-
-* **[2021-2학기 기말고사 부정행위 방지 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147799&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-12-13)
