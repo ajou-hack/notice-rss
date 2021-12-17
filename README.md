@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[대학일자리플러스센터] 2022년 국가직 지역인재 7급 수습공무원 추천 대상자 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147998&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-17)
+
+* **[[장학]2022학년도 1학기 농어촌희망재단 농림축산식품부 대학 장학금 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147995&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-12-17)
+
 * **[[홍보] 국립국제교육원 - 2022-2023 중국 정부초청 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147993&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-12-17)
 
@@ -89,9 +95,3 @@
 
 * **[2021-2학기 기말고사 부정행위 방지 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147799&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-12-13)
-
-* **[[교무팀] 대면시험 방역수칙 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147798&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-12-13)
-
-* **[(기간연장) [국가근로] 2021학년도 2학기 동계방학 일반 교내외 국가근로장학생 대체선발 공고(희망근로장학기관 신청 필수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147786&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-12-13)
