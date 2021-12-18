@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[총무팀] 폭설 및 결빙 시 교내 도로/출입구 통제 사전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148027&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2021-12-17)
+
 * **[[글로벌미래교육원]실무영어자격증/토익스피킹 겨울특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148024&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 글로벌미래교육원 (~2021-12-17)
 
@@ -92,6 +95,3 @@
 
 * **[[파란학기제] 2022-1학기 파란학기제 설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147813&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2021-12-14)
-
-* **[[대학일자리플러스센터] 파이널 취업특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147809&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-14)
