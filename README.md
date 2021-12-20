@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[글로벌미래교육원]실무영어자격증/토익스피킹 겨울특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148065&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 글로벌미래교육원 (~2021-12-20)
+
+* README.md 2021 Global Dream Connecting 개최(~12/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148064&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-12-20)
+
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148059&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-12-20)
 
@@ -89,9 +95,3 @@
 
 * **[[아주강좌] 2022-1 아주강좌 강연자 추천요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147903&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 다산학부대학교학팀 (~2021-12-14)
-
-* **[[대학일자리플러스센터] 2021 SW역량테스트 대비 모의테스트 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147902&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-14)
-
-* **[[대학일자리플러스센터] STA 테스팅컨설팅 채용전환형 인턴십 및 실무 기초교육 프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147899&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-14)
