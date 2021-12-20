@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148059&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2021-12-20)
+
 * **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148040&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-12-20)
 
@@ -92,6 +95,3 @@
 
 * **[[대학일자리플러스센터] STA 테스팅컨설팅 채용전환형 인턴십 및 실무 기초교육 프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147899&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-14)
-
-* **[(기간연장) [메이커스페이스] 운영일자 변경안내 (2021.12.08-12.24)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147882&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2021-12-14)
