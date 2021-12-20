@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[대학일자리플러스센터] (선착순)동계방학 취업동아리13기 모집중!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148070&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-20)
+
+* **[(재공지) [성평등상담소] 제2회 성평등 콘텐츠 공모전 안내 (~01/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148069&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 성평등상담소 (~2021-12-20)
+
 * **[[글로벌미래교육원]실무영어자격증/토익스피킹 겨울특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148065&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 글로벌미래교육원 (~2021-12-20)
 
@@ -89,9 +95,3 @@
 
 * **[[국제대학원] 함께 일할 근로장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147929&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 국제대학원 교학팀 (~2021-12-15)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147913&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2021-12-14)
-
-* **[[아주강좌] 2022-1 아주강좌 강연자 추천요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147903&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 다산학부대학교학팀 (~2021-12-14)
