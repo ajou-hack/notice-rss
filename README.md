@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[혁신공유대학사업](마감임박) 2021학년도 동계 미래자동차 분야 취업역량 아카데미(Skill-Up 프로그램)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148085&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신공유팀 (~2021-12-21)
+
+* **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148083&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2021-12-21)
+
 * **[[안내] 건물앞 낮은 도로 경계석 부근에 주정차 자제 부탁드립니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148081&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2021-12-21)
 
@@ -89,9 +95,3 @@
 
 * **[[Remind][학사]2022-1학기 재입학 시행 안내(12.01.~12.23.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147965&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-12-16)
-
-* **[[대학일자리플러스센터]동계방학 컨설팅분야 일경험 추천 (주)유베이스 금일 14시 마감](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147958&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-16)
-
-* **[[혁신공유대학사업](재공지) 2021학년도 동계 미래자동차 분야 &#x27;인문사회계열(분반)&#x27; 취업역량 아카데미(Skill-Up 프로그램)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147957&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 혁신공유팀 (~2021-12-16)
