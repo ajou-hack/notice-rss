@@ -6,6 +6,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[안내] 건물앞 낮은 도로 경계석 부근에 주정차 자제 부탁드립니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148081&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2021-12-21)
+
+* **[[국가근로] 2021-2학기 한국장학재단 동계방학 집중근로 프로그램 선발자 안내사항(필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148080&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-12-21)
+
+* **[[대학일자리플러스센터](커리어하이) 현직자와 함께 금융권 HOW TO취준 이렇게 준비하자](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148077&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-21)
+
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148071&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-12-20)
 
@@ -86,12 +95,3 @@
 
 * **[[혁신공유대학사업](재공지) 2021학년도 동계 미래자동차 분야 &#x27;인문사회계열(분반)&#x27; 취업역량 아카데미(Skill-Up 프로그램)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147957&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신공유팀 (~2021-12-16)
-
-* **[[공학교육혁신센터] 2021 Global Dream Connecting 개최(~12/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147956&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-12-16)
-
-* **[[메이커스페이스] 감각적인 PT를 위한 렌더링&amp;이미지편집 기초교육 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147948&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2021-12-15)
-
-* **[[접수 마감되었습니다!] [국제교육센터] 제70회 모의토익 실시 공고(2022.1.4(화) 15:30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147943&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교육센터 (~2021-12-15)
