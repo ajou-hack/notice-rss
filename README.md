@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[2022년 시간급 최저임금 고지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148103&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 총무팀 (~2021-12-21)
+
+* **[[교수학습개발센터]K-MOOC 글로벌 우수강좌 구독권 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148098&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-12-21)
+
 * **[[장학] 2022 DB우수인재장학생 봉사단 모집_1.7(금) 17:00마감](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148097&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-12-21)
 
@@ -89,9 +95,3 @@
 
 * **[실험실 안전관리 정보망 홈페이지 정상 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147982&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 안전관리센터 (~2021-12-16)
-
-* **[[아주규제과학센터] 융복합의료제품 규제과학연구센터 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147981&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 약학대학 교학팀 (~2021-12-16)
-
-* **[(오늘5시마감)(학사과정) 2021-동계 계절수업 수강료 납부 및 환불 안내 (2021.12.14. ~ 12.16.)(계절학기 등록)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147972&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-12-16)
