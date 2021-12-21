@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148095&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2021-12-21)
+
 * **[[혁신공유대학사업](마감임박) 2021학년도 동계 미래자동차 분야 취업역량 아카데미(Skill-Up 프로그램)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148085&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신공유팀 (~2021-12-21)
 
@@ -91,7 +94,4 @@
  [학사] - 교무팀 (~2021-12-16)
 
 * **[[Remind][학사] 2022-1학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147966&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-12-16)
-
-* **[[Remind][학사]2022-1학기 재입학 시행 안내(12.01.~12.23.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147965&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-12-16)
