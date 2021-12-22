@@ -6,7 +6,10 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
-* **[[메이커스페이스] 파이썬의 &#x27;ㅍ&#x27;를 모르는 사람을 위한 완전 기초 강의 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148126&amp;article.offset=0&amp;articleLimit=30)**
+* **[(기한 연장) 제 27기 A.G.A. (국제학생대사, Ajou Global Ambassador) 모집 안내 (2022-1학기 활동)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148129&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2021-12-22)
+
+* **[[메이커스페이스] (1회차)파이썬의 &#x27;ㅍ&#x27;를 모르는 사람을 위한 완전 기초 강의 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148126&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2021-12-22)
 
 * **[[메이커스페이스]블렌더와 유니티로 쉽게 배우는 트렌디한 제페토 아이템 제작 교육 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148125&amp;article.offset=0&amp;articleLimit=30)**
@@ -92,6 +95,3 @@
 
 * **[★아주 희망 카운슬러 추가 모집★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148023&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학팀 (~2021-12-17)
-
-* **[[대학일자리플러스센터] 12월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148020&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-17)
