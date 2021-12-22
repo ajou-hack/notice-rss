@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[2021-동계 영어2(X043) 교원 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148121&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2021-12-22)
+
 * **[2021-2학기 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148116&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-12-22)
 
@@ -92,6 +95,3 @@
 
 * **[[LINC+]총장과 함께하는 LINC+와의 끝없는 도전(소독티슈 배포)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148014&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - LINC사업팀 (~2021-12-17)
-
-* **[[대학일자리플러스센터] 2022년 국가직 지역인재 7급 수습공무원 추천 대상자 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147998&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-17)
