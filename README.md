@@ -6,10 +6,13 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[(재공지)[공학교육혁신센터] 2021 Global Dream Connecting 개최(~12/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148104&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-12-22)
+
 * **[2022년 시간급 최저임금 고지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148103&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 총무팀 (~2021-12-21)
 
-* **[[교수학습개발센터]K-MOOC 글로벌 우수강좌 구독권 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148098&amp;article.offset=0&amp;articleLimit=30)**
+* **[(마감)[교수학습개발센터]K-MOOC 글로벌 우수강좌 구독권 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148098&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2021-12-21)
 
 * **[[장학] 2022 DB우수인재장학생 봉사단 모집_1.7(금) 17:00마감](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148097&amp;article.offset=0&amp;articleLimit=30)**
@@ -92,6 +95,3 @@
 
 * **[[학부][졸업]2022-1학기 학사학위취득유예 신청 안내(2021.12.29.~2022.01.18.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147983&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-12-16)
-
-* **[실험실 안전관리 정보망 홈페이지 정상 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147982&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 안전관리센터 (~2021-12-16)
