@@ -6,6 +6,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[2021년 소방시설 작동기능점검 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148109&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 안전관리센터 (~2021-12-22)
+
+* **[[학습법] 2021-2학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148108&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-12-22)
+
+* **[[학습법] 2021-2학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148107&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-12-22)
+
 * **[(재공지)[공학교육혁신센터] 2021 Global Dream Connecting 개최(~12/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148104&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-12-22)
 
@@ -86,12 +95,3 @@
 
 * **[[장학]2022학년도 1학기 농어촌희망재단 농림축산식품부 대학 장학금 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147995&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-12-17)
-
-* **[[홍보] 국립국제교육원 - 2022-2023 중국 정부초청 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147993&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-12-17)
-
-* **[(학사)2021-동계 계절수업 수업운영방식 변경 안내(비대면 수업 전환)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147989&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-12-16)
-
-* **[[학부][졸업]2022-1학기 학사학위취득유예 신청 안내(2021.12.29.~2022.01.18.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147983&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-12-16)
