@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[메이커스페이스] 파이썬의 &#x27;ㅍ&#x27;를 모르는 사람을 위한 완전 기초 강의 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148126&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2021-12-22)
+
+* **[[메이커스페이스]블렌더와 유니티로 쉽게 배우는 트렌디한 제페토 아이템 제작 교육 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148125&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2021-12-22)
+
 * **[2021-동계 영어2(X043) 교원 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148121&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2021-12-22)
 
@@ -89,9 +95,3 @@
 
 * **[[대학일자리플러스센터] 12월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148020&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-17)
-
-* **[★수강신청,공고성적 불이익★ 공학인증 2021학년도 2학기 학생상담 기간 연장 안내 (2021.12.28.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148017&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-12-17)
-
-* **[[LINC+]총장과 함께하는 LINC+와의 끝없는 도전(소독티슈 배포)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148014&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - LINC사업팀 (~2021-12-17)
