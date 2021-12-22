@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[2021-2학기 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148116&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-12-22)
+
 * **[2021년 소방시설 작동기능점검 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148109&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 안전관리센터 (~2021-12-22)
 
@@ -92,6 +95,3 @@
 
 * **[[대학일자리플러스센터] 2022년 국가직 지역인재 7급 수습공무원 추천 대상자 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147998&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-17)
-
-* **[[장학]2022학년도 1학기 농어촌희망재단 농림축산식품부 대학 장학금 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147995&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-12-17)
