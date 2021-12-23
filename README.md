@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[장학] 2022학년도 한국지도자육성장학재단 선발 공고_1.11(화)접수](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148145&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-12-23)
+
+* **[[LINC+] 2021 웹콘텐츠 기획안 공모전 수상팀 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148143&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - LINC사업팀 (~2021-12-23)
+
 * **[[학습법] 2021학년도 학습리더워크숍(3차) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148142&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2021-12-23)
 
@@ -89,9 +95,3 @@
 
 * **[[대학일자리플러스센터] (선착순)동계방학 취업동아리13기 모집중!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148070&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-20)
-
-* **[(재공지) [성평등상담소] 제2회 성평등 콘텐츠 공모전 안내 (~01/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148069&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 성평등상담소 (~2021-12-20)
-
-* **[[글로벌미래교육원]실무영어자격증/토익스피킹 겨울특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148065&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 글로벌미래교육원 (~2021-12-20)
