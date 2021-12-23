@@ -6,7 +6,25 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
-* **[(재)2022 로스쿨준비반 양현재(養賢齋) 모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148133&amp;article.offset=0&amp;articleLimit=30)**
+* **[[학습법] 2021학년도 학습리더워크숍(3차) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148142&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-12-23)
+
+* **[[학습법] 2021학년도 학습리더워크숍(2차) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148140&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-12-23)
+
+* **[[학습법] 2021학년도 학습리더워크숍(1차) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148139&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-12-23)
+
+* **[[대학일자리플러스센터] 일본취업 호텔 및 리조트 매니저 연수과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148138&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-23)
+
+* **[[대학일자리플러스센터] 하이브리드 소프트웨어 전문가 과정 53기_일본IT취업 우수과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148136&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-23)
+
+* **[[메이커스페이스] (2회차)파이썬의 &#x27;ㅍ&#x27;를 모르는 사람을 위한 완전 기초 강의 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148134&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2021-12-23)
+
+* **[(기한 연장)2022 로스쿨준비반 양현재(養賢齋) 모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148133&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 다산학부대학교학팀 (~2021-12-23)
 
 * **[2022학년도 아주대학교 편입 수강능력 시험 진행 스태프 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148132&amp;article.offset=0&amp;articleLimit=30)**
@@ -77,21 +95,3 @@
 
 * **[[글로벌미래교육원]실무영어자격증/토익스피킹 겨울특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148065&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 글로벌미래교육원 (~2021-12-20)
-
-* README.md 2021 Global Dream Connecting 개최(~12/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148064&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-12-20)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148059&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2021-12-20)
-
-* **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148040&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-12-20)
-
-* **[[Remind][학부][졸업]2022-1학기 학사학위취득유예 신청 안내(2021.12.29.~2022.01.18.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148039&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-12-20)
-
-* **[[Remind][학사]2022-1학기 재입학 시행 안내(12.01.~12.23.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148038&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-12-20)
-
-* **[[총무팀] 폭설 및 결빙 시 교내 도로/출입구 통제 사전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148027&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2021-12-17)
