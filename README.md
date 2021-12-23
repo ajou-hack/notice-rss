@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[(재공지)[공학교육혁신센터] 2021 Global Dream Connecting 개최(~12/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148155&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-12-23)
+
 * **[[장학] 2022학년도 한국지도자육성장학재단 선발 공고_1.11(화)접수](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148145&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-12-23)
 
@@ -92,6 +95,3 @@
 
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148071&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-12-20)
-
-* **[[대학일자리플러스센터] (선착순)동계방학 취업동아리13기 모집중!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148070&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-20)
