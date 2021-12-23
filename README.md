@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[2021-2 아주 Debate 결과 안내입니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148161&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 다산학부대학 교학팀 (~2021-12-23)
+
+* **[[대학일자리플러스센터] 6시그마 GB과정(동계 1차) 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148158&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-23)
+
 * **[(재공지)[공학교육혁신센터] 2021 Global Dream Connecting 개최(~12/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148155&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-12-23)
 
@@ -89,9 +95,3 @@
 
 * **[[국가근로] 2021-2학기 한국장학재단 동계방학 집중근로 프로그램 선발자 안내사항(필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148080&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-12-21)
-
-* **[[대학일자리플러스센터](커리어하이) 현직자와 함께 금융권 HOW TO취준 이렇게 준비하자](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148077&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-21)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148071&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2021-12-20)
