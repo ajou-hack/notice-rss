@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[(재)2022 로스쿨준비반 양현재(養賢齋) 모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148133&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 다산학부대학교학팀 (~2021-12-23)
+
+* **[2022학년도 아주대학교 편입 수강능력 시험 진행 스태프 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148132&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 입학처 (~2021-12-23)
+
 * **[(기한 연장) 제 27기 A.G.A. (국제학생대사, Ajou Global Ambassador) 모집 안내 (2022-1학기 활동)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148129&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2021-12-22)
 
@@ -89,9 +95,3 @@
 
 * **[[총무팀] 폭설 및 결빙 시 교내 도로/출입구 통제 사전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148027&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-12-17)
-
-* **[[글로벌미래교육원]실무영어자격증/토익스피킹 겨울특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148024&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 글로벌미래교육원 (~2021-12-17)
-
-* **[★아주 희망 카운슬러 추가 모집★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148023&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 입학팀 (~2021-12-17)
