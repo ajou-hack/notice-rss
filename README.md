@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[재공지]2022학년도 1학기 장학신청_12.31(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148186&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-12-24)
+
 * **[아주대학교 제17대 총장 선출 결과 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148184&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 법인사무처 (~2021-12-24)
 
@@ -92,6 +95,3 @@
 
 * **[2022년 시간급 최저임금 고지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148103&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 총무팀 (~2021-12-21)
-
-* **[(마감)[교수학습개발센터]K-MOOC 글로벌 우수강좌 구독권 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148098&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2021-12-21)
