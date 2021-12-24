@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[아주대학교 제17대 총장 선출 결과 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148184&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 법인사무처 (~2021-12-24)
+
 * **[[LINC+] 2021 AJOU Valley Festa ONtact 에 여러분을 초대합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148176&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - LINC사업팀 (~2021-12-24)
 
@@ -92,6 +95,3 @@
 
 * **[(마감)[교수학습개발센터]K-MOOC 글로벌 우수강좌 구독권 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148098&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2021-12-21)
-
-* **[[장학] 2022 DB우수인재장학생 봉사단 모집_1.7(금) 17:00마감](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148097&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-12-21)
