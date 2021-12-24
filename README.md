@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[대학일자리플러스센터] 12월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148174&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-24)
+
 * **[2021-2 동계방학 통학버스 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148172&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-12-24)
 
@@ -92,6 +95,3 @@
 
 * **[[혁신공유대학사업](마감임박) 2021학년도 동계 미래자동차 분야 취업역량 아카데미(Skill-Up 프로그램)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148085&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신공유팀 (~2021-12-21)
-
-* **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148083&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2021-12-21)
