@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[2021-2 동계방학 통학버스 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148172&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2021-12-24)
+
+* **[2022-1학기 1학년 1학기 복학자 Co-BSM 자동수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148170&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2021-12-24)
+
 * **[2021-2 아주 Debate 결과 안내입니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148161&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 다산학부대학 교학팀 (~2021-12-23)
 
@@ -89,9 +95,3 @@
 
 * **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148083&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2021-12-21)
-
-* **[[안내] 건물앞 낮은 도로 경계석 부근에 주정차 자제 부탁드립니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148081&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2021-12-21)
-
-* **[[국가근로] 2021-2학기 한국장학재단 동계방학 집중근로 프로그램 선발자 안내사항(필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148080&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-12-21)
