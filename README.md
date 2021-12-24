@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[LINC+] 2021 AJOU Valley Festa ONtact 에 여러분을 초대합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148176&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - LINC사업팀 (~2021-12-24)
+
+* **[[학생지원팀] 원천정보관 토론학습실 이용 재안내 (링크 참조)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148175&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2021-12-24)
+
 * **[[대학일자리플러스센터] 12월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148174&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-24)
 
@@ -89,9 +95,3 @@
 
 * **[[장학] 2022 DB우수인재장학생 봉사단 모집_1.7(금) 17:00마감](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148097&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-12-21)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148095&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2021-12-21)
-
-* **[[혁신공유대학사업](마감임박) 2021학년도 동계 미래자동차 분야 취업역량 아카데미(Skill-Up 프로그램)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148085&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 혁신공유팀 (~2021-12-21)
