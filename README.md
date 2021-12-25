@@ -15,6 +15,9 @@
 * **[아주대학교 제17대 총장 선출 결과 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148184&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 법인사무처 (~2021-12-24)
 
+* **[[교육평가인증센터] 「2021-2 전공 교양교육과정 학습성과」재학생 설문조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148177&amp;article.offset=0&amp;articleLimit=30)**
+ [학술] - 교육평가인증센터 (~2021-12-24)
+
 * **[[LINC+] 2021 AJOU Valley Festa ONtact 에 여러분을 초대합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148176&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - LINC사업팀 (~2021-12-24)
 
@@ -92,6 +95,3 @@
 
 * **[[학습법] 2021-2학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148107&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2021-12-22)
-
-* **[(재공지)[공학교육혁신센터] 2021 Global Dream Connecting 개최(~12/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148104&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-12-22)
