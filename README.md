@@ -6,7 +6,10 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
-* **[[대학일자리센터] 이공대생을 위한 코멘토 5주 직무체험](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148192&amp;article.offset=0&amp;articleLimit=30)**
+* **[[대학일자리플러스센터] GAIQ 구글애널리틱스 자격과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148194&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-26)
+
+* **[[대학일자리플러스센터] 이공대생을 위한 코멘토 5주 직무체험](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148192&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-26)
 
 * **[[대학일자리플러스센터] [마감임박] 동계방학 취업동아리13기 모집중!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148188&amp;article.offset=0&amp;articleLimit=30)**
@@ -92,6 +95,3 @@
 
 * **[2021년 소방시설 작동기능점검 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148109&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 안전관리센터 (~2021-12-22)
-
-* **[[학습법] 2021-2학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148108&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2021-12-22)
