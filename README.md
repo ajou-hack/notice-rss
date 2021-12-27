@@ -6,7 +6,7 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
-* **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148224&amp;article.offset=0&amp;articleLimit=30)**
+* **[(마감)[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148224&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2021-12-27)
 
 * **[[대학일자리플러스센터] 예비4학년(3학년 2학기) 이공계열 취업동아리 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148219&amp;article.offset=0&amp;articleLimit=30)**
