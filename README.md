@@ -6,6 +6,18 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[대학일자리플러스센터] 예비4학년(3학년 2학기) 이공계열 취업동아리 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148219&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-27)
+
+* **[(당일재공지)[LINC+] 2021 AJOU Valley Festa ONtact 에 여러분을 초대합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148217&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2021-12-27)
+
+* **[(당일공지)서버 보안 패치 작업으로 인한 홈페이지 서비스 이용 중지 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148215&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2021-12-27)
+
+* **[[국가근로] 2021학년도 2학기 동계방학 일반 교내외 국가근로장학생 대체선발자 안내사항](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148214&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-12-27)
+
 * **[[약학대학] 방학기간 중 근로할 학생인턴 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148210&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 약학대학교학팀 (~2021-12-27)
 
@@ -83,15 +95,3 @@
 
 * **[[학습법] 2021학년도 학습리더워크숍(1차) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148139&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2021-12-23)
-
-* **[[대학일자리플러스센터] 일본취업 호텔 및 리조트 매니저 연수과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148138&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-23)
-
-* **[[대학일자리플러스센터] 하이브리드 소프트웨어 전문가 과정 53기_일본IT취업 우수과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148136&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-23)
-
-* **[[메이커스페이스] (2회차)파이썬의 &#x27;ㅍ&#x27;를 모르는 사람을 위한 완전 기초 강의 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148134&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2021-12-23)
-
-* **[(기한 연장)2022 로스쿨준비반 양현재(養賢齋) 모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148133&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 다산학부대학교학팀 (~2021-12-23)
