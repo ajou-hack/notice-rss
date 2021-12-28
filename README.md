@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[승강기 보수 안내(율곡관)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=151705&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2021-12-28)
+
+* **[[대학일자리플러스센터] 동계방학 취업동아리13기 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=151703&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-28)
+
 * **[[글로벌제약임상대학원] 2022학년도 1학기 수시1차전형 신입생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=151675&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 글로벌제약임상대학원 교학팀 (~2021-12-28)
 
@@ -89,9 +95,3 @@
 
 * **[2021-2 아주 Debate 결과 안내입니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148161&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 다산학부대학 교학팀 (~2021-12-23)
-
-* **[[대학일자리플러스센터] 6시그마 GB과정(동계 1차) 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148158&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-23)
-
-* **[(재공지)[공학교육혁신센터] 2021 Global Dream Connecting 개최(~12/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148155&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-12-23)
