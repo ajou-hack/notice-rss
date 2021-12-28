@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[총무팀] 코로나19 백신 3차 접종 안내(질병관리청)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=169965&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2021-12-28)
+
 * **[21~22년 신(전)입 교원/직원 및 박사과정 대학원생 직장민방위대 편입 신청 공지입니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=169175&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 직장민방위대 (~2021-12-28)
 
@@ -57,7 +60,7 @@
 * **[[국가근로] 2021학년도 2학기 동계방학 일반 교내외 국가근로장학생 대체선발자 안내사항](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148214&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-12-27)
 
-* **[[약학대학] 방학기간 중 근로할 학생인턴 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148210&amp;article.offset=0&amp;articleLimit=30)**
+* **[[약학대학] 방학기간 중 근로할 학생인턴 모집(~12/29(수)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148210&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 약학대학교학팀 (~2021-12-27)
 
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148209&amp;article.offset=0&amp;articleLimit=30)**
@@ -92,6 +95,3 @@
 
 * **[아주대학교 제17대 총장 선출 결과 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148184&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 법인사무처 (~2021-12-24)
-
-* **[[교육평가인증센터] 「2021-2 전공 및 교양교육과정 학습성과」재학생 설문조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148177&amp;article.offset=0&amp;articleLimit=30)**
- [학술] - 교육평가인증센터 (~2021-12-24)
