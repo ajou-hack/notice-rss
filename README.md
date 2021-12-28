@@ -6,6 +6,18 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[글로벌제약임상대학원] 2022학년도 1학기 수시1차전형 신입생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=151675&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 글로벌제약임상대학원 교학팀 (~2021-12-28)
+
+* **[[대학일자리플러스센터]대학일자리플러스센터 서비스 모아보기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=149962&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-28)
+
+* **[[공학교육혁신센터] 2021 글로벌 스마트토크콘서트 개최(~1/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148244&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-12-28)
+
+* **[(재공지)[공학교육혁신센터] 2021 Global Dream Connecting 개최(~12/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148243&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-12-28)
+
 * **[(마감)[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148224&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2021-12-27)
 
@@ -15,7 +27,7 @@
 * **[(당일재공지)[LINC+] 2021 AJOU Valley Festa ONtact 에 여러분을 초대합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148217&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2021-12-27)
 
-* **[(당일공지)서버 보안 패치 작업으로 인한 홈페이지 서비스 이용 중지 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148215&amp;article.offset=0&amp;articleLimit=30)**
+* **[(당일공지)(조치완료)서버 보안 패치 작업으로 인한 홈페이지 서비스 이용 중지 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148215&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2021-12-27)
 
 * **[[국가근로] 2021학년도 2학기 동계방학 일반 교내외 국가근로장학생 대체선발자 안내사항](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148214&amp;article.offset=0&amp;articleLimit=30)**
@@ -83,15 +95,3 @@
 
 * **[(재공지)[공학교육혁신센터] 2021 Global Dream Connecting 개최(~12/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148155&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-12-23)
-
-* **[[장학] 2022학년도 한국지도자육성장학재단 선발 공고_1.11(화)접수](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148145&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-12-23)
-
-* **[[LINC+] 2021 웹콘텐츠 기획안 공모전 수상팀 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148143&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀 (~2021-12-23)
-
-* **[[학습법] 2021학년도 학습리더워크숍(3차) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148142&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2021-12-23)
-
-* **[[학습법] 2021학년도 학습리더워크숍(2차) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148140&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2021-12-23)
