@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[국가근로][대학생청소년교육지원] 12월 국가근로/대학생청소년교육지원장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 12/31 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=151824&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-12-28)
+
 * **[승강기 보수 안내(율곡관)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=151705&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2021-12-28)
 
@@ -92,6 +95,3 @@
 
 * **[2022-1학기 1학년 1학기 복학자 Co-BSM 자동수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148170&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2021-12-24)
-
-* **[2021-2 아주 Debate 결과 안내입니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148161&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 다산학부대학 교학팀 (~2021-12-23)
