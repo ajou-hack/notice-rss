@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[혁신공유대학 가상환경 기반 자율주행 경진대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179118&amp;article.offset=0&amp;articleLimit=30)**
+ [학술] - 혁신공유팀 (~2021-12-28)
+
 * **[[총무팀] 코로나19 백신 3차 접종 안내(질병관리청)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=169965&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-12-28)
 
@@ -92,6 +95,3 @@
 
 * **[[재공지]2022학년도 1학기 장학신청_12.31(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148186&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-12-24)
-
-* **[아주대학교 제17대 총장 선출 결과 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148184&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 법인사무처 (~2021-12-24)
