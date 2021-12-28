@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[21~22년 신(전)입 교원/직원 및 박사과정 대학원생 직장민방위대 편입 신청 공지입니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=169175&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 직장민방위대 (~2021-12-28)
+
+* **[(학사과정) 2021-동계 계절수업 수강포기 안내(계절학기 환불)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=169174&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-12-28)
+
 * **[[전공진입평가 미이수자 필독] 2022-1학기 전공진입평가 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=160743&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2021-12-28)
 
@@ -89,9 +95,3 @@
 
 * **[[교육평가인증센터] 「2021-2 전공 및 교양교육과정 학습성과」재학생 설문조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148177&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - 교육평가인증센터 (~2021-12-24)
-
-* **[[LINC+] 2021 AJOU Valley Festa ONtact 에 여러분을 초대합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148176&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - LINC사업팀 (~2021-12-24)
-
-* **[[학생지원팀] 원천정보관 토론학습실 이용 재안내 (링크 참조)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148175&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2021-12-24)
