@@ -6,6 +6,18 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[2022-1학기 파란학기 신청학생 명단 공지(신청학생 필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179135&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2021-12-29)
+
+* **[[학습법] 2021학년도 학습리더워크숍(3차) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179133&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-12-29)
+
+* **[[학습법] 2021학년도 학습리더워크숍(2차) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179132&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-12-29)
+
+* **[[학습법] 2021학년도 학습리더워크숍(1차) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179131&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-12-29)
+
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179128&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-12-29)
 
@@ -83,15 +95,3 @@
 
 * **[[다산학부대학]2021-동계 계절수업 비대면 수업을 위한 대체공간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148200&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2021-12-27)
-
-* **[[홍보] 국립국제교육원 - 2022-2023 이스라엘 정부초청 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148197&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2021-12-27)
-
-* **[(당일재공지) [LINC+] 2021 동계 현장실습 사전오리엔테이션 안내(선발학생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148195&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2021-12-27)
-
-* **[[대학일자리플러스센터] GAIQ 구글애널리틱스 자격과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148194&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-26)
-
-* **[[대학일자리플러스센터] 이공대생을 위한 코멘토 5주 직무체험](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148192&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-26)
