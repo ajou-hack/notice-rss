@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179128&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2021-12-29)
+
 * **[[중앙도서관] 2021학년도 자료구입 신청 마감 기한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179123&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2021-12-29)
 
@@ -92,6 +95,3 @@
 
 * **[[대학일자리플러스센터] 이공대생을 위한 코멘토 5주 직무체험](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148192&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-26)
-
-* **[[대학일자리플러스센터] [마감임박] 동계방학 취업동아리13기 모집중!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148188&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-24)
