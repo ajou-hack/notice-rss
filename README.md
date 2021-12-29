@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[(학사과정)2022-1학기 국내대학 학점교류 신청 안내(21.12.29.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179145&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-12-29)
+
 * **[2022-1학기 파란학기 신청학생 명단 공지(신청학생 필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179135&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2021-12-29)
 
@@ -92,6 +95,3 @@
 
 * **[[Remind][학부][졸업]2022-1학기 학사학위취득유예 신청 안내(2021.12.29.~2022.01.18.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148201&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-12-27)
-
-* **[[다산학부대학]2021-동계 계절수업 비대면 수업을 위한 대체공간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148200&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2021-12-27)
