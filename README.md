@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[중앙도서관] 2021학년도 자료구입 신청 마감 기한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179123&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2021-12-29)
+
 * **[혁신공유대학 가상환경 기반 자율주행 경진대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179118&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - 혁신공유팀 (~2021-12-28)
 
@@ -92,6 +95,3 @@
 
 * **[[대학일자리플러스센터] [마감임박] 동계방학 취업동아리13기 모집중!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148188&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-24)
-
-* **[[재공지]2022학년도 1학기 장학신청_12.31(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148186&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-12-24)
