@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[교무팀] 2021 학생 에세이 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179181&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-12-30)
+
 * **[[학습법] 2021-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179170&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2021-12-30)
 
@@ -92,6 +95,3 @@
 
 * **[(재공지)[공학교육혁신센터] 2021 Global Dream Connecting 개최(~12/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148243&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-12-28)
-
-* **[(마감)[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148224&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2021-12-27)
