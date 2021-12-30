@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[학습법] 2021-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179170&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-12-30)
+
+* **[[국제교육센터] 학생 인턴을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179169&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교육센터 (~2021-12-30)
+
 * **[[LINC+] 2021 산학협력 Connecting Star 성과발표 및 시상식 개최 안내(오늘 오후 3시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179168&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - LINC사업팀 (~2021-12-30)
 
@@ -89,9 +95,3 @@
 
 * **[(마감)[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148224&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2021-12-27)
-
-* **[[대학일자리플러스센터] 예비4학년(3학년 2학기) 이공계열 취업동아리 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148219&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-27)
-
-* **[(당일재공지)[LINC+] 2021 AJOU Valley Festa ONtact 에 여러분을 초대합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148217&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2021-12-27)
