@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[LINC+] 2021 산학협력 Connecting Star 성과발표 및 시상식 개최 안내(오늘 오후 3시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179168&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - LINC사업팀 (~2021-12-30)
+
 * **[[다산학부대학] 2021-2학기 체육수업(수영) 보조금 지급 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179160&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2021-12-30)
 
@@ -92,6 +95,3 @@
 
 * **[(당일재공지)[LINC+] 2021 AJOU Valley Festa ONtact 에 여러분을 초대합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148217&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2021-12-27)
-
-* **[(당일공지)(조치완료)서버 보안 패치 작업으로 인한 홈페이지 서비스 이용 중지 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148215&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2021-12-27)
