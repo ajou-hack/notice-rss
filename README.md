@@ -6,6 +6,21 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[다산학부대학] 2021-2학기 체육수업(수영) 보조금 지급 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179160&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2021-12-30)
+
+* **[[공학교육혁신센터] 2021 글로벌 스마트토크콘서트 개최(~1/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179158&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-12-30)
+
+* **[(재공지)[공학교육혁신센터] 2021 Global Dream Connecting 개최(~12/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179157&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-12-30)
+
+* **[[대학일자리플러스센터] 아주대만의 취업성공 후기가 궁금하지 않으세요?](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179152&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2021-12-29)
+
+* **[[CTL] 2021년, 숫자로 보는 아주Bb](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179150&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2021-12-29)
+
 * **[(학사과정)2022-1학기 국내대학 학점교류 신청 안내(21.12.29.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179145&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-12-29)
 
@@ -80,18 +95,3 @@
 
 * **[(당일공지)(조치완료)서버 보안 패치 작업으로 인한 홈페이지 서비스 이용 중지 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148215&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2021-12-27)
-
-* **[[국가근로] 2021학년도 2학기 동계방학 일반 교내외 국가근로장학생 대체선발자 안내사항](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148214&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-12-27)
-
-* **[[약학대학] 방학기간 중 근로할 학생인턴 모집(~12/29(수)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148210&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 약학대학교학팀 (~2021-12-27)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148209&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2021-12-27)
-
-* **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148202&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-12-27)
-
-* **[[Remind][학부][졸업]2022-1학기 학사학위취득유예 신청 안내(2021.12.29.~2022.01.18.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=148201&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-12-27)
