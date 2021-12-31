@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[공학교육혁신센터] 2021 글로벌 스마트토크콘서트 개최(~1/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179211&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-12-31)
+
+* **[[공학교육혁신센터] 2021 Global Dream Connecting 개최(~1/12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179210&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2021-12-31)
+
 * **[2022년 경기도 송파학사 신규입사생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179208&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-12-31)
 
@@ -63,9 +69,6 @@
 * **[[공학교육혁신센터] 2021 글로벌 스마트토크콘서트 개최(~1/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179158&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-12-30)
 
-* **[(재공지)[공학교육혁신센터] 2021 Global Dream Connecting 개최(~12/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179157&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-12-30)
-
 * **[[대학일자리플러스센터] 아주대만의 취업성공 후기가 궁금하지 않으세요?](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179152&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2021-12-29)
 
@@ -92,6 +95,3 @@
 
 * **[[중앙도서관] 2021학년도 자료구입 신청 마감 기한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179123&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2021-12-29)
-
-* **[혁신공유대학 가상환경 기반 자율주행 경진대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179118&amp;article.offset=0&amp;articleLimit=30)**
- [학술] - 혁신공유팀 (~2021-12-28)
