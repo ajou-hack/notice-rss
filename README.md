@@ -6,6 +6,24 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[2022년 충남서울학사관 입사생 모집 및 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179204&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-12-31)
+
+* **[[Remind][수정][학부]2022-1학기 휴학, 복학 신청 안내(자주묻는 질문 반영)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179203&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-12-31)
+
+* **[한국장학재단 - 은행권 대학생 연합기숙사 2022년 입주생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179201&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-12-31)
+
+* **[[한국장학재단] 2022년 1학기 푸른등대 기부장학사업 신규장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179200&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-12-31)
+
+* **[2022년 상반기 경기도 대학생 학자금 대출이자 지원 신청안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179199&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-12-31)
+
+* **[[학부]2022-1학기 시간제등록생 신청 기간 안내(01.07.~01.14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179197&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2021-12-31)
+
 * **[[장학] 2022년도 (재)논산시장학회 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179196&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-12-31)
 
@@ -77,21 +95,3 @@
 
 * **[(학사과정) 2021-동계 계절수업 수강포기 안내(계절학기 환불)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=169174&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-12-28)
-
-* **[[전공진입평가 미이수자 필독] 2022-1학기 전공진입평가 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=160743&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2021-12-28)
-
-* **[[학습법] 2021-2학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=160742&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2021-12-28)
-
-* **[[학습법] 2021-2학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=160741&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2021-12-28)
-
-* **[[국가근로][대학생청소년교육지원] 12월 국가근로/대학생청소년교육지원장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 12/31 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=151824&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-12-28)
-
-* **[승강기 보수 안내(율곡관)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=151705&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2021-12-28)
-
-* **[[대학일자리플러스센터] 동계방학 취업동아리13기 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=151703&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-28)
