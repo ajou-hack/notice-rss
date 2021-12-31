@@ -6,6 +6,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[2022년 경기도 송파학사 신규입사생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179208&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-12-31)
+
+* **[2022년 경기도 기숙사 신규입사생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179207&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2021-12-31)
+
+* **[LINC+사업단 뉴스레터 제43호(2021.12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179206&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2021-12-31)
+
 * **[2022년 충남서울학사관 입사생 모집 및 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179204&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-12-31)
 
@@ -86,12 +95,3 @@
 
 * **[혁신공유대학 가상환경 기반 자율주행 경진대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179118&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - 혁신공유팀 (~2021-12-28)
-
-* **[[총무팀] 코로나19 백신 3차 접종 안내(질병관리청)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=169965&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2021-12-28)
-
-* **[21~22년 신(전)입 교원/직원 및 박사과정 대학원생 직장민방위대 편입 신청 공지입니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=169175&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 직장민방위대 (~2021-12-28)
-
-* **[(학사과정) 2021-동계 계절수업 수강포기 안내(계절학기 환불)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=169174&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-12-28)
