@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[2021-2학기 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179227&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-01-03)
+
 * **[[공학교육혁신센터] 2021 글로벌 스마트토크콘서트 개최(~1/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179211&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-12-31)
 
@@ -92,6 +95,3 @@
 
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179128&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2021-12-29)
-
-* **[[중앙도서관] 2021학년도 자료구입 신청 마감 기한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179123&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2021-12-29)
