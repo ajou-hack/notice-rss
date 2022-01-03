@@ -6,6 +6,24 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[대학일자리플러스센터] 12월 5주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179238&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-01-03)
+
+* **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내(자주묻는 질문 반영)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179236&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-01-03)
+
+* **[[Remind][학부][졸업]2022-1학기 학사학위취득유예 신청 안내(2021.12.29.~2022.01.18.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179235&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-01-03)
+
+* **[[Remind][학부]2022-1학기 시간제등록생 신청 기간 안내(01.07.~01.14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179234&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-01-03)
+
+* **[2021년12월 정기점검 점검결과 및 2022년01월 정기점검 계획표 입니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179233&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2022-01-03)
+
+* **[[학자금대출] 2022학년도 1학기 한국장학재단 농어촌출신대학생 학자금융자(무이자) 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179231&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-01-03)
+
 * **[2021-2학기 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179227&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-01-03)
 
@@ -77,21 +95,3 @@
 
 * **[[CTL] 2021년, 숫자로 보는 아주Bb](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179150&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2021-12-29)
-
-* **[(학사과정)2022-1학기 국내대학 학점교류 신청 안내(21.12.29.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179145&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-12-29)
-
-* **[2022-1학기 파란학기 신청학생 명단 공지(신청학생 필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179135&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2021-12-29)
-
-* **[[학습법] 2021학년도 학습리더워크숍(3차) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179133&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2021-12-29)
-
-* **[[학습법] 2021학년도 학습리더워크숍(2차) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179132&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2021-12-29)
-
-* **[[학습법] 2021학년도 학습리더워크숍(1차) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179131&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2021-12-29)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179128&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2021-12-29)
