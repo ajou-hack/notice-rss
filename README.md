@@ -6,6 +6,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[국제교류팀] 2022학년도 1학기 제27기 A.G.A. 1차 합격자 발표 및 면접 일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179250&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2022-01-03)
+
+* **[시스템 보안 작업으로 인한 전산 서비스 중지 안내(1/7, 금)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179243&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2022-01-03)
+
+* **[[공학교육혁신센터] 2021 글로벌 스마트토크콘서트 개최(~1/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179242&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2022-01-03)
+
 * **[[대학일자리플러스센터] 12월 5주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179238&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-01-03)
 
@@ -86,12 +95,3 @@
 
 * **[[다산학부대학] 2021-2학기 체육수업(수영) 보조금 지급 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179160&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2021-12-30)
-
-* **[[공학교육혁신센터] 2021 글로벌 스마트토크콘서트 개최(~1/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179158&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-12-30)
-
-* **[[대학일자리플러스센터] 아주대만의 취업성공 후기가 궁금하지 않으세요?](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179152&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2021-12-29)
-
-* **[[CTL] 2021년, 숫자로 보는 아주Bb](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179150&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2021-12-29)
