@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[장학] 2022학년도 정수장학회 신규장학생 선발_1.14(금) 15:00접수](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179310&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-01-04)
+
+* **[[장학] 2021-2, 2022-1학기 목암과학장학재단 장학생 신청_1.10(월) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179309&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-01-04)
+
 * **[[대학일자리플러스센터] 상반기 대비 자기소개서 특강 및 컨설팅](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179303&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-01-04)
 
@@ -89,9 +95,3 @@
 
 * **[[재공지]어학졸업인증을 위한 공인어학성적 등록 및 제출 기한 연장 안내(~01/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179192&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-12-31)
-
-* **[(일정변경 및 재공지)2022-1학기 1학년 1학기 복학자 Co-BSM 자동수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179188&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2021-12-31)
-
-* **[[장학] 2021-2, 2022-1학기 목암과학장학재단 장학생 신청_1.10(월) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179187&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-12-31)
