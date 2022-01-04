@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[대학일자리플러스센터] 상반기 대비 자기소개서 특강 및 컨설팅](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179303&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-01-04)
+
 * **[[대학일자리플러스센터] 6시그마 GB과정(동계 2차) 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179287&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-01-04)
 
@@ -92,6 +95,3 @@
 
 * **[[장학] 2021-2, 2022-1학기 목암과학장학재단 장학생 신청_1.10(월) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179187&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-12-31)
-
-* **[[교무팀] 2021 학생 에세이 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179181&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-12-30)
