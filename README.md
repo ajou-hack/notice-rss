@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[인권센터_성평등상담소] 근로장학생 모집 (~1/9)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179280&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 성평등상담소 (~2022-01-04)
+
 * **[[장학] 용운장학재단 장학생 모집 공고(2022학년도 신입생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179275&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-01-04)
 
@@ -92,6 +95,3 @@
 
 * **[[학습법] 2021-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179170&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2021-12-30)
-
-* **[[국제교육센터] 학생 인턴을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179169&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교육센터 (~2021-12-30)
