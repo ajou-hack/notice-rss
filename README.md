@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[대학일자리플러스센터] 6시그마 GB과정(동계 2차) 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179287&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-01-04)
+
 * **[[인권센터_성평등상담소] 근로장학생 모집 (~1/9)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179280&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 성평등상담소 (~2022-01-04)
 
@@ -92,6 +95,3 @@
 
 * **[[교무팀] 2021 학생 에세이 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179181&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-12-30)
-
-* **[[학습법] 2021-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179170&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2021-12-30)
