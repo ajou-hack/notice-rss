@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[장학] 용운장학재단 장학생 모집 공고(2022학년도 신입생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179275&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-01-04)
+
+* **[(당일공지)2022-1학기 1학년 1학기 복학자 Co-BSM 자동수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179273&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-01-04)
+
 * **[[학부]2022-1학기 수업 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179264&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-01-03)
 
@@ -38,9 +44,6 @@
 
 * **[2021-2학기 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179227&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-01-03)
-
-* **[[공학교육혁신센터] 2021 글로벌 스마트토크콘서트 개최(~1/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179211&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-12-31)
 
 * **[[공학교육혁신센터] 2021 Global Dream Connecting 개최(~1/12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179210&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2021-12-31)
@@ -92,6 +95,3 @@
 
 * **[[국제교육센터] 학생 인턴을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179169&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교육센터 (~2021-12-30)
-
-* **[[LINC+] 2021 산학협력 Connecting Star 성과발표 및 시상식 개최 안내(오늘 오후 3시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179168&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - LINC사업팀 (~2021-12-30)
