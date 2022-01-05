@@ -6,6 +6,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 39호 (2022.01)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179325&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-01-05)
+
+* **[「2040년 수원도시기본계획」수립 관련 설문조사 및 의견수렴](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179323&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기획팀 (~2022-01-05)
+
+* **[혜강관(종합실험동) 신축공사 개략일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179319&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2022-01-05)
+
 * **[(재공지) [성평등상담소] 제2회 성평등 콘텐츠 공모전 안내 (~01/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179317&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 성평등상담소 (~2022-01-05)
 
@@ -86,12 +95,3 @@
 
 * **[한국장학재단 - 은행권 대학생 연합기숙사 2022년 입주생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179201&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-12-31)
-
-* **[[한국장학재단] 2022년 1학기 푸른등대 기부장학사업 신규장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179200&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-12-31)
-
-* **[2022년 상반기 경기도 대학생 학자금 대출이자 지원 신청안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179199&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-12-31)
-
-* **[[학부]2022-1학기 시간제등록생 신청 기간 안내(01.07.~01.14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179197&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-12-31)
