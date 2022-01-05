@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[학습법] 2021-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179331&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-01-05)
+
+* **[[학습법] 2021-2학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179330&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-01-05)
+
 * **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 39호 (2022.01)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179325&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-01-05)
 
@@ -88,10 +94,4 @@
  [기타] - LINC사업팀 (~2021-12-31)
 
 * **[2022년 충남서울학사관 입사생 모집 및 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179204&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-12-31)
-
-* **[[Remind][수정][학부]2022-1학기 휴학, 복학 신청 안내(자주묻는 질문 반영)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179203&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-12-31)
-
-* **[한국장학재단 - 은행권 대학생 연합기숙사 2022년 입주생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179201&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-12-31)
