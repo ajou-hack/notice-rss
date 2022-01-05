@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[(재공지) [성평등상담소] 제2회 성평등 콘텐츠 공모전 안내 (~01/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179317&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 성평등상담소 (~2022-01-05)
+
+* **[[학생지원팀] 원천정보관 토론학습실 운영안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179316&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2022-01-05)
+
 * **[[장학] 2022학년도 정수장학회 신규장학생 선발_1.14(금) 15:00접수](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179310&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-01-04)
 
@@ -88,10 +94,4 @@
  [장학] - 학생지원팀 (~2021-12-31)
 
 * **[[학부]2022-1학기 시간제등록생 신청 기간 안내(01.07.~01.14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179197&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2021-12-31)
-
-* **[[장학] 2022년도 (재)논산시장학회 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179196&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-12-31)
-
-* **[[재공지]어학졸업인증을 위한 공인어학성적 등록 및 제출 기한 연장 안내(~01/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179192&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2021-12-31)
