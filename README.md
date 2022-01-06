@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[대학일자리플러스센터] 내게 ON 상담 - eDISC 진단을 통한 진로 상담(무료검사!)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179345&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-01-06)
+
+* **[AIMS2 신교원시스템 연구관리서비스 일시 중지 안내 [22.01.06.(목) ~ 22.02.28.(월)]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179337&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2022-01-05)
+
 * **[[학습법] 2021-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179331&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-01-05)
 
@@ -39,7 +45,7 @@
 * **[[대학일자리플러스센터] 6시그마 GB과정(동계 2차) 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179287&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-01-04)
 
-* **[[인권센터_성평등상담소] 근로장학생 모집 (~1/9)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179280&amp;article.offset=0&amp;articleLimit=30)**
+* **[[인권센터_성평등상담소] 근로장학생 모집 (조기 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179280&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 성평등상담소 (~2022-01-04)
 
 * **[[장학] 용운장학재단 장학생 모집 공고(2022학년도 신입생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179275&amp;article.offset=0&amp;articleLimit=30)**
@@ -88,10 +94,4 @@
  [장학] - 학생지원팀 (~2021-12-31)
 
 * **[2022년 경기도 기숙사 신규입사생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179207&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-12-31)
-
-* **[LINC+사업단 뉴스레터 제43호(2021.12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179206&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2021-12-31)
-
-* **[2022년 충남서울학사관 입사생 모집 및 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179204&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2021-12-31)
