@@ -6,6 +6,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[대학일자리플러스센터] 동계방학 면접특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179355&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-01-06)
+
+* **[2021-2 전공 및 교양교육과정 학습성과 재학생 설문조사 (기프티콘 제공)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179354&amp;article.offset=0&amp;articleLimit=30)**
+ [학술] - 교육평가인증센터 (~2022-01-06)
+
+* **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179353&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-01-06)
+
 * **[[대학일자리플러스센터] 내게 ON 상담 - eDISC 진단을 통한 진로 상담(무료검사!)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179345&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-01-06)
 
@@ -86,12 +95,3 @@
 
 * **[2021-2학기 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179227&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-01-03)
-
-* **[[공학교육혁신센터] 2021 Global Dream Connecting 개최(~1/12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179210&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2021-12-31)
-
-* **[2022년 경기도 송파학사 신규입사생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179208&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-12-31)
-
-* **[2022년 경기도 기숙사 신규입사생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179207&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2021-12-31)
