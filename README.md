@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[2020년도 학생인건비 지급비율 및 부당회수 비율 공개(수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179395&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학지원팀 (~2022-01-07)
+
 * **[[2022학년도 신입생 필독] 2022학년도 신입생 대상 진단평가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179394&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-01-07)
 
@@ -29,6 +32,9 @@
 
 * **[[대학일자리플러스센터] 야후재팬 기업 설명회 및 선배와 토크](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179371&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-01-07)
+
+* **[[경영대학] 2022학년도 전기 일반대학원 비즈니스애널리틱스학과 입시설명회 개최 (1/11)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179366&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 경영대학교학팀 (~2022-01-06)
 
 * **[[다산학부대학] 2022학년도 신입생 대상 자동수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179359&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-01-06)
@@ -89,9 +95,3 @@
 
 * **[[장학] 용운장학재단 장학생 모집 공고(2022학년도 신입생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179275&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-01-04)
-
-* **[(당일공지)2022-1학기 1학년 1학기 복학자 Co-BSM 자동수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179273&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-01-04)
-
-* **[[학부]2022-1학기 수업 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179264&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-01-03)
