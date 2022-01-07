@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[공학교육혁신센터] 2021 글로벌 스마트토크콘서트 개최(~1/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179390&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2022-01-07)
+
+* **[[당일공지]시스템 보안 작업으로 인한 전산 서비스 중지 안내(1/7, 금)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179387&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2022-01-07)
+
 * **[[장학] 2022학년도 삼송장학회 장학생 선발_1.20(목) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179381&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-01-07)
 
@@ -89,9 +95,3 @@
 
 * **[[국제교류팀] 2022학년도 1학기 제27기 A.G.A. 1차 합격자 발표 및 면접 일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179250&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-01-03)
-
-* **[시스템 보안 작업으로 인한 전산 서비스 중지 안내(1/7, 금)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179243&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2022-01-03)
-
-* **[[공학교육혁신센터] 2021 글로벌 스마트토크콘서트 개최(~1/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179242&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2022-01-03)
