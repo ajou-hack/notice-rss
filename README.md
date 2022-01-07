@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[자료실 임시 휴관(2022학년도 편입학 시험 시행 및 코로나 방역 대응) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179403&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-01-07)
+
+* **[[장학] 2022학년도 1학기 해성문화재단 장학생 선발_1.20(목) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179402&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-01-07)
+
 * **[2020년도 학생인건비 지급비율 및 부당회수 비율 공개(수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179395&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학지원팀 (~2022-01-07)
 
@@ -89,9 +95,3 @@
 
 * **[[대학일자리플러스센터] 6시그마 GB과정(동계 2차) 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179287&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-01-04)
-
-* **[[인권센터_성평등상담소] 근로장학생 모집 (조기 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179280&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 성평등상담소 (~2022-01-04)
-
-* **[[장학] 용운장학재단 장학생 모집 공고(2022학년도 신입생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179275&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-01-04)
