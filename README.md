@@ -6,6 +6,21 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[장학] 2022학년도 삼송장학회 장학생 선발_1.20(목) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179381&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-01-07)
+
+* **[2022년 천안시 대학생 학자금 대출이자 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179378&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-01-07)
+
+* **[[장학-재공지] 2022학년도 한국지도자육성장학재단 선발 공고_1.11(화)접수](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179377&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-01-07)
+
+* **[[장학-재공지] 2021-2, 2022-1학기 목암과학장학재단 장학생 신청_1.10(월) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179376&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-01-07)
+
+* **[[대학일자리플러스센터] 야후재팬 기업 설명회 및 선배와 토크](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179371&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-01-07)
+
 * **[[다산학부대학] 2022학년도 신입생 대상 자동수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179359&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-01-06)
 
@@ -80,18 +95,3 @@
 
 * **[[공학교육혁신센터] 2021 글로벌 스마트토크콘서트 개최(~1/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179242&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2022-01-03)
-
-* **[[대학일자리플러스센터] 12월 5주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179238&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-01-03)
-
-* **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내(자주묻는 질문 반영)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179236&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-01-03)
-
-* **[[Remind][학부][졸업]2022-1학기 학사학위취득유예 신청 안내(2021.12.29.~2022.01.18.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179235&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-01-03)
-
-* **[[Remind][학부]2022-1학기 시간제등록생 신청 기간 안내(01.07.~01.14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179234&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-01-03)
-
-* **[2021년12월 정기점검 점검결과 및 2022년01월 정기점검 계획표 입니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179233&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2022-01-03)
