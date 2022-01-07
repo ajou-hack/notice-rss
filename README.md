@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179414&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-01-07)
+
 * **[[학부]2022-1학기 재입학 확정 및 학사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179412&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-01-07)
 
@@ -92,6 +95,3 @@
 
 * **[[학생지원팀] 원천정보관 토론학습실 운영안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179316&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2022-01-05)
-
-* **[[장학] 2022학년도 정수장학회 신규장학생 선발_1.14(금) 15:00접수](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179310&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-01-04)
