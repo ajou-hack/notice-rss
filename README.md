@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[규정류 제·개정 공포(2021-제12차 교무회의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179418&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2022-01-07)
+
+* **[「학교법인 대우학원 정관」개정 공포(제353차 이사회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179417&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2022-01-07)
+
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179414&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-01-07)
 
@@ -89,9 +95,3 @@
 
 * **[혜강관(종합실험동) 신축공사 개략일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179319&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2022-01-05)
-
-* **[(재공지) [성평등상담소] 제2회 성평등 콘텐츠 공모전 안내 (~01/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179317&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 성평등상담소 (~2022-01-05)
-
-* **[[학생지원팀] 원천정보관 토론학습실 운영안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179316&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2022-01-05)
