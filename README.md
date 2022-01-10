@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[국제대학원] 누비아주 29기를 모집합니다! (~1/16 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179458&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 국제대학원교학팀 (~2022-01-10)
+
+* **[2022학년도 1학기 수업도서 구입(신청) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179456&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-01-10)
+
 * **[[대학혁신지원사업]경기남부권 5개대학 성과포럼 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179452&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 대학교육혁신원운영팀 (~2022-01-10)
 
@@ -89,9 +95,3 @@
 
 * **[[다산학부대학] 2022학년도 신입생 대상 자동수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179359&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-01-06)
-
-* **[[학자금대출] 2022학년도 1학기 한국장학재단 학자금대출 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179358&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-01-06)
-
-* **[[대학일자리플러스센터] 동계방학 면접특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179355&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-01-06)
