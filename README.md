@@ -6,6 +6,21 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[대학혁신지원사업]경기남부권 5개대학 성과포럼 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179452&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 대학교육혁신원운영팀 (~2022-01-10)
+
+* **[[법학전문대학원] 제11회 변호사시험 시행으로 인한 연암관 5층 출입제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179451&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 법학전문대학원 교학팀 (~2022-01-10)
+
+* **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내(자주묻는 질문 반영)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179443&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-01-10)
+
+* **[[공학교육혁신센터] 2021 Global Dream Connecting 개최(~1/12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179442&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2022-01-10)
+
+* **[[Remind][학부]2022-1학기 시간제등록생 신청 기간 안내(01.07.~01.14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179441&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-01-10)
+
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179439&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-01-10)
 
@@ -80,18 +95,3 @@
 
 * **[[대학일자리플러스센터] 동계방학 면접특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179355&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-01-06)
-
-* **[2021-2 전공 및 교양교육과정 학습성과 재학생 설문조사 (기프티콘 제공)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179354&amp;article.offset=0&amp;articleLimit=30)**
- [학술] - 교육평가인증센터 (~2022-01-06)
-
-* **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179353&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-01-06)
-
-* **[[대학일자리플러스센터] 내게 ON 상담 - eDISC 진단을 통한 진로 상담(무료검사!)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179345&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-01-06)
-
-* **[AIMS2 신교원시스템 연구관리서비스 일시 중지 안내 [22.01.06.(목) ~ 22.02.28.(월)]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179337&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2022-01-05)
-
-* **[[학습법] 2021-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179331&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-01-05)
