@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[전공진입평가 미이수자 필독] 2022-1학기 전공진입평가 수강신청 안내(1/14(금) 10:00~16:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179474&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-01-10)
+
+* **[(일정변경공지)[다산학부대학]2022학년도 신입생 대상 자동수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179471&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-01-10)
+
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179464&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-01-10)
 
@@ -88,10 +94,4 @@
  [장학] - 학생지원팀 (~2022-01-07)
 
 * **[2022년 천안시 대학생 학자금 대출이자 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179378&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-01-07)
-
-* **[[장학-재공지] 2022학년도 한국지도자육성장학재단 선발 공고_1.11(화)접수](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179377&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-01-07)
-
-* **[[장학-재공지] 2021-2, 2022-1학기 목암과학장학재단 장학생 신청_1.10(월) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179376&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-01-07)
