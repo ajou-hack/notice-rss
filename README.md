@@ -6,6 +6,18 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179439&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-01-10)
+
+* **[[장학-재공지] 2021-2, 2022-1학기 목암과학장학재단 장학생 신청_1.10(월) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179431&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-01-10)
+
+* **[[대학일자리플러스센터] 일본 우수 기업(teamLab, 딜로이트 토마츠 컨설팅) 채용전형 전략설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179430&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-01-10)
+
+* **[[대학일자리플러스센터] 1월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179429&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-01-10)
+
 * **[규정류 제·개정 공포(2021-제12차 교무회의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179418&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 기획팀 (~2022-01-07)
 
@@ -36,7 +48,7 @@
 * **[[2022학년도 신입생 필독] 2022학년도 신입생 대상 진단평가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179394&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-01-07)
 
-* **[[공학교육혁신센터] 2021 글로벌 스마트토크콘서트 개최(~1/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179390&amp;article.offset=0&amp;articleLimit=30)**
+* **[(마감)[공학교육혁신센터] 2021 글로벌 스마트토크콘서트 개최(~1/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179390&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2022-01-07)
 
 * **[[당일공지]시스템 보안 작업으로 인한 전산 서비스 중지 안내(1/7, 금)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179387&amp;article.offset=0&amp;articleLimit=30)**
@@ -83,15 +95,3 @@
 
 * **[[학습법] 2021-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179331&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-01-05)
-
-* **[[학습법] 2021-2학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179330&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-01-05)
-
-* **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 39호 (2022.01)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179325&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-01-05)
-
-* **[「2040년 수원도시기본계획」수립 관련 설문조사 및 의견수렴](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179323&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기획팀 (~2022-01-05)
-
-* **[혜강관(종합실험동) 신축공사 개략일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179319&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2022-01-05)
