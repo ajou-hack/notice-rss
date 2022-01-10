@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[대학일자리플러스센터] GAIQ구글애널리틱스 자격과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179477&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-01-10)
+
+* **[[대학일자리플러스센터] 2021 하반기 취업성공 아주인과 함께 하는 취중진담](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179476&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-01-10)
+
 * **[[전공진입평가 미이수자 필독] 2022-1학기 전공진입평가 수강신청 안내(1/14(금) 10:00~16:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179474&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-01-10)
 
@@ -89,9 +95,3 @@
 
 * **[[당일공지]시스템 보안 작업으로 인한 전산 서비스 중지 안내(1/7, 금)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179387&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-07)
-
-* **[[장학] 2022학년도 삼송장학회 장학생 선발_1.20(목) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179381&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-01-07)
-
-* **[2022년 천안시 대학생 학자금 대출이자 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179378&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-01-07)
