@@ -6,6 +6,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179464&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-01-10)
+
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179461&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-01-10)
+
+* **[[Remind][학부][졸업]2022-1학기 학사학위취득유예 신청 안내(2021.12.29.~2022.01.18.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179460&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-01-10)
+
 * **[[국제대학원] 누비아주 29기를 모집합니다! (~1/16 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179458&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 국제대학원교학팀 (~2022-01-10)
 
@@ -86,12 +95,3 @@
 
 * **[[장학-재공지] 2021-2, 2022-1학기 목암과학장학재단 장학생 신청_1.10(월) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179376&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-01-07)
-
-* **[[대학일자리플러스센터] 야후재팬 기업 설명회 및 선배와 토크](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179371&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-01-07)
-
-* **[[경영대학] 2022학년도 전기 일반대학원 비즈니스애널리틱스학과 입시설명회 개최 (1/11)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179366&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 경영대학교학팀 (~2022-01-06)
-
-* **[[다산학부대학] 2022학년도 신입생 대상 자동수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179359&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-01-06)
