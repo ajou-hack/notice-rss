@@ -6,6 +6,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[(학사과정)2022-1학기 국내대학 학점교류 신청 안내(22.01.11.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179499&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-01-11)
+
+* **[[대학일자리플러스센터] 2022 공공기관 채용정보박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179498&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-01-11)
+
+* **[[아주지속가능발전센터] AJOU 친환경 캠페인 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179495&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 아주지속가능발전센터 (~2022-01-11)
+
 * **[[장학] 2021-2, 2022-1학기 목암과학장학재단 장학생 연장접수_1.12(수) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179481&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-01-10)
 
@@ -86,12 +95,3 @@
 
 * **[[장학] 2022학년도 1학기 해성문화재단 장학생 선발_1.20(목) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179402&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-01-07)
-
-* **[2020년도 학생인건비 지급비율 및 부당회수 비율 공개(수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179395&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학지원팀 (~2022-01-07)
-
-* **[[2022학년도 신입생 필독] 2022학년도 신입생 대상 진단평가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179394&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-01-07)
-
-* **[(마감)[공학교육혁신센터] 2021 글로벌 스마트토크콘서트 개최(~1/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179390&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2022-01-07)
