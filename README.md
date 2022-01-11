@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[대학일자리플러스센터] 상반기 대비 1:1 서류 컨설팅(동계방학)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179511&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-01-11)
+
 * **[[홍보] 국립국제교육원 - 2022-2023 브루나이 정부 초청 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179507&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-01-11)
 
@@ -92,6 +95,3 @@
 
 * **[[생활관] 2022년 1학기 생활관(기숙사) 입사 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179408&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 생활관 (~2022-01-07)
-
-* **[(실시기간 변경)[2022학년도 신입생 필독] 2022학년도 신입생 대상 진단평가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179406&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-01-07)
