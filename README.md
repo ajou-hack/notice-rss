@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[홍보] 국립국제교육원 - 2022-2023 브루나이 정부 초청 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179507&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2022-01-11)
+
+* **[[봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집(1/25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179505&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-01-11)
+
 * **[(학사과정)2022-1학기 국내대학 학점교류 신청 안내(22.01.11.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179499&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-01-11)
 
@@ -89,9 +95,3 @@
 
 * **[(실시기간 변경)[2022학년도 신입생 필독] 2022학년도 신입생 대상 진단평가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179406&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-01-07)
-
-* **[[중앙도서관] 자료실 임시 휴관(2022학년도 편입학 시험 시행 및 코로나 방역 대응) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179403&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-01-07)
-
-* **[[장학] 2022학년도 1학기 해성문화재단 장학생 선발_1.20(목) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179402&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-01-07)
