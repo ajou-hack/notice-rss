@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[장학] 2021-2, 2022-1학기 목암과학장학재단 장학생 연장접수_1.12(수) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179481&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-01-10)
+
 * **[[대학일자리플러스센터] GAIQ구글애널리틱스 자격과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179477&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-01-10)
 
@@ -92,6 +95,3 @@
 
 * **[(마감)[공학교육혁신센터] 2021 글로벌 스마트토크콘서트 개최(~1/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179390&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2022-01-07)
-
-* **[[당일공지]시스템 보안 작업으로 인한 전산 서비스 중지 안내(1/7, 금)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179387&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2022-01-07)
