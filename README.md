@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[경영연구소] 2022년 경영빅데이터센터 동계세미나 실시 및 신청 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179548&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 경영연구소 (~2022-01-12)
+
+* **[[다산융복합교육센터] 아주대의 특별한 수업방식 ‘강의페어링’ - 매거진한경](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179543&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산융복합교육센터 (~2022-01-12)
+
 * **[[대학일자리플러스센터] (주)메리앤비 추천채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179529&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-01-12)
 
@@ -89,9 +95,3 @@
 
 * **[[Remind][학부]2022-1학기 시간제등록생 신청 기간 안내(01.07.~01.14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179441&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-01-10)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179439&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-01-10)
-
-* **[[장학-재공지] 2021-2, 2022-1학기 목암과학장학재단 장학생 신청_1.10(월) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179431&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-01-10)
