@@ -6,6 +6,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[대학일자리플러스센터] (주)메리앤비 추천채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179529&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-01-12)
+
+* **[[대학일자리플러스센터] (주)한국하우톤 추천채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179528&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-01-12)
+
+* **[[장학] 2022년 산학협동재단 디딤돌장학금 신청안내(2022년 신입학자 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179526&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-01-12)
+
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179521&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-01-12)
 
@@ -86,12 +95,3 @@
 
 * **[[장학-재공지] 2021-2, 2022-1학기 목암과학장학재단 장학생 신청_1.10(월) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179431&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-01-10)
-
-* **[[대학일자리플러스센터] 일본 우수 기업(teamLab, 딜로이트 토마츠 컨설팅) 채용전형 전략설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179430&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-01-10)
-
-* **[[대학일자리플러스센터] 1월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179429&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-01-10)
-
-* **[규정류 제·개정 공포(2021-제12차 교무회의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179418&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2022-01-07)
