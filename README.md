@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[LINC+] 2022-1학기 현장실습 학생 참여 신청 안내 (★01.17~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179579&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2022-01-13)
+
 * **[2022년 1학기「나라키움 대학생주택」모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179572&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-01-13)
 
@@ -23,6 +26,12 @@
 
 * **[[다산융복합교육센터] 아주대의 특별한 수업방식 ‘강의페어링’ - 매거진한경](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179543&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산융복합교육센터 (~2022-01-12)
+
+* **[미래자동차 전공 학생 노트북 대여 사업](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179534&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신공유단 (~2022-01-12)
+
+* **[미래자동차 전공 학생 자동차 관련 도서 대여 사업](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179533&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신공유단 (~2022-01-12)
 
 * **[[대학일자리플러스센터] (주)메리앤비 추천채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179529&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-01-12)
@@ -86,12 +95,3 @@
 
 * **[[Remind][학부][졸업]2022-1학기 학사학위취득유예 신청 안내(2021.12.29.~2022.01.18.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179460&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-01-10)
-
-* **[[국제대학원] 누비아주 29기를 모집합니다! (~1/16 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179458&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 국제대학원교학팀 (~2022-01-10)
-
-* **[2022학년도 1학기 수업도서 구입(신청) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179456&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-01-10)
-
-* **[[대학혁신지원사업]경기남부권 5개대학 성과포럼 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179452&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 대학교육혁신원운영팀 (~2022-01-10)
