@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[대학일자리플러스센터] 저학년을 위한 eDisc 검사 내게 ON상담(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179582&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-01-13)
+
 * **[(재공지)[전공진입평가 미이수자 필독] 2022-1학기 전공진입평가 수강신청 안내(1/14(금) 10:00~16:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179581&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-01-13)
 
@@ -91,7 +94,4 @@
  [학사] - 다산학부대학교학팀 (~2022-01-10)
 
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179464&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-01-10)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179461&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-01-10)
