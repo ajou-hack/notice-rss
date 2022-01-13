@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[2022년 1학기「나라키움 대학생주택」모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179572&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-01-13)
+
 * **[[학부] 2022-1학기 등록 안내(02.21.~02.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179566&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-01-13)
 
@@ -48,7 +51,7 @@
 * **[[홍보] 국립국제교육원 - 2022-2023 브루나이 정부 초청 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179507&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-01-11)
 
-* **[[봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집(1/25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179505&amp;article.offset=0&amp;articleLimit=30)**
+* **[[봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집(1/25) (마감임박)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179505&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-01-11)
 
 * **[(학사과정)2022-1학기 국내대학 학점교류 신청 안내(22.01.11.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179499&amp;article.offset=0&amp;articleLimit=30)**
@@ -92,6 +95,3 @@
 
 * **[[대학혁신지원사업]경기남부권 5개대학 성과포럼 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179452&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 대학교육혁신원운영팀 (~2022-01-10)
-
-* **[[법학전문대학원] 제11회 변호사시험 시행으로 인한 연암관 5층 출입제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179451&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 법학전문대학원 교학팀 (~2022-01-10)
