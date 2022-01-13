@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[(재공지)[전공진입평가 미이수자 필독] 2022-1학기 전공진입평가 수강신청 안내(1/14(금) 10:00~16:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179581&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-01-13)
+
 * **[[LINC+] 2022-1학기 현장실습 학생 참여 신청 안내 (★01.17~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179579&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-01-13)
 
@@ -92,6 +95,3 @@
 
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179461&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-01-10)
-
-* **[[Remind][학부][졸업]2022-1학기 학사학위취득유예 신청 안내(2021.12.29.~2022.01.18.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179460&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-01-10)
