@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2021-12-07)
 
+* **[[학부] 2022-1학기 등록 안내(02.21.~02.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179566&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-01-13)
+
+* **[[대학원 인공지능학과] 2022학년도 전기 수시2차 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179564&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 정보통신대학 교학팀 (~2022-01-13)
+
 * **[[국제교류팀] 2022학년도 1학기 제 27기 A.G.A. 최종 합격 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179559&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-01-13)
 
@@ -89,9 +95,3 @@
 
 * **[[법학전문대학원] 제11회 변호사시험 시행으로 인한 연암관 5층 출입제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179451&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 법학전문대학원 교학팀 (~2022-01-10)
-
-* **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내(자주묻는 질문 반영)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179443&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-01-10)
-
-* **[[공학교육혁신센터] 2021 Global Dream Connecting 개최(~1/12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179442&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2022-01-10)
