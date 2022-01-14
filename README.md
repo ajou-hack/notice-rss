@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[장학] 2022-1학기 김수정장학 장학생 선발_1.21(금) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179622&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-01-14)
+
+* **[(재공지) [국제대학원] 누비아주 29기를 모집합니다! (~1/16 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179620&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 국제대학원교학팀 (~2022-01-14)
+
 * **[[종합지원센터] 2021년도 2학기 사물함 정리 및 이용기간 만료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179611&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-01-14)
 
@@ -89,9 +95,3 @@
 
 * **[(변경공지)[2022학년도 신입생 필독] 2022학년도 신입생 대상 진단평가 안내(1/12(수)→1/24(월))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179513&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-01-11)
-
-* **[[대학일자리플러스센터] 상반기 대비 1:1 서류 컨설팅(동계방학)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179511&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-01-11)
-
-* **[[홍보] 국립국제교육원 - 2022-2023 브루나이 정부 초청 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179507&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2022-01-11)
