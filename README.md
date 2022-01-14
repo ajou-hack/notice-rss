@@ -6,6 +6,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학부]2022-1학기 예비수강신청 안내(01/20(목)~01/22(토))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179630&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-01-14)
+
+* **[[생활관]2022년 1학기 생활관(기숙사) 신청 일정 변경 안내(일신관 포함)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179628&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 생활관 (~2022-01-14)
+
+* **[[장학-연장공고] 2022학년도 정수장학회 신규장학생 선발_1.18(화) 13:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179626&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-01-14)
+
 * **[[장학] 2022-1학기 김수정장학 장학생 선발_1.21(금) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179622&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-01-14)
 
@@ -86,12 +95,3 @@
 
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179521&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-01-12)
-
-* **[(마감)[공학교육혁신센터] 2021 Global Dream Connecting 개최(~1/12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179520&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2022-01-12)
-
-* **[[대학일자리플러스센터] 취중진담에서 2021 취업에 성공한 아주인과 함께하세요. (재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179514&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-01-11)
-
-* **[(변경공지)[2022학년도 신입생 필독] 2022학년도 신입생 대상 진단평가 안내(1/12(수)→1/24(월))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179513&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-01-11)
