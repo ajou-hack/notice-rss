@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[종합지원센터] 2021년도 2학기 사물함 정리 및 이용기간 만료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179611&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-01-14)
+
 * **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP3) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179601&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-01-14)
 
@@ -92,6 +95,3 @@
 
 * **[[홍보] 국립국제교육원 - 2022-2023 브루나이 정부 초청 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179507&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-01-11)
-
-* **[[봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집(1/25) (마감임박)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179505&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-01-11)
