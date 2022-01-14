@@ -1,10 +1,28 @@
 # 최근 공지사항
 
+* **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179594&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2022-01-14)
+
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=141548&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2021-12-07)
+* **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP3) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179601&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-01-14)
+
+* **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP2) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179599&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-01-14)
+
+* **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP1) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179598&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-01-14)
+
+* **[[대학일자리플러스센터] 1월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179597&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-01-14)
+
+* **[[수정][학부]2022-1학기 휴학, 복학 신청 안내(교내 IDC구축 일정 변동 반영)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179593&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-01-14)
+
+* **[제80회 한국어능력시험(TOPIK) 시행에 따른 성호관 출입제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179592&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교육센터운영팀 (~2022-01-14)
 
 * **[[학부]2022-1학기 전과 확정 알림 및 학사안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179587&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-01-14)
@@ -77,21 +95,3 @@
 
 * **[[봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집(1/25) (마감임박)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179505&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-01-11)
-
-* **[(학사과정)2022-1학기 국내대학 학점교류 신청 안내(22.01.11.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179499&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-01-11)
-
-* **[[대학일자리플러스센터] 2022 공공기관 채용정보박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179498&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-01-11)
-
-* **[[아주지속가능발전센터] AJOU 친환경 캠페인 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179495&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 아주지속가능발전센터 (~2022-01-11)
-
-* **[[장학] 2021-2, 2022-1학기 목암과학장학재단 장학생 연장접수_1.12(수) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179481&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-01-10)
-
-* **[[대학일자리플러스센터] GAIQ구글애널리틱스 자격과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179477&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-01-10)
-
-* **[[대학일자리플러스센터] 2021 하반기 취업성공 아주인과 함께 하는 취중진담](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179476&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-01-10)
