@@ -6,6 +6,18 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[다산학부대학] 아주인성, 고급영어 과목 재수강 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179662&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-01-17)
+
+* **[[국제교육센터] 2022학년도 수시합격생 대상 온라인 어학 설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179660&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교육센터 (~2022-01-17)
+
+* **[[공공정책대학원] 2022-1학기 근로장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179657&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공공정책대학원 (~2022-01-17)
+
+* **[일신관(신축기숙사) 공사로 인한 도로 통제 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179656&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2022-01-17)
+
 * **[[Remind][학부] 2022-1학기 등록 안내(02.21.~02.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179652&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-01-17)
 
@@ -83,15 +95,3 @@
 
 * **[[다산융복합교육센터] 아주대의 특별한 수업방식 ‘강의페어링’ - 매거진한경](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179543&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산융복합교육센터 (~2022-01-12)
-
-* **[미래자동차 전공 학생 노트북 대여 사업](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179534&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신공유단 (~2022-01-12)
-
-* **[미래자동차 전공 학생 자동차 관련 도서 대여 사업](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179533&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신공유단 (~2022-01-12)
-
-* **[[대학일자리플러스센터] (주)메리앤비 추천채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179529&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-01-12)
-
-* **[[대학일자리플러스센터] (주)한국하우톤 추천채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179528&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-01-12)
