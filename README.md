@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[다산학부대학] 2022-1학기 BSM 및 공업수학 예비수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179690&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-01-17)
+
 * **[기존주택 매입임대주택 입주자 수시모집 (1차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179687&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-01-17)
 
@@ -92,6 +95,3 @@
 
 * **[[학부] 2022-1학기 등록 안내(02.21.~02.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179566&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-01-13)
-
-* **[[대학원 인공지능학과] 2022학년도 전기 수시2차 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179564&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 정보통신대학 교학팀 (~2022-01-13)
