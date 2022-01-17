@@ -6,6 +6,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[기존주택 매입임대주택 입주자 수시모집 (1차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179687&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-01-17)
+
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179683&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-01-17)
+
+* **[중앙도서관 방역패스 적용해제 안내 (&#x27;22.01.18 화요일 ~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179680&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-01-17)
+
 * **[[다산학부대학] 아주인성, 고급영어 과목 재수강 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179662&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-01-17)
 
@@ -86,12 +95,3 @@
 
 * **[[대학원 인공지능학과] 2022학년도 전기 수시2차 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179564&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 정보통신대학 교학팀 (~2022-01-13)
-
-* **[[국제교류팀] 2022학년도 1학기 제 27기 A.G.A. 최종 합격 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179559&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2022-01-13)
-
-* **[[경영연구소] (신청마감) 2022년 경영빅데이터센터 동계세미나 실시 (태블로(Tableau)와 함께 하는 데이터 시각화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179548&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 경영연구소 (~2022-01-12)
-
-* **[[다산융복합교육센터] 아주대의 특별한 수업방식 ‘강의페어링’ - 매거진한경](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179543&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산융복합교육센터 (~2022-01-12)
