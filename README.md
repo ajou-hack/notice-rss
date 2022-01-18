@@ -6,6 +6,18 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[종합지원센터] 재학생 단기 아르바이트 모집 (사물함 물품 수거 및 운반)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179712&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-01-18)
+
+* **[[성평등상담소] 제2회 성평등 콘텐츠 공모전 마감 안내!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179711&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 성평등상담소 (~2022-01-18)
+
+* **[[학습법] 2021-2학기 온라인 학습법 특강 우수 수강자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179710&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-01-18)
+
+* **[[국제대학원] 누비아주(NUBI AJOU) 29기 서류전형 합격 및 면접 일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179707&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 국제대학원교학팀 (~2022-01-18)
+
 * **[[자율운영중점연구소 사업]2022년 자율운영 중점연구소 1단계 2차년도 세부과제 공모안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179702&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - 기초과학연구소 (~2022-01-18)
 
@@ -83,15 +95,3 @@
 
 * **[[학부]2022-1학기 전과 확정 알림 및 학사안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179587&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-01-14)
-
-* **[[대학원 AI융합네트워크학과] 2022학년도 전기 수시2차 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179585&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 정보통신대학교학팀 (~2022-01-14)
-
-* **[[대학일자리플러스센터] 저학년을 위한 eDisc 검사 내게 ON상담(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179582&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-01-13)
-
-* **[[LINC+] 2022-1학기 현장실습 학생 참여 신청 안내 (★01.17~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179579&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-01-13)
-
-* **[2022년 1학기「나라키움 대학생주택」모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179572&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-01-13)
