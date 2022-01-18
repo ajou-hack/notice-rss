@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[자율운영중점연구소 사업]2022년 자율운영 중점연구소 1단계 2차년도 세부과제 공모안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179702&amp;article.offset=0&amp;articleLimit=30)**
+ [학술] - 기초과학연구소 (~2022-01-18)
+
 * **[[다산학부대학] 2022-1학기 BSM 및 공업수학 예비수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179690&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-01-17)
 
@@ -92,6 +95,3 @@
 
 * **[2022년 1학기「나라키움 대학생주택」모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179572&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-01-13)
-
-* **[[학부] 2022-1학기 등록 안내(02.21.~02.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179566&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-01-13)
