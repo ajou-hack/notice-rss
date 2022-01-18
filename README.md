@@ -6,7 +6,16 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[[종합지원센터] 재학생 단기 아르바이트 모집 (사물함 물품 수거 및 운반)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179712&amp;article.offset=0&amp;articleLimit=30)**
+* **[[학부]2022-1학기 과목별 운영방식 안내(예비 수강신청 및 본수강신청, 수강정정 확인용)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179740&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-01-18)
+
+* **[2021 LINC+ 산학연계 교육(현장실습, 캡스톤, 창업교육 등) 참여학생 만족도조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179739&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2022-01-18)
+
+* **[[혁신공유대학 사업] 미래자동차 연계전공 신청안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179738&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-01-18)
+
+* **[[종합지원센터] 재학생 단기 면학장학생 모집 (사물함 물품 수거 및 운반)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179712&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-01-18)
 
 * **[[성평등상담소] 제2회 성평등 콘텐츠 공모전 마감 안내!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179711&amp;article.offset=0&amp;articleLimit=30)**
@@ -86,12 +95,3 @@
 
 * **[[대학일자리플러스센터] 1월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179597&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-01-14)
-
-* **[[수정][학부]2022-1학기 휴학, 복학 신청 안내(교내 IDC구축 일정 변동 반영)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179593&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-01-14)
-
-* **[제80회 한국어능력시험(TOPIK) 시행에 따른 성호관 출입제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179592&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교육센터운영팀 (~2022-01-14)
-
-* **[[학부]2022-1학기 전과 확정 알림 및 학사안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179587&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-01-14)
