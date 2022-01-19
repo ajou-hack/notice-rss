@@ -6,6 +6,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(학사과정)2022-1학기 국내대학 학점교류 신청 안내(22.01.19.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179767&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-01-19)
+
 * **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP3) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179761&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-01-19)
 
@@ -92,6 +95,3 @@
 
 * **[[장학] 2022-1학기 김수정장학 장학생 선발_1.21(금) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179622&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-01-14)
-
-* **[(재공지) [국제대학원] 누비아주 29기를 모집합니다! (~1/16 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179620&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 국제대학원교학팀 (~2022-01-14)
