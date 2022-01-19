@@ -6,6 +6,24 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP3) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179761&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-01-19)
+
+* **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP2) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179760&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-01-19)
+
+* **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP1) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179758&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-01-19)
+
+* **[[혁신공유대학사업] 미래자동차 연계전공 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179751&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-01-19)
+
+* **[[공학교육혁신센터] LG AI 해커톤 경진대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179750&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2022-01-19)
+
+* **[[대학일자리플러스센터] 2022년 롯데건설 신입사원 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179749&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-01-19)
+
 * **[[학부]2022-1학기 과목별 운영방식 안내(예비 수강신청 및 본수강신청, 수강정정 확인용)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179740&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-01-18)
 
@@ -77,21 +95,3 @@
 
 * **[(재공지) [국제대학원] 누비아주 29기를 모집합니다! (~1/16 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179620&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 국제대학원교학팀 (~2022-01-14)
-
-* **[[종합지원센터] 2021년도 2학기 사물함 정리 및 이용기간 만료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179611&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-01-14)
-
-* **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP3) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179601&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-01-14)
-
-* **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP2) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179599&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-01-14)
-
-* **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP1) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179598&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-01-14)
-
-* **[[대학일자리플러스센터] 1월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179597&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-01-14)
-
-* **[[수정][학부]2022-1학기 휴학, 복학 신청 안내(교내 IDC구축 일정 변동 반영)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179593&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-01-14)
