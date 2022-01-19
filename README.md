@@ -6,6 +6,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 메타버스 특강_메타버스의 시대 어떻게 이해할까?](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179798&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-01-19)
+
+* **[[홍보] 서울 ICT이노베이션스퀘어 - 블록체인 교육생 모집 안내(수강료 전액 지원)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179796&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - LINC사업팀 (~2022-01-19)
+
 * **[(학사과정)2022-1학기 국내대학 학점교류 신청 안내(22.01.19.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179767&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-01-19)
 
@@ -89,9 +95,3 @@
 
 * **[[생활관]2022년 1학기 생활관(기숙사) 신청 일정 변경 안내(일신관 포함)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179628&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 생활관 (~2022-01-14)
-
-* **[[장학-연장공고] 2022학년도 정수장학회 신규장학생 선발_1.18(화) 13:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179626&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-01-14)
-
-* **[[장학] 2022-1학기 김수정장학 장학생 선발_1.21(금) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179622&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-01-14)
