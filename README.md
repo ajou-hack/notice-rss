@@ -9,6 +9,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[홍보] 해외문화홍보원 제14기 &#x27;대한민국 바로알림단(Friends of Korea)&#x27; 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179841&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2022-01-20)
+
+* **[[대학일자리플러스센터] 6시그마 GB과정(동계 3차) 참여자 모집(동계방학 마지막 회차!)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179837&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-01-20)
+
+* **[2021년 하반기 인천시 대학생 학자금대출 이자 지원 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179836&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-01-20)
+
 * **[(재공지)[다산학부대학] 2022-1학기 BSM 및 공업수학 예비수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179816&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-01-20)
 
@@ -89,12 +98,3 @@
 
 * **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내(교내 IDC구축 일정 변동 반영)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179651&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-01-17)
-
-* **[[Remind][학부][졸업]2022-1학기 학사학위취득유예 신청 안내(2021.12.29.~2022.01.18.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179650&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-01-17)
-
-* **[[시설팀] 다산관 강의실 공사일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179643&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2022-01-17)
-
-* **[[학부]2022-1학기 예비수강신청 안내(01/20(목)~01/22(토))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179630&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-01-14)
