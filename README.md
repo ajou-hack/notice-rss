@@ -9,6 +9,18 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[장학-연장공고] 2022학년도 1학기 해성문화재단 장학생 선발_1.24(월) 13:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179867&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-01-20)
+
+* **[[총무팀] 정기 해충방역 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179866&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-01-20)
+
+* **[[장학-재공고] 2022-1학기 김수정장학 장학생 선발_1.21(금) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179863&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-01-20)
+
+* **[[장학-연장공고] 2022학년도 삼송장학회 장학생 선발_1.24(월) 13:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179861&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-01-20)
+
 * **[[홍보] 해외문화홍보원 제14기 &#x27;대한민국 바로알림단(Friends of Korea)&#x27; 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179841&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-01-20)
 
@@ -86,15 +98,3 @@
 
 * **[[국제교육센터] 2022학년도 수시합격생 대상 온라인 어학 설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179660&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교육센터 (~2022-01-17)
-
-* **[[공공정책대학원] 2022-1학기 근로장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179657&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공공정책대학원 (~2022-01-17)
-
-* **[일신관(신축기숙사) 공사로 인한 도로 통제 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179656&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2022-01-17)
-
-* **[[Remind][학부] 2022-1학기 등록 안내(02.21.~02.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179652&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-01-17)
-
-* **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내(교내 IDC구축 일정 변동 반영)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179651&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-01-17)
