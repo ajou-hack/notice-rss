@@ -1,10 +1,16 @@
 # 최근 공지사항
 
+* **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2022-01-19)
+
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179594&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-14)
 
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[(재공지)[다산학부대학] 2022-1학기 BSM 및 공업수학 예비수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179816&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-01-20)
 
 * **[[대학일자리플러스센터] 메타버스 특강_메타버스의 시대 어떻게 이해할까?](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179798&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-01-19)
@@ -92,6 +98,3 @@
 
 * **[[학부]2022-1학기 예비수강신청 안내(01/20(목)~01/22(토))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179630&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-01-14)
-
-* **[[생활관]2022년 1학기 생활관(기숙사) 신청 일정 변경 안내(일신관 포함)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179628&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 생활관 (~2022-01-14)
