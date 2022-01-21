@@ -9,6 +9,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[아주 아주다운 강연_생각의 마중길] 명사 초청 릴레이 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179898&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2022-01-21)
+
+* **[[총무팀_체육관] 체육관 관리실 근로학생을 모집합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179897&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (체육관) (~2022-01-21)
+
 * **[[장학-연장공고] 2022학년도 1학기 해성문화재단 장학생 선발_1.24(월) 13:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179867&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-01-20)
 
@@ -92,9 +98,3 @@
 
 * **[중앙도서관 방역패스 적용해제 안내 (&#x27;22.01.18 화요일 ~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179680&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-01-17)
-
-* **[[다산학부대학] 아주인성, 고급영어 과목 재수강 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179662&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-01-17)
-
-* **[[국제교육센터] 2022학년도 수시합격생 대상 온라인 어학 설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179660&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교육센터 (~2022-01-17)
