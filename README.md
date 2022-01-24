@@ -9,6 +9,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180021&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-01-24)
+
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180020&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-01-24)
+
 * **[[성평등상담소] 제2회 성평등 콘텐츠 공모전 결과 발표~!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180009&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 성평등상담소 (~2022-01-24)
 
@@ -92,9 +98,3 @@
 
 * **[[대학일자리플러스센터] 메타버스 특강_메타버스의 시대 어떻게 이해할까?](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179798&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-01-19)
-
-* **[[홍보] 서울 ICT이노베이션스퀘어 - 블록체인 교육생 모집 안내(수강료 전액 지원)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179796&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀 (~2022-01-19)
-
-* **[(학사과정)2022-1학기 국내대학 학점교류 신청 안내(22.01.19.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179767&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-01-19)
