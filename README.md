@@ -9,6 +9,21 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 휴학생 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179973&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-01-24)
+
+* **[[다산학부대학] 아주인성 공통반(재학생 수강신청가능반), 고급영어 과목 재수강 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179970&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-01-24)
+
+* **[[Remind][학부] 2022-1학기 등록 안내(02.21.~02.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179969&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-01-24)
+
+* **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내(교내 IDC구축 일정 변동 반영)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179968&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-01-24)
+
+* **[2021-동계 계절수업 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179967&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-01-24)
+
 * **[[장학-연장공고] 2022-1학기 김수정장학 장학생 선발_1.26(수) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179928&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-01-22)
 
@@ -83,18 +98,3 @@
 
 * **[(마감)[종합지원센터] 재학생 단기 면학장학생 모집 (사물함 물품 수거 및 운반)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179712&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-01-18)
-
-* **[[성평등상담소] 제2회 성평등 콘텐츠 공모전 마감 안내!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179711&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 성평등상담소 (~2022-01-18)
-
-* **[[학습법] 2021-2학기 온라인 학습법 특강 우수 수강자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179710&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-01-18)
-
-* **[[국제대학원] 누비아주(NUBI AJOU) 29기 서류전형 합격 및 면접 일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179707&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 국제대학원교학팀 (~2022-01-18)
-
-* **[[자율운영중점연구소 사업]2022년 자율운영 중점연구소 1단계 2차년도 세부과제 공모안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179702&amp;article.offset=0&amp;articleLimit=30)**
- [학술] - 기초과학연구소 (~2022-01-18)
-
-* **[[다산학부대학] 2022-1학기 BSM 및 공업수학 예비수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179690&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-01-17)
