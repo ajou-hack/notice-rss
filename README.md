@@ -9,6 +9,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학혁신지원사업] 아주 아주다운 강연_생각의 마중길_명사 초청 릴레이 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179979&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2022-01-24)
+
+* **[[한국장학재단] 2022년 1학기 국가장학금 2차 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179978&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-01-24)
+
+* **[(재공지)[아주지속가능발전센터] AJOU 친환경 캠페인 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179977&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 아주지속가능발전센터 (~2022-01-24)
+
 * **[[대학일자리플러스센터] 휴학생 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179973&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-01-24)
 
@@ -89,12 +98,3 @@
 
 * **[[대학일자리플러스센터] 2022년 롯데건설 신입사원 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179749&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-01-19)
-
-* **[[학부]2022-1학기 과목별 운영방식 안내(예비 수강신청 및 본수강신청, 수강정정 확인용)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179740&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-01-18)
-
-* **[2021 LINC+ 산학연계 교육(현장실습, 캡스톤, 창업교육 등) 참여학생 만족도조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179739&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-01-18)
-
-* **[(마감)[종합지원센터] 재학생 단기 면학장학생 모집 (사물함 물품 수거 및 운반)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179712&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-01-18)
