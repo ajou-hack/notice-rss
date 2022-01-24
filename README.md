@@ -9,6 +9,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022학년도 1학기 인공지능융합학과 인공지능융합전공[복수전공, 부전공] 2차 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180008&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 정보통신대학교학팀 (~2022-01-24)
+
+* **[[국제교류팀] ETS 주관 아주대학교 학생을 위한 GRE® &amp; TOEFL® 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180007&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2022-01-24)
+
+* **[[글로벌미래교육원] 봄학기(2022년3~6월) 평생교육프로그램 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179997&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 글로벌미래교육원 (~2022-01-24)
+
 * **[2022년 경기도민회장학회 장학생 선발](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179990&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-01-24)
 
@@ -89,12 +98,3 @@
 
 * **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP3) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179761&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-01-19)
-
-* **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP2) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179760&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-01-19)
-
-* **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP1) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179758&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-01-19)
-
-* **[[혁신공유대학사업] 미래자동차 연계전공 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179751&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-01-19)
