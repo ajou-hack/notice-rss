@@ -9,6 +9,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022년 경기도민회장학회 장학생 선발](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179990&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-01-24)
+
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179984&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-01-24)
+
 * **[[대학혁신지원사업] 아주 아주다운 강연_생각의 마중길_명사 초청 릴레이 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179979&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2022-01-24)
 
@@ -45,7 +51,7 @@
 * **[[아주 아주다운 강연_생각의 마중길] 명사 초청 릴레이 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179898&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2022-01-21)
 
-* **[[총무팀_체육관] 체육관 관리실 근로학생을 모집합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179897&amp;article.offset=0&amp;articleLimit=30)**
+* **[[총무팀_체육관] 체육관 관리실 면학 장학생을 모집합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179897&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (체육관) (~2022-01-21)
 
 * **[[장학-연장공고] 2022학년도 1학기 해성문화재단 장학생 선발_1.24(월) 13:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179867&amp;article.offset=0&amp;articleLimit=30)**
@@ -92,9 +98,3 @@
 
 * **[[혁신공유대학사업] 미래자동차 연계전공 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179751&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-01-19)
-
-* **[[공학교육혁신센터] LG AI 해커톤 경진대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179750&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2022-01-19)
-
-* **[[대학일자리플러스센터] 2022년 롯데건설 신입사원 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179749&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-01-19)
