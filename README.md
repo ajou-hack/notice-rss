@@ -9,6 +9,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022학년도 정시 약학과 면접 실시에 따른 건물 출입 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180042&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 입학팀 (~2022-01-25)
+
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180021&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-01-24)
 
@@ -95,6 +98,3 @@
 
 * **[(재공지)[다산학부대학] 2022-1학기 BSM 및 공업수학 예비수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179816&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-01-20)
-
-* **[[대학일자리플러스센터] 메타버스 특강_메타버스의 시대 어떻게 이해할까?](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179798&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-01-19)
