@@ -9,6 +9,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[장학-재공고] 2022-1학기 김수정장학 장학생 선발_1.26(수) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180061&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-01-25)
+
+* **[[학습법] 2021-2학기 수업 참여 사례 공모전 수상작 선정 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180060&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-01-25)
+
 * **[2022학년도 정시 약학과 면접 실시에 따른 건물 출입 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180042&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 입학팀 (~2022-01-25)
 
@@ -92,9 +98,3 @@
 
 * **[[대학일자리플러스센터] 6시그마 GB과정(동계 3차) 참여자 모집(동계방학 마지막 회차!)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179837&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-01-20)
-
-* **[2021년 하반기 인천시 대학생 학자금대출 이자 지원 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179836&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-01-20)
-
-* **[(재공지)[다산학부대학] 2022-1학기 BSM 및 공업수학 예비수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179816&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-01-20)
