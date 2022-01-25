@@ -9,6 +9,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[공학교육혁신센터] 반도체 산업 빅데이터 분석 입문과정 온라인 교육 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180067&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2022-01-25)
+
+* **[[총무팀] 아주대학교 제17대 최기주 총장 취임식 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180065&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-01-25)
+
+* **[아주대학교 제17대 최기주 총장 취임식 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180064&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 총무팀 (~2022-01-25)
+
 * **[[장학-재공고] 2022-1학기 김수정장학 장학생 선발_1.26(수) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180061&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-01-25)
 
@@ -89,12 +98,3 @@
 
 * **[[장학-재공고] 2022-1학기 김수정장학 장학생 선발_1.21(금) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179863&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-01-20)
-
-* **[[장학-연장공고] 2022학년도 삼송장학회 장학생 선발_1.24(월) 13:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179861&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-01-20)
-
-* **[[홍보] 해외문화홍보원 제14기 &#x27;대한민국 바로알림단(Friends of Korea)&#x27; 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179841&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2022-01-20)
-
-* **[[대학일자리플러스센터] 6시그마 GB과정(동계 3차) 참여자 모집(동계방학 마지막 회차!)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179837&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-01-20)
