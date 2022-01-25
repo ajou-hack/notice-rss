@@ -9,6 +9,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(학사과정)2022-1학기 국내대학 학점교류 신청 안내(22.01.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180068&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-01-25)
+
 * **[[공학교육혁신센터] 반도체 산업 빅데이터 분석 입문과정 온라인 교육 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180067&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2022-01-25)
 
@@ -95,6 +98,3 @@
 
 * **[[총무팀] 정기 해충방역 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179866&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-01-20)
-
-* **[[장학-재공고] 2022-1학기 김수정장학 장학생 선발_1.21(금) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179863&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-01-20)
