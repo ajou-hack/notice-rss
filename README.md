@@ -9,6 +9,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180127&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-01-26)
+
 * **[[한국장학재단] 2022년 제13기 사회리더 대학생 멘토링 멘티 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180118&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-01-26)
 
@@ -95,6 +98,3 @@
 
 * **[[다산학부대학] 아주인성 공통반(재학생 수강신청가능반), 고급영어 과목 재수강 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179970&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-01-24)
-
-* **[[Remind][학부] 2022-1학기 등록 안내(02.21.~02.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179969&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-01-24)
