@@ -9,6 +9,18 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP3) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180092&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-01-26)
+
+* **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP2) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180091&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-01-26)
+
+* **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP1) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180090&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-01-26)
+
+* **[[비교과교육지원센터] 2021 아주허브 비교과프로그램 목록](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180080&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2022-01-26)
+
 * **[(학사과정)2022-1학기 국내대학 학점교류 신청 안내(22.01.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180068&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-01-25)
 
@@ -86,15 +98,3 @@
 
 * **[[대학일자리플러스센터] 1월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179904&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-01-21)
-
-* **[[아주 아주다운 강연_생각의 마중길] 명사 초청 릴레이 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179898&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2022-01-21)
-
-* **[[총무팀_체육관] 체육관 관리실 면학 장학생을 모집합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179897&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (체육관) (~2022-01-21)
-
-* **[[장학-연장공고] 2022학년도 1학기 해성문화재단 장학생 선발_1.24(월) 13:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179867&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-01-20)
-
-* **[[총무팀] 정기 해충방역 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179866&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-01-20)
