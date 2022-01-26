@@ -9,6 +9,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022년 1차 매입임대 예비 입주자 모집 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180113&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-01-26)
+
 * **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180102&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-01-26)
 
@@ -94,7 +97,4 @@
  [학사] - 교무팀 (~2022-01-24)
 
 * **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내(교내 IDC구축 일정 변동 반영)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179968&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-01-24)
-
-* **[2021-동계 계절수업 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179967&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-01-24)
