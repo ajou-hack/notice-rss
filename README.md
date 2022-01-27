@@ -9,6 +9,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[국가근로][대학생청소년교육지원] 1월 국가근로/대학생청소년교육지원장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 1/31 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180143&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-01-27)
+
 * **[[아주 아주다운 강연_마지막] 12시부터 시작합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180136&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2022-01-27)
 
@@ -95,6 +98,3 @@
 
 * **[[한국장학재단] 2022년 1학기 국가장학금 2차 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179978&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-01-24)
-
-* **[(재공지)[아주지속가능발전센터] AJOU 친환경 캠페인 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179977&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 아주지속가능발전센터 (~2022-01-24)
