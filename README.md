@@ -9,6 +9,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[국제교류팀] 휴학생 면학장학생(근로학생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180145&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2022-01-27)
+
 * **[[국가근로][대학생청소년교육지원] 1월 국가근로/대학생청소년교육지원장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 1/31 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180143&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-01-27)
 
@@ -95,6 +98,3 @@
 
 * **[[대학혁신지원사업] 아주 아주다운 강연_생각의 마중길_명사 초청 릴레이 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179979&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2022-01-24)
-
-* **[[한국장학재단] 2022년 1학기 국가장학금 2차 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179978&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-01-24)
