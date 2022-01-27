@@ -9,6 +9,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[아주 아주다운 강연_마지막] 12시부터 시작합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180136&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2022-01-27)
+
 * **[[장학] 2022학년도 신라문화장학재단 선발(2022.2.9까지 장학재단 직접접수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180131&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-01-26)
 
@@ -95,6 +98,3 @@
 
 * **[(재공지)[아주지속가능발전센터] AJOU 친환경 캠페인 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179977&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 아주지속가능발전센터 (~2022-01-24)
-
-* **[[대학일자리플러스센터] 휴학생 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179973&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-01-24)
