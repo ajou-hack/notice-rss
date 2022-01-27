@@ -9,6 +9,18 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180170&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-01-27)
+
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180169&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-01-27)
+
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180168&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-01-27)
+
+* **[(학사과정)2022-1학기 국내대학 학점교류 신청 안내(22.01.27.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180167&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-01-27)
+
 * **[[안전관리센터] 설 연휴 기간 안전수칙 준수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180165&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 안전관리센터 (~2022-01-27)
 
@@ -86,15 +98,3 @@
 
 * **[[성평등상담소] 제2회 성평등 콘텐츠 공모전 결과 발표~!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180009&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 성평등상담소 (~2022-01-24)
-
-* **[2022학년도 1학기 인공지능융합학과 인공지능융합전공[복수전공, 부전공] 2차 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180008&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 정보통신대학교학팀 (~2022-01-24)
-
-* **[[국제교류팀] ETS 주관 아주대학교 학생을 위한 GRE® &amp; TOEFL® 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180007&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2022-01-24)
-
-* **[[글로벌미래교육원] 봄학기(2022년3~6월) 평생교육프로그램 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179997&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 글로벌미래교육원 (~2022-01-24)
-
-* **[2022년 경기도민회장학회 장학생 선발](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179990&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-01-24)
