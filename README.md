@@ -9,6 +9,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[중앙도서관] 설연휴 휴관 안내(1/30~2/2)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180223&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-01-28)
+
 * **[[학부]2022-1학기 수강신청 안내(2/9(수)~2/15(화))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180216&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-01-28)
 
@@ -95,6 +98,3 @@
 
 * **[[공학교육혁신센터] 반도체 산업 빅데이터 분석 입문과정 온라인 교육 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180067&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2022-01-25)
-
-* **[[총무팀] 아주대학교 제17대 최기주 총장 취임식 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180065&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-01-25)
