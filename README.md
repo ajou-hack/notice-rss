@@ -9,6 +9,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[규정류 개정 공포(2021-제13차 교무회의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180180&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2022-01-27)
+
+* **[제17대 총장 취임식 개최에 따른 주차장 통제 및 개인차량 이용자제 협조 요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180175&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 총무팀 (~2022-01-27)
+
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180170&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-01-27)
 
@@ -92,9 +98,3 @@
 
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180021&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-01-24)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180020&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-01-24)
-
-* **[[성평등상담소] 제2회 성평등 콘텐츠 공모전 결과 발표~!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180009&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 성평등상담소 (~2022-01-24)
