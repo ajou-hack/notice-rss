@@ -9,6 +9,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180208&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-01-28)
+
 * **[제16대 박형주 총장 이임사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180203&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 커뮤니케이션팀 (~2022-01-28)
 
@@ -95,6 +98,3 @@
 
 * **[[장학-재공고] 2022-1학기 김수정장학 장학생 선발_1.26(수) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180061&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-01-25)
-
-* **[[학습법] 2021-2학기 수업 참여 사례 공모전 수상작 선정 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180060&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-01-25)
