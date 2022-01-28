@@ -9,6 +9,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[제16대 박형주 총장 이임사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180203&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 커뮤니케이션팀 (~2022-01-28)
+
+* **[[대학일자리플러스센터] 1월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180201&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-01-28)
+
 * **[규정류 개정 공포(2021-제13차 교무회의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180180&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 기획팀 (~2022-01-27)
 
@@ -92,9 +98,3 @@
 
 * **[[학습법] 2021-2학기 수업 참여 사례 공모전 수상작 선정 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180060&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-01-25)
-
-* **[2022학년도 정시 약학과 면접 실시에 따른 건물 출입 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180042&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 입학팀 (~2022-01-25)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180021&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-01-24)
