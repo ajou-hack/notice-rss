@@ -9,6 +9,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학부]2022-1학기 수강신청 안내(2/9(수)~2/15(화))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180216&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-01-28)
+
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180214&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-01-28)
+
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180208&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-01-28)
 
@@ -92,9 +98,3 @@
 
 * **[[총무팀] 아주대학교 제17대 최기주 총장 취임식 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180065&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-01-25)
-
-* **[아주대학교 제17대 최기주 총장 취임식 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180064&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 총무팀 (~2022-01-25)
-
-* **[[장학-재공고] 2022-1학기 김수정장학 장학생 선발_1.26(수) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180061&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-01-25)
