@@ -9,6 +9,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[혁신공유대학사업]미래자동차 교육과정 학점교류 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180292&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-02-03)
+
 * **[2022-1학기 시간제등록생 전형 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180290&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-03)
 
@@ -95,6 +98,3 @@
 
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180127&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-01-26)
-
-* **[[한국장학재단] 2022년 제13기 사회리더 대학생 멘토링 멘티 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180118&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-01-26)
