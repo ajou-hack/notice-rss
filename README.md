@@ -9,6 +9,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[에너지센터 정전 안내 (IDC 공사 관련)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180255&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2022-02-03)
+
+* **[[Remind][학부] 2022-1학기 등록 안내(02.21.~02.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180254&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-02-03)
+
+* **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내(교내 IDC구축 일정 변동 반영)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180253&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-02-03)
+
 * **[[중앙도서관] 설연휴 휴관 안내(1/30~2/2)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180223&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-01-28)
 
@@ -89,12 +98,3 @@
 
 * **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP1) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180090&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-01-26)
-
-* **[[비교과교육지원센터] 2021 아주허브 비교과프로그램 목록](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180080&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2022-01-26)
-
-* **[(학사과정)2022-1학기 국내대학 학점교류 신청 안내(22.01.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180068&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-01-25)
-
-* **[[공학교육혁신센터] 반도체 산업 빅데이터 분석 입문과정 온라인 교육 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180067&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2022-01-25)
