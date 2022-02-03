@@ -9,6 +9,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[미래자동차 혁신공유대학 성과홍보관 소개 및 설문조사(기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180279&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신공유단 (~2022-02-03)
+
 * **[[대학일자리플러스센터] 외국계 기업 현직 JOB 토크](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180260&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-02-03)
 
@@ -95,6 +98,3 @@
 
 * **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180102&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-01-26)
-
-* **[[국제대학원] 누비아주(NUBI AJOU) 29기 최종합격자](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180100&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 국제대학원교학팀 (~2022-01-26)
