@@ -9,6 +9,18 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 외국계 기업 현직 JOB 토크](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180260&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-02-03)
+
+* **[(재공지) [중앙도서관] 2022학년도 1학기 면학장학생 모집 (~2/9 am09:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180259&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-02-03)
+
+* **[[중앙도서관] 22-1학기 대출업무보조 휴학생 모집(~2/17 am09:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180258&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-02-03)
+
+* **[[중앙도서관] IDC 공사 관련 임시 휴관 안내(2/5~2/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180257&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-02-03)
+
 * **[에너지센터 정전 안내 (IDC 공사 관련)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180255&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2022-02-03)
 
@@ -86,15 +98,3 @@
 
 * **[[국제대학원] 누비아주(NUBI AJOU) 29기 최종합격자](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180100&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 국제대학원교학팀 (~2022-01-26)
-
-* **[2021-동계 계절수업 성적공고 및 이의신청기간 안내(강의평가 가능일자 추가 안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180098&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-01-26)
-
-* **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP3) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180092&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-01-26)
-
-* **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP2) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180091&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-01-26)
-
-* **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP1) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180090&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-01-26)
