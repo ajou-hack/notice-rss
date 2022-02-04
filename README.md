@@ -9,6 +9,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[글로벌미래교육원] 봄학기 실무취업영어자격증 및 Toeic Speaking 목표달성반 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180331&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 글로벌미래교육원 (~2022-02-04)
+
 * **[(재공지)[국제교류팀] 휴학생 면학장학생(근로학생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180326&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-02-04)
 
@@ -95,6 +98,3 @@
 
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180208&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-01-28)
-
-* **[제16대 박형주 총장 이임사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180203&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 커뮤니케이션팀 (~2022-01-28)
