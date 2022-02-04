@@ -9,6 +9,27 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[제17대 총장 취임식 개최에 따른 주차장 통제 및 개인차량 이용자제 협조 요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180313&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 총무팀 (~2022-02-04)
+
+* **[(학사과정)2022-1학기 국내대학 학점교류 신청 안내(22.02.04.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180312&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-02-04)
+
+* **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP3) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180311&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-02-04)
+
+* **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP2) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180310&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-02-04)
+
+* **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP1) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180309&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-02-04)
+
+* **[[아주지속가능발전센터] AJOU 친환경 캠페인 당첨자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180307&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 아주지속가능발전센터 (~2022-02-04)
+
+* **[(접수)아주북통 &#x27;교수님과 함께하는 독서클럽&#x27; 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180306&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학술정보팀 (~2022-02-04)
+
 * **[제17대 최기주 총장 취임식 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180303&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 총무팀 (~2022-02-04)
 
@@ -77,24 +98,3 @@
 
 * **[규정류 개정 공포(2021-제13차 교무회의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180180&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 기획팀 (~2022-01-27)
-
-* **[제17대 총장 취임식 개최에 따른 주차장 통제 및 개인차량 이용자제 협조 요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180175&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 총무팀 (~2022-01-27)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180170&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-01-27)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180169&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-01-27)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180168&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-01-27)
-
-* **[(학사과정)2022-1학기 국내대학 학점교류 신청 안내(22.01.27.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180167&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-01-27)
-
-* **[[안전관리센터] 설 연휴 기간 안전수칙 준수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180165&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 안전관리센터 (~2022-01-27)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180162&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-01-27)
