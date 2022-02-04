@@ -9,6 +9,24 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180349&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-02-04)
+
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180348&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-02-04)
+
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180347&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-02-04)
+
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180346&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-02-04)
+
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180345&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-02-04)
+
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180343&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-02-04)
+
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180342&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-02-04)
 
@@ -80,21 +98,3 @@
 
 * **[[대학일자리플러스센터] 외국계 기업 현직 JOB 토크](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180260&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-02-03)
-
-* **[(재공지) [중앙도서관] 2022학년도 1학기 면학장학생 모집 (~2/9 am09:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180259&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-02-03)
-
-* **[[중앙도서관] 22-1학기 대출업무보조 휴학생 모집(~2/17 am09:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180258&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-02-03)
-
-* **[[중앙도서관] IDC 공사 관련 임시 휴관 안내(2/5~2/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180257&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-02-03)
-
-* **[에너지센터 정전 안내 (IDC 공사 관련)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180255&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2022-02-03)
-
-* **[[Remind][학부] 2022-1학기 등록 안내(02.21.~02.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180254&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-02-03)
-
-* **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내(교내 IDC구축 일정 변동 반영)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180253&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-02-03)
