@@ -9,6 +9,21 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[제17대 최기주 총장 취임식 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180303&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 총무팀 (~2022-02-04)
+
+* **[2022년 1학기 외국인 유학생 대상 한국어 TA 모집 안내(~2/22화 14:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180302&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 글로벌교양학부 (~2022-02-04)
+
+* **[[법학도서관] 2022학년도 1학기 면학장학생 모집(~2/10 am 9:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180301&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학술정보팀 (~2022-02-04)
+
+* **[[2022학년도 신입생 대상] 2022학년도 자동수강신청 및 희망교과목 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180298&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-02-04)
+
+* **[[생활관]2022년 1학기 남제관 신청 기간 중 신청 불가 시간 안내 - 2/5(토) 09:00 ~ 6(일) 18:00](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180297&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 생활관 (~2022-02-03)
+
 * **[[혁신공유대학사업]미래자동차 교육과정 학점교류 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180292&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-03)
 
@@ -83,18 +98,3 @@
 
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180162&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-01-27)
-
-* **[[국제교류팀] 휴학생 면학장학생(근로학생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180145&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2022-01-27)
-
-* **[[국가근로][대학생청소년교육지원] 1월 국가근로/대학생청소년교육지원장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 1/31 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180143&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-01-27)
-
-* **[[아주 아주다운 강연_마지막] 12시부터 시작합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180136&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2022-01-27)
-
-* **[[장학] 2022학년도 신라문화장학재단 선발(2022.2.9까지 장학재단 직접접수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180131&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-01-26)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180127&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-01-26)
