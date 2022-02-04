@@ -9,6 +9,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 휴학생 면학장학생 모집 (재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180321&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-02-04)
+
 * **[제17대 총장 취임식 개최에 따른 주차장 통제 및 개인차량 이용자제 협조 요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180313&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 총무팀 (~2022-02-04)
 
@@ -37,7 +40,7 @@
  [장학] - 글로벌교양학부 (~2022-02-04)
 
 * **[[법학도서관] 2022학년도 1학기 면학장학생 모집(~2/10 am 9:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180301&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학술정보팀 (~2022-02-04)
+ [기타] - 학술정보팀 (~2022-02-04)
 
 * **[[2022학년도 신입생 대상] 2022학년도 자동수강신청 및 희망교과목 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180298&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-02-04)
@@ -95,6 +98,3 @@
 
 * **[[대학일자리플러스센터] 1월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180201&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-01-28)
-
-* **[규정류 개정 공포(2021-제13차 교무회의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180180&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2022-01-27)
