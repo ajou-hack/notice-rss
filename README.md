@@ -9,6 +9,18 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180342&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-02-04)
+
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180341&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-02-04)
+
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180340&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-02-04)
+
+* **[[대학일자리플러스센터] 취중진담에서 2021 취업에 성공한 아주인과 함께하세요](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180338&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-02-04)
+
 * **[[글로벌미래교육원] 봄학기 실무취업영어자격증 및 Toeic Speaking 목표달성반 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180331&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 글로벌미래교육원 (~2022-02-04)
 
@@ -86,15 +98,3 @@
 
 * **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내(교내 IDC구축 일정 변동 반영)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180253&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-03)
-
-* **[[중앙도서관] 설연휴 휴관 안내(1/30~2/2)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180223&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-01-28)
-
-* **[[학부]2022-1학기 수강신청 안내(2/9(수)~2/15(화))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180216&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-01-28)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180214&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-01-28)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180208&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-01-28)
