@@ -9,6 +9,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 2022학년도 대학일자리플러스센터 설문조사 실시](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180438&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-02-07)
+
 * **[[중앙도서관] 도서관 시스템 오류로 인한 긴급 점검 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180437&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-02-07)
 
@@ -95,6 +98,3 @@
 
 * **[(학사과정)2022-1학기 국내대학 학점교류 신청 안내(22.02.04.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180312&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-04)
-
-* **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP3) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180311&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-02-04)
