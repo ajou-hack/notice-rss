@@ -9,6 +9,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[중앙도서관] 도서관 시스템 오류로 인한 긴급 점검 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180437&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-02-07)
+
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180426&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-02-07)
 
@@ -94,7 +97,4 @@
  [학사] - 교무팀 (~2022-02-04)
 
 * **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP3) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180311&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-02-04)
-
-* **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP2) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180310&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-02-04)
