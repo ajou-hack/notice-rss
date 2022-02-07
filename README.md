@@ -9,6 +9,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[홍보] MBN Y FORUM 2022](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180414&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 커뮤니케이션팀 (~2022-02-07)
+
+* **[2022년01월 정기점검 점검결과 및 2022년02월 정기점검 계획표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180413&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2022-02-07)
+
 * **[[다산학부대학] 2022-1학기 Co-BSM 본수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180410&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-02-07)
 
@@ -92,9 +98,3 @@
 
 * **[2022년 1학기 외국인 유학생 대상 한국어 TA 모집 안내(~2/22화 14:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180302&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 글로벌교양학부 (~2022-02-04)
-
-* **[[법학도서관] 2022학년도 1학기 면학장학생 모집(~2/10 am 9:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180301&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-02-04)
-
-* **[[2022학년도 신입생 대상] 2022학년도 자동수강신청 및 희망교과목 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180298&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-02-04)
