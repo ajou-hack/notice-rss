@@ -9,6 +9,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[다산학부대학] 2022-1학기 Co-BSM 본수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180410&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-02-07)
+
+* **[[봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180407&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-02-07)
+
+* **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 40호 (2022.02)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180405&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-02-07)
+
 * **[[Remind][학부] 2022-1학기 등록 안내(02.21.~02.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180388&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-07)
 
@@ -89,12 +98,3 @@
 
 * **[[2022학년도 신입생 대상] 2022학년도 자동수강신청 및 희망교과목 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180298&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-02-04)
-
-* **[[생활관]2022년 1학기 남제관 신청 기간 중 신청 불가 시간 안내 - 2/5(토) 09:00 ~ 6(일) 18:00](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180297&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 생활관 (~2022-02-03)
-
-* **[[혁신공유대학사업]미래자동차 교육과정 학점교류 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180292&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-02-03)
-
-* **[2022-1학기 시간제등록생 전형 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180290&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-02-03)
