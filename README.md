@@ -9,6 +9,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[Remind][학부] 2022-1학기 등록 안내(02.21.~02.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180388&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-02-07)
+
+* **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180387&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-02-07)
+
 * **[[총무팀] 코로나19 확진자 급증에 따른 신속항원검사 활용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180360&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-02-04)
 
@@ -92,9 +98,3 @@
 
 * **[2022-1학기 시간제등록생 전형 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180290&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-03)
-
-* **[[봉사활동] 경기도장애인재활협회 늘품 멘토링 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180287&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-02-03)
-
-* **[미래자동차 혁신공유대학 성과홍보관 소개 및 설문조사(기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180279&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신공유단 (~2022-02-03)
