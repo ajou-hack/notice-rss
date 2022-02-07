@@ -9,13 +9,28 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180426&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-02-07)
+
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180425&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-02-07)
+
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180424&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-02-07)
+
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180423&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-02-07)
+
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180422&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-02-07)
+
 * **[[홍보] MBN Y FORUM 2022](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180414&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 커뮤니케이션팀 (~2022-02-07)
 
 * **[2022년01월 정기점검 점검결과 및 2022년02월 정기점검 계획표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180413&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-02-07)
 
-* **[[다산학부대학] 2022-1학기 Co-BSM 본수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180410&amp;article.offset=0&amp;articleLimit=30)**
+* **[[다산학부대학] 2022-1학기 BSM 본수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180410&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-02-07)
 
 * **[[봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180407&amp;article.offset=0&amp;articleLimit=30)**
@@ -83,18 +98,3 @@
 
 * **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP2) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180310&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-02-04)
-
-* **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP1) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180309&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-02-04)
-
-* **[[아주지속가능발전센터] AJOU 친환경 캠페인 당첨자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180307&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 아주지속가능발전센터 (~2022-02-04)
-
-* **[(접수)아주북통 &#x27;교수님과 함께하는 독서클럽&#x27; 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180306&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학술정보팀 (~2022-02-04)
-
-* **[제17대 최기주 총장 취임식 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180303&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 총무팀 (~2022-02-04)
-
-* **[2022년 1학기 외국인 유학생 대상 한국어 TA 모집 안내(~2/22화 14:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180302&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 글로벌교양학부 (~2022-02-04)
