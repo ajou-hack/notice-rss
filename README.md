@@ -12,6 +12,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[종합지원센터] 2021년도 2학기 사물함 회수 물품 확인 및 수령 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180504&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-02-08)
+
+* **[[종합지원센터] 2022-1학기 1차 사물함 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180503&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-02-08)
+
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180494&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-02-08)
 
@@ -94,10 +100,4 @@
  [학사] - 교무팀 (~2022-02-07)
 
 * **[[총무팀] 코로나19 확진자 급증에 따른 신속항원검사 활용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180360&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-02-04)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180349&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-02-04)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180348&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-02-04)
