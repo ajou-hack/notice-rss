@@ -9,6 +9,18 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(학사과정)2022-1학기 국내대학 학점교류 신청 안내(22.02.08.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180484&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-02-08)
+
+* **[♥(장애학생지원실) 2022-1 교육지원인력 모집(대학원생)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180475&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2022-02-08)
+
+* **[♥(장애학생지원실) 2022-1 교육지원인력 모집(재학생)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180471&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2022-02-08)
+
+* **[중앙도서관 자료실 바닥보수작업 일정 안내(2/12, 2/19)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180469&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-02-08)
+
 * **[[학부] 2022-1학기 등록금 분할납부 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180467&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 재무회계팀 (~2022-02-08)
 
@@ -86,15 +98,3 @@
 
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180341&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-02-04)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180340&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-02-04)
-
-* **[[대학일자리플러스센터] 취중진담에서 2021 취업에 성공한 아주인과 함께하세요](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180338&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-02-04)
-
-* **[[글로벌미래교육원] 봄학기 실무취업영어자격증 및 Toeic Speaking 목표달성반 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180331&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 글로벌미래교육원 (~2022-02-04)
-
-* **[(재공지)[국제교류팀] 휴학생 면학장학생(근로학생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180326&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2022-02-04)
