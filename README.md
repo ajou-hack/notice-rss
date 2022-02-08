@@ -9,6 +9,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학부] 2022-1학기 등록금 분할납부 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180467&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 재무회계팀 (~2022-02-08)
+
 * **[[공학교육혁신센터] 한국신재생에너지협회 풍력 분야 대표기업 온라인 채용설명회 홍보(~2/15(화)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180466&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2022-02-08)
 
@@ -95,6 +98,3 @@
 
 * **[(재공지)[국제교류팀] 휴학생 면학장학생(근로학생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180326&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-02-04)
-
-* **[[대학일자리플러스센터] 휴학생 면학장학생 모집 (재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180321&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-02-04)
