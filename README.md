@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180493&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-02-08)
+
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
@@ -8,6 +11,24 @@
 
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180494&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-02-08)
+
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180492&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-02-08)
+
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180491&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-02-08)
+
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180490&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-02-08)
+
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180489&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-02-08)
+
+* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180487&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-02-08)
 
 * **[(학사과정)2022-1학기 국내대학 학점교류 신청 안내(22.02.08.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180484&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-08)
@@ -79,22 +100,4 @@
  [기타] - 총무팀 (~2022-02-04)
 
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180348&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-02-04)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180347&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-02-04)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180346&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-02-04)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180345&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-02-04)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180343&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-02-04)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180342&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-02-04)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180341&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-02-04)
