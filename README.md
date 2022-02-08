@@ -9,10 +9,13 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 2022 상반기 서포터즈 12기 모집!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180457&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-02-08)
+
 * **[[대학일자리플러스센터] 2022학년도 대학일자리플러스센터 설문조사 실시](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180438&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-02-07)
 
-* **[[중앙도서관] 도서관 시스템 오류로 인한 긴급 점검 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180437&amp;article.offset=0&amp;articleLimit=30)**
+* **[[중앙도서관] (조치완료) 도서관 시스템 긴급 점검 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180437&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-02-07)
 
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180426&amp;article.offset=0&amp;articleLimit=30)**
@@ -95,6 +98,3 @@
 
 * **[제17대 총장 취임식 개최에 따른 주차장 통제 및 개인차량 이용자제 협조 요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180313&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 총무팀 (~2022-02-04)
-
-* **[(학사과정)2022-1학기 국내대학 학점교류 신청 안내(22.02.04.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180312&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-02-04)
