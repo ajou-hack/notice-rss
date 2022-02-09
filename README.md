@@ -12,10 +12,16 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[국제교류팀] 2022-2학기 파견 교환 및 복수학위 2차모집 선발예고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180552&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2022-02-09)
+
+* **[[국가근로]2022-1학기 국가근로장학금 희망근로지 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180551&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-02-09)
+
 * **[[근로]아주심리상담센터 근로장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180537&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 아주심리상담센터 (~2022-02-09)
 
-* **[[공학교육혁신센터] ★긴급★ 신산업분과 온라인 공동직무설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180536&amp;article.offset=0&amp;articleLimit=30)**
+* **[[공학교육혁신센터] ★선착순★ 신산업분과 온라인 공동직무설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180536&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2022-02-09)
 
 * **[[중앙도서관] 22-1학기 정보지원실 업무 보조 휴학생 모집 (~2/18일 am 9:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180525&amp;article.offset=0&amp;articleLimit=30)**
@@ -95,9 +101,3 @@
 
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180423&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-02-07)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180422&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-02-07)
-
-* **[[홍보] MBN Y FORUM 2022](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180414&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 커뮤니케이션팀 (~2022-02-07)
