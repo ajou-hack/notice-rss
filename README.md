@@ -12,6 +12,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[중앙도서관] 22-1학기 정보지원실 업무 보조 휴학생 모집 (~2/18일 am 9:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180525&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-02-09)
+
+* **[[학부] 졸업예정자 취업(준비)활동 지원을 위한 출석인정제도 안내(취업계)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180519&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-02-09)
+
 * **[[대학일자리플러스센터] 취중진담에서 2021 취업에 성공한 아주인과 함께해요^^](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180511&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-02-09)
 
@@ -41,6 +47,12 @@
 
 * **[(학사과정)2022-1학기 국내대학 학점교류 신청 안내(22.02.08.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180484&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-08)
+
+* **[국제대학원에서 함께 면학할 성실한 면학장학생을 모집합니다. (SNS 활동 업무)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180482&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 국제대학원 (~2022-02-08)
+
+* **[국제대학원에서 함께 면학할 성실한 면학장학생을 모집합니다. (사무보조업무)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180479&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 국제대학원 (~2022-02-08)
 
 * **[♥(장애학생지원실) 2022-1 교육지원인력 모집(대학원생)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180475&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2022-02-08)
@@ -89,15 +101,3 @@
 
 * **[[다산학부대학] 2022-1학기 BSM 본수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180410&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-02-07)
-
-* **[[봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180407&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-02-07)
-
-* **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 40호 (2022.02)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180405&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-02-07)
-
-* **[[Remind][학부] 2022-1학기 등록 안내(02.21.~02.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180388&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-02-07)
-
-* **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180387&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-02-07)
