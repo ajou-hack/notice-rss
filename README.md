@@ -12,6 +12,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[근로]아주심리상담센터 근로장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180537&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 아주심리상담센터 (~2022-02-09)
+
+* **[[공학교육혁신센터] ★긴급★ 신산업분과 온라인 공동직무설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180536&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2022-02-09)
+
 * **[[중앙도서관] 22-1학기 정보지원실 업무 보조 휴학생 모집 (~2/18일 am 9:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180525&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-02-09)
 
@@ -95,9 +101,3 @@
 
 * **[[홍보] MBN Y FORUM 2022](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180414&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 커뮤니케이션팀 (~2022-02-07)
-
-* **[2022년01월 정기점검 점검결과 및 2022년02월 정기점검 계획표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180413&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2022-02-07)
-
-* **[[다산학부대학] 2022-1학기 BSM 본수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180410&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-02-07)
