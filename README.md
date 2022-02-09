@@ -12,6 +12,18 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[아주대학교 학칙 및 규정류 개정 공포(2021-제12차 교무회의, 제84차 대학평의원회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180566&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2022-02-09)
+
+* **[[국가근로] 2월 국가근로 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 2/11 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180564&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-02-09)
+
+* **[[대학일자리플러스센터] 외국계 기업 현직 JOB 토크에 초대합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180563&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-02-09)
+
+* **[2022-1학기 SW기초교육 TA 모집(~02.20 접수 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180562&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW중심대학 소프트웨어교육센터 (~2022-02-09)
+
 * **[[국제교류팀] 2022-2학기 파견 교환 및 복수학위 2차모집 선발예고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180552&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-02-09)
 
@@ -89,15 +101,3 @@
 
 * **[[중앙도서관] (조치완료) 도서관 시스템 긴급 점검 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180437&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-02-07)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180426&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-02-07)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180425&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-02-07)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180424&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-02-07)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180423&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-02-07)
