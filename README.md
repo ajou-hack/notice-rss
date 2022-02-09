@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 취중진담에서 2021 취업에 성공한 아주인과 함께해요^^](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180511&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-02-09)
+
 * **[[종합지원센터] 2021년도 2학기 사물함 회수 물품 확인 및 수령 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180504&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-02-08)
 
@@ -98,6 +101,3 @@
 
 * **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180387&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-07)
-
-* **[[총무팀] 코로나19 확진자 급증에 따른 신속항원검사 활용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180360&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-02-04)
