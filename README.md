@@ -12,6 +12,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[다산학부대학]일선과목 [드론 비즈니스 모델 개발] 및 [창업 아이디어 탐색 및 실습] 수강신청 리스트 화면 오류 수정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180573&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-02-10)
+
+* **[원천정보관(토론학습실) 단축운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180571&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2022-02-10)
+
+* **[[기획팀]아주대학교 학칙 개정(안) 사전 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180568&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2022-02-09)
+
 * **[아주대학교 학칙 및 규정류 개정 공포(2021-제12차 교무회의, 제84차 대학평의원회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180566&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 기획팀 (~2022-02-09)
 
@@ -92,12 +101,3 @@
 
 * **[[공학교육혁신센터] 한국신재생에너지협회 풍력 분야 대표기업 온라인 채용설명회 홍보(~2/15(화)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180466&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2022-02-08)
-
-* **[[대학일자리플러스센터] 2022 상반기 서포터즈 12기 모집!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180457&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-02-08)
-
-* **[[대학일자리플러스센터] 2022학년도 대학일자리플러스센터 설문조사 실시](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180438&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-02-07)
-
-* **[[중앙도서관] (조치완료) 도서관 시스템 긴급 점검 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180437&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-02-07)
