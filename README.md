@@ -12,6 +12,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(학사과정)2022-1학기 국내대학 학점교류 신청 안내(22.02.10.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180610&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-02-10)
+
+* **[[장학] 우아한사장님 자녀 장학금 신청_2.20(일)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180609&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-02-10)
+
+* **[[모집] 2022-1 유학생 전공도우미(멘토) 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180607&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 유학생입학팀 (~2022-02-10)
+
 * **[제17대 최기주 총장 취임사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180595&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 커뮤니케이션팀 (~2022-02-10)
 
@@ -92,12 +101,3 @@
 
 * **[(학사과정)2022-1학기 국내대학 학점교류 신청 안내(22.02.08.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180484&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-08)
-
-* **[국제대학원에서 함께 면학할 성실한 면학장학생을 모집합니다. (SNS 활동 업무)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180482&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 국제대학원 (~2022-02-08)
-
-* **[국제대학원에서 함께 면학할 성실한 면학장학생을 모집합니다. (사무보조업무)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180479&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 국제대학원 (~2022-02-08)
-
-* **[♥(장애학생지원실) 2022-1 교육지원인력 모집(대학원생)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180475&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2022-02-08)
