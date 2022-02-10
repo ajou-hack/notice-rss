@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[혁신공유단 홈페이지 오픈](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180586&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신공유단 (~2022-02-10)
+
 * **[[대학원교학팀] 행정업무 보조 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180578&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학원교학팀 (~2022-02-10)
 
@@ -98,6 +101,3 @@
 
 * **[중앙도서관 자료실 바닥보수작업 일정 안내(2/12, 2/19)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180469&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-02-08)
-
-* **[[학부] 2022-1학기 등록금 분할납부 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180467&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 재무회계팀 (~2022-02-08)
