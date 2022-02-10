@@ -12,6 +12,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[제17대 최기주 총장 취임사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180595&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 커뮤니케이션팀 (~2022-02-10)
+
+* **[[종합지원센터] 2022학년도 1학기 정기주차권 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180594&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-02-10)
+
 * **[혁신공유단 홈페이지 오픈](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180586&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 혁신공유단 (~2022-02-10)
 
@@ -21,7 +27,7 @@
 * **[[다산학부대학]일선과목 [드론 비즈니스 모델 개발] 및 [창업 아이디어 탐색 및 실습] 수강신청 리스트 화면 오류 수정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180573&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-02-10)
 
-* **[원천정보관(토론학습실) 단축운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180571&amp;article.offset=0&amp;articleLimit=30)**
+* **[[학생지원팀] 원천정보관(토론학습실) 단축운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180571&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2022-02-10)
 
 * **[[기획팀]아주대학교 학칙 개정(안) 사전 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180568&amp;article.offset=0&amp;articleLimit=30)**
@@ -95,9 +101,3 @@
 
 * **[♥(장애학생지원실) 2022-1 교육지원인력 모집(대학원생)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180475&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2022-02-08)
-
-* **[♥(장애학생지원실) 2022-1 교육지원인력 모집(재학생)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180471&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2022-02-08)
-
-* **[중앙도서관 자료실 바닥보수작업 일정 안내(2/12, 2/19)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180469&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-02-08)
