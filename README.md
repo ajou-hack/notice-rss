@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학원교학팀] 행정업무 보조 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180578&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학원교학팀 (~2022-02-10)
+
 * **[[다산학부대학]일선과목 [드론 비즈니스 모델 개발] 및 [창업 아이디어 탐색 및 실습] 수강신청 리스트 화면 오류 수정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180573&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-02-10)
 
@@ -98,6 +101,3 @@
 
 * **[[학부] 2022-1학기 등록금 분할납부 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180467&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 재무회계팀 (~2022-02-08)
-
-* **[[공학교육혁신센터] 한국신재생에너지협회 풍력 분야 대표기업 온라인 채용설명회 홍보(~2/15(화)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180466&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2022-02-08)
