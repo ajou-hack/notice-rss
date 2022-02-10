@@ -12,14 +12,20 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[총무팀] 코로나19 확진자 발생 공지 방법 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180621&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-02-10)
+
+* **[[다산학부대학] 2022-1학기 영어2 일부 분반 교원 변경 안내 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180619&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-02-10)
+
+* **[[융복합의료제품규제과학연구센터] 근로학생 모집(~2/25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180614&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 약학대학 교학팀 (~2022-02-10)
+
 * **[(학사과정)2022-1학기 국내대학 학점교류 신청 안내(22.02.10.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180610&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-10)
 
 * **[[장학] 우아한사장님 자녀 장학금 신청_2.20(일)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180609&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-02-10)
-
-* **[[모집] 2022-1 유학생 전공도우미(멘토) 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180607&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 유학생입학팀 (~2022-02-10)
 
 * **[제17대 최기주 총장 취임사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180595&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 커뮤니케이션팀 (~2022-02-10)
@@ -95,9 +101,3 @@
 
 * **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180489&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-02-08)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180487&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-02-08)
-
-* **[(학사과정)2022-1학기 국내대학 학점교류 신청 안내(22.02.08.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180484&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-02-08)
