@@ -12,6 +12,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[글로벌미래교육원] 봄학기 실무취업영어자격증 및 Toeic Speaking 목표달성반 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180686&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 글로벌미래교육원 (~2022-02-11)
+
+* **[[학부] 학위수여식 및 2022학년도 입학식 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180683&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-02-11)
+
 * **[[재공지][근로] 아주심리상담센터 근로장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180680&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 아주심리상담센터 (~2022-02-11)
 
@@ -95,9 +101,3 @@
 
 * **[2022-1학기 SW기초교육 TA 모집(~02.20 접수 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180562&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW중심대학 소프트웨어교육센터 (~2022-02-09)
-
-* **[[국제교류팀] 2022-2학기 파견 교환 및 복수학위 2차모집 선발예고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180552&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2022-02-09)
-
-* **[[국가근로]2022-1학기 국가근로장학금 희망근로지 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180551&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-02-09)
