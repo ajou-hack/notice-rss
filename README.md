@@ -12,6 +12,21 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP3) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180659&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-02-11)
+
+* **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP2) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180658&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-02-11)
+
+* **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP1) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180656&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-02-11)
+
+* **[2022학년도 1학기 장학선발 결과 발표_2.14(월) 09:00](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180641&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-02-11)
+
+* **[[대학일자리플러스센터] 2월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180640&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-02-11)
+
 * **[(재공지)[다산학부대학] 2022-1학기 BSM 및 공업수학 본수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180624&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-02-10)
 
@@ -86,18 +101,3 @@
 
 * **[[학부] 졸업예정자 취업(준비)활동 지원을 위한 출석인정제도 안내(취업계)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180519&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-09)
-
-* **[[대학일자리플러스센터] 취중진담에서 2021 취업에 성공한 아주인과 함께해요^^](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180511&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-02-09)
-
-* **[[종합지원센터] 2021년도 2학기 사물함 회수 물품 확인 및 수령 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180504&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-02-08)
-
-* **[[종합지원센터] 2022-1학기 1차 사물함 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180503&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-02-08)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180494&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-02-08)
-
-* **[[총무팀] 코로나19 확진자 발생 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180492&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-02-08)
