@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[재공지][근로] 아주심리상담센터 근로장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180680&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 아주심리상담센터 (~2022-02-11)
+
 * **[인조잔디구장 예약안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180676&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-02-11)
 
@@ -98,6 +101,3 @@
 
 * **[[국가근로]2022-1학기 국가근로장학금 희망근로지 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180551&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-02-09)
-
-* **[[근로]아주심리상담센터 근로장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180537&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 아주심리상담센터 (~2022-02-09)
