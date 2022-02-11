@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[인조잔디구장 예약안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180676&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-02-11)
+
 * **[[대학일자리플러스센터] 2022 상반기 서포터즈 12기 모집!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180671&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-02-11)
 
@@ -98,6 +101,3 @@
 
 * **[[근로]아주심리상담센터 근로장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180537&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 아주심리상담센터 (~2022-02-09)
-
-* **[[공학교육혁신센터] ★선착순★ 신산업분과 온라인 공동직무설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180536&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2022-02-09)
