@@ -9,6 +9,24 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022년 통영시 저소득 대학생 장학금 지원대상자 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180703&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-02-14)
+
+* **[2022년 기존주택 전세임대 입주자 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180701&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-02-14)
+
+* **[제3기 전라남도 해외유학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180700&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-02-14)
+
+* **[2022년도 제주삼다수재단 장학생 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180699&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-02-14)
+
+* **[[Remind][학부] 2022-1학기 등록 안내(02.21.~02.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180696&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-02-14)
+
+* **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180695&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-02-14)
+
 * **[[글로벌미래교육원] 봄학기 실무취업영어자격증 및 Toeic Speaking 목표달성반 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180686&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 글로벌미래교육원 (~2022-02-11)
 
@@ -80,21 +98,3 @@
 
 * **[[다산학부대학]일선과목 [드론 비즈니스 모델 개발] 및 [창업 아이디어 탐색 및 실습] 수강신청 리스트 화면 오류 수정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180573&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-02-10)
-
-* **[[학생지원팀] 원천정보관(토론학습실) 단축운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180571&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2022-02-10)
-
-* **[[기획팀]아주대학교 학칙 개정(안) 사전 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180568&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2022-02-09)
-
-* **[아주대학교 학칙 및 규정류 개정 공포(2021-제12차 교무회의, 제84차 대학평의원회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180566&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2022-02-09)
-
-* **[[국가근로] 2월 국가근로 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 2/11 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180564&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-02-09)
-
-* **[[대학일자리플러스센터] 외국계 기업 현직 JOB 토크에 초대합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180563&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-02-09)
-
-* **[2022-1학기 SW기초교육 TA 모집(~02.20 접수 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180562&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW중심대학 소프트웨어교육센터 (~2022-02-09)
