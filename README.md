@@ -9,6 +9,24 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[♣2022-1학기 교육지원인력 2차 모집(대학원생)♣](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180717&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2022-02-14)
+
+* **[♥2022-1학기 교육지원인력 2차 모집(재학생)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180716&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2022-02-14)
+
+* **[[교수학습개발센터] 2021-2학기 수업 참여 사례 공모전 수상작 모음집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180715&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-02-14)
+
+* **[♥2022-1학기 교육지원인력 1차 합격자 발표(재학생)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180712&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2022-02-14)
+
+* **[[교무팀] 휴학생 3~5월 근로장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180711&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 교무팀 (~2022-02-14)
+
+* **[2023-2024년도 풀브라이트 미국 대학원 유학 장학 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180705&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-02-14)
+
 * **[2022년 통영시 저소득 대학생 장학금 지원대상자 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180703&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-02-14)
 
@@ -80,21 +98,3 @@
 
 * **[(학사과정)2022-1학기 국내대학 학점교류 신청 안내(22.02.10.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180610&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-10)
-
-* **[[장학] 우아한사장님 자녀 장학금 신청_2.20(일)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180609&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-02-10)
-
-* **[제17대 최기주 총장 취임사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180595&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 커뮤니케이션팀 (~2022-02-10)
-
-* **[[종합지원센터] 2022학년도 1학기 정기주차권 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180594&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-02-10)
-
-* **[혁신공유단 홈페이지 오픈](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180586&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신공유단 (~2022-02-10)
-
-* **[[대학원교학팀] 행정업무 보조 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180578&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학원교학팀 (~2022-02-10)
-
-* **[[다산학부대학]일선과목 [드론 비즈니스 모델 개발] 및 [창업 아이디어 탐색 및 실습] 수강신청 리스트 화면 오류 수정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180573&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-02-10)
