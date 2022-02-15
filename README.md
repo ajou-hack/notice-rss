@@ -9,6 +9,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 2022학년도 설문조사 참여 안내(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180763&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-02-14)
+
 * **[♣2022-1학기 교육지원인력 2차 모집(대학원생)♣](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180717&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2022-02-14)
 
@@ -21,7 +24,7 @@
 * **[♥2022-1학기 교육지원인력 1차 합격자 발표(재학생)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180712&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2022-02-14)
 
-* **[[교무팀] 휴학생 3~5월 근로장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180711&amp;article.offset=0&amp;articleLimit=30)**
+* **[[교무팀] 휴학생 3~5월 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180711&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 교무팀 (~2022-02-14)
 
 * **[2023-2024년도 풀브라이트 미국 대학원 유학 장학 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180705&amp;article.offset=0&amp;articleLimit=30)**
@@ -95,6 +98,3 @@
 
 * **[[융복합의료제품규제과학연구센터] 근로학생 모집(~2/25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180614&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 약학대학 교학팀 (~2022-02-10)
-
-* **[(학사과정)2022-1학기 국내대학 학점교류 신청 안내(22.02.10.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180610&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-02-10)
