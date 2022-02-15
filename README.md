@@ -9,6 +9,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[재공지] 미래자동차 학점교류 교과목 추가모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180869&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-02-15)
+
 * **[[대학일자리플러스센터] 2022년 상반기 SK하이닉스 채용 대비 1:1 서류 컨설팅](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180861&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-02-15)
 
@@ -95,6 +98,3 @@
 
 * **[♥(장애학생지원실) 면학장학생 모집(휴학생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180623&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2022-02-10)
-
-* **[[모집] 2022년 1학기 한국어 튜터 모집 안내(~2/22화 14:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180622&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 글로벌교양학부 (~2022-02-10)
