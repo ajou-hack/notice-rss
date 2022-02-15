@@ -9,6 +9,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 2022년 상반기 SK하이닉스 채용 대비 1:1 서류 컨설팅](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180861&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-02-15)
+
+* **[2022학년도 신입학 추가모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180859&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 입학팀 (~2022-02-15)
+
 * **[[시설팀] 상수도배관 관로 신설공사 일정 안내 (다산관, 약학관 인근)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180856&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2022-02-15)
 
@@ -92,9 +98,3 @@
 
 * **[[모집] 2022년 1학기 한국어 튜터 모집 안내(~2/22화 14:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180622&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 글로벌교양학부 (~2022-02-10)
-
-* **[[총무팀] 코로나19 확진자 발생 공지 방법 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180621&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-02-10)
-
-* **[[다산학부대학] 2022-1학기 영어2 일부 분반 교원 변경 안내 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180619&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-02-10)
