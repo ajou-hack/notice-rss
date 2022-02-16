@@ -12,6 +12,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022-1학기 다산서원 12기(고전형 자기개발장학) 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180891&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - [다산학부대학 교학팀] (~2022-02-16)
+
+* **[[장학] (2022년 신입생 대상) 용운장학생 추가선발안내_2.21(월) 마감](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180889&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-02-16)
+
 * **[아주대학교 산학협력단 학생연구자 지원규정 개정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180877&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학지원팀 (~2022-02-15)
 
@@ -95,9 +101,3 @@
 
 * **[2022학년도 1학기 장학선발 결과 발표_2.14(월) 09:00](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180641&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-02-11)
-
-* **[[대학일자리플러스센터] 2월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180640&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-02-11)
-
-* **[(재공지)[다산학부대학] 2022-1학기 BSM 및 공업수학 본수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180624&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-02-10)
