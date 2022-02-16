@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022-1학기 아주강좌 수업 TA 학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180918&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 다산학부대학 (~2022-02-16)
+
 * **[[교무팀] 2022-1학기 코로나19 확산에 따른 출석인정 안내(백신공결)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180913&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-16)
 
@@ -97,7 +100,4 @@
  [취업] - 대학일자리플러스센터 (~2022-02-11)
 
 * **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP3) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180659&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-02-11)
-
-* **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP2) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180658&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-02-11)
