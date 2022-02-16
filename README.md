@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[재공고 마감임박!]2022 대학일자리플러스센터 서포터즈 12기 모집!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180908&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-02-16)
+
 * **[2022-1학기 다산서원 12기(고전형 자기개발장학) 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180891&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - [다산학부대학 교학팀] (~2022-02-16)
 
@@ -98,6 +101,3 @@
 
 * **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP1) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180656&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-02-11)
-
-* **[2022학년도 1학기 장학선발 결과 발표_2.14(월) 09:00](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180641&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-02-11)
