@@ -12,6 +12,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[♥2022-1학기 재학생 교육지원인력 3차 모집♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180930&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2022-02-17)
+
+* **[♥2022-1학기 교육지원인력 2차 합격자 발표(재학생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180929&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2022-02-17)
+
 * **[[장학] 2022년도 1학기 선원가족 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180920&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-02-17)
 
@@ -38,9 +44,6 @@
 
 * **[[대학일자리플러스센터] 2022년 상반기 SK하이닉스 채용 대비 1:1 서류 컨설팅](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180861&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-02-15)
-
-* **[2022학년도 신입학 추가모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180859&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 입학팀 (~2022-02-15)
 
 * **[[시설팀] 상수도배관 관로 신설공사 일정 안내 (다산관, 약학관 인근)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180856&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2022-02-15)
@@ -97,7 +100,4 @@
  [학사] - 사회봉사센터 (~2022-02-11)
 
 * **[[대학일자리플러스센터] 2022 상반기 서포터즈 12기 모집!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180671&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-02-11)
-
-* **[[대학일자리플러스센터] 일본 우수 구인 기업 채용 설명회 참가자를 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180665&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-02-11)
