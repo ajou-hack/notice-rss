@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[장학] 2022년도 1학기 선원가족 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180920&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-02-17)
+
 * **[2022-1학기 아주강좌 수업 TA 학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180918&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 다산학부대학 (~2022-02-16)
 
@@ -98,6 +101,3 @@
 
 * **[[대학일자리플러스센터] 일본 우수 구인 기업 채용 설명회 참가자를 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180665&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-02-11)
-
-* **[[학습법] 학습리더를 위한 데일 카네기 리더십 워크숍(STEP3) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180659&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-02-11)
