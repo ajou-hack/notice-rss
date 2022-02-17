@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[재공지][중앙도서관] 22-1학기 정보지원실 업무 보조 휴학생 모집 (~2/18일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180962&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-02-17)
+
 * **[[예비군연대] 2022학년도 면학장학생 모집 (1명, ~2/25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180956&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 예비군연대 (~2022-02-17)
 
@@ -98,6 +101,3 @@
 
 * **[[학부] 학위수여식 및 2022학년도 입학식 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180683&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-11)
-
-* **[[재공지][근로] 아주심리상담센터 근로장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180680&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 아주심리상담센터 (~2022-02-11)
