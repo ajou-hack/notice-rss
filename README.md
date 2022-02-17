@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[♣2022-1학기 대학원생 교육지원인력 3차 모집♣](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180945&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2022-02-17)
+
 * **[♥2022-1학기 재학생 교육지원인력 3차 모집♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180930&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2022-02-17)
 
@@ -98,6 +101,3 @@
 
 * **[인조잔디구장 예약안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180676&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-02-11)
-
-* **[[대학일자리플러스센터] 2022 상반기 서포터즈 12기 모집!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180671&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-02-11)
