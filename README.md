@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[국제교육센터 제8기 아주글로벌버디(AJOU GLOBAL BUDDY)모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180989&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 국제교육센터 (~2022-02-18)
+
 * **[[봉사활동] 봉사동아리 &#x27;아주 로타랙트&#x27; 부원 모집안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180988&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-02-18)
 
@@ -98,6 +101,3 @@
 
 * **[(마감) [교무팀] 휴학생 3~5월 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180711&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 교무팀 (~2022-02-14)
-
-* **[2023-2024년도 풀브라이트 미국 대학원 유학 장학 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180705&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-02-14)
