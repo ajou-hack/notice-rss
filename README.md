@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[봉사활동] (영통구청) 함께 이루는 꿈! 온(溫)택트 학습 멘토링 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180998&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-02-18)
+
 * **[국제교육센터 제8기 아주글로벌버디(AJOU GLOBAL BUDDY)모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180989&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 국제교육센터 (~2022-02-18)
 
@@ -98,6 +101,3 @@
 
 * **[♥2022-1학기 교육지원인력 1차 합격자 발표(재학생)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180712&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2022-02-14)
-
-* **[(마감) [교무팀] 휴학생 3~5월 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180711&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 교무팀 (~2022-02-14)
