@@ -12,6 +12,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[담아 : 담뿍 담은 열다섯 번째 아주 📮 - 2022학년도 입학식 이벤트 안내]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181004&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2022-02-18)
+
+* **[[담아 : 담뿍 담은 열네 번째 아주 📮 - 졸업 이벤트 안내]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181000&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2022-02-18)
+
 * **[[봉사활동] (영통구청) 함께 이루는 꿈! 온(溫)택트 학습 멘토링 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180998&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-02-18)
 
@@ -94,10 +100,4 @@
  [기타] - 장애학생지원실 (~2022-02-14)
 
 * **[♥2022-1학기 교육지원인력 2차 모집(재학생)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180716&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2022-02-14)
-
-* **[[교수학습개발센터] 2021-2학기 수업 참여 사례 공모전 수상작 모음집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180715&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-02-14)
-
-* **[♥2022-1학기 교육지원인력 1차 합격자 발표(재학생)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180712&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2022-02-14)
