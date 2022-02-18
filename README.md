@@ -12,6 +12,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학부]2022학년도 신입생(2/28)·편입생(2/25) 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180978&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-02-18)
+
+* **[[중앙도서관] &#x27;22년 2월 졸업예정자 도서 반납 안내(~2.22까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180976&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-02-18)
+
+* **[LINC+사업단 뉴스레터 제44호(2022.02)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180974&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2022-02-18)
+
 * **[[재공지][중앙도서관] 22-1학기 정보지원실 업무 보조 휴학생 모집 (~2/18일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180962&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-02-17)
 
@@ -30,7 +39,7 @@
 * **[[장학] 2022년도 1학기 선원가족 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180920&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-02-17)
 
-* **[2022-1학기 아주강좌 수업 TA 학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180918&amp;article.offset=0&amp;articleLimit=30)**
+* **[[다산학부대학] 2022-1학기 아주강좌 수업 TA 학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180918&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 다산학부대학 (~2022-02-16)
 
 * **[[교무팀] 2022-1학기 코로나19 확산에 따른 출석인정 안내(백신공결)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180913&amp;article.offset=0&amp;articleLimit=30)**
@@ -92,12 +101,3 @@
 
 * **[[Remind][학부] 2022-1학기 등록 안내(02.21.~02.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180696&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-14)
-
-* **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180695&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-02-14)
-
-* **[[글로벌미래교육원] 봄학기 실무취업영어자격증 및 Toeic Speaking 목표달성반 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180686&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 글로벌미래교육원 (~2022-02-11)
-
-* **[[학부] 학위수여식 및 2022학년도 입학식 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180683&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-02-11)
