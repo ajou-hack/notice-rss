@@ -12,6 +12,21 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[봉사활동] 봉사동아리 &#x27;아주 로타랙트&#x27; 부원 모집안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180988&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-02-18)
+
+* **[[총무팀] 아주대학교의료원 지상헬기장 인근 드론 운행 자제 요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180987&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-02-18)
+
+* **[[양현재] 2022 로스쿨 입학준비반 양현재(養賢齋) 모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180986&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 다산학부대학 (~2022-02-18)
+
+* **[[총무팀] 홍재관 동편 크레인 작업으로 인한 통행 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180985&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-02-18)
+
+* **[[시설팀] 약학관 건물 단수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180984&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2022-02-18)
+
 * **[[학부]2022학년도 신입생(2/28)·편입생(2/25) 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180978&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-18)
 
@@ -86,18 +101,3 @@
 
 * **[2023-2024년도 풀브라이트 미국 대학원 유학 장학 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180705&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-02-14)
-
-* **[2022년 통영시 저소득 대학생 장학금 지원대상자 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180703&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-02-14)
-
-* **[2022년 기존주택 전세임대 입주자 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180701&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-02-14)
-
-* **[제3기 전라남도 해외유학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180700&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-02-14)
-
-* **[2022년도 제주삼다수재단 장학생 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180699&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-02-14)
-
-* **[[Remind][학부] 2022-1학기 등록 안내(02.21.~02.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180696&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-02-14)
