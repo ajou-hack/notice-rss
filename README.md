@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[실험동물연구센터 실험동물 사육 비용 인상 공지입니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181055&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 실험동물연구센터 (~2022-02-21)
+
 * **[국제교류팀: 2022-2학기 파견 교환 및 복수학위 2차모집 선발안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181042&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-02-21)
 
@@ -98,6 +101,3 @@
 
 * **[[장학] (2022년 신입생 대상) 용운장학생 추가선발안내_2.21(월) 마감](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180889&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-02-16)
-
-* **[아주대학교 산학협력단 학생연구자 지원규정 개정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180877&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학지원팀 (~2022-02-15)
