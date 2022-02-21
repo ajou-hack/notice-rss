@@ -12,6 +12,18 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022학년도 1학기 수학1 1대5 튜터링 Tutor 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181025&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 다산학부대학 (~2022-02-21)
+
+* **[[Remind][학부] 2022-1학기 등록 안내(02.21.~02.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181020&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-02-21)
+
+* **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181019&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-02-21)
+
+* **[[대학일자리플러스센터] 2월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181017&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-02-21)
+
 * **[[담아 : 담뿍 담은 열다섯 번째 아주 📮 - 2022학년도 입학식 이벤트 안내]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181004&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2022-02-18)
 
@@ -89,15 +101,3 @@
 
 * **[[대학일자리플러스센터] 2022년 상반기 SK하이닉스 채용 대비 1:1 서류 컨설팅](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180861&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-02-15)
-
-* **[[시설팀] 상수도배관 관로 신설공사 일정 안내 (다산관, 약학관 인근)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180856&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2022-02-15)
-
-* **[[대학일자리플러스센터] 2022학년도 설문조사 참여 안내(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180763&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-02-14)
-
-* **[♣2022-1학기 교육지원인력 2차 모집(대학원생)♣](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180717&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2022-02-14)
-
-* **[♥2022-1학기 교육지원인력 2차 모집(재학생)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180716&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2022-02-14)
