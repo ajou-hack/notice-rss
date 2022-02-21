@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(추가공지)[2022학년도 신입생 필독] 2022학년도 신입생 대상 진단평가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181039&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-02-21)
+
 * **[2022학년도 1학기 수학1 1대5 튜터링 Tutor 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181025&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 다산학부대학 (~2022-02-21)
 
@@ -98,6 +101,3 @@
 
 * **[[재공지] 미래자동차 학점교류 교과목 추가모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180869&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-15)
-
-* **[[대학일자리플러스센터] 2022년 상반기 SK하이닉스 채용 대비 1:1 서류 컨설팅](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180861&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-02-15)
