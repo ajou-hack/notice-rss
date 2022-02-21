@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[국제교류팀: 2022-2학기 파견 교환 및 복수학위 2차모집 선발안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181042&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2022-02-21)
+
 * **[(추가공지)[2022학년도 신입생 필독] 2022학년도 신입생 대상 진단평가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181039&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-02-21)
 
@@ -98,6 +101,3 @@
 
 * **[아주대학교 산학협력단 학생연구자 지원규정 개정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180877&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학지원팀 (~2022-02-15)
-
-* **[[재공지] 미래자동차 학점교류 교과목 추가모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180869&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-02-15)
