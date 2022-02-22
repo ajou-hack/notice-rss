@@ -12,6 +12,24 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022학년도 신입학 추가모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181081&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 입학팀 (~2022-02-22)
+
+* **[[다산학부대학]2022-1학기 BSM 기초과학 실험과목 수업운영방식 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181080&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-02-22)
+
+* **[2022 신입생 대상 온라인 어학 설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181077&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교육센터운영팀 (~2022-02-22)
+
+* **[[Remind][학부] 2022-1학기 등록 안내(02.21.~02.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181074&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-02-22)
+
+* **[♣(휴학생, 대학원생)2022-1학기 교육지원인력 4차 모집♣](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181070&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2022-02-21)
+
+* **[[사회대교학팀] 2022.1학기(3월~8월) 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181068&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 사회대교학팀 (~2022-02-21)
+
 * **[[학부]2022-1학기 수강정정 안내(3/2(수)~3/8(화), 토/일 제외)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181060&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-21)
 
@@ -83,21 +101,3 @@
 
 * **[♥2022-1학기 재학생 교육지원인력 3차 모집♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180930&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2022-02-17)
-
-* **[♥2022-1학기 교육지원인력 2차 합격자 발표(재학생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180929&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2022-02-17)
-
-* **[[장학] 2022년도 1학기 선원가족 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180920&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-02-17)
-
-* **[[다산학부대학] 2022-1학기 아주강좌 수업 TA 학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180918&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 다산학부대학 (~2022-02-16)
-
-* **[[교무팀] 2022-1학기 코로나19 확산에 따른 출석인정 안내(백신공결)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180913&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-02-16)
-
-* **[[재공고 마감임박!]2022 대학일자리플러스센터 서포터즈 12기 모집!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180908&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-02-16)
-
-* **[2022-1학기 다산서원 12기(고전형 자기개발장학) 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180891&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - [다산학부대학 교학팀] (~2022-02-16)
