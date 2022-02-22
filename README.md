@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터](WORKNET) 고용노동부에서 선정하는 &quot;청년친화강소기업&quot; 알아보기](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181100&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-02-22)
+
 * **[[2022학년도 정시 신입학생 대상] 2022학년도 자동수강신청 및 희망교과목 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181096&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-02-22)
 
@@ -98,6 +101,3 @@
 
 * **[[재공지][중앙도서관] 22-1학기 정보지원실 업무 보조 휴학생 모집 (~2/18일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180962&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-02-17)
-
-* **[[예비군연대] 2022학년도 면학장학생 모집 (1명, ~2/25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180956&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 예비군연대 (~2022-02-17)
