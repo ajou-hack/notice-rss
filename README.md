@@ -12,6 +12,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학부] 2022학년도 신입생 학생증 사진변경 및 재발급 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181150&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-02-23)
+
+* **[[학부]전자출결시스템 사용 매뉴얼 (전자출석부 사용법)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181143&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-02-23)
+
 * **[2022-1학기 교양과목 교원 미배정 과목 폐강 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181141&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-02-23)
 
@@ -94,10 +100,4 @@
  [학사] - 사회봉사센터 (~2022-02-18)
 
 * **[[총무팀] 아주대학교의료원 지상헬기장 인근 드론 운행 자제 요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180987&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-02-18)
-
-* **[[양현재] 2022 로스쿨 입학준비반 양현재(養賢齋) 모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180986&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 다산학부대학 (~2022-02-18)
-
-* **[[총무팀] 홍재관 동편 크레인 작업으로 인한 통행 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180985&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-02-18)
