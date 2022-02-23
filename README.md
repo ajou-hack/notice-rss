@@ -12,6 +12,18 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[생활관]2022년 1학기 생활관(기숙사) 재학생 추가 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181187&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 생활관 (~2022-02-23)
+
+* **[[장학] 삼익문화재단 글로벌 장학생(다문화가정) 모집 안내_3.15(화)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181186&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-02-23)
+
+* **[「AJOU 지속가능발전보고서 2021」 발간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181185&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 아주지속가능발전센터 (~2022-02-23)
+
+* **[[장학] 청년창업농어촌육성장학생 추가모집_3.15(화) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181183&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-02-23)
+
 * **[2022-1학기 교양과목 교원 미배정 과목 배정 공지 (2차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181180&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-02-23)
 
@@ -89,15 +101,3 @@
 
 * **[(추가공지)[2022학년도 신입생 필독] 2022학년도 신입생 대상 진단평가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181039&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-02-21)
-
-* **[2022학년도 1학기 수학1 1대5 튜터링 Tutor 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181025&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 다산학부대학 (~2022-02-21)
-
-* **[[Remind][학부] 2022-1학기 등록 안내(02.21.~02.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181020&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-02-21)
-
-* **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181019&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-02-21)
-
-* **[[대학일자리플러스센터] 2월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181017&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-02-21)
