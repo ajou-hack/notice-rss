@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022-1학기 교양과목 교원 미배정 과목 배정 공지 (2차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181180&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-02-23)
+
 * **[[장학] 태광그룹 일주재단 장학생 선발_3.18(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181168&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-02-23)
 
@@ -72,7 +75,7 @@
 * **[♣(휴학생, 대학원생)2022-1학기 교육지원인력 4차 모집♣](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181070&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2022-02-21)
 
-* **[[사회대교학팀] 2022.1학기(3월~8월) 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181068&amp;article.offset=0&amp;articleLimit=30)**
+* **[[사회대교학팀] 2022.1학기(3월~8월) 면학장학생 모집_조기마감](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181068&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 사회대교학팀 (~2022-02-21)
 
 * **[[학부]2022-1학기 수강정정 안내(3/2(수)~3/8(화), 토/일 제외)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181060&amp;article.offset=0&amp;articleLimit=30)**
@@ -98,6 +101,3 @@
 
 * **[[대학일자리플러스센터] 2월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181017&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-02-21)
-
-* **[[담아 : 담뿍 담은 열다섯 번째 아주 📮 - 2022학년도 입학식 이벤트 안내]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181004&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2022-02-18)
