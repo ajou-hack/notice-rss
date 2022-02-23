@@ -12,6 +12,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[장학] 태광그룹 일주재단 장학생 선발_3.18(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181168&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-02-23)
+
+* **[[글로벌미래교육원] 2022-봄학기 외국어특별과정 수강생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181167&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 글로벌미래교육원 (~2022-02-23)
+
+* **[[학부] 포탈/학생증 사진변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181164&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-02-23)
+
 * **[[봉사활동] (영통구청) 함께 이루는 꿈! 온(溫)택트 학습 멘토링 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181161&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-02-23)
 
@@ -92,12 +101,3 @@
 
 * **[[담아 : 담뿍 담은 열다섯 번째 아주 📮 - 2022학년도 입학식 이벤트 안내]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181004&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2022-02-18)
-
-* **[[담아 : 담뿍 담은 열네 번째 아주 📮 - 졸업 이벤트 안내]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181000&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2022-02-18)
-
-* **[국제교육센터 제8기 아주글로벌버디(AJOU GLOBAL BUDDY)모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180989&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 국제교육센터 (~2022-02-18)
-
-* **[[봉사활동] 봉사동아리 &#x27;아주 로타랙트&#x27; 부원 모집안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180988&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-02-18)
