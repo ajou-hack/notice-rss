@@ -12,6 +12,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022-1학기 교양과목 교원 미배정 과목 배정 공지 (1차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181138&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-02-23)
+
+* **[[중앙도서관] 시스템 작업 안내(2/24 17시~20시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181133&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-02-23)
+
 * **[[대학일자리플러스센터] 2022 상반기 두산건설 신입(채용연계형 인턴)/ 경력채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181123&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-02-22)
 
@@ -95,9 +101,3 @@
 
 * **[[학부]2022학년도 신입생(2/28)·편입생(2/25) 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180978&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-18)
-
-* **[[중앙도서관] &#x27;22년 2월 졸업예정자 도서 반납 안내(~2.22까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180976&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-02-18)
-
-* **[LINC+사업단 뉴스레터 제44호(2022.02)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180974&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-02-18)
