@@ -12,6 +12,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022-1학기 교양과목 교원 미배정 과목 폐강 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181141&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-02-23)
+
+* **[[학부] 2022학년도 신입생 학생증 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181140&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-02-23)
+
 * **[2022-1학기 교양과목 교원 미배정 과목 배정 공지 (1차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181138&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-02-23)
 
@@ -33,7 +39,7 @@
 * **[2022-1 학기 통학버스 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181090&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-02-22)
 
-* **[2022학년도 신입학 추가모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181081&amp;article.offset=0&amp;articleLimit=30)**
+* **[2022학년도 신입학 추가모집 안내(2022.02.23. 10:10 Update)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181081&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 입학팀 (~2022-02-22)
 
 * **[[다산학부대학]2022-1학기 BSM 기초과학 실험과목 수업운영방식 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181080&amp;article.offset=0&amp;articleLimit=30)**
@@ -95,9 +101,3 @@
 
 * **[[총무팀] 홍재관 동편 크레인 작업으로 인한 통행 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180985&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-02-18)
-
-* **[[시설팀] 약학관 건물 단수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180984&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2022-02-18)
-
-* **[[학부]2022학년도 신입생(2/28)·편입생(2/25) 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180978&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-02-18)
