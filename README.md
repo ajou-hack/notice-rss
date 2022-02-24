@@ -15,6 +15,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181234&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-02-24)
+
+* **[2022학년도 교사대생튜터링장학 신청 안내 ( (구)대학생청소년교육지원장학 )](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181226&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-02-24)
+
 * **[(도서관)아주북통 11기에 활동할 학생을 모집합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181211&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학술정보팀 (~2022-02-24)
 
@@ -98,9 +104,3 @@
 
 * **[[사회대교학팀] 2022.1학기(3월~8월) 면학장학생 모집_조기마감](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181068&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 사회대교학팀 (~2022-02-21)
-
-* **[[학부]2022-1학기 수강정정 안내(3/2(수)~3/8(화), 토/일 제외)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181060&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-02-21)
-
-* **[실험동물연구센터 실험동물 사육 비용 인상 공지입니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181055&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 실험동물연구센터 (~2022-02-21)
