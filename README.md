@@ -15,6 +15,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(도서관)아주북통 11기에 활동할 학생을 모집합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181211&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학술정보팀 (~2022-02-24)
+
 * **[총장님과 같이 사진 찍자! 신입생 대환영, 재학생도 환영!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181196&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2022-02-23)
 
@@ -101,6 +104,3 @@
 
 * **[실험동물연구센터 실험동물 사육 비용 인상 공지입니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181055&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 실험동물연구센터 (~2022-02-21)
-
-* **[국제교류팀: 2022-2학기 파견 교환 및 복수학위 2차모집 선발안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181042&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2022-02-21)
