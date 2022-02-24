@@ -15,6 +15,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[영자신문사] 이미지 편집자 모집 안내 (~3.5)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181242&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 대학언론사 (~2022-02-24)
+
 * **[2022년도 1학기 인공지능융합학과 교과목 담당 대학원생 TA 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181237&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 정보통신대학교학팀 (~2022-02-24)
 
@@ -101,6 +104,3 @@
 
 * **[[Remind][학부] 2022-1학기 등록 안내(02.21.~02.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181074&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-22)
-
-* **[♣(휴학생, 대학원생)2022-1학기 교육지원인력 4차 모집♣](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181070&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2022-02-21)
