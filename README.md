@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학부/학사과정]2021학년도 후기(2022년 8월) 조기졸업 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181264&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-02-25)
+
 * **[[Remind][학부] 2022-1학기 등록 안내(02.21.~02.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181247&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-25)
 
@@ -98,6 +101,3 @@
 
 * **[2022학년도 신입학 추가모집 안내(2022.02.23. 10:10 Update)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181081&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 입학팀 (~2022-02-22)
-
-* **[[다산학부대학]2022-1학기 BSM 기초과학 실험과목 수업운영방식 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181080&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-02-22)
