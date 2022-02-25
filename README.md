@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[글로벌미래교육원] 봄학기 신입생 및 재학생 대상 외국어특별과정 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181296&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 글로벌미래교육원 (~2022-02-25)
+
 * **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 41호 (2022.03)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181283&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-02-25)
 
@@ -98,6 +101,3 @@
 
 * **[[중앙도서관] (조치완료) 시스템 작업 안내(2/24 17시~20시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181133&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-02-23)
-
-* **[[대학일자리플러스센터] 2022 상반기 두산건설 신입(채용연계형 인턴)/ 경력채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181123&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-02-22)
