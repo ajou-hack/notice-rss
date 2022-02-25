@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 41호 (2022.03)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181283&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-02-25)
+
 * **[본교 편의점 입점 안내 (일신관)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181282&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-02-25)
 
@@ -97,7 +100,4 @@
  [기타] - 학술정보팀 (~2022-02-23)
 
 * **[[대학일자리플러스센터] 2022 상반기 두산건설 신입(채용연계형 인턴)/ 경력채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181123&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-02-22)
-
-* **[[대학일자리플러스센터](WORKNET) 고용노동부에서 선정하는 &quot;청년친화강소기업&quot; 알아보기](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181100&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-02-22)
