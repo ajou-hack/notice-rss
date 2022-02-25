@@ -12,10 +12,22 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[[학부/학사과정]2021학년도 후기(2022년 8월) 조기졸업 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181264&amp;article.offset=0&amp;articleLimit=30)**
+* **[본교 편의점 입점 안내 (일신관)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181282&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-02-25)
+
+* **[[영자신문사] 수습기자 모집 안내(~3.5)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181280&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 대학언론사 (~2022-02-25)
+
+* **[[대학일자리플러스센터] 2월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181277&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-02-25)
+
+* **[[학생지원팀] 학생자치공간 사용 규약 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181276&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2022-02-25)
+
+* **[[Remind][학부] 2022-1학기 등록 안내(02.21.~02.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181267&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-25)
 
-* **[[Remind][학부] 2022-1학기 등록 안내(02.21.~02.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181247&amp;article.offset=0&amp;articleLimit=30)**
+* **[[학부/학사과정]2021학년도 후기(2022년 8월) 조기졸업 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181264&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-25)
 
 * **[[영자신문사] 이미지 편집자 모집 안내 (~3.5)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181242&amp;article.offset=0&amp;articleLimit=30)**
@@ -89,15 +101,3 @@
 
 * **[[대학일자리플러스센터](WORKNET) 고용노동부에서 선정하는 &quot;청년친화강소기업&quot; 알아보기](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181100&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-02-22)
-
-* **[[2022학년도 정시 신입학생 대상] 2022학년도 자동수강신청 및 희망교과목 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181096&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-02-22)
-
-* **[2022 신입생 대상 온라인 어학 설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181092&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교육센터운영팀 (~2022-02-22)
-
-* **[2022-1 학기 통학버스 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181090&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-02-22)
-
-* **[2022학년도 신입학 추가모집 안내(2022.02.23. 10:10 Update)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181081&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 입학팀 (~2022-02-22)
