@@ -12,6 +12,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[2022학년도 신입학생 대상] 1학년 1학기 자동수강신청 완료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181303&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-02-25)
+
+* **[♥(재학생 1명) 2022-1학기 교육지원인력 4차 모집 안내♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181302&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2022-02-25)
+
 * **[[글로벌미래교육원] 봄학기 신입생 및 재학생 대상 외국어특별과정 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181296&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 글로벌미래교육원 (~2022-02-25)
 
@@ -95,9 +101,3 @@
 
 * **[[학부] 2022학년도 신입생 학생증 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181140&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-02-23)
-
-* **[2022-1학기 교양과목 교원 미배정 과목 배정 공지 (1차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181138&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-02-23)
-
-* **[[중앙도서관] (조치완료) 시스템 작업 안내(2/24 17시~20시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181133&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-02-23)
