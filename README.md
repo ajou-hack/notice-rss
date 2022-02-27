@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[국가근로] 2022년 1학기 국가근로장학생 안내사항(선발자 안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181316&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-02-27)
+
 * **[[2022학년도 신입학생 대상] 1학년 1학기 자동수강신청 완료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181303&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-02-25)
 
@@ -98,6 +101,3 @@
 
 * **[2022-1학기 교양과목 교원 미배정 과목 폐강 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181141&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-02-23)
-
-* **[[학부] 2022학년도 신입생 학생증 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181140&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-02-23)
