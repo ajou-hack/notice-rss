@@ -12,6 +12,18 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022-1학기 일선과목 [교육철학 및 교육사] 교원 배정 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181388&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-02-28)
+
+* **[[종합지원센터] 아르바이트 (재)공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181383&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-02-28)
+
+* **[[홍보]「2022 경기도 대학생 융합기술 창업지원」학생, 창업팀 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181382&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-02-28)
+
+* **[[국비무료교육/수당지급] 스마트팩토리(제조) 전문인력양성 교육생모집(~모집중)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181379&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2022-02-28)
+
 * **[[종합지원센터] 2022-1학기 2차 사물함 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181378&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-02-28)
 
@@ -89,15 +101,3 @@
 
 * **[[장학] 청년창업농어촌육성장학생 추가모집_3.15(화) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181183&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-02-23)
-
-* **[2022-1학기 교양과목 교원 미배정 과목 배정 공지 (2차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181180&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-02-23)
-
-* **[[장학] 태광그룹 일주재단 장학생 선발_3.18(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181168&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-02-23)
-
-* **[[글로벌미래교육원] 2022-봄학기 외국어특별과정 수강생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181167&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 글로벌미래교육원 (~2022-02-23)
-
-* **[[학부] 포탈/학생증 사진변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181164&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-02-23)
