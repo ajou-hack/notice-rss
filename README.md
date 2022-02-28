@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[종합지원센터] 2022-1학기 2차 사물함 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181378&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-02-28)
+
 * **[2022년 상반기 한미대학연수 WEST 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181374&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-02-28)
 
@@ -98,6 +101,3 @@
 
 * **[[학부] 포탈/학생증 사진변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181164&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-23)
-
-* **[[봉사활동] (영통구청) 함께 이루는 꿈! 온(溫)택트 학습 멘토링 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181161&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-02-23)
