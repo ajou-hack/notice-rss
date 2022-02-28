@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181060&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-02-21)
+
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180874&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-15)
 
@@ -11,6 +14,12 @@
 
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[다산학부대학] 2022-1학기 수학1 반 변경 신청 안내(3/2(수)~3/3(목) 18:00까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181391&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-02-28)
+
+* **[[기획팀]아주대학교 학칙 및 규정류 개정 공포(2021-동계 제3차 임시교무회의, 2021-제1차 대학평의원회 서면결의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181390&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2022-02-28)
 
 * **[2022-1학기 일선과목 [교육철학 및 교육사] 교원 배정 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181388&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-02-28)
@@ -94,10 +103,4 @@
  [기타] - 생활관 (~2022-02-23)
 
 * **[[장학] 삼익문화재단 글로벌 장학생(다문화가정) 모집 안내_3.15(화)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181186&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-02-23)
-
-* **[「AJOU 지속가능발전보고서 2021」 발간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181185&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 아주지속가능발전센터 (~2022-02-23)
-
-* **[[장학] 청년창업농어촌육성장학생 추가모집_3.15(화) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181183&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-02-23)
