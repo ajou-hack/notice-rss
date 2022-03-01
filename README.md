@@ -12,8 +12,14 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
-* **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 커뮤니케이션팀 (~2021-12-16)
+* **[[다산학부대학]2022-1학기 BSM 및 공업수학A 수강정정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181400&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-02-28)
+
+* **[[다산학부대학] 아주인성 신입생 여석반 선착순 신청 관련 공지(※신청방법 필독※)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181397&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-02-28)
+
+* **[[안전관리센터] 2022년도 대학안전관리계획 게시](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181396&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 안전관리센터 (~2022-02-28)
 
 * **[[다산학부대학] 2022-1학기 수학1 반 변경 신청 안내(3/2(수)~3/3(목) 18:00까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181391&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-02-28)
@@ -95,12 +101,3 @@
 
 * **[(도서관)아주북통 11기에 활동할 학생을 모집합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181211&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학술정보팀 (~2022-02-24)
-
-* **[총장님과 같이 사진 찍자! 신입생 대환영, 재학생도 환영!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181196&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2022-02-23)
-
-* **[[생활관]2022년 1학기 생활관(기숙사) 재학생 추가 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181187&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 생활관 (~2022-02-23)
-
-* **[[장학] 삼익문화재단 글로벌 장학생(다문화가정) 모집 안내_3.15(화)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181186&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-02-23)
