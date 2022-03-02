@@ -12,6 +12,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[(추가공지)[다산학부대학]2022-1학기 BSM 및 공업수학A 수강정정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181507&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-03-02)
+
+* **[[신입생 웰컴키트] 주소 입력 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181504&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2022-03-02)
+
 * **[[한국장학재단] 2022년 1학기 고졸 후학습자 장학금(희망사다리 Ⅱ유형) 신청 안내(~2022.03.24.(목) 18:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181494&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-03-02)
 
@@ -95,9 +101,3 @@
 
 * **[2022-1학기 다산서원 12기(고전형 자기개발장학) 모집 안내 재공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181324&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - [다산학부대학 교학팀] (~2022-02-28)
-
-* **[[국가근로] 2022년 1학기 국가근로장학생 안내사항(선발자 안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181316&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-02-27)
-
-* **[[2022학년도 신입학생 대상] 1학년 1학기 자동수강신청 완료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181303&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-02-25)
