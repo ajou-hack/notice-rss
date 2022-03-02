@@ -12,6 +12,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[수업 저작권 관련 유의사항 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181464&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-02)
+
+* **[[국비무료교육/수당지급] 스마트팩토리(제조) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181462&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2022-03-02)
+
 * **[[학생지원팀] 2022-1학기 토론학습실 운영시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181461&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2022-03-02)
 
@@ -95,9 +101,3 @@
 
 * **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 41호 (2022.03)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181283&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-02-25)
-
-* **[본교 편의점 입점 안내 (일신관)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181282&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-02-25)
-
-* **[[영자신문사] 수습기자 모집 안내(~3.5)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181280&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 대학언론사 (~2022-02-25)
