@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[2022-1학기 대면수업 참여 학생 코로나19 대응 지침(외국인학생 안내용) Spring 2022 COVID19 Guidelines (For International students )](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181443&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2022-03-02)
+
 * **[[공학교육혁신센터] 과학기술정보통신부 주최 대학(원)생 나노 기술 공모전 &#x27;나노영챌린지2022&#x27;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181417&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2022-03-02)
 
@@ -30,7 +33,7 @@
 * **[[다산학부대학]2022-1학기 BSM 및 공업수학A 수강정정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181400&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-02-28)
 
-* **[[다산학부대학] 아주인성 신입생 여석반 선착순 신청 관련 공지(※신청방법 필독※)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181397&amp;article.offset=0&amp;articleLimit=30)**
+* **[(*신청시작*)[다산학부대학] 아주인성 신입생 여석반 선착순 신청 관련 공지(※신청방법 필독※)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181397&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-02-28)
 
 * **[[안전관리센터] 2022년도 대학안전관리계획 게시](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181396&amp;article.offset=0&amp;articleLimit=30)**
@@ -97,7 +100,4 @@
  [기타] - 학생지원팀 (~2022-02-25)
 
 * **[[Remind][학부] 2022-1학기 등록 안내(02.21.~02.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181267&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-02-25)
-
-* **[[학부/학사과정]2021학년도 후기(2022년 8월) 조기졸업 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181264&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-25)
