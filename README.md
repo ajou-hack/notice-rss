@@ -12,6 +12,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[재공지] 미래자동차 전공 학생 자동차 관련 도서 대여 사업](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181467&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신공유단 (~2022-03-02)
+
+* **[[재공지] 미래자동차 전공 학생 노트북 대여 사업](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181466&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신공유단 (~2022-03-02)
+
 * **[수업 저작권 관련 유의사항 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181464&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-02)
 
@@ -95,9 +101,3 @@
 
 * **[♥(재학생 1명) 2022-1학기 교육지원인력 4차 모집 안내♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181302&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2022-02-25)
-
-* **[[글로벌미래교육원] 봄학기 신입생 및 재학생 대상 외국어특별과정 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181296&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 글로벌미래교육원 (~2022-02-25)
-
-* **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 41호 (2022.03)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181283&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-02-25)
