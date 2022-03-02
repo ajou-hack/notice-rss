@@ -12,6 +12,21 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[공학교육혁신센터] 과학기술정보통신부 주최 대학(원)생 나노 기술 공모전 &#x27;나노영챌린지2022&#x27;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181417&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2022-03-02)
+
+* **[[대학일자리플러스센터] 2022 상반기 대비 &quot;대기업 문항분석 및 자소서 작성법 특강&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181416&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-02)
+
+* **[[학군단]22년 학군사관(ROTC)63,64기 후보생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181414&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생군사교육단 (~2022-03-02)
+
+* **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181412&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-02)
+
+* **[[Remind][학부] 2022-1학기 등록 안내(03.02.~03.03.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181411&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-02)
+
 * **[[다산학부대학]2022-1학기 BSM 및 공업수학A 수강정정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181400&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-02-28)
 
@@ -86,18 +101,3 @@
 
 * **[[학부/학사과정]2021학년도 후기(2022년 8월) 조기졸업 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181264&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-25)
-
-* **[[영자신문사] 이미지 편집자 모집 안내 (~3.5)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181242&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 대학언론사 (~2022-02-24)
-
-* **[2022년도 1학기 인공지능융합학과 교과목 담당 대학원생 TA 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181237&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 정보통신대학교학팀 (~2022-02-24)
-
-* **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181234&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-02-24)
-
-* **[2022학년도 교사대생튜터링장학 신청 안내 ( (구)대학생청소년교육지원장학 )](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181226&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-02-24)
-
-* **[(도서관)아주북통 11기에 활동할 학생을 모집합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181211&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학술정보팀 (~2022-02-24)
