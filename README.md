@@ -12,6 +12,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[학생지원팀] 2022-1학기 토론학습실 운영시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181461&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2022-03-02)
+
+* **[[박물관] 전시실 재개관 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181457&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 박물관 (~2022-03-02)
+
+* **[[불어권협력센터] 2022-1학기 &lt;Tandem 프로그램(언어교환 프로그램)&gt; 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181451&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 불어권협력센터 (~2022-03-02)
+
 * **[2022-1학기 대면수업 참여 학생 코로나19 대응 지침(외국인학생 안내용) Spring 2022 COVID19 Guidelines (For International students )](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181443&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-03-02)
 
@@ -92,12 +101,3 @@
 
 * **[[영자신문사] 수습기자 모집 안내(~3.5)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181280&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 대학언론사 (~2022-02-25)
-
-* **[[대학일자리플러스센터] 2월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181277&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-02-25)
-
-* **[[학생지원팀] 학생자치공간 사용 규약 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181276&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2022-02-25)
-
-* **[[Remind][학부] 2022-1학기 등록 안내(02.21.~02.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181267&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-02-25)
