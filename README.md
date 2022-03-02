@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[한국장학재단] 2022년 1학기 고졸 후학습자 장학금(희망사다리 Ⅱ유형) 신청 안내(~2022.03.24.(목) 18:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181494&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-03-02)
+
 * **[[재공지] 미래자동차 전공 학생 자동차 관련 도서 대여 사업](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181467&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 혁신공유단 (~2022-03-02)
 
@@ -98,6 +101,3 @@
 
 * **[[2022학년도 신입학생 대상] 1학년 1학기 자동수강신청 완료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181303&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-02-25)
-
-* **[♥(재학생 1명) 2022-1학기 교육지원인력 4차 모집 안내♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181302&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2022-02-25)
