@@ -12,6 +12,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[재공지] 영자신문사 수습기자 모집 안내(~3.5)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181531&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 대학언론사 (~2022-03-03)
+
+* **[[재공지] 영자신문사 이미지 편집자 모집 안내 (~3.5)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181530&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 대학언론사 (~2022-03-03)
+
+* **[[당일재공지] 국제교류팀 2022-2학기 파견 교환 및 복수학위 2차모집 설명회(3/3, 5시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181524&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2022-03-03)
+
 * **[[Remind][학부] 2022-1학기 등록 안내(03.02.~03.03.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181516&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-03)
 
@@ -92,12 +101,3 @@
 
 * **[[종합지원센터] 2022-1학기 2차 사물함 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181378&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-02-28)
-
-* **[2022년 상반기 한미대학연수 WEST 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181374&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2022-02-28)
-
-* **[[학자금대출][학부] 2022-1학기 한국장학재단 학자금대출 특별승인 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181358&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-02-28)
-
-* **[[대학일자리플러스센터] 2022학년도 ALL라인멘토스 멘티 신청 접수(3/1~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181341&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-02-28)
