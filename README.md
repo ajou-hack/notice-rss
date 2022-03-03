@@ -12,6 +12,18 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[2022년도 1학기 인공지능융합학과 교과목 담당 학부생 TA 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181569&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 소프트웨어융합대학교학팀 (~2022-03-03)
+
+* **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181568&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-03-03)
+
+* **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181565&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-03-03)
+
+* **[[대학일자리플러스센터]대학일자리플러스센터 서비스 모아보기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181563&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-03)
+
 * **[[시설팀] 에너지센터 건물 단수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181559&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2022-03-03)
 
@@ -89,15 +101,3 @@
 
 * **[[다산학부대학] 2022-1학기 수학1 반 변경 신청 안내(3/2(수)~3/3(목) 18:00까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181391&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-02-28)
-
-* **[[기획팀]아주대학교 학칙 및 규정류 개정 공포(2021-동계 제3차 임시교무회의, 2021-제1차 대학평의원회 서면결의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181390&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2022-02-28)
-
-* **[2022-1학기 일선과목 [교육철학 및 교육사] 교원 배정 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181388&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-02-28)
-
-* **[[종합지원센터] 아르바이트 (재)공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181383&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-02-28)
-
-* **[[홍보]「2022 경기도 대학생 융합기술 창업지원」학생, 창업팀 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181382&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-02-28)
