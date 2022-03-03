@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[(추가공지)[다산학부대학]2022-1학기 BSM 및 공업수학A 수강정정 안내(3/3 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181578&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-03-03)
+
 * **[2022년도 1학기 인공지능융합학과 교과목 담당 학부생 TA 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181569&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 소프트웨어융합대학교학팀 (~2022-03-03)
 
@@ -98,6 +101,3 @@
 
 * **[[안전관리센터] 2022년도 대학안전관리계획 게시](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181396&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 안전관리센터 (~2022-02-28)
-
-* **[[다산학부대학] 2022-1학기 수학1 반 변경 신청 안내(3/2(수)~3/3(목) 18:00까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181391&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-02-28)
