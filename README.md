@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[시설팀] 에너지센터 건물 단수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181559&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2022-03-03)
+
 * **[[한국장학재단] 2022년 1학기 중소기업취업연계 장학금(희망사다리 Ⅰ유형) 신청 안내(2022.03.03.목~24.목 18:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181533&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-03-03)
 
@@ -98,6 +101,3 @@
 
 * **[[홍보]「2022 경기도 대학생 융합기술 창업지원」학생, 창업팀 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181382&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-02-28)
-
-* **[[국비무료교육/수당지급] 스마트팩토리(제조) 전문인력양성 교육생모집(~모집중)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181379&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2022-02-28)
