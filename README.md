@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[Remind][학부] 2022-1학기 등록 안내(03.02.~03.03.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181516&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-03)
+
 * **[(추가공지)[다산학부대학]2022-1학기 BSM 및 공업수학A 수강정정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181507&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-03-02)
 
@@ -98,6 +101,3 @@
 
 * **[[대학일자리플러스센터] 2022학년도 ALL라인멘토스 멘티 신청 접수(3/1~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181341&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-02-28)
-
-* **[2022-1학기 다산서원 12기(고전형 자기개발장학) 모집 안내 재공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181324&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - [다산학부대학 교학팀] (~2022-02-28)
