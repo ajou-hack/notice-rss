@@ -12,6 +12,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[♥2022-1 재학생 교육지원인력 추가 모집♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181609&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2022-03-04)
+
+* **[[총무팀] 팔달관 1층 출입구 개방에 따른 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181608&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-03-04)
+
 * **[[장학] 춘천시민장학복지재단 장학생 선발_3.25(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181597&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-03-04)
 
@@ -95,9 +101,3 @@
 
 * **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181412&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-02)
-
-* **[[Remind][학부] 2022-1학기 등록 안내(03.02.~03.03.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181411&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-02)
-
-* **[[다산학부대학]2022-1학기 BSM 및 공업수학A 수강정정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181400&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-02-28)
