@@ -12,6 +12,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[홍보] LMO 안전관리 캐릭터 네이밍 공모전 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181620&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 안전관리센터 (~2022-03-04)
+
+* **[[홍보] 연구안전 서포터스 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181618&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 안전관리센터 (~2022-03-04)
+
+* **[[Remind][학부] 포탈/학생증 사진변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181613&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-04)
+
 * **[[장학] 고양시 대학생 본인부담 등록금 지원 접수 3.14(월)~5.31(화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181612&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-03-04)
 
@@ -92,12 +101,3 @@
 
 * **[2022-1학기 대면수업 참여 학생 코로나19 대응 지침(외국인학생 안내용) Spring 2022 COVID19 Guidelines (For International students )](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181443&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-03-02)
-
-* **[[공학교육혁신센터] 과학기술정보통신부 주최 대학(원)생 나노 기술 공모전 &#x27;나노영챌린지2022&#x27;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181417&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2022-03-02)
-
-* **[[대학일자리플러스센터] 2022 상반기 대비 &quot;대기업 문항분석 및 자소서 작성법 특강&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181416&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-02)
-
-* **[[학군단]22년 학군사관(ROTC)63,64기 후보생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181414&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생군사교육단 (~2022-03-02)
