@@ -12,6 +12,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[장학] 춘천시민장학복지재단 장학생 선발_3.25(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181597&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-03-04)
+
+* **[[대학언론사] 교육방송국 수습 국원 모집 안내(~3.7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181592&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 대학언론사 (~2022-03-04)
+
 * **[(추가공지)[다산학부대학]2022-1학기 BSM 및 공업수학A 수강정정 안내(3/3 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181578&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-03-03)
 
@@ -95,9 +101,3 @@
 
 * **[[다산학부대학]2022-1학기 BSM 및 공업수학A 수강정정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181400&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-02-28)
-
-* **[(*신청시작*)[다산학부대학] 아주인성 신입생 여석반 선착순 신청 관련 공지(※신청방법 필독※)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181397&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-02-28)
-
-* **[[안전관리센터] 2022년도 대학안전관리계획 게시](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181396&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 안전관리센터 (~2022-02-28)
