@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[대학일자리플러스센터] 3월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181636&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-04)
+
 * **[[홍보] LMO 안전관리 캐릭터 네이밍 공모전 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181620&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 안전관리센터 (~2022-03-04)
 
@@ -98,6 +101,3 @@
 
 * **[[불어권협력센터] 2022-1학기 &lt;Tandem 프로그램(언어교환 프로그램)&gt; 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181451&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 불어권협력센터 (~2022-03-02)
-
-* **[2022-1학기 대면수업 참여 학생 코로나19 대응 지침(외국인학생 안내용) Spring 2022 COVID19 Guidelines (For International students )](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181443&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2022-03-02)
