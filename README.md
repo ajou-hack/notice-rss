@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[장학] 고양시 대학생 본인부담 등록금 지원 접수 3.14(월)~5.31(화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181612&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-03-04)
+
 * **[♥2022-1 재학생 교육지원인력 추가 모집♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181609&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2022-03-04)
 
@@ -98,6 +101,3 @@
 
 * **[[학군단]22년 학군사관(ROTC)63,64기 후보생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181414&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생군사교육단 (~2022-03-02)
-
-* **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181412&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-02)
