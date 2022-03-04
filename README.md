@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[소프트웨어학과 2022학년도 1학기 선형대수1 추가개설 수요 조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181650&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 소프트웨어학과 (~2022-03-04)
+
 * **[[대학일자리플러스센터] 3월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181636&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-04)
 
@@ -98,6 +101,3 @@
 
 * **[[박물관] 전시실 재개관 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181457&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 박물관 (~2022-03-02)
-
-* **[[불어권협력센터] 2022-1학기 &lt;Tandem 프로그램(언어교환 프로그램)&gt; 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181451&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 불어권협력센터 (~2022-03-02)
