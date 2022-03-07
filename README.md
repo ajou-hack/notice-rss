@@ -12,6 +12,30 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[학생지원팀] 학생자치공간 출입 권한 등록 절차 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181809&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생지원팀 (~2022-03-07)
+
+* **[[대학일자리플러스센터] [ASML Korea] 2022년 상반기 ASML Korea 아주대학교 대상 상담·설명회(3/15)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181807&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-07)
+
+* **[[메이커스페이스]코로나 19 확산 방지 상황에 따른 축소운영 및 이용인원 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181805&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-03-07)
+
+* **[[대학일자리플러스센터] 2022 상반기 LINE 온라인 직무 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181804&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-07)
+
+* **[2022학년도 학생단체(동아리, 소학회) 등록 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181798&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생지원팀 (~2022-03-07)
+
+* **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181794&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-07)
+
+* **[[학군단]22년 학군사관(ROTC)63,64기 후보생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181790&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학군단 (~2022-03-07)
+
+* **[신학기 맞이 개인정보 안전레벨 올리기[교육부]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181786&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-03-07)
+
 * **[[홍보] 2022년도 한국형 아이코어 실험실창업탐색팀 모집(성균관대학교 실험실창업혁신단)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181785&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-03-07)
 
@@ -77,27 +101,3 @@
 
 * **[[Remind][학부] 2022-1학기 등록 안내(03.02.~03.03.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181516&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-03)
-
-* **[(추가공지)[다산학부대학]2022-1학기 BSM 및 공업수학A 수강정정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181507&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-03-02)
-
-* **[[신입생 웰컴키트] 주소 입력 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181504&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2022-03-02)
-
-* **[[한국장학재단] 2022년 1학기 고졸 후학습자 장학금(희망사다리 Ⅱ유형) 신청 안내(~2022.03.24.(목) 18:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181494&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-03-02)
-
-* **[[재공지] 미래자동차 전공 학생 자동차 관련 도서 대여 사업](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181467&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신공유단 (~2022-03-02)
-
-* **[[재공지] 미래자동차 전공 학생 노트북 대여 사업](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181466&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신공유단 (~2022-03-02)
-
-* **[수업 저작권 관련 유의사항 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181464&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-02)
-
-* **[[국비무료교육/수당지급] 스마트팩토리(제조) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181462&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2022-03-02)
-
-* **[[학생지원팀] 2022-1학기 토론학습실 운영시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181461&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2022-03-02)
