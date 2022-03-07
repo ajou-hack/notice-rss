@@ -12,8 +12,17 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[국비무료교육/수당지급] 스마트팩토리(제조) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181823&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2022-03-07)
+
+* **[[공학인증상담] 2022학년도 1학기 학생상담 안내 (2022.6.14.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181821&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2022-03-07)
+
+* **[♥2022-1 교육지원인력 추가 모집(대학원생, 휴학생, 학부생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181817&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2022-03-07)
+
 * **[[학생지원팀] 학생자치공간 출입 권한 등록 절차 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181809&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생지원팀 (~2022-03-07)
+ [학사] - 학생지원팀 (~2022-03-07)
 
 * **[[대학일자리플러스센터] [ASML Korea] 2022년 상반기 ASML Korea 아주대학교 대상 상담·설명회(3/15)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181807&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-07)
@@ -25,7 +34,7 @@
  [취업] - 대학일자리플러스센터 (~2022-03-07)
 
 * **[2022학년도 학생단체(동아리, 소학회) 등록 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181798&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생지원팀 (~2022-03-07)
+ [학사] - 학생지원팀 (~2022-03-07)
 
 * **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181794&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-07)
@@ -92,12 +101,3 @@
 
 * **[[재공지] 영자신문사 수습기자 모집 안내(~3.5)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181531&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 대학언론사 (~2022-03-03)
-
-* **[[재공지] 영자신문사 이미지 편집자 모집 안내 (~3.5)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181530&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 대학언론사 (~2022-03-03)
-
-* **[[당일재공지] 국제교류팀 2022-2학기 파견 교환 및 복수학위 2차모집 설명회(3/3, 5시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181524&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2022-03-03)
-
-* **[[Remind][학부] 2022-1학기 등록 안내(03.02.~03.03.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181516&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-03)
