@@ -12,6 +12,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[2022년 스마트팩토리 전문인력 양성과정 모집[전액국비지원, 훈련수당 30만원, 산업계주도청년맞춤형훈련]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181935&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2022-03-08)
+
+* **[[시설팀] 긴급 단수 안내(교내 모든 건물)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181934&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2022-03-08)
+
+* **[[대학일자리플러스센터] 2022 상반기 삼성공채 대비 &quot;선배만남의 날&quot; 운영](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181930&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-08)
+
 * **[[대학일자리플러스센터] 2022 상반기 대비 &quot;삼성그룹 자소서 작성법 특강&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181922&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-08)
 
@@ -92,12 +101,3 @@
 
 * **[2022학년도 학생단체(동아리, 소학회) 등록 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181798&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 학생지원팀 (~2022-03-07)
-
-* **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181794&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-07)
-
-* **[[학군단]22년 학군사관(ROTC)63,64기 후보생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181790&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학군단 (~2022-03-07)
-
-* **[신학기 맞이 개인정보 안전레벨 올리기[교육부]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181786&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-03-07)
