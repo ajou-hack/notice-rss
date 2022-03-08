@@ -12,6 +12,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[대학일자리플러스센터] 2022 상반기 대비 &quot;삼성그룹 자소서 작성법 특강&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181922&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-08)
+
+* **[2022년도 1학기 교사대생튜터링장학생 안내사항 (선발자 안내사항)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181919&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-03-08)
+
 * **[[대학일자리플러스센터] 공인어학성적 제출 안내 (재안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181913&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-08)
 
@@ -95,9 +101,3 @@
 
 * **[신학기 맞이 개인정보 안전레벨 올리기[교육부]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181786&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-03-07)
-
-* **[[홍보] 2022년도 한국형 아이코어 실험실창업탐색팀 모집(성균관대학교 실험실창업혁신단)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181785&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-03-07)
-
-* **[소프트웨어학과 2022학년도 1학기 선형대수1 추가개설 수요 조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181650&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 소프트웨어학과 (~2022-03-04)
