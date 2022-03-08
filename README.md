@@ -12,6 +12,33 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[학습법] 2022 공과대학 신입생을 위한 선배 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181875&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-03-08)
+
+* **[[학습법] 2022 인문대학 신입생을 위한 선배 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181874&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-03-08)
+
+* **[[학습법] 2022 정보통신대학 신입생을 위한 선배 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181873&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-03-08)
+
+* **[[학습법] 2022 사회과학대학 신입생을 위한 선배 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181872&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-03-08)
+
+* **[[학습법] 2022 자연과학대학 신입생을 위한 선배 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181870&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-03-08)
+
+* **[[학습법] 2022 경영대학 신입생을 위한 선배 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181869&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-03-08)
+
+* **[[대학일자리플러스센터] [Apple Retail] 2022 온라인 채용 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181864&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-08)
+
+* **[[대학일자리플러스센터] 2022 상반기 취업성공 대비 공기업 NCS 프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181860&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-08)
+
+* **[[대학일자리플러스센터] 2022 상반기 취업성공 대비 대기업 직무적성프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181859&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-08)
+
 * **[[한국장학재단] 2022년 푸른등대 두나무 디지터교육 지원사업 장학생 선발안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181855&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-03-08)
 
@@ -74,30 +101,3 @@
 
 * **[[장학] 고양시 대학생 본인부담 등록금 지원 접수 3.14(월)~5.31(화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181612&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-03-04)
-
-* **[♥2022-1 재학생 교육지원인력 추가 모집♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181609&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2022-03-04)
-
-* **[[총무팀] 팔달관 1층 출입구 개방에 따른 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181608&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-03-04)
-
-* **[[장학] 춘천시민장학복지재단 장학생 선발_3.25(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181597&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-03-04)
-
-* **[[대학언론사] 교육방송국 수습 국원 모집 안내(~3.7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181592&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 대학언론사 (~2022-03-04)
-
-* **[(추가공지)[다산학부대학]2022-1학기 BSM 및 공업수학A 수강정정 안내(3/3 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181578&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-03-03)
-
-* **[2022년도 1학기 인공지능융합학과 교과목 담당 학부생 TA 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181569&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 소프트웨어융합대학교학팀 (~2022-03-03)
-
-* **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181568&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-03-03)
-
-* **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181565&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-03-03)
-
-* **[[대학일자리플러스센터]대학일자리플러스센터 서비스 모아보기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181563&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-03)
