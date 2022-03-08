@@ -12,6 +12,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[한국장학재단] 2022년 푸른등대 두나무 디지터교육 지원사업 장학생 선발안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181855&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-03-08)
+
+* **[[한국장학재단] 2022년 대통령과학장학금 국내 신규장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181854&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-03-08)
+
 * **[[학부] [Remind] 2022-1학기 수업운영 변경(안) 재안내 (2022.2.15 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181826&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-07)
 
@@ -95,9 +101,3 @@
 
 * **[[대학일자리플러스센터]대학일자리플러스센터 서비스 모아보기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181563&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-03)
-
-* **[[시설팀] 에너지센터 건물 단수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181559&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2022-03-03)
-
-* **[[한국장학재단] 2022년 1학기 중소기업취업연계 장학금(희망사다리 Ⅰ유형) 신청 안내(2022.03.03.목~24.목 18:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181533&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-03-03)
