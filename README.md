@@ -1,16 +1,19 @@
 # 최근 공지사항
 
+* **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181898&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-08)
+
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181060&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-21)
-
-* **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180874&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-02-15)
 
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180493&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-02-08)
 
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
+
+* **[2022학년도 1학기 사회봉사장학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181900&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 사회봉사센터 (~2022-03-08)
 
 * **[ETS 주관 아주대학교 학생을 위한 GRE® &amp; TOEFL® 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181878&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-03-08)
@@ -97,7 +100,4 @@
  [취업] - 대학일자리플러스센터 (~2022-03-04)
 
 * **[[홍보] LMO 안전관리 캐릭터 네이밍 공모전 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181620&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 안전관리센터 (~2022-03-04)
-
-* **[[홍보] 연구안전 서포터스 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181618&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 안전관리센터 (~2022-03-04)
