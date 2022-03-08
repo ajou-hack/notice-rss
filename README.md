@@ -12,6 +12,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[ETS 주관 아주대학교 학생을 위한 GRE® &amp; TOEFL® 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181878&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2022-03-08)
+
+* **[[Remind][학부] 포탈/학생증 사진변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181877&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-08)
+
 * **[[학습법] 2022 공과대학 신입생을 위한 선배 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181875&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-03-08)
 
@@ -95,9 +101,3 @@
 
 * **[[홍보] 연구안전 서포터스 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181618&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 안전관리센터 (~2022-03-04)
-
-* **[[Remind][학부] 포탈/학생증 사진변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181613&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-04)
-
-* **[[장학] 고양시 대학생 본인부담 등록금 지원 접수 3.14(월)~5.31(화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181612&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-03-04)
