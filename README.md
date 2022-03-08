@@ -3,14 +3,23 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181898&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-08)
 
-* **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181060&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-02-21)
+* **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181826&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-07)
 
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180493&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-02-08)
 
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
+
+* **[[대학일자리플러스센터] 공인어학성적 제출 안내 (재안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181913&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-08)
+
+* **[[학군단] 학군사관(ROTC) 63·64기 후보생 모집홍보 협조요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181912&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 전자공학과교학팀 (~2022-03-08)
+
+* **[[대학일자리플러스센터] 2022 상반기 삼성 기회균등 특별채용 지원자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181910&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-08)
 
 * **[2022학년도 1학기 사회봉사장학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181900&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 사회봉사센터 (~2022-03-08)
@@ -54,9 +63,6 @@
 * **[[한국장학재단] 2022년 대통령과학장학금 국내 신규장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181854&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-03-08)
 
-* **[[학부] [Remind] 2022-1학기 수업운영 변경(안) 재안내 (2022.2.15 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181826&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-07)
-
 * **[[국비무료교육/수당지급] 스마트팩토리(제조) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181823&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-03-07)
 
@@ -95,9 +101,3 @@
 
 * **[소프트웨어학과 2022학년도 1학기 선형대수1 추가개설 수요 조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181650&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 소프트웨어학과 (~2022-03-04)
-
-* **[[대학일자리플러스센터] 3월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181636&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-04)
-
-* **[[홍보] LMO 안전관리 캐릭터 네이밍 공모전 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181620&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 안전관리센터 (~2022-03-04)
