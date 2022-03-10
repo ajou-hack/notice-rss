@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[기간제교사 인력풀 등록 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=182010&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교직부 (~2022-03-10)
+
 * **[[대학일자리플러스센터] 삼성디스플레이 온라인 리크루팅 -「 SDC Universe 」](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181977&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-10)
 
@@ -98,6 +101,3 @@
 
 * **[[대학일자리플러스센터] 2022 상반기 취업성공 대비 대기업 직무적성프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181859&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-08)
-
-* **[[한국장학재단] 2022년 푸른등대 두나무 디지터교육 지원사업 장학생 선발안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181855&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-03-08)
