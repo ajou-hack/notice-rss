@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[대학일자리플러스센터] 삼성디스플레이 온라인 리크루팅 -「 SDC Universe 」](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181977&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-10)
+
 * **[[대학일자리플러스센터] 2022 상반기 삼성바이오로직스 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181975&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-10)
 
@@ -27,7 +30,7 @@
 * **[♥2022-1 교육지원인력 추가 모집(1명)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181967&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2022-03-10)
 
-* **[[학술정보팀] 메타버스 도서관 오픈 이벤트 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181957&amp;article.offset=0&amp;articleLimit=30)**
+* **[[중앙도서관] 메타버스 도서관 오픈 이벤트 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181957&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-03-10)
 
 * **[[학습법특강] 아니? 엑셀로 이게 이렇게 돼? 엑셀 Advanced](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181954&amp;article.offset=0&amp;articleLimit=30)**
@@ -97,7 +100,4 @@
  [취업] - 대학일자리플러스센터 (~2022-03-08)
 
 * **[[한국장학재단] 2022년 푸른등대 두나무 디지터교육 지원사업 장학생 선발안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181855&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-03-08)
-
-* **[[한국장학재단] 2022년 대통령과학장학금 국내 신규장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181854&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-03-08)
