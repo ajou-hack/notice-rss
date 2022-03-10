@@ -12,6 +12,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[학습법특강] 2시간으로 끝나는 엑셀 Basic 마스터](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181953&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-03-10)
+
+* **[[학습법특강] 유발 하라리에게 배우는 교육의 미래](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181952&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-03-10)
+
+* **[[학습법특강] 구글을 활용한 디지털 일정 / 시간 / 파일 관리 스킬](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181951&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-03-10)
+
 * **[2022년 스마트팩토리 전문인력 양성과정 모집[전액국비지원, 훈련수당 30만원, 산업계주도청년맞춤형훈련]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181935&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-03-08)
 
@@ -29,9 +38,6 @@
 
 * **[[대학일자리플러스센터] 공인어학성적 제출 안내 (재안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181913&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-08)
-
-* **[[학군단] 학군사관(ROTC) 63·64기 후보생 모집홍보 협조요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181912&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 전자공학과교학팀 (~2022-03-08)
 
 * **[[대학일자리플러스센터] 2022 상반기 삼성 기회균등 특별채용 지원자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181910&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-08)
@@ -95,9 +101,3 @@
 
 * **[[메이커스페이스]코로나 19 확산 방지 상황에 따른 축소운영 및 이용인원 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181805&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-03-07)
-
-* **[[대학일자리플러스센터] 2022 상반기 LINE 온라인 직무 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181804&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-07)
-
-* **[2022학년도 학생단체(동아리, 소학회) 등록 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181798&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 학생지원팀 (~2022-03-07)
