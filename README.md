@@ -12,6 +12,12 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[대학일자리플러스센터] Mercari (일본중고마켓 1위) softengineer 취업연계형 인턴십](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185001&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-10)
+
+* **[[대학일자리플러스센터] 22년도 상반기 월드잡 토크콘서트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185000&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-10)
+
 * **[기간제교사 인력풀 등록 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=182010&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교직부 (~2022-03-10)
 
@@ -95,9 +101,3 @@
 
 * **[[학습법] 2022 경영대학 신입생을 위한 선배 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181869&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-03-08)
-
-* **[[대학일자리플러스센터] 2022 상반기 취업성공 대비 공기업 NCS 프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181860&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-08)
-
-* **[[대학일자리플러스센터] 2022 상반기 취업성공 대비 대기업 직무적성프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181859&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-08)
