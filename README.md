@@ -12,6 +12,15 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[대학일자리플러스센터] 2022 상반기 삼성바이오로직스 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181975&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-10)
+
+* **[[봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181973&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-03-10)
+
+* **[[대학일자리플러스센터] 2022 제1회 잡투게더 국내채용박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181971&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-10)
+
 * **[[대학일자리플러스센터] [Apple Retail] 아주대학교 대상 온라인 채용설명회(수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181968&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-10)
 
@@ -92,12 +101,3 @@
 
 * **[[한국장학재단] 2022년 대통령과학장학금 국내 신규장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181854&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-03-08)
-
-* **[[국비무료교육/수당지급] 스마트팩토리(제조) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181823&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2022-03-07)
-
-* **[[공학인증상담] 2022학년도 1학기 학생상담 안내 (2022.6.14.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181821&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2022-03-07)
-
-* **[♥2022-1 교육지원인력 추가 모집(대학원생, 휴학생, 학부생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181817&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2022-03-07)
