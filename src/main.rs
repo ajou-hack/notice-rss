@@ -41,9 +41,7 @@ fn parse_text(row: &ElementRef, selector: &Selector) -> String {
         .map(|datum| datum.trim().replace("\n", "").replace("\t", ""))
         .filter(|datum| !datum.is_empty())
         .collect::<Vec<_>>()
-        .first()
-        .unwrap_or(&String::from(""))
-        .clone()
+        .join(" ")
 }
 
 fn parse_attr(row: &ElementRef, selector: &Selector) -> String {
@@ -64,7 +62,7 @@ fn parse_html(html: &str, base_url: &str) -> Vec<Notice> {
         .map(|row| -> Notice {
             let index_selector = Selector::parse("td.b-num-box").unwrap();
             let category_selector = Selector::parse("td.b-num-box + td").unwrap();
-            let title_selector = Selector::parse("td.b-td-left > div.b-title-box").unwrap();
+            let title_selector = Selector::parse("td.b-td-left > div.b-title-box > a").unwrap();
             let link_selector = Selector::parse("td.b-td-left > div.b-title-box > a").unwrap();
             let author_selector = Selector::parse("td.b-no-right + td").unwrap();
             let published_at_selector = Selector::parse("td.b-no-right + td + td").unwrap();
