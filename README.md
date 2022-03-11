@@ -12,13 +12,19 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[학부]2022-1학기 수강포기(수강철회) 안내(3/25(금) 9시~3/29(화) 23시59분)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185031&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-11)
+
+* **[[대학일자리플러스센터] 2022 상반기 삼성엔지니어링 온라인 리크루팅](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185027&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-11)
+
 * **[(중앙도서관)3월 이용 교육 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185021&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-03-11)
 
 * **[대학원 인공지능학과 AI창업 세미나[2022.03.15.(화)오후 4시 30분] 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185020&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 소프트웨어융합대학 교학팀 (~2022-03-11)
 
-* **[본교 신규 카페 입점 안내 (일신관 지하1층)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185018&amp;article.offset=0&amp;articleLimit=30)**
+* **[본교 신규 카페 입점 안내 (일신관 지하1층/금일(3월11일)11시~14 무료시음회 진행)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185018&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-03-11)
 
 * **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185015&amp;article.offset=0&amp;articleLimit=30)**
@@ -95,9 +101,3 @@
 
 * **[[대학일자리플러스센터] 공인어학성적 제출 안내 (재안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181913&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-08)
-
-* **[[대학일자리플러스센터] 2022 상반기 삼성 기회균등 특별채용 지원자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181910&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-08)
-
-* **[2022학년도 1학기 사회봉사장학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181900&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 사회봉사센터 (~2022-03-08)
