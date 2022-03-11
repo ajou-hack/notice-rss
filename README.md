@@ -12,6 +12,9 @@
 * **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[국비무료교육/수당지급] 스마트팩토리(제조) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185051&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2022-03-11)
+
 * **[[학부]2022-1학기 수강포기(수강철회) 안내(3/25(금) 9시~3/29(화) 23시59분)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185031&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-11)
 
@@ -98,6 +101,3 @@
 
 * **[2022년도 1학기 교사대생튜터링장학생 안내사항 (선발자 안내사항)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181919&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-03-08)
-
-* **[[대학일자리플러스센터] 공인어학성적 제출 안내 (재안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181913&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-08)
