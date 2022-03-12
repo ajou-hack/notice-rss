@@ -1,16 +1,22 @@
 # 최근 공지사항
 
-* **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185017&amp;article.offset=0&amp;articleLimit=30)**
+* **[[공지] [학부]2022-1학기 수업운영 변경 안내 (2022.3.11 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185017&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-11)
 
-* **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181898&amp;article.offset=0&amp;articleLimit=30)**
+* **[[공지] (안내)2022-1학기 비대면 수업을 위한 대체 공간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181898&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-08)
 
-* **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180493&amp;article.offset=0&amp;articleLimit=30)**
+* **[[공지] [총무팀] 코로나19 확진자 교내 심층역학조사 URL 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180493&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-02-08)
 
-* **[[공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
+* **[[공지] 아주 MS Office365 사용안내(포털 SSO연동)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
+
+* **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185060&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-03-11)
+
+* **[[대학일자리플러스센터] 학교 &#x27;추천 채용&#x27; 제도 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185059&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-11)
 
 * **[[국비무료교육/수당지급] 스마트팩토리(제조) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185051&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-03-11)
@@ -95,9 +101,3 @@
 
 * **[[대학일자리플러스센터] 2022 상반기 삼성공채 대비 &quot;선배만남의 날&quot; 운영](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181930&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-08)
-
-* **[[대학일자리플러스센터] 2022 상반기 대비 &quot;삼성그룹 자소서 작성법 특강&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181922&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-08)
-
-* **[2022년도 1학기 교사대생튜터링장학생 안내사항 (선발자 안내사항)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181919&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-03-08)
