@@ -15,6 +15,12 @@
 * **[[공지] 아주 MS Office365 사용안내(포털 SSO연동)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[메이커스페이스] (2022.03.14-재공지) 코로나 19 확산 방지 상황에 따른 축소운영 및 이용인원 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192525&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-03-14)
+
+* **[[대학일자리플러스센터] 2022 삼성생명 채용설명회 및 직무상담회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192523&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-14)
+
 * **[[대학일자리플러스센터] 일본취업 K-Class &amp; 취준진담](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185157&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-14)
 
@@ -98,9 +104,3 @@
 
 * **[[송지현] 변리사/기술고시 준비반 신입현생 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185011&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공과대학교학팀 (~2022-03-11)
-
-* **[[학습법] 2022-1학기 학습공동체(I) 스터디그룹 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185010&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-03-11)
-
-* **[[대학일자리플러스센터] Mercari (일본중고마켓 1위) softengineer 취업연계형 인턴십](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185001&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-10)
