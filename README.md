@@ -15,6 +15,18 @@
 * **[[공지] 아주 MS Office365 사용안내(포털 SSO연동)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[대학일자리플러스센터] 3월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185113&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-14)
+
+* **[[학습법] 2022-1학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185106&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-03-14)
+
+* **[[학습법] 2022-1학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185104&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-03-14)
+
+* **[2022학년도 학생단체(동아리, 소학회) 등록 안내(소학회 담당자 안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185103&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 학생지원팀 (~2022-03-14)
+
 * **[[Remind][학부] 2022-1학기 등록 안내(03.15.~03.17.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185090&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-14)
 
@@ -92,15 +104,3 @@
 
 * **[[대학일자리플러스센터] [Apple Retail] 아주대학교 대상 온라인 채용설명회(수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181968&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-10)
-
-* **[♥2022-1 교육지원인력 추가 모집(1명)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181967&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2022-03-10)
-
-* **[[중앙도서관] 메타버스 도서관 오픈 이벤트 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181957&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-03-10)
-
-* **[[학습법특강] 아니? 엑셀로 이게 이렇게 돼? 엑셀 Advanced](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181954&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-03-10)
-
-* **[[학습법특강] 2시간으로 끝나는 엑셀 Basic 마스터](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181953&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-03-10)
