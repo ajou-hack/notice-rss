@@ -15,6 +15,15 @@
 * **[[공지] 아주 MS Office365 사용안내(포털 SSO연동)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[과학영재교육원] 수업 조교 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185143&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 과학영재교육원 (~2022-03-14)
+
+* **[[비교과교육지원센터] &#x27;성공적인 대학생활의 동반자 아주허브(AJOU Hub)&#x27; 사용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185142&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2022-03-14)
+
+* **[[대학일자리센터] 2022년 상반기 삼성그룹 공채 대비 자소서 1:1 컨설팅(화상상담)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185137&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-14)
+
 * **[[대학일자리플러스센터] [삼성전자DX부문] 2022년 상반기 공채/인턴십 직무상담/채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185133&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-14)
 
@@ -95,12 +104,3 @@
 
 * **[기간제교사 인력풀 등록 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=182010&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교직부 (~2022-03-10)
-
-* **[[대학일자리플러스센터] 삼성디스플레이 온라인 리크루팅 -「 SDC Universe 」](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181977&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-10)
-
-* **[[대학일자리플러스센터] 2022 상반기 삼성바이오로직스 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181975&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-10)
-
-* **[[봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181973&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-03-10)
