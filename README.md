@@ -15,6 +15,12 @@
 * **[[공지] 아주 MS Office365 사용안내(포털 SSO연동)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[대학일자리플러스센터] [삼성전자DX부문] 2022년 상반기 공채/인턴십 직무상담/채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185133&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-14)
+
+* **[[학사과정]2022년 8월 졸업예정자 어학졸업인증제 성적 제출 안내(~2022.07.29(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185132&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-14)
+
 * **[[대학일자리플러스센터] 3월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185113&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-14)
 
@@ -98,9 +104,3 @@
 
 * **[[봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181973&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-03-10)
-
-* **[[대학일자리플러스센터] 2022 제1회 잡투게더 국내채용박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181971&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-10)
-
-* **[[대학일자리플러스센터] [Apple Retail] 아주대학교 대상 온라인 채용설명회(수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181968&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-10)
