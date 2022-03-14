@@ -6,11 +6,29 @@
 * **[[공지] (안내)2022-1학기 비대면 수업을 위한 대체 공간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181898&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-08)
 
+* **[[공지] [교무팀] 2022-1학기 코로나19 확산에 따른 출석인정 안내(백신공결)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180913&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-02-16)
+
 * **[[공지] [총무팀] 코로나19 확진자 교내 심층역학조사 URL 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180493&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-02-08)
 
 * **[[공지] 아주 MS Office365 사용안내(포털 SSO연동)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
+
+* **[[Remind][학부] 2022-1학기 등록 안내(03.15.~03.17.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185090&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-14)
+
+* **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185089&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-14)
+
+* **[[Remind][학부] 포탈/학생증 사진변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185087&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-14)
+
+* **[2022학년도 1학기 가족장학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185086&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-03-14)
+
+* **[[중앙도서관] 메타버스 도서관 오픈 이벤트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185083&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-03-14)
 
 * **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185060&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-03-11)
@@ -86,18 +104,3 @@
 
 * **[[학습법특강] 2시간으로 끝나는 엑셀 Basic 마스터](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181953&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-03-10)
-
-* **[[학습법특강] 유발 하라리에게 배우는 교육의 미래](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181952&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-03-10)
-
-* **[[학습법특강] 구글을 활용한 디지털 일정 / 시간 / 파일 관리 스킬](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181951&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-03-10)
-
-* **[2022년 스마트팩토리 전문인력 양성과정 모집[전액국비지원, 훈련수당 30만원, 산업계주도청년맞춤형훈련]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181935&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2022-03-08)
-
-* **[[시설팀] 긴급 단수 안내(교내 모든 건물)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181934&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2022-03-08)
-
-* **[[대학일자리플러스센터] 2022 상반기 삼성공채 대비 &quot;선배만남의 날&quot; 운영](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181930&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-08)
