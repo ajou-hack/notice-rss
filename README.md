@@ -15,10 +15,16 @@
 * **[[공지] 아주 MS Office365 사용안내(포털 SSO연동)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[대학일자리플러스센터] 일본취업 K-Class &amp; 취준진담](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185157&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-14)
+
+* **[[장학] 2022년 하림장학재단 장학생(생활비장학) 선발_3.16(수) 16:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185152&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-03-14)
+
 * **[[과학영재교육원] 수업 조교 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185143&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 과학영재교육원 (~2022-03-14)
 
-* **[[비교과교육지원센터] &#x27;성공적인 대학생활의 동반자 아주허브(AJOU Hub)&#x27; 사용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185142&amp;article.offset=0&amp;articleLimit=30)**
+* **[[비교과교육지원센터] &#x27;성공적인 대학생활의 동반자 아주허브(AJOU Hub)&#x27; 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185142&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2022-03-14)
 
 * **[[대학일자리센터] 2022년 상반기 삼성그룹 공채 대비 자소서 1:1 컨설팅(화상상담)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185137&amp;article.offset=0&amp;articleLimit=30)**
@@ -98,9 +104,3 @@
 
 * **[[대학일자리플러스센터] Mercari (일본중고마켓 1위) softengineer 취업연계형 인턴십](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185001&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-10)
-
-* **[[대학일자리플러스센터] 22년도 상반기 월드잡 토크콘서트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185000&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-10)
-
-* **[기간제교사 인력풀 등록 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=182010&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교직부 (~2022-03-10)
