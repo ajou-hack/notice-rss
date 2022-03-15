@@ -15,6 +15,12 @@
 * **[[공지] 아주 MS Office365 사용안내(포털 SSO연동)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[대학일자리플러스센터] 2022 삼성전자 임직원과 함께하는 직무멘토링 4월 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192551&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-15)
+
+* **[[대학일자리플러스센터] 2022 상반기 삼성카드 온라인 채용 설명회(~3/18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192548&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-15)
+
 * **[[장학] 2022년 울산시 인재, 드림, 희망, 다자녀, 생활장학금 신청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192537&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-03-15)
 
@@ -98,9 +104,3 @@
 
 * **[대학원 인공지능학과 AI창업 세미나[2022.03.15.(화)오후 4시 30분] 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185020&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 소프트웨어융합대학 교학팀 (~2022-03-11)
-
-* **[본교 신규 카페 입점 안내 (일신관 지하1층/금일(3월11일)11시~14 무료시음회 진행)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185018&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-03-11)
-
-* **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185015&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-03-11)
