@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[공지] [학부]전자출결시스템 사용 매뉴얼 (전자출석부 사용법)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192571&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-15)
+
 * **[[공지] [학부]2022-1학기 수업운영 변경 안내 (2022.3.11 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185017&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-11)
 
@@ -15,8 +18,11 @@
 * **[[공지] 아주 MS Office365 사용안내(포털 SSO연동)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
-* **[[학부]전자출결시스템 사용 매뉴얼 (전자출석부 사용법)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192571&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-15)
+* **[[글로벌제약임상대학원] 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192578&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 글로벌제약임상대학원 교학팀 (~2022-03-15)
+
+* **[[중앙도서관] 2022학년도 1학기 자료구입 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192576&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-03-15)
 
 * **[혁신공유라운지(구, 율곡관지하매점) 오픈 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192570&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 혁신공유단 (~2022-03-15)
@@ -101,6 +107,3 @@
 
 * **[[중앙도서관] 메타버스 도서관 오픈 이벤트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185083&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-03-14)
-
-* **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185060&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-03-11)
