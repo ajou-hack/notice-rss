@@ -15,6 +15,12 @@
 * **[[공지] 아주 MS Office365 사용안내(포털 SSO연동)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[학부]전자출결시스템 사용 매뉴얼 (전자출석부 사용법)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192571&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-15)
+
+* **[혁신공유라운지(구, 율곡관지하매점) 오픈 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192570&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신공유단 (~2022-03-15)
+
 * **[[입실공고] 2022학년도 1학기 고시반(아현재) 입실 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192567&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 사회과학대학교학팀 (~2022-03-15)
 
@@ -98,9 +104,3 @@
 
 * **[[종합지원센터] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185060&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-03-11)
-
-* **[[대학일자리플러스센터] 학교 &#x27;추천 채용&#x27; 제도 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185059&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-11)
-
-* **[[국비무료교육/수당지급] 스마트팩토리(제조) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185051&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2022-03-11)
