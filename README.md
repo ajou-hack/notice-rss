@@ -15,6 +15,18 @@
 * **[[공지] 아주 MS Office365 사용안내(포털 SSO연동)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[입실공고] 2022학년도 1학기 고시반(아현재) 입실 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192567&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 사회과학대학교학팀 (~2022-03-15)
+
+* **[[입실 공고]2022학년도 1학기 고시반(청람재) 입실 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192566&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 사회과학대학교학팀 (~2022-03-15)
+
+* **[[대학일자리플러스센터] 2022 상반기 대비 &quot;기본 자기소개서 작성법 특강&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192565&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-15)
+
+* **[[국비무료교육/수당지급] 스마트팩토리(제조) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192560&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2022-03-15)
+
 * **[[대학일자리플러스센터] 2022 삼성전자 임직원과 함께하는 직무멘토링 4월 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192551&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-15)
 
@@ -92,15 +104,3 @@
 
 * **[[국비무료교육/수당지급] 스마트팩토리(제조) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185051&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-03-11)
-
-* **[[학부]2022-1학기 수강포기(수강철회) 안내(3/25(금) 9시~3/29(화) 23시59분)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185031&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-11)
-
-* **[[대학일자리플러스센터] 2022 상반기 삼성엔지니어링 온라인 리크루팅](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185027&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-11)
-
-* **[(중앙도서관)3월 이용 교육 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185021&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-03-11)
-
-* **[대학원 인공지능학과 AI창업 세미나[2022.03.15.(화)오후 4시 30분] 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185020&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 소프트웨어융합대학 교학팀 (~2022-03-11)
