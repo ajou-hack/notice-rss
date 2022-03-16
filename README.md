@@ -18,6 +18,24 @@
 * **[[공지] 아주 MS Office365 사용안내(포털 SSO연동)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[학부] 2022학년도 1학기 학점포기 안내 (성적포기)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192588&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-16)
+
+* **[[대학일자리플러스센터] 기아(주) AutoLand 화성 생산 인턴 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192587&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-16)
+
+* **[(재공지) [봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192586&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-03-16)
+
+* **[[장학] 성남시 다자녀가구 대학생(셋째 이상) 등록금 지원 신청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192585&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-03-16)
+
+* **[[Remind][학부] 2022-1학기 등록 안내(03.15.~03.17.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192584&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-16)
+
+* **[[기획팀]아주대학교 학칙 개정(안) 사전 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192583&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2022-03-15)
+
 * **[[글로벌제약임상대학원] 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192578&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 글로벌제약임상대학원 교학팀 (~2022-03-15)
 
@@ -89,21 +107,3 @@
 
 * **[[학습법] 2022-1학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185104&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-03-14)
-
-* **[2022학년도 학생단체(동아리, 소학회) 등록 안내(소학회 담당자 안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185103&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 학생지원팀 (~2022-03-14)
-
-* **[[Remind][학부] 2022-1학기 등록 안내(03.15.~03.17.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185090&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-14)
-
-* **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185089&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-14)
-
-* **[[Remind][학부] 포탈/학생증 사진변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185087&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-14)
-
-* **[2022학년도 1학기 가족장학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185086&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-03-14)
-
-* **[[중앙도서관] 메타버스 도서관 오픈 이벤트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185083&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-03-14)
