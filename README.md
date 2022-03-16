@@ -18,6 +18,9 @@
 * **[[공지] 아주 MS Office365 사용안내(포털 SSO연동)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[수원도시재단] 메이커 창업교육(MVP 제작) 수강생 모집 (~3/14)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192604&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-03-16)
+
 * **[[학습법특강] 시간도둑을 잡아라! A+ 비법을 잡아라!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192597&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-03-16)
 
@@ -104,6 +107,3 @@
 
 * **[[장학] 2022년 하림장학재단 장학생(생활비장학) 선발_3.16(수) 16:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185152&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-03-14)
-
-* **[[과학영재교육원] 수업 조교 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185143&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 과학영재교육원 (~2022-03-14)
