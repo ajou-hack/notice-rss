@@ -18,6 +18,9 @@
 * **[[공지] 아주 MS Office365 사용안내(포털 SSO연동)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[장학] 2022년 서울 우수인재 장학 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192623&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-03-16)
+
 * **[[대학일자리플러스센터] 2022년 취업통계 전화조사 업무 아르바이트 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192615&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-16)
 
@@ -104,6 +107,3 @@
 
 * **[[메이커스페이스] (2022.03.14-재공지) 코로나 19 확산 방지 상황에 따른 축소운영 및 이용인원 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192525&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-03-14)
-
-* **[[대학일자리플러스센터] 2022 삼성생명 채용설명회 및 직무상담회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192523&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-14)
