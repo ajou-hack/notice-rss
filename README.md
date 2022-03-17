@@ -21,6 +21,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 2022 공공기관 지역인재 온라인 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192648&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-17)
+
 * **[3/17(목) 삼성전자 메모리사업부 대학원생 취업면담 안내 [대학일자리플러스센터]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192638&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-17)
 
@@ -107,6 +110,3 @@
 
 * **[[장학] 2022년 울산시 인재, 드림, 희망, 다자녀, 생활장학금 신청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192537&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-03-15)
-
-* **[[Remind][학부] 2022-1학기 등록 안내(03.15.~03.17.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192533&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-15)
