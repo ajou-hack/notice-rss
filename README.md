@@ -18,6 +18,9 @@
 * **[[공지] 아주 MS Office365 사용안내(포털 SSO연동)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 커뮤니케이션팀 (~2021-12-16)
+
 * **[3/17(목) 삼성전자 메모리사업부 대학원생 취업면담 안내 [대학일자리플러스센터]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192638&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-17)
 
