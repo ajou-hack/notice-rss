@@ -18,6 +18,9 @@
 * **[[공지] 아주 MS Office365 사용안내(포털 SSO연동)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
+* **[3/17(목) 삼성전자 메모리사업부 대학원생 취업면담 안내 [대학일자리플러스센터]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192638&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-17)
+
 * **[[Remind][학부] 2022-1학기 등록 안내(03.15.~03.17.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192628&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-17)
 
@@ -104,6 +107,3 @@
 
 * **[[Remind][학부] 2022-1학기 등록 안내(03.15.~03.17.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192533&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-15)
-
-* **[22년도 제1차 동물실험기초/보수교육 -2022년 3월 30일(수)-온라인교육](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192532&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 실험동물연구센터 (~2022-03-15)
