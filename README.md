@@ -21,6 +21,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192669&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-03-17)
+
+* **[[다산학부대학] 2022-1학기 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192668&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 다산학부대학 (~2022-03-17)
+
 * **[[장학] 2022-1학기 안산시 대학생 본인무담 등록금 반값지원 신청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192663&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-03-17)
 
@@ -103,10 +109,4 @@
  [기타] - 사회과학대학교학팀 (~2022-03-15)
 
 * **[[대학일자리플러스센터] 2022 상반기 대비 &quot;기본 자기소개서 작성법 특강&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192565&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-15)
-
-* **[[국비무료교육/수당지급] 스마트팩토리(제조) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192560&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2022-03-15)
-
-* **[[대학일자리플러스센터] 2022 삼성전자 임직원과 함께하는 직무멘토링 4월 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192551&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-15)
