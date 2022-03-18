@@ -21,6 +21,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 2022 로레알코리아 LIVE 커리어톡](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192721&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-18)
+
+* **[[대학일자리플러스센터] 2022 삼성디스플레이 온라인 리크루팅 -「 SDC Universe 」(3/19)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192711&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-18)
+
 * **[[학습법] 2022 공과대학 신입생을 위한 선배 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192702&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-03-18)
 
@@ -104,9 +110,3 @@
 
 * **[[한국장학재단] 2022년 우수학생 국가장학사업(인문100년) 학생 사전 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192590&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-03-16)
-
-* **[[장학] 2022년도 수림재단 장학생(자연과학부문전공) 선발](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192589&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-03-16)
-
-* **[[학부] 2022학년도 1학기 학점포기 안내 (성적포기)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192588&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-16)
