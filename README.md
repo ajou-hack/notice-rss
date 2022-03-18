@@ -21,6 +21,27 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 2022 공과대학 신입생을 위한 선배 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192702&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-03-18)
+
+* **[[학습법] 2022 인문대학 신입생을 위한 선배 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192700&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-03-18)
+
+* **[[학습법] 2022 정보통신대학 신입생을 위한 선배 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192699&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-03-18)
+
+* **[[학습법] 2022 사회과학대학 신입생을 위한 선배 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192698&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-03-18)
+
+* **[[대학일자리플러스센터] 2022 삼성전자 MX사업부 회로개발 직무 온라인 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192697&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-18)
+
+* **[[학습법] 2022 자연과학대학 신입생을 위한 선배 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192696&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-03-18)
+
+* **[[학습법] 2022 경영대학 신입생을 위한 선배 특강(오늘마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192695&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-03-18)
+
 * **[[재공지]2022학년도 1학기 가족장학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192688&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-03-18)
 
@@ -89,24 +110,3 @@
 
 * **[[학부] 2022학년도 1학기 학점포기 안내 (성적포기)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192588&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-16)
-
-* **[[대학일자리플러스센터] 기아(주) AutoLand 화성 생산 인턴 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192587&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-16)
-
-* **[(재공지) [봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192586&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-03-16)
-
-* **[[장학] 성남시 다자녀가구 대학생(셋째 이상) 등록금 지원 신청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192585&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-03-16)
-
-* **[[Remind][학부] 2022-1학기 등록 안내(03.15.~03.17.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192584&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-16)
-
-* **[[기획팀]아주대학교 학칙 개정(안) 사전 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192583&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2022-03-15)
-
-* **[[글로벌제약임상대학원] 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192578&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 글로벌제약임상대학원 교학팀 (~2022-03-15)
-
-* **[[중앙도서관] 2022학년도 1학기 자료구입 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192576&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-03-15)
