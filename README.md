@@ -1,10 +1,10 @@
 # 최근 공지사항
 
+* **[[공지] [학부]2022-1학기 수업운영 변경 안내 (2022.3.18 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192691&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-18)
+
 * **[[공지] [학부]전자출결시스템 사용 매뉴얼 (전자출석부 사용법)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192571&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-15)
-
-* **[[공지] [학부]2022-1학기 수업운영 변경 안내 (2022.3.11 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=185017&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-11)
 
 * **[[공지] (안내)2022-1학기 비대면 수업을 위한 대체 공간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181898&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-08)
@@ -21,6 +21,18 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[재공지]2022학년도 1학기 가족장학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192688&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-03-18)
+
+* **[[대학일자리플러스센터] 월간 자소서 예고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192679&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-17)
+
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192677&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-03-17)
+
+* **[[대학일자리플러스센터] 2022년 렛유인 무료 취업지원 콘텐츠 제공 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192676&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-17)
+
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192669&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-03-17)
 
@@ -36,7 +48,7 @@
 * **[[대학일자리플러스센터] 2022 공공기관 지역인재 온라인 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192648&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-17)
 
-* **[3/17(목) 삼성전자 메모리사업부 대학원생 취업면담 안내 [대학일자리플러스센터]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192638&amp;article.offset=0&amp;articleLimit=30)**
+* **[[대학일자리플러스센터]3/17(목) 삼성전자 메모리사업부 대학원생 취업면담 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192638&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-17)
 
 * **[[Remind][학부] 2022-1학기 등록 안내(03.15.~03.17.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192628&amp;article.offset=0&amp;articleLimit=30)**
@@ -98,15 +110,3 @@
 
 * **[[중앙도서관] 2022학년도 1학기 자료구입 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192576&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-03-15)
-
-* **[혁신공유라운지(구, 율곡관지하매점) 오픈 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192570&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신공유단 (~2022-03-15)
-
-* **[[입실공고] 2022학년도 1학기 고시반(아현재) 입실 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192567&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 사회과학대학교학팀 (~2022-03-15)
-
-* **[[입실 공고]2022학년도 1학기 고시반(청람재) 입실 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192566&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 사회과학대학교학팀 (~2022-03-15)
-
-* **[[대학일자리플러스센터] 2022 상반기 대비 &quot;기본 자기소개서 작성법 특강&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192565&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-15)
