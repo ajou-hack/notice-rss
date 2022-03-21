@@ -21,6 +21,18 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 2022-1학기 학습공동체(III) 공부가치 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192836&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-03-21)
+
+* **[[학습법] 2022-1학기 학습공동체(II) ASAP 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192834&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-03-21)
+
+* **[[학습법] 2022-1학기 학습공동체(I) 스터디그룹 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192833&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-03-21)
+
+* **[2022-1학기 동아리박람회(문화제) 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192826&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2022-03-21)
+
 * **[[홍보] 수원도시재단 사회적경제 창업아카데미 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192820&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 커뮤니케이션팀 (~2022-03-21)
 
@@ -78,7 +90,7 @@
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192669&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-03-17)
 
-* **[[다산학부대학] 2022-1학기 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192668&amp;article.offset=0&amp;articleLimit=30)**
+* **[[다산학부대학] 2022-1학기 면학장학생 모집 (조기마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192668&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 다산학부대학 (~2022-03-17)
 
 * **[[장학] 2022-1학기 안산시 대학생 본인무담 등록금 반값지원 신청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192663&amp;article.offset=0&amp;articleLimit=30)**
@@ -98,15 +110,3 @@
 
 * **[[장학] 2022년 서울 우수인재 장학 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192623&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-03-16)
-
-* **[[대학일자리플러스센터] 2022년 취업통계 전화조사 업무 아르바이트 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192615&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-16)
-
-* **[[대학일자리플러스센터] 2022 상반기 요기요 LIVE 채용설명회(~3/23)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192607&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-16)
-
-* **[[수원도시재단] 메이커 창업교육(MVP 제작) 수강생 모집 (~3/14)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192604&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-03-16)
-
-* **[[학습법특강] 시간도둑을 잡아라! A+ 비법을 잡아라!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192597&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-03-16)
