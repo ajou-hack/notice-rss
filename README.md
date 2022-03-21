@@ -21,6 +21,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[홍보] 수원도시재단 사회적경제 창업아카데미 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192820&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 커뮤니케이션팀 (~2022-03-21)
+
+* **[[Remind][학부] 포탈/학생증 사진변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192816&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-21)
+
+* **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192815&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-21)
+
 * **[[Remind][학부] 2022-1학기 등록 안내(03.22.~03.24.)*정규 마지막 등록기간](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192805&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-18)
 
@@ -100,13 +109,4 @@
  [기타] - 창업지원팀 (~2022-03-16)
 
 * **[[학습법특강] 시간도둑을 잡아라! A+ 비법을 잡아라!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192597&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-03-16)
-
-* **[[학습법특강] 아니? 엑셀로 이게 이렇게 돼? 엑셀 Advanced](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192595&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-03-16)
-
-* **[[학습법특강] 2시간으로 끝나는 엑셀 Basic 마스터](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192594&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-03-16)
-
-* **[[학습법특강] 유발 하라리에게 배우는 교육의 미래](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192593&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-03-16)
