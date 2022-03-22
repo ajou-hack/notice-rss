@@ -21,6 +21,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[중앙도서관] 2022학년도 아침독서 채널 구독 및 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192886&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-03-22)
+
+* **[[학부]2022-1학기 수업피드백 참여 안내 (3/23~4/12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192885&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교수학습개발센터 (~2022-03-22)
+
 * **[[학군단]22년도 학군사관 후보생(ROTC) 모집설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192875&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학군단 (~2022-03-22)
 
@@ -104,9 +110,3 @@
 
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192669&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-03-17)
-
-* **[[다산학부대학] 2022-1학기 면학장학생 모집 (조기마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192668&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 다산학부대학 (~2022-03-17)
-
-* **[[장학] 2022-1학기 안산시 대학생 본인무담 등록금 반값지원 신청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192663&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-03-17)
