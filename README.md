@@ -21,6 +21,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학군단]22년도 학군사관 후보생(ROTC) 모집설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192875&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학군단 (~2022-03-22)
+
+* **[[Remind][학부] 2022-1학기 등록 안내(03.22.~03.24.)*정규 마지막 등록기간](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192874&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-22)
+
 * **[교직원식당 운영수지 악화로 인한 식사 단가 조정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192866&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-03-21)
 
@@ -104,9 +110,3 @@
 
 * **[[장학] 2022-1학기 안산시 대학생 본인무담 등록금 반값지원 신청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192663&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-03-17)
-
-* **[[대학일자리플러스센터] 삼성전자 메모리사업부 지원방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192655&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-17)
-
-* **[[대학일자리플러스센터] 2022 공공기관 지역인재 온라인 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192648&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-17)
