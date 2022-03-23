@@ -21,6 +21,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[Remind][학부] 2022-1학기 등록 안내(03.22.~03.24.)*정규 마지막 등록기간](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192968&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-23)
+
 * **[수원시 공공청사 시민공유 서비스 홍보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192961&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-03-22)
 
@@ -106,7 +109,4 @@
  [취업] - 대학일자리플러스센터 (~2022-03-18)
 
 * **[[학습법] 2022 자연과학대학 신입생을 위한 선배 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192696&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-03-18)
-
-* **[[학습법] 2022 경영대학 신입생을 위한 선배 특강(오늘마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192695&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-03-18)
