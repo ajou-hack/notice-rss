@@ -21,6 +21,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학생지원팀] 2022-1학기 토론학습실 운영시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192984&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2022-03-23)
+
+* **[[한국장학재단_신청기간 연장] 2022년 1학기 중소기업취업연계 장학금(희망사다리 Ⅰ유형) 신청 안내(2022.03.3.목~31.목 18:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192983&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-03-23)
+
+* **[[Remind][학부]2022-1학기 수강포기(수강철회) 안내(3/25(금) 9시~3/29(화) 23시59분)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192980&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-23)
+
 * **[[Remind][학부] 2022-1학기 등록 안내(03.22.~03.24.)*정규 마지막 등록기간](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192968&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-23)
 
@@ -100,13 +109,4 @@
  [기타] - 교수학습개발센터 (~2022-03-18)
 
 * **[[학습법] 2022 정보통신대학 신입생을 위한 선배 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192699&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-03-18)
-
-* **[[학습법] 2022 사회과학대학 신입생을 위한 선배 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192698&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-03-18)
-
-* **[[대학일자리플러스센터] 2022 삼성전자 MX사업부 회로개발 직무 온라인 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192697&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-18)
-
-* **[[학습법] 2022 자연과학대학 신입생을 위한 선배 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192696&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-03-18)
