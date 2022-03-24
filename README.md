@@ -21,6 +21,18 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 금주의 추천채용_서한기업/SD바이오센서/지멘스헬시니어스](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193065&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-24)
+
+* **[제18기 KOICA 체험형 청년인턴 홍보분야 모집(~3.29.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193064&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학일자리플러스센터 (~2022-03-24)
+
+* **[[국비무료교육/수당지급] 스마트팩토리(제조) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193063&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2022-03-24)
+
+* **[(재공지)[수원도시재단] 메이커 창업교육(아이디어실현/시제품제작 교육) 수강생 모집 (~3/25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193060&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-03-24)
+
 * **[[인권센터_성평등상담소] 근로장학생 모집 (~3/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193043&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 성평등상담소 (~2022-03-24)
 
@@ -98,15 +110,3 @@
 
 * **[2022 스마트팩토리 전문인력 양성과정 모집[전액무료, 훈련수당30만원, 산업계주도청년맞춤형교육]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192864&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-03-21)
-
-* **[[대학일자리플러스센터] 2022 상반기 &quot;직무별 면접특강&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192842&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-21)
-
-* **[[학습법] 2022-1학기 학습공동체(III) 공부가치 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192836&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-03-21)
-
-* **[[학습법] 2022-1학기 학습공동체(II) ASAP 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192834&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-03-21)
-
-* **[[학습법] 2022-1학기 학습공동체(I) 스터디그룹 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192833&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-03-21)
