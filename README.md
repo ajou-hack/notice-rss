@@ -21,6 +21,24 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[2차 재공지]2022학년도 1학기 가족장학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193022&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-03-24)
+
+* **[[한국장학재단_신청기간 연장] 2022년 1학기 고졸 후학습자 장학금(희망사다리 Ⅱ유형) 신청 안내(~2022.03.31.(목) 18:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193021&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-03-24)
+
+* **[[대학일자리플러스센터] 해외취업 아카데미 K-Learning](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193015&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-24)
+
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193014&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-03-24)
+
+* **[[대학일자리플러스센터] 2022 상반기 글로벌 일자리대전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193013&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-24)
+
+* **[[학부] 2022학년도 1학기 취득학점포기 안내 (성적포기)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193012&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-24)
+
 * **[대면수업 시행에 따른 교내 건물 출입구 추가 개방 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192995&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-03-23)
 
@@ -92,21 +110,3 @@
 
 * **[[Remind][학부] 포탈/학생증 사진변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192816&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-21)
-
-* **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192815&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-21)
-
-* **[[Remind][학부] 2022-1학기 등록 안내(03.22.~03.24.)*정규 마지막 등록기간](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192805&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-18)
-
-* **[[대학일자리플러스센터] 3월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192787&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-18)
-
-* **[[대학일자리플러스센터] 2022 로레알코리아 LIVE 커리어톡](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192721&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-18)
-
-* **[[대학일자리플러스센터] 2022 삼성디스플레이 온라인 리크루팅 -「 SDC Universe 」(3/19)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192711&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-18)
-
-* **[[학습법] 2022 공과대학 신입생을 위한 선배 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192702&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-03-18)
