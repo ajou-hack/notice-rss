@@ -21,6 +21,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[인권센터_성평등상담소] 근로장학생 모집 (~3/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193043&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 성평등상담소 (~2022-03-24)
+
+* **[[장학] (재) 인천인재평생교육진흥원 장학생 선발](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193041&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-03-24)
+
 * **[[Remind][학부] 2022-1학기 등록 안내(03.22.~03.24.)*정규 마지막 등록기간](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193026&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-24)
 
@@ -104,9 +110,3 @@
 
 * **[[학습법] 2022-1학기 학습공동체(I) 스터디그룹 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192833&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-03-21)
-
-* **[2022-1학기 동아리박람회(문화제) 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192826&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2022-03-21)
-
-* **[[홍보] 수원도시재단 사회적경제 창업아카데미 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192820&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 커뮤니케이션팀 (~2022-03-21)
