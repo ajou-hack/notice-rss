@@ -1,7 +1,7 @@
 # 최근 공지사항
 
-* **[[공지] [학부]2022-1학기 수업운영 변경 안내 (2022.3.18 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192691&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-18)
+* **[[공지] [학부]2022-1학기 수업운영 안내 (2022.3.25 업데이트, 기존과 동일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193066&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-25)
 
 * **[[공지] [학부]전자출결시스템 사용 매뉴얼 (전자출석부 사용법)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192571&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-15)
@@ -20,6 +20,12 @@
 
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[대학일자리플러스센터]대학일자리플러스센터 서비스 모아보기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193072&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-25)
+
+* **[[시설팀] 에너지센터 건물 단수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193070&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2022-03-25)
 
 * **[[대학일자리플러스센터] 금주의 추천채용_서한기업/SD바이오센서/지멘스헬시니어스](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193065&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-24)
@@ -104,9 +110,3 @@
 
 * **[[Remind][학부] 2022-1학기 등록 안내(03.22.~03.24.)*정규 마지막 등록기간](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192874&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-22)
-
-* **[교직원식당 운영수지 악화로 인한 식사 단가 조정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192866&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-03-21)
-
-* **[2022 스마트팩토리 전문인력 양성과정 모집[전액무료, 훈련수당30만원, 산업계주도청년맞춤형교육]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192864&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2022-03-21)
