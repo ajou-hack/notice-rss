@@ -21,6 +21,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[국제교류팀] 22-하계 1차 해외단기파견 모집 (~3.29.(화)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193103&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2022-03-25)
+
+* **[[대학일자리플러스센터] 3월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193101&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-25)
+
 * **[추가 개방된 교내 건물 출입구의 출입 단말기기 및 소프트웨어 오류 발생에 따른 조치 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193094&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-03-25)
 
@@ -104,9 +110,3 @@
 
 * **[[장학] 강화군 다자녀 보육가정 대학생 장학신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192959&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-03-22)
-
-* **[교직원 식당 근로자 코로나19 확진에 따른 운영 일시중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192956&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-03-22)
-
-* **[[대학일자리플러스센터] 2022 상반기 대비 &quot;공기업(NCS기반) 자소서 작성법 특강&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192934&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-22)
