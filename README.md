@@ -21,6 +21,24 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[추가 개방된 교내 건물 출입구의 출입 단말기기 및 소프트웨어 오류 발생에 따른 조치 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193094&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-03-25)
+
+* **[[학습법] 2022-1학기 학습공동체(III) 공부가치 모집 안내(오늘 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193085&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-03-25)
+
+* **[[학습법] 2022-1학기 학습공동체(II) ASAP 모집 안내(오늘 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193084&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-03-25)
+
+* **[[학습법] 2022-1학기 학습공동체(I) 스터디그룹 모집 안내(오늘 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193082&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-03-25)
+
+* **[[2022학년도 신입학생 대상] 2022학년도 2학기 희망 교과목 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193081&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-03-25)
+
+* **[[중앙도서관] 북큐레이션 도서 안내 - 메타버스](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193077&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-03-25)
+
 * **[[대학일자리플러스센터]대학일자리플러스센터 서비스 모아보기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193072&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-25)
 
@@ -92,21 +110,3 @@
 
 * **[교직원 식당 근로자 코로나19 확진에 따른 운영 일시중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192956&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-03-22)
-
-* **[[대학일자리플러스센터] 2022 상반기 대비 &quot;공기업(NCS기반) 자소서 작성법 특강&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192934&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-22)
-
-* **[(재공지)[수원도시재단] 메이커 창업교육(MVP 제작) 수강생 모집 (~3/25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192892&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-03-22)
-
-* **[[중앙도서관] 2022학년도 아침독서 채널 구독 및 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192886&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-03-22)
-
-* **[[학부]2022-1학기 수업피드백 참여 안내 (3/23~4/12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192885&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교수학습개발센터 (~2022-03-22)
-
-* **[[학군단]22년도 학군사관 후보생(ROTC) 모집설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192875&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학군단 (~2022-03-22)
-
-* **[[Remind][학부] 2022-1학기 등록 안내(03.22.~03.24.)*정규 마지막 등록기간](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192874&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-22)
