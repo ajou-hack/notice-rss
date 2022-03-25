@@ -36,9 +36,6 @@
 * **[[2022학년도 신입학생 대상] 2022학년도 2학기 희망 교과목 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193081&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-03-25)
 
-* **[[중앙도서관] 북큐레이션 도서 안내 - 메타버스](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193077&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-03-25)
-
 * **[[대학일자리플러스센터]대학일자리플러스센터 서비스 모아보기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193072&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-25)
 
@@ -110,3 +107,6 @@
 
 * **[교직원 식당 근로자 코로나19 확진에 따른 운영 일시중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192956&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-03-22)
+
+* **[[대학일자리플러스센터] 2022 상반기 대비 &quot;공기업(NCS기반) 자소서 작성법 특강&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192934&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-22)
