@@ -21,6 +21,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193226&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-03-29)
+
+* **[[학부] 2022-1학기 미등록자 구제등록 안내(04.05. ~ 04.07.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193223&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-29)
+
 * **[[학부] 2022학년도 1학기 취득학점포기 안내 (성적포기) (3/29~31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193216&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-29)
 
@@ -104,9 +110,3 @@
 
 * **[제18기 KOICA 체험형 청년인턴 홍보분야 모집(~3.29.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193064&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학일자리플러스센터 (~2022-03-24)
-
-* **[[국비무료교육/수당지급] 스마트팩토리(제조) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193063&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2022-03-24)
-
-* **[(재공지)[수원도시재단] 메이커 창업교육(아이디어실현/시제품제작 교육) 수강생 모집 (~3/25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193060&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-03-24)
