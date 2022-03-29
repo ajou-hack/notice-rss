@@ -21,7 +21,13 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[[교수학습개발센터]에서 함께 면학할 면학장학생을 모집합니다(휴학생 환영).](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193184&amp;article.offset=0&amp;articleLimit=30)**
+* **[[학부] 2022학년도 1학기 취득학점포기 안내 (성적포기) (3/29~31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193216&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-29)
+
+* **[[대학일자리플러스센터] (재공지)두근두근 신학기 이벤트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193211&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-29)
+
+* **[[교수학습개발센터]에서 함께 면학할 학부생 면학장학생을 모집합니다(휴학생 환영).](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193184&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 교수학습개발센터 (~2022-03-28)
 
 * **[[대학일자리플러스센터] 2022학년도 상반기 대학일자리플러스센터 마일리지 제도 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193177&amp;article.offset=0&amp;articleLimit=30)**
@@ -104,9 +110,3 @@
 
 * **[(재공지)[수원도시재단] 메이커 창업교육(아이디어실현/시제품제작 교육) 수강생 모집 (~3/25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193060&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-03-24)
-
-* **[[인권센터_성평등상담소] 근로장학생 모집 (조기마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193043&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 성평등상담소 (~2022-03-24)
-
-* **[[장학] (재) 인천인재평생교육진흥원 장학생 선발](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193041&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-03-24)
