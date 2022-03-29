@@ -21,6 +21,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[전면비대면전환/국비교육] 스마트공장(인공지능)양성과정 모집중](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193229&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2022-03-29)
+
+* **[[대학일자리플러스센터] 월간자소서 4월호(기초 입사지원서 작성법)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193228&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-29)
+
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193226&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-03-29)
 
@@ -104,9 +110,3 @@
 
 * **[[시설팀] 에너지센터 건물 단수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193070&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2022-03-25)
-
-* **[[대학일자리플러스센터] 금주의 추천채용_서한기업/SD바이오센서/지멘스헬시니어스](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193065&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-24)
-
-* **[제18기 KOICA 체험형 청년인턴 홍보분야 모집(~3.29.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193064&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학일자리플러스센터 (~2022-03-24)
