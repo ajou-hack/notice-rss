@@ -21,6 +21,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[중앙도서관] 메타버스 도서관 오픈 기념 이벤트 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193304&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-03-30)
+
+* **[[장학] 2022년 형남진장학(생활비) 선발_4.7(목) 16:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193300&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-03-30)
+
 * **[(당일공지)[2022학년도 신입학생 대상] 2022학년도 2학기 희망 교과목 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193297&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-03-30)
 
@@ -104,9 +110,3 @@
 
 * **[[대학일자리플러스센터] 3월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193101&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-25)
-
-* **[추가 개방된 교내 건물 출입구의 출입 단말기기 및 소프트웨어 오류 발생에 따른 조치 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193094&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-03-25)
-
-* **[[학습법] 2022-1학기 학습공동체(III) 공부가치 모집 안내(오늘 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193085&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-03-25)
