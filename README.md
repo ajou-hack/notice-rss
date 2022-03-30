@@ -21,6 +21,18 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(당일공지)[2022학년도 신입학생 대상] 2022학년도 2학기 희망 교과목 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193297&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-03-30)
+
+* **[학생 공간 사용예약 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193294&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2022-03-29)
+
+* **[[대학일자리플러스센터] 2022 현대자동차 연구개발본부 채용설명회 및 직무/채용 상담회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193291&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-29)
+
+* **[[대학일자리플러스센터] (재공지)두근두근 신학기 이벤트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193290&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-29)
+
 * **[[국제대학원] 함께 일할 면학장학생을 모집합니다. (사무보조업무)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193232&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 국제대학원교학팀 (~2022-03-29)
 
@@ -98,15 +110,3 @@
 
 * **[[학습법] 2022-1학기 학습공동체(III) 공부가치 모집 안내(오늘 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193085&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-03-25)
-
-* **[[학습법] 2022-1학기 학습공동체(II) ASAP 모집 안내(오늘 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193084&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-03-25)
-
-* **[[학습법] 2022-1학기 학습공동체(I) 스터디그룹 모집 안내(오늘 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193082&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-03-25)
-
-* **[[2022학년도 신입학생 대상] 2022학년도 2학기 희망 교과목 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193081&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-03-25)
-
-* **[[대학일자리플러스센터]대학일자리플러스센터 서비스 모아보기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193072&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-25)
