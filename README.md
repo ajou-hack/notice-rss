@@ -21,6 +21,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[연구] KIURI Bio-AI Center 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193323&amp;article.offset=0&amp;articleLimit=30)**
+ [학술] - KIURI 연구단 (~2022-03-30)
+
+* **[[대학일자리플러스센터][루이비통코리아] 2022 Leadership Program 채용 및 메타버스 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193320&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-03-30)
+
 * **[(총학생회) 황창규 전 KT대표이사 회장 아주대 특강 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193309&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2022-03-30)
 
@@ -103,10 +109,4 @@
  [기타] - 총무팀 (~2022-03-26)
 
 * **[[대학일자리플러스센터] 1:1 진로-취업 상담 이전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193137&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-25)
-
-* **[[국비무료교육/수당지급] 스마트팩토리(제조) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193132&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2022-03-25)
-
-* **[[대학일자리플러스센터] 포스코 청년 AI/Big Data 아카데미 2차(18기) 교육생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193123&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-25)
