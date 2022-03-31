@@ -3,7 +3,7 @@
 * **[[공지] [학부]2022-1학기 수업운영 안내 (2022.3.25 업데이트, 기존과 동일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193066&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-25)
 
-* **[[공지] [학부]전자출결시스템 사용 매뉴얼 (전자출석부 사용법)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192571&amp;article.offset=0&amp;articleLimit=30)**
+* **[[공지] [학부]전자출결시스템 사용 매뉴얼 (전자출석부 사용법)(3/31 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192571&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-15)
 
 * **[[공지] (안내)2022-1학기 비대면 수업을 위한 대체 공간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181898&amp;article.offset=0&amp;articleLimit=30)**
@@ -20,6 +20,12 @@
 
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[공학교육혁신센터] &quot;에이치앤파워&quot;의 온라인 채용설명회 홍보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193361&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2022-03-31)
+
+* **[[학습법] 2022-1학기 학습공동체 선정 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193360&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-03-31)
 
 * **[2022년 전공기부단 9기 모집(~4/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193348&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학팀 (~2022-03-31)
@@ -104,9 +110,3 @@
 
 * **[기존주택 매입임대주택 입주자 수시모집 (2차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193163&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-03-28)
-
-* **[[홍보 ]대학(원)생 나노기술공모전 &#x27;나노영챌린지2022&#x27;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193160&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 커뮤니케이션팀 (~2022-03-28)
-
-* **[[대학일자리플러스센터] 두근두근 신학기 이벤트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193152&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-27)
