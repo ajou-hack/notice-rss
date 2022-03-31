@@ -21,6 +21,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022년 전공기부단 9기 모집(~4/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193348&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 입학팀 (~2022-03-31)
+
+* **[[장학] 태광그룹 일주재단 해외박사 장학생 선발](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193347&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-03-31)
+
+* **[[장학] 2022년 서울 우수인재 장학 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193345&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-03-31)
+
 * **[[연구] KIURI Bio-AI Center 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193323&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - KIURI 연구단 (~2022-03-30)
 
@@ -101,12 +110,3 @@
 
 * **[[대학일자리플러스센터] 두근두근 신학기 이벤트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193152&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-27)
-
-* **[[대학일자리플러스센터] 2022 공무원(지역인재7급) 채용준비를 위한 [선배만남의 날] 프로그램 운영](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193148&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-26)
-
-* **[체육관 체력단련실 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193146&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-03-26)
-
-* **[[대학일자리플러스센터] 1:1 진로-취업 상담 이전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193137&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-25)
