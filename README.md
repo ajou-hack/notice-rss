@@ -21,6 +21,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[국가근로][교사대생등대학생튜터링] 3월 국가근로/교사대생등대학생튜터링장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 3/31 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193369&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-03-31)
+
 * **[[공학교육혁신센터] &quot;에이치앤파워&quot;의 온라인 채용설명회 홍보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193361&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2022-03-31)
 
@@ -107,6 +110,3 @@
 
 * **[[중앙도서관] 북큐레이션 도서 안내 - 메타버스](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193166&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-03-28)
-
-* **[기존주택 매입임대주택 입주자 수시모집 (2차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193163&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-03-28)
