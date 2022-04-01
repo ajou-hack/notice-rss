@@ -1,7 +1,7 @@
 # 최근 공지사항
 
-* **[[공지] [학부]2022-1학기 수업운영 안내 (2022.3.25 업데이트, 기존과 동일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193066&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-25)
+* **[[공지] [학부]2022-1학기 수업운영 안내 (2022.4.1 업데이트, 기존과 동일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193409&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-04-01)
 
 * **[[공지] [교무팀] 2022-1학기 코로나19 확산에 따른 출석인정 안내(백신공결)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180913&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-16)
@@ -15,8 +15,17 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[[학부]2022-1학기 수업운영 안내 (2022.4.1 업데이트, 기존과 동일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193409&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-04-01)
+* **[[대학일자리플러스센터] 4월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193423&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-04-01)
+
+* **[혁신공유라운지(율곡관B104) 회의실 예약 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193422&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 혁신공유단 (~2022-04-01)
+
+* **[[중앙도서관]7급 공무원 강좌 확대 기념 에듀윌 이벤트!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193418&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-04-01)
+
+* **[[학생지원팀] 학생자치공간 출입 권한 등록 절차 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193413&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 학생지원팀 (~2022-04-01)
 
 * **[[홍보] 2022 사회적경제 창업아카데미 성장과정 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193408&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-04-01)
@@ -95,12 +104,3 @@
 
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193226&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-03-29)
-
-* **[[학부] 2022-1학기 미등록자 구제등록 안내(04.05. ~ 04.07.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193223&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-29)
-
-* **[[학부] 2022학년도 1학기 취득학점포기 안내 (성적포기) (3/29~31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193216&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-29)
-
-* **[[대학일자리플러스센터] (재공지)두근두근 신학기 이벤트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193211&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-29)
