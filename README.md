@@ -3,12 +3,6 @@
 * **[[공지] [학부]2022-1학기 수업운영 안내 (2022.3.25 업데이트, 기존과 동일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193066&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-25)
 
-* **[[공지] [학부]전자출결시스템 사용 매뉴얼 (전자출석부 사용법)(3/31 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192571&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-15)
-
-* **[[공지] (안내)2022-1학기 비대면 수업을 위한 대체 공간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=181898&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-08)
-
 * **[[공지] [교무팀] 2022-1학기 코로나19 확산에 따른 출석인정 안내(백신공결)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180913&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-16)
 
@@ -20,6 +14,24 @@
 
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[학부]2022-1학기 수업운영 안내 (2022.4.1 업데이트, 기존과 동일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193409&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-04-01)
+
+* **[[홍보] 2022 사회적경제 창업아카데미 성장과정 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193408&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-04-01)
+
+* **[[봉사활동] (한국과학창의재단) 2022년 1학기 체육·예술 대학생 교육기부 참여 대학생 동아리 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193405&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-04-01)
+
+* **[[봉사활동] (한국과학창의재단) 2022년 1학기「함성소리: 꿈의 울림」및「짝꿍」참여 대학생 동아리 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193403&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-04-01)
+
+* **[2022학년도 교내 예방접종 시행 &lt;2022 Vaccination Schedule and Information&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193400&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 보건진료소 (~2022-04-01)
+
+* **[장건강의 날 시행](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193397&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 보건진료소 (~2022-04-01)
 
 * **[[대학일자리플러스센터] 금주의 추천채용_세종공업/디토닉/ALS](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193370&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-31)
@@ -92,21 +104,3 @@
 
 * **[[대학일자리플러스센터] (재공지)두근두근 신학기 이벤트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193211&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-29)
-
-* **[[교수학습개발센터]에서 함께 면학할 학부생 면학장학생을 모집합니다(휴학생 환영).](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193184&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 교수학습개발센터 (~2022-03-28)
-
-* **[[대학일자리플러스센터] 2022학년도 상반기 대학일자리플러스센터 마일리지 제도 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193177&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-28)
-
-* **[구학생회관 푸드코트 바겟버거 운영 일시 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193173&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-03-28)
-
-* **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내_미등록 휴학:3/29(화) 마감](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193171&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-28)
-
-* **[[학군단]63,64기 후보생 모집안내 및 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193170&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학군단 (~2022-03-28)
-
-* **[[Remind][학부] 포탈/학생증 사진변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193168&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-28)
