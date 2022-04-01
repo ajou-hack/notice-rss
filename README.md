@@ -15,6 +15,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[무료교육/수당지급] 인공지능(스마트공장) 전문인력양성 교육생모집(최종모집)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193471&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2022-04-01)
+
+* **[☆대학교육혁신원 서포터즈 1기 모집☆](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193470&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2022-04-01)
+
 * **[[중앙도서관]4월 이용 교육 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193447&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-04-01)
 
@@ -98,9 +104,3 @@
 
 * **[학생 공간 사용예약 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193294&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2022-03-29)
-
-* **[[대학일자리플러스센터] 2022 현대자동차 연구개발본부 채용설명회 및 직무/채용 상담회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193291&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-29)
-
-* **[[대학일자리플러스센터] (재공지)두근두근 신학기 이벤트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193290&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-29)
