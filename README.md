@@ -15,6 +15,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[중앙도서관]4월 이용 교육 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193447&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-04-01)
+
 * **[[입학팀] 입학홍보대사 G.A.i.A. 19기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193438&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학팀 (~2022-04-01)
 
@@ -101,6 +104,3 @@
 
 * **[[대학일자리플러스센터] (재공지)두근두근 신학기 이벤트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193290&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-29)
-
-* **[[국제대학원] 함께 일할 면학장학생을 모집합니다. (사무보조업무)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193232&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 국제대학원교학팀 (~2022-03-29)
