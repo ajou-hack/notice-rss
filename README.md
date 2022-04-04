@@ -15,6 +15,21 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[Remind][학부] 2022-1학기 미등록자 구제등록 안내(04.05. ~ 04.07.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193521&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-04-04)
+
+* **[[학자금대출] 2022학년도 1학기 구제등록기간 한국장학재단 등록금대출 실행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193519&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-04-04)
+
+* **[[국제교류팀] 22-하계 2차 해외단기파견 모집 (~4.8.(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193513&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2022-04-04)
+
+* **[[Remind][학부] 포탈/학생증 사진변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193511&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-04-04)
+
+* **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193510&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-04-04)
+
 * **[[무료교육/수당지급] 인공지능(스마트공장) 전문인력양성 교육생모집(최종모집)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193471&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-04-01)
 
@@ -24,7 +39,7 @@
 * **[[중앙도서관]4월 이용 교육 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193447&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-04-01)
 
-* **[[입학팀] 입학홍보대사 G.A.i.A. 19기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193438&amp;article.offset=0&amp;articleLimit=30)**
+* **[[입학팀] 입학홍보대사 G.A.i.A. 19기 모집 (수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193438&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학팀 (~2022-04-01)
 
 * **[[학습법] 2022-1학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193436&amp;article.offset=0&amp;articleLimit=30)**
@@ -89,18 +104,3 @@
 
 * **[(총학생회) 황창규 전 KT대표이사 회장 아주대 특강 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193309&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2022-03-30)
-
-* **[[대학일자리플러스센터] 두근두근 신학기 이벤트 조기 종료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193307&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-30)
-
-* **[[중앙도서관] 메타버스 도서관 오픈 기념 이벤트 당첨자 안내 및 만족도 조사 실시](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193304&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-03-30)
-
-* **[[장학] 2022년 형남진장학(생활비) 선발_4.7(목) 16:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193300&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-03-30)
-
-* **[(당일공지)[2022학년도 신입학생 대상] 2022학년도 2학기 희망 교과목 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193297&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-03-30)
-
-* **[학생 공간 사용예약 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193294&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2022-03-29)
