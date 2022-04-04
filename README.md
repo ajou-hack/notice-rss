@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[제81회 한국어능력시험(TOPIK) 시행에 따른 성호관 출입 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193539&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 국제교육센터운영팀 (~2022-04-04)
+
 * **[[Remind][학부] 2022-1학기 미등록자 구제등록 안내(04.05. ~ 04.07.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193521&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-04-04)
 
@@ -104,6 +107,3 @@
 
 * **[[대학일자리플러스센터][루이비통코리아] 2022 Leadership Program 채용 및 메타버스 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193320&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-30)
-
-* **[(총학생회) 황창규 전 KT대표이사 회장 아주대 특강 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193309&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2022-03-30)
