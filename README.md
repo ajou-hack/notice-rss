@@ -3,6 +3,9 @@
 * **[[공지] [학부]2022-1학기 수업운영 안내 (2022.4.1 업데이트, 기존과 동일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193409&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-04-01)
 
+* **[[공지] [학부]전자출결시스템 사용 매뉴얼 (전자출석부 사용법)(3/31 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192571&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-15)
+
 * **[[공지] [교무팀] 2022-1학기 코로나19 확산에 따른 출석인정 안내(백신공결)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180913&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-16)
 
