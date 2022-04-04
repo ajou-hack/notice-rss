@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022 벚꽃축제 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193548&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2022-04-04)
+
 * **[제81회 한국어능력시험(TOPIK) 시행에 따른 성호관 출입 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193539&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 국제교육센터운영팀 (~2022-04-04)
 
@@ -104,6 +107,3 @@
 
 * **[[연구] KIURI Bio-AI Center 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193323&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - KIURI 연구단 (~2022-03-30)
-
-* **[[대학일자리플러스센터][루이비통코리아] 2022 Leadership Program 채용 및 메타버스 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193320&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-03-30)
