@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[20대 여성을 위한 심리지원 프로그램(집단상담)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193568&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생상담소 (~2022-04-05)
+
+* **[[긴급] 코로나19 교내 확신자 심층역학조사 오류 해결 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193567&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-04-05)
+
 * **[[대학일자리플러스센터] 2022 언론중재위원회 온라인 채용설명회(4/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193565&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-05)
 
@@ -101,9 +107,3 @@
 
 * **[[대학일자리플러스센터] 금주의 추천채용_세종공업/디토닉/ALS](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193370&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-03-31)
-
-* **[[국가근로][교사대생등대학생튜터링] 3월 국가근로/교사대생등대학생튜터링장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 3/31 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193369&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-03-31)
-
-* **[[공학교육혁신센터] &quot;에이치앤파워&quot;의 온라인 채용설명회 홍보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193361&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2022-03-31)
