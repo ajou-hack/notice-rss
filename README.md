@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] (미취업 졸업생을 위한) 네오챌린지플러스 4기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=194023&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-04-05)
+
+* **[[수원시] 코로나19 세이프티맵 실증단 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=194022&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2022-04-05)
+
 * **[[한국장학재단] 2022년 국가우수장학금(이공계) 신규장학생 대학추천 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=194021&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-04-05)
 
@@ -101,9 +107,3 @@
 
 * **[[봉사활동] (한국과학창의재단) 2022년 1학기「함성소리: 꿈의 울림」및「짝꿍」참여 대학생 동아리 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193403&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-04-01)
-
-* **[2022학년도 교내 예방접종 시행 &lt;2022 Vaccination Schedule and Information&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193400&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 보건진료소 (~2022-04-01)
-
-* **[장건강의 날 시행](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193397&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 보건진료소 (~2022-04-01)
