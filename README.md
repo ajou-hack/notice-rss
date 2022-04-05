@@ -18,6 +18,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022년 민방위 사이버교육 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193558&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 직장민방위대 (~2022-04-05)
+
+* **[황창규 전 KT회장 특강(CU상품권 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193557&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2022-04-05)
+
+* **[[대학일자리플러스센터] 휴학생 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193556&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-04-05)
+
 * **[교내 코로나19 유증상자 및 밀접접촉자 대상 자가검사키트 배부 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193553&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-04-05)
 
@@ -98,12 +107,3 @@
 
 * **[[학습법] 2022-1학기 학습공동체 선정 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193360&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-03-31)
-
-* **[2022년 전공기부단 9기 모집(~4/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193348&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 입학팀 (~2022-03-31)
-
-* **[[장학] 태광그룹 일주재단 해외박사 장학생 선발](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193347&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-03-31)
-
-* **[[장학] 2022년 서울 우수인재 장학 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193345&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-03-31)
