@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[재공지] 2022년 전공기부단 9기 모집(~4/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=195402&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 입학팀 (~2022-04-06)
+
 * **[[학군단]22년도 학군사관 후보생(ROTC)63,64기 지원일정변경 안내(지원서 접수 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=194036&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학군단 (~2022-04-06)
 
@@ -104,6 +107,3 @@
 
 * **[[중앙도서관]7급 공무원 강좌 확대 기념 에듀윌 이벤트!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193418&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-04-01)
-
-* **[[학생지원팀] 학생자치공간 출입 권한 등록 절차 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193413&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 학생지원팀 (~2022-04-01)
