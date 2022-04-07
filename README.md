@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[축구 응원도 하고, 아이패드도 받고] 4월8일 금요일 오후 3시, 운동장](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=195943&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2022-04-07)
+
 * **[[학부_재공지]2022-1학기 수업피드백 참여 안내(~4/12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=195915&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교수학습개발센터 (~2022-04-07)
 
@@ -103,7 +106,4 @@
  [기타] - 입학팀 (~2022-04-01)
 
 * **[[학습법] 2022-1학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193436&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-04-01)
-
-* **[[학습법] 2022-1학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193435&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-04-01)
