@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 금주의 추천채용_하림산업/키엔스코리아/IDS&amp;TRUST](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196240&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-04-07)
+
+* **[[중앙도서관] 열람실 시험기간 확대 운영 안내(4/11~4/22)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196239&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-04-07)
+
 * **[[축구 응원도 하고, 아이패드도 받고] 4월8일 금요일 오후 3시, 운동장](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=195943&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2022-04-07)
 
@@ -101,9 +107,3 @@
 
 * **[[중앙도서관]4월 이용 교육 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193447&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-04-01)
-
-* **[[입학팀] 입학홍보대사 G.A.i.A. 19기 모집 (수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193438&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 입학팀 (~2022-04-01)
-
-* **[[학습법] 2022-1학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193436&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-04-01)
