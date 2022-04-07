@@ -18,6 +18,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학부_재공지]2022-1학기 수업피드백 참여 안내(~4/12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=195915&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교수학습개발센터 (~2022-04-07)
+
+* **[보조 연구원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=195912&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 경영대학 (~2022-04-07)
+
+* **[[중앙도서관] 메타버스 도서관 만족도 조사 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=195910&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-04-07)
+
 * **[[재공지] 2022년 전공기부단 9기 모집(~4/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=195402&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학팀 (~2022-04-06)
 
@@ -98,12 +107,3 @@
 
 * **[[학습법] 2022-1학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193435&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-04-01)
-
-* **[[대학일자리플러스센터] 4월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193423&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-04-01)
-
-* **[혁신공유라운지(율곡관B104) 회의실 예약 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193422&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 혁신공유단 (~2022-04-01)
-
-* **[[중앙도서관]7급 공무원 강좌 확대 기념 에듀윌 이벤트!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193418&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-04-01)
