@@ -1,7 +1,7 @@
 # 최근 공지사항
 
-* **[[공지] [학부]2022-1학기 수업운영 안내 (2022.4.1 업데이트, 기존과 동일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193409&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-04-01)
+* **[[공지] [학부]2022-1학기 수업운영 안내 (2022.4.8 업데이트, 기존과 동일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196266&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-04-08)
 
 * **[[공지] [학부]전자출결시스템 사용 매뉴얼 (전자출석부 사용법)(3/31 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192571&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-15)
@@ -18,14 +18,14 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[메이커스페이스] 운영일자 변경안내 (2022.04.11-04.29)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196283&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-04-08)
+
 * **[[한국장학재단] 2022년 푸른등대 삼성기부장학금 신규장학생 선발안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196279&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-04-08)
 
 * **[대학일자리플러스센터 뉴스레터 제 42호(2022.04월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196275&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-08)
-
-* **[[학부]2022-1학기 수업운영 안내 (2022.4.8 업데이트, 기존과 동일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196266&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-04-08)
 
 * **[[대학일자리플러스센터] 4월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196264&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-08)
