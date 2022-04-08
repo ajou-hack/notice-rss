@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[한국장학재단] 2022년 푸른등대 삼성기부장학금 신규장학생 선발안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196279&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-04-08)
+
 * **[대학일자리플러스센터 뉴스레터 제 42호(2022.04월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196275&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-08)
 
@@ -104,6 +107,3 @@
 
 * **[[학자금대출] 2022학년도 1학기 구제등록기간 한국장학재단 등록금대출 실행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193519&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-04-04)
-
-* **[[국제교류팀] 22-하계 2차 해외단기파견 모집 (~4.8.(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193513&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2022-04-04)
