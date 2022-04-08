@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학부]2022-1학기 수업운영 안내 (2022.4.8 업데이트, 기존과 동일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196266&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-04-08)
+
+* **[[대학일자리플러스센터] 4월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196264&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-04-08)
+
 * **[2022-1학기 중간고사 대면시험 응시자의 원격시험을 위한 PC실(강의실) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196246&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-04-08)
 
@@ -101,9 +107,3 @@
 
 * **[[Remind][학부] 포탈/학생증 사진변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193511&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-04-04)
-
-* **[[Remind][학부]2022-1학기 휴학, 복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193510&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-04-04)
-
-* **[[무료교육/수당지급] 인공지능(스마트공장) 전문인력양성 교육생모집(최종모집)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193471&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2022-04-01)
