@@ -18,6 +18,18 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 2022 상반기 글로벌일자리대전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196338&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-04-11)
+
+* **[☆대학교육혁신원 서포터즈 1기 모집☆](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196337&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2022-04-11)
+
+* **[[대학일자리플러스센터] 일본 우수 구인기업 채용설명회 Season2 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196336&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-04-11)
+
+* **[[학부] 2022-1학기 미등록자 대상 추가 구제등록 안내(04.13.~04.14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196334&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-04-11)
+
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196332&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-04-11)
 
@@ -95,15 +107,3 @@
 
 * **[♥2022년 장애인식개선 캠페인(4.6~4.7)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=194027&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 장애학생지원실 (~2022-04-05)
-
-* **[[수원도시재단] 메타버스와 메이커 교육 참가자 모집 (~4/11)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=194025&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-04-05)
-
-* **[[대학일자리플러스센터] (미취업 졸업생을 위한) 네오챌린지플러스 4기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=194023&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-04-05)
-
-* **[[수원시] 코로나19 세이프티맵 실증단 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=194022&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2022-04-05)
-
-* **[[한국장학재단] 2022년 국가우수장학금(이공계) 신규장학생 대학추천 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=194021&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-04-05)
