@@ -18,6 +18,18 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[중앙도서관 휴관 안내(4/12 개교기념일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196298&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 중앙도서관 학술정보팀 (~2022-04-11)
+
+* **[코로나극복장학(바르게장학)신청_2022.04.25.(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196297&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-04-11)
+
+* **[동해안 산불 피해 지원(바르게장학)신청_2022.04.25.(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196296&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-04-11)
+
+* **[[십시일밥] 2022학년도 1학기 십시일밥 수혜자 및 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196295&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-04-11)
+
 * **[[대학일자리플러스센터] 청년친화형 기업 ESG지원사업 프로그램 소개](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196289&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-08)
 
@@ -95,15 +107,3 @@
 
 * **[[대학일자리플러스센터] 휴학생 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193556&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-05)
-
-* **[교내 코로나19 유증상자 및 밀접접촉자 대상 자가검사키트 배부 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193553&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-04-05)
-
-* **[2022 벚꽃축제 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193548&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2022-04-04)
-
-* **[제81회 한국어능력시험(TOPIK) 시행에 따른 성호관 출입 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193539&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 국제교육센터운영팀 (~2022-04-04)
-
-* **[[Remind][학부] 2022-1학기 미등록자 구제등록 안내(04.05. ~ 04.07.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193521&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-04-04)
