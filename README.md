@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[봉사활동] 용인삼계고등학교 교육봉사활동 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196314&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-04-11)
+
 * **[2022학년도 1학기 사회봉사장학 최종 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196306&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 사회봉사센터 (~2022-04-11)
 
@@ -104,6 +107,3 @@
 
 * **[[대학일자리플러스센터] 2022 언론중재위원회 온라인 채용설명회(4/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193565&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-05)
-
-* **[2022년 민방위 사이버교육 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193558&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 직장민방위대 (~2022-04-05)
