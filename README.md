@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196332&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-04-11)
+
+* **[[대학일자리플러스센터] 2022년 취업성공 후기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196330&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-04-11)
+
 * **[[메이커스페이스] 휴관 안내(4/12 개교기념일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196323&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-04-11)
 
@@ -101,9 +107,3 @@
 
 * **[[한국장학재단] 2022년 국가우수장학금(이공계) 신규장학생 대학추천 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=194021&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-04-05)
-
-* **[20대 여성을 위한 심리지원 프로그램(집단상담)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193568&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생상담소 (~2022-04-05)
-
-* **[[긴급] 코로나19 교내 확진자 심층역학조사 오류 해결 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193567&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-04-05)
