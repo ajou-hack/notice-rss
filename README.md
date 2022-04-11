@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022학년도 1학기 사회봉사장학 최종 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196306&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 사회봉사센터 (~2022-04-11)
+
+* **[[불어권협력센터] 아주대-낭트대(프랑스) 2차 문화교류 사업 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196305&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 불어권협력센터 (~2022-04-11)
+
 * **[중앙도서관 휴관 안내(4/12 개교기념일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196298&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 중앙도서관 학술정보팀 (~2022-04-11)
 
@@ -101,9 +107,3 @@
 
 * **[2022년 민방위 사이버교육 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193558&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 직장민방위대 (~2022-04-05)
-
-* **[황창규 전 KT회장 특강(CU상품권 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193557&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2022-04-05)
-
-* **[[대학일자리플러스센터] 휴학생 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=193556&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-04-05)
