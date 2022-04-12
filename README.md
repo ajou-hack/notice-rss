@@ -18,6 +18,18 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 2022 상반기 현대그린푸드 신입 LIVE 채용설명회(4/12 19시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196351&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-04-12)
+
+* **[교내 불법카메라 점검 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196350&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2022-04-12)
+
+* **[총장 레터 제1호 (#새로운 50년을 향한 아주혁신(AI: Ajou Innovation) 로드맵)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196348&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총장비서실 (~2022-04-11)
+
+* **[[기획팀]규정류 개정 공포(2022학년도 제1차 교무회의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196341&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2022-04-11)
+
 * **[[대학일자리플러스센터] 2022 상반기 글로벌일자리대전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196338&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-11)
 
@@ -95,15 +107,3 @@
 
 * **[보조 연구원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=195912&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 경영대학 (~2022-04-07)
-
-* **[[중앙도서관] 메타버스 도서관 만족도 조사 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=195910&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-04-07)
-
-* **[[재공지] 2022년 전공기부단 9기 모집(~4/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=195402&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 입학팀 (~2022-04-06)
-
-* **[[학군단]22년도 학군사관 후보생(ROTC)63,64기 지원일정변경 안내(지원서 접수 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=194036&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학군단 (~2022-04-06)
-
-* **[♥2022년 장애인식개선 캠페인(4.6~4.7)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=194027&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 장애학생지원실 (~2022-04-05)
