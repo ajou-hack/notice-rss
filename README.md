@@ -18,6 +18,18 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022년 경기도 학자금대출 장기연체자 신용회복 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196375&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-04-13)
+
+* **[2022년 상반기 청년 매입임대 예비입주자 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196374&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-04-13)
+
+* **[[봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196364&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-04-13)
+
+* **[[학자금대출] 2022학년도 1학기 추가 구제등록기간 한국장학재단 등록금대출 실행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196362&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-04-13)
+
 * **[[대학일자리플러스센터] 2022 상반기 현대그린푸드 신입 LIVE 채용설명회(4/12 19시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196351&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-12)
 
@@ -95,15 +107,3 @@
 
 * **[[대학일자리플러스센터] 금주의 추천채용_하림산업/키엔스코리아/IDS&amp;TRUST](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196240&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-07)
-
-* **[[중앙도서관] 열람실 시험기간 확대 운영 안내(4/11~4/22)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196239&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-04-07)
-
-* **[[축구 응원도 하고, 아이패드도 받고] 4월8일 금요일 오후 3시, 운동장](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=195943&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2022-04-07)
-
-* **[[학부_재공지]2022-1학기 수업피드백 참여 안내(~4/12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=195915&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교수학습개발센터 (~2022-04-07)
-
-* **[보조 연구원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=195912&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 경영대학 (~2022-04-07)
