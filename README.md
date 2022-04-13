@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[중앙도서관] 22학년도 1학기 전자책 신청 및 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196420&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-04-13)
+
 * **[[Remind][학부] 2022-1학기 미등록자 대상 추가 구제등록 안내(04.13.~04.14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196393&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-04-13)
 
@@ -104,6 +107,3 @@
 
 * **[2022-1학기 중간고사 대면시험 응시자의 원격시험을 위한 PC실(강의실) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196246&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-04-08)
-
-* **[2022-2학기 파란학기제 교수제안 프로그램 공모(~5/9)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196244&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2022-04-08)
