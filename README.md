@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학부] 전공(복수,부,연계,심화전공) 신청 및 취소 기간 안내 (05.02.~05.27.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196437&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-04-13)
+
 * **[[중앙도서관] 22학년도 1학기 전자책 신청 및 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196420&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-04-13)
 
@@ -104,6 +107,3 @@
 
 * **[[대학일자리플러스센터] 4월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196264&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-08)
-
-* **[2022-1학기 중간고사 대면시험 응시자의 원격시험을 위한 PC실(강의실) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196246&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-04-08)
