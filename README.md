@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022-1학기 중간고사 대면시험 응시자의 원격시험을 위한 PC실(강의실) 안내(4/14업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196503&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-04-14)
+
+* **[[대학원 인공지능학과] 2022학년도 후기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196492&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 소프트웨어융합대학 교학팀 (~2022-04-14)
+
 * **[[학습법] 2022-1학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196472&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-04-14)
 
@@ -101,9 +107,3 @@
 
 * **[[대학일자리플러스센터] 2022년 취업성공 후기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196330&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-11)
-
-* **[[메이커스페이스] 휴관 안내(4/12 개교기념일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196323&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-04-11)
-
-* **[[봉사활동] 용인삼계고등학교 교육봉사활동 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196314&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-04-11)
