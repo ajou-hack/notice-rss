@@ -18,6 +18,18 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 2022-1학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196472&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-04-14)
+
+* **[[학습법] 2022-1학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196471&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-04-14)
+
+* **[(학사과정)2022-하계 계절학기 국내대학 학점교류 신청 안내(22.04.14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196469&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-04-14)
+
+* **[[대학원 AI융합네트워크학과] 2022학년도 후기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196467&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 소프트웨어융합대학교학팀 (~2022-04-14)
+
 * **[[총무팀] 정기 해충방역 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196459&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-04-14)
 
@@ -95,15 +107,3 @@
 
 * **[[봉사활동] 용인삼계고등학교 교육봉사활동 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196314&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-04-11)
-
-* **[2022학년도 1학기 사회봉사장학 최종 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196306&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 사회봉사센터 (~2022-04-11)
-
-* **[[불어권협력센터] 아주대-낭트대(프랑스) 2차 문화교류 사업 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196305&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 불어권협력센터 (~2022-04-11)
-
-* **[중앙도서관 휴관 안내(4/12 개교기념일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196298&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 중앙도서관 학술정보팀 (~2022-04-11)
-
-* **[코로나극복장학(바르게장학)신청_2022.04.25.(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196297&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-04-11)
