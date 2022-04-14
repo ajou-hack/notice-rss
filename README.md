@@ -18,6 +18,27 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[총무팀] 정기 해충방역 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196459&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-04-14)
+
+* **[[총무팀] 혁신공유라운지 보안 공사로 인한 운영 일시중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196457&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-04-14)
+
+* **[[혁신공유대학사업] 혁신공유단 서포터즈 1기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196451&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신공유단 (~2022-04-14)
+
+* **[[자연대] 2022-1학기 생명과학 BSM 과목 중간고사 대학원생 부감독 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196446&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 자연과학대학교학팀 (~2022-04-13)
+
+* **[[자연대] 2022-1학기 화학 BSM 과목 중간고사 대학원생 부감독 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196445&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 자연과학대학교학팀 (~2022-04-13)
+
+* **[[대학일자리플러스센터] 공인어학성적 제출 안내 (재안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196444&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-04-13)
+
+* **[[자연대] 2022-1학기 수학 BSM 과목 중간고사 대학원생 부감독 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196443&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 자연과학대학교학팀 (~2022-04-13)
+
 * **[[학부] 전공(복수,부,연계,심화전공) 신청 및 취소 기간 안내 (05.02.~05.27.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196437&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-04-13)
 
@@ -86,24 +107,3 @@
 
 * **[코로나극복장학(바르게장학)신청_2022.04.25.(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196297&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-04-11)
-
-* **[동해안 산불 피해 지원(바르게장학)신청_2022.04.25.(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196296&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-04-11)
-
-* **[[십시일밥] 2022학년도 1학기 십시일밥 수혜자 및 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196295&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-04-11)
-
-* **[[대학일자리플러스센터] 청년친화형 기업 ESG지원사업 프로그램 소개](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196289&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-04-08)
-
-* **[[메이커스페이스] 운영일자 변경안내 (2022.04.11-04.29)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196283&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-04-08)
-
-* **[[한국장학재단] 2022년 푸른등대 삼성기부장학금 신규장학생 선발안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196279&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-04-08)
-
-* **[대학일자리플러스센터 뉴스레터 제 42호(2022.04월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196275&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-04-08)
-
-* **[[대학일자리플러스센터] 4월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196264&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-04-08)
