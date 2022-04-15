@@ -18,6 +18,18 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 2022-1학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196538&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-04-15)
+
+* **[[학부]2022-1학기 수업운영 안내 (2022.4.15 업데이트, 기존과 동일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196532&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-04-15)
+
+* **[[대학원 분자과학기술학과] 2022학년도 후기 입시 일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196520&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 분자과학기술학과 (~2022-04-15)
+
+* **[(링크 수정)[대학사료실] 아주대학교 대학역사관 뉴스레터 Vol. 08](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196519&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-04-15)
+
 * **[[장학] 2022년 &lt;서울희망대학장학금&gt; 장학생 선발 공고(4.29~5.11. 17:00까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196513&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-04-14)
 
@@ -75,9 +87,6 @@
 * **[[중앙도서관] 22학년도 1학기 전자책 신청 및 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196420&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-04-13)
 
-* **[(링크 수정)[대학사료실] 아주대학교 대학역사관 뉴스레터 Vol. 08](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196410&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-04-13)
-
 * **[[Remind][학부] 2022-1학기 미등록자 대상 추가 구제등록 안내(04.13.~04.14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196393&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-04-13)
 
@@ -98,12 +107,3 @@
 
 * **[교내 불법카메라 점검 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196350&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2022-04-12)
-
-* **[총장 레터 제1호 (#새로운 50년을 향한 아주혁신(AI: Ajou Innovation) 로드맵)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196348&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총장비서실 (~2022-04-11)
-
-* **[[기획팀]규정류 개정 공포(2022학년도 제1차 교무회의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196341&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2022-04-11)
-
-* **[[대학일자리플러스센터] 2022 상반기 글로벌일자리대전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196338&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-04-11)
