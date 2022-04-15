@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학부] 2022-1학기 최종 구제 등록 기간 안내 (04.25.~04.27.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196561&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-04-15)
+
+* **[☆4/18마감☆!서포터즈로 장학금받자!☆대학교육혁신원 서포터즈모집☆](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196560&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2022-04-15)
+
 * **[[대학일자리플러스센터] 4월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196554&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-15)
 
@@ -101,9 +107,3 @@
 
 * **[[봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196364&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-04-13)
-
-* **[[학자금대출] 2022학년도 1학기 추가 구제등록기간 한국장학재단 등록금대출 실행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196362&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-04-13)
-
-* **[[대학일자리플러스센터] 2022 상반기 현대그린푸드 신입 LIVE 채용설명회(4/12 19시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196351&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-04-12)
