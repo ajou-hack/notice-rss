@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 앰코테크놀로지코리아 학교 추천 전형 (지원자 전원 교내 면접 진행)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196570&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-04-15)
+
+* **[[입학팀] 입학홍보대사 G.A.i.A. 19기 합격자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196569&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 입학팀 (~2022-04-15)
+
 * **[[대학일자리플러스센터] 2022 창업진흥원 신규직원 및 청년인턴 온라인 채용설명회(4/20, 14~15시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196562&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-15)
 
@@ -101,9 +107,3 @@
 
 * **[[Remind][학부] 2022-1학기 미등록자 대상 추가 구제등록 안내(04.13.~04.14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196393&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-04-13)
-
-* **[2022년 경기도 학자금대출 장기연체자 신용회복 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196375&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-04-13)
-
-* **[2022년 상반기 청년 매입임대 예비입주자 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196374&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-04-13)
