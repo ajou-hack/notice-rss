@@ -1,7 +1,7 @@
 # 최근 공지사항
 
-* **[[공지] [학부]2022-1학기 수업운영 안내 (2022.4.8 업데이트, 기존과 동일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196266&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-04-08)
+* **[[공지] [학부]2022-1학기 수업운영 안내 (2022.4.15 업데이트, 기존과 동일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196532&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-04-15)
 
 * **[[공지] [학부]전자출결시스템 사용 매뉴얼 (전자출석부 사용법)(3/31 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192571&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-15)
@@ -18,11 +18,14 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 4월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196554&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-04-15)
+
+* **[[봉사활동] (수원시청소년재단) 칠보청소년 방과후아카데미 대학생 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196551&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-04-15)
+
 * **[[학습법] 2022-1학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196538&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-04-15)
-
-* **[[학부]2022-1학기 수업운영 안내 (2022.4.15 업데이트, 기존과 동일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196532&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-04-15)
 
 * **[[대학원 분자과학기술학과] 2022학년도 후기 입시 일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196520&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 분자과학기술학과 (~2022-04-15)
@@ -104,6 +107,3 @@
 
 * **[[대학일자리플러스센터] 2022 상반기 현대그린푸드 신입 LIVE 채용설명회(4/12 19시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196351&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-12)
-
-* **[교내 불법카메라 점검 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196350&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2022-04-12)
