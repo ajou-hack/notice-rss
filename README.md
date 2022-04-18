@@ -18,6 +18,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[장학] 제 27기 미래에셋 교환장학생 선발안내(2022년 가을학기 파견)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196646&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-04-18)
+
+* **[율곡관 혁신공유라운지 사용불가 안내(4/29(금) 13:00~21:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196645&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원운영팀 (~2022-04-18)
+
+* **[[교육대학원] 2022 후기(정시) 석사과정(야간) 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196642&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 교육대학원 (~2022-04-18)
+
 * **[[재공지] 동해안 산불 피해 지원(바르게장학)신청_2022.04.25.(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196640&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-04-18)
 
@@ -98,12 +107,3 @@
 
 * **[[대학일자리플러스센터] 금주의 추천채용_앰코테크놀로지코리아/코코넛뮤직/디케이씨](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196510&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-14)
-
-* **[[대학일자리플러스센터] 2022 GS리테일 온라인 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196509&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-04-14)
-
-* **[2022-1학기 중간고사 대면시험 응시자의 원격시험을 위한 PC실(강의실) 안내(4/14업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196503&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-04-14)
-
-* **[[대학원 인공지능학과] 2022학년도 후기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196492&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 소프트웨어융합대학 교학팀 (~2022-04-14)
