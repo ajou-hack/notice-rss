@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[재공지] 동해안 산불 피해 지원(바르게장학)신청_2022.04.25.(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196640&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-04-18)
+
+* **[[재공지] 코로나극복장학(바르게장학)신청_2022.04.25.(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196639&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-04-18)
+
 * **[2022년 아주 희망 학UP 멘토링 멘티 모집(~4/27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196618&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학팀 (~2022-04-18)
 
@@ -101,9 +107,3 @@
 
 * **[[대학원 인공지능학과] 2022학년도 후기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196492&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 소프트웨어융합대학 교학팀 (~2022-04-14)
-
-* **[[학습법] 2022-1학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196472&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-04-14)
-
-* **[[학습법] 2022-1학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196471&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-04-14)
