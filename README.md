@@ -18,6 +18,21 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[★혁신공유단 서포터즈 1기 모집 (4/22마감)★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196608&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신공유단 (~2022-04-18)
+
+* **[2022-1학기 중간고사 부정행위 방지 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196606&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-04-18)
+
+* **[[장학] 2022 온드림 미래산업 인재 장학생 선발](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196601&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-04-18)
+
+* **[2022 하계 현장실습 운영일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196599&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2022-04-18)
+
+* **[경기지역암센터 &#x27;2022 대학생 대상 암예방 홍보 디자인 공모전&#x27;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196591&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 커뮤니케이션팀 (~2022-04-18)
+
 * **[[자연대] 2022-1학기 수학 BSM 과목 중간고사 대학원생 부감독 추가 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196585&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 자연과학대학교학팀 (~2022-04-18)
 
@@ -92,18 +107,3 @@
 
 * **[[대학원 AI융합네트워크학과] 2022학년도 후기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196467&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 소프트웨어융합대학교학팀 (~2022-04-14)
-
-* **[[총무팀] 정기 해충방역 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196459&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-04-14)
-
-* **[[총무팀] 혁신공유라운지 보안 공사로 인한 운영 일시중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196457&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-04-14)
-
-* **[[혁신공유대학사업] 혁신공유단 서포터즈 1기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196451&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 혁신공유단 (~2022-04-14)
-
-* **[[자연대] 2022-1학기 생명과학 BSM 과목 중간고사 대학원생 부감독 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196446&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 자연과학대학교학팀 (~2022-04-13)
-
-* **[[자연대] 2022-1학기 화학 BSM 과목 중간고사 대학원생 부감독 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196445&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 자연과학대학교학팀 (~2022-04-13)
