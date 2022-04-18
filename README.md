@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022년 아주 희망 학UP 멘토링 멘티 모집(~4/27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196618&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 입학팀 (~2022-04-18)
+
+* **[2022년 아주 희망 글쓰기 강좌 멘티 모집(~4/27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196617&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 입학팀 (~2022-04-18)
+
 * **[★혁신공유단 서포터즈 1기 모집 (4/22마감)★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196608&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신공유단 (~2022-04-18)
 
@@ -101,9 +107,3 @@
 
 * **[[학습법] 2022-1학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196471&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-04-14)
-
-* **[(학사과정)2022-하계 계절학기 국내대학 학점교류 신청 안내(22.04.14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196469&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-04-14)
-
-* **[[대학원 AI융합네트워크학과] 2022학년도 후기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196467&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 소프트웨어융합대학교학팀 (~2022-04-14)
