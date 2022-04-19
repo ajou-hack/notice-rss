@@ -18,6 +18,18 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[변전실 동측(일신관-다산관 사이) 가설주차장 개방 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196658&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-04-19)
+
+* **[[홍보] 극지연구소 대학생기자단 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196656&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 커뮤니케이션팀 (~2022-04-19)
+
+* **[[공학교육혁신센터] 한국건설기계산업협회 해외 마케팅 채용 공고 안내(~4/25 월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196655&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2022-04-19)
+
+* **[[현장실습지원센터] 재학생 대상 2022 하계 현장실습 수요조사(~5/4까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196653&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2022-04-19)
+
 * **[[장학] 제 27기 미래에셋 교환장학생 선발안내(2022년 가을학기 파견)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196646&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-04-18)
 
@@ -48,7 +60,7 @@
 * **[[장학] 2022 온드림 미래산업 인재 장학생 선발](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196601&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-04-18)
 
-* **[2022 하계 현장실습 운영일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196599&amp;article.offset=0&amp;articleLimit=30)**
+* **[[현장실습지원센터] 2022 하계 현장실습 운영일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196599&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-04-18)
 
 * **[경기지역암센터 &#x27;2022 대학생 대상 암예방 홍보 디자인 공모전&#x27;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196591&amp;article.offset=0&amp;articleLimit=30)**
@@ -95,15 +107,3 @@
 
 * **[[대학원 분자과학기술학과] 2022학년도 후기 입시 일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196520&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 분자과학기술학과 (~2022-04-15)
-
-* **[(링크 수정)[대학사료실] 아주대학교 대학역사관 뉴스레터 Vol. 08](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196519&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-04-15)
-
-* **[[장학] 2022년 &lt;서울희망대학장학금&gt; 장학생 선발 공고(4.29~5.11. 17:00까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196513&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-04-14)
-
-* **[[봉사활동] 다문화가정 자녀 및 한부모가정 자녀 대상 방과후교실 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196511&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-04-14)
-
-* **[[대학일자리플러스센터] 금주의 추천채용_앰코테크놀로지코리아/코코넛뮤직/디케이씨](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196510&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-04-14)
