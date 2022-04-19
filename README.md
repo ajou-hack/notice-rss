@@ -18,6 +18,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[아주대학교 총동문회] 홍보관 네이밍 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196672&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학발전팀 (~2022-04-19)
+
+* **[[대학일자리플러스센터] 채용공고분석 특강(1회)_4/25(월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196671&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-04-19)
+
+* **[[대학일자리센터] AI면접특강_4/28(목) 19:00~21:00](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196666&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-04-19)
+
 * **[변전실 동측(일신관-다산관 사이) 가설주차장 개방 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196658&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-04-19)
 
@@ -98,12 +107,3 @@
 
 * **[[대학일자리플러스센터] 4월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196554&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-15)
-
-* **[[봉사활동] (수원시청소년재단) 칠보청소년 방과후아카데미 대학생 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196551&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-04-15)
-
-* **[[학습법] 2022-1학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196538&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-04-15)
-
-* **[[대학원 분자과학기술학과] 2022학년도 후기 입시 일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196520&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 분자과학기술학과 (~2022-04-15)
