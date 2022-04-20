@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[총무팀] 교내 건물 출입문 전면 개방 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196721&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-04-20)
+
 * **[성수기 주말 인조잔디구장(운동장) 예약방식 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196718&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 학생지원팀 (~2022-04-20)
 
@@ -104,6 +107,3 @@
 
 * **[나라키움 대학생주택 2022학년 1학기 입주자 추가 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196582&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-04-18)
-
-* **[[대학일자리플러스센터] 2022년 해외취업 설명회 사전 수요조사 설문조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196581&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-04-18)
