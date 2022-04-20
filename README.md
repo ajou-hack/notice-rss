@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 2022 기아자동차 재직선배와 함께하는 [선배만남의 날] 운영](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196710&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-04-20)
+
+* **[장애학생지원실 홈페이지 오픈](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196708&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2022-04-20)
+
 * **[[국비교육/수당지급] 스마트공장(PLC자동제어) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196702&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-04-19)
 
@@ -101,9 +107,3 @@
 
 * **[[대학일자리플러스센터] 아시나요? 1편_컨설턴트 1:1 상담 소개](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196571&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-15)
-
-* **[[대학일자리플러스센터] 앰코테크놀로지코리아 학교 추천 전형 (지원자 전원 교내 면접 진행)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196570&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-04-15)
-
-* **[[입학팀] 입학홍보대사 G.A.i.A. 19기 합격자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196569&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 입학팀 (~2022-04-15)
