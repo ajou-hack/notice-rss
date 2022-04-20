@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[교내 전체 정전 안내(5월 22일 일요일)/1차공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196737&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2022-04-20)
+
 * **[[총무팀] 교내 건물 출입문 전면 개방 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196721&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-04-20)
 
@@ -27,7 +30,7 @@
 * **[장애학생지원실 홈페이지 오픈](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196713&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2022-04-20)
 
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196712&amp;article.offset=0&amp;articleLimit=30)**
+* **[아르바이트 공고 - 모집완료](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196712&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-04-20)
 
 * **[[대학일자리플러스센터] 2022 기아자동차 재직선배와 함께하는 [선배만남의 날] 운영](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196710&amp;article.offset=0&amp;articleLimit=30)**
@@ -104,6 +107,3 @@
 
 * **[[자연대] 2022-1학기 수학 BSM 과목 중간고사 대학원생 부감독 추가 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196585&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 자연과학대학교학팀 (~2022-04-18)
-
-* **[나라키움 대학생주택 2022학년 1학기 입주자 추가 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196582&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-04-18)
