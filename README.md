@@ -18,11 +18,17 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[성수기 주말 인조잔디구장(운동장) 예약방식 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196718&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 학생지원팀 (~2022-04-20)
+
+* **[장애학생지원실 홈페이지 오픈](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196713&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2022-04-20)
+
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196712&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-04-20)
+
 * **[[대학일자리플러스센터] 2022 기아자동차 재직선배와 함께하는 [선배만남의 날] 운영](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196710&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-20)
-
-* **[장애학생지원실 홈페이지 오픈](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196708&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2022-04-20)
 
 * **[[국비교육/수당지급] 스마트공장(PLC자동제어) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196702&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-04-19)
@@ -101,9 +107,3 @@
 
 * **[[대학일자리플러스센터] 2022년 해외취업 설명회 사전 수요조사 설문조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196581&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-18)
-
-* **[[국비무료교육/수당지급] 스마트공장(PLC자동제어) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196574&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2022-04-16)
-
-* **[[대학일자리플러스센터] 아시나요? 1편_컨설턴트 1:1 상담 소개](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196571&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-04-15)
