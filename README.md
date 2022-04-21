@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[반도체 소자 제작 공정 전문인력양성 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196750&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2022-04-21)
+
 * **[교내 전체 정전 안내(5월 22일 일요일)/1차공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196737&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2022-04-20)
 
@@ -104,6 +107,3 @@
 
 * **[경기지역암센터 &#x27;2022 대학생 대상 암예방 홍보 디자인 공모전&#x27;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196591&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 커뮤니케이션팀 (~2022-04-18)
-
-* **[[자연대] 2022-1학기 수학 BSM 과목 중간고사 대학원생 부감독 추가 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196585&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 자연과학대학교학팀 (~2022-04-18)
