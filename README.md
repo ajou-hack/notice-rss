@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[과학영재교육원] 2022학년도 1학기 행정조교 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196755&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 과학영재교육원 (~2022-04-21)
+
 * **[반도체 소자 제작 공정 전문인력양성 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196750&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-04-21)
 
@@ -104,6 +107,3 @@
 
 * **[[현장실습지원센터] 2022 하계 현장실습 운영일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196599&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-04-18)
-
-* **[경기지역암센터 &#x27;2022 대학생 대상 암예방 홍보 디자인 공모전&#x27;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196591&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 커뮤니케이션팀 (~2022-04-18)
