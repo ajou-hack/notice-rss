@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 월간자소서 5월호(기초 입사지원서 작성법 특강 및 컨설팅)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196831&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-04-22)
+
 * **[(학사과정)2022-하계 계절학기 국내대학 학점교류 신청 안내(22.04.22.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196826&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-04-22)
 
@@ -104,6 +107,3 @@
 
 * **[[교육대학원] 2022 후기(정시) 석사과정(야간) 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196642&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 교육대학원 (~2022-04-18)
-
-* **[[재공지] 동해안 산불 피해 지원(바르게장학)신청_2022.04.25.(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196640&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-04-18)
