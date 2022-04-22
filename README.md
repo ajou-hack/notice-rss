@@ -18,6 +18,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 4월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196807&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-04-22)
+
+* **[[2022 하반기] 대웅그룹 채용연계형 인턴십 학생 모집 (~5/1까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196805&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2022-04-22)
+
+* **[아경장학 장학증서 수여식 및 이사장 이•취임식 개최 안내_4.25(월) 16:30 다산관강당](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196804&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-04-22)
+
 * **[[대학일자리플러스센터] 금주의 추천채용_메가존클라우드/에이디테크놀로지/LIG넥스원](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196792&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-21)
 
@@ -98,12 +107,3 @@
 
 * **[2022년 아주 희망 학UP 멘토링 멘티 모집(~4/27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196618&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학팀 (~2022-04-18)
-
-* **[2022년 아주 희망 글쓰기 강좌 멘티 모집(~4/27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196617&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 입학팀 (~2022-04-18)
-
-* **[★혁신공유단 서포터즈 1기 모집 (4/22마감)★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196608&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 혁신공유단 (~2022-04-18)
-
-* **[2022-1학기 중간고사 부정행위 방지 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196606&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-04-18)
