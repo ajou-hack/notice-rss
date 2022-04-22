@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022학년도 1학기 파란학기제 중간교류회 이벤트 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196845&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2022-04-22)
+
 * **[한국오므론&amp;아주대학교 2차전지 현장맞춤식 특화교육 안내 [국비교육, 수당30만원]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196839&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-04-22)
 
@@ -104,6 +107,3 @@
 
 * **[[장학] 제 27기 미래에셋 교환장학생 선발안내(2022년 가을학기 파견)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196646&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-04-18)
-
-* **[율곡관 혁신공유라운지 사용불가 안내(4/29(금) 13:00~21:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196645&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원운영팀 (~2022-04-18)
