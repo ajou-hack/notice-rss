@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 아시나요? 2편_취업성공 후기 소개](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196847&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-04-22)
+
 * **[2022학년도 1학기 파란학기제 중간교류회 이벤트 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196845&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2022-04-22)
 
@@ -104,6 +107,3 @@
 
 * **[[현장실습지원센터] 재학생 대상 2022 하계 현장실습 수요조사(~5/4까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196653&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-04-19)
-
-* **[[장학] 제 27기 미래에셋 교환장학생 선발안내(2022년 가을학기 파견)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196646&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-04-18)
