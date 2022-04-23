@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[장학] 2022년 독립유공자 후손 장학금 선발공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196849&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-04-23)
+
 * **[[대학일자리플러스센터] 아시나요? 2편_취업성공 후기 소개](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196847&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-22)
 
@@ -104,6 +107,3 @@
 
 * **[[공학교육혁신센터] 한국건설기계산업협회 해외 마케팅 채용 공고 안내(~4/25 월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196655&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2022-04-19)
-
-* **[[현장실습지원센터] 재학생 대상 2022 하계 현장실습 수요조사(~5/4까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196653&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-04-19)
