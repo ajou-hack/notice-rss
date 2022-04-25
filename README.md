@@ -18,6 +18,21 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[｢2022년 수원시·아주대학교 로스쿨 법률사무원 인력양성 지원사업」훈련생 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196882&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 지역상생센터 (~2022-04-25)
+
+* **[[홍보] 2022년 한양대학교 창업중심대학 창업사업화지원 창업기업 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196881&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-04-25)
+
+* **[[대학일자리플러스센터]대학일자리플러스센터 서비스 모아보기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196864&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-04-25)
+
+* **[(재공지)[현장실습지원센터] 재학생 대상 2022 하계 현장실습 수요조사(~5/4까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196862&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2022-04-25)
+
+* **[2022년도 수원시 청장년 자살예방프로그램 &#x27;비밀의 정원&#x27;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196861&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생상담소 (~2022-04-25)
+
 * **[[대학일자리플러스센터] 2022 한국가스기술공사 신규채용 오픈채팅 채용설명회(4/26)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196855&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-25)
 
@@ -91,19 +106,4 @@
  [기타] - 기업지원센터 (~2022-04-19)
 
 * **[[대학일자리플러스센터]2022년 아주대학교 취업통계조사 당첨자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196682&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-04-19)
-
-* **[[공학교육혁신센터] 2022학년도 1학기 학생상담 안내(2022.6.14.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196676&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 공학교육혁신센터 (~2022-04-19)
-
-* **[대학교육혁신원 서포터즈 모집 마감 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196675&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2022-04-19)
-
-* **[[아주대학교 총동문회] 홍보관 네이밍 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196672&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학발전팀 (~2022-04-19)
-
-* **[[대학일자리플러스센터] 채용공고분석 특강(1회)_4/25(월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196671&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-04-19)
-
-* **[[대학일자리센터] AI면접특강_4/28(목) 19:00~21:00](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196666&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-19)
