@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 2022 한국가스기술공사 신규채용 오픈채팅 채용설명회(4/26)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196855&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-04-25)
+
+* **[[Remind][학부] 2022-1학기 최종 구제 등록 기간 안내 (04.25.~04.27.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196854&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-04-25)
+
 * **[[장학] 2022학년도 KT랜선야학 참여 장학생 선발_2022.04.27(수) 14:00까지 접수](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196850&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-04-23)
 
@@ -101,9 +107,3 @@
 
 * **[[대학일자리센터] AI면접특강_4/28(목) 19:00~21:00](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196666&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-19)
-
-* **[변전실 동측(일신관-다산관 사이) 가설주차장 개방 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196658&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-04-19)
-
-* **[[홍보] 극지연구소 대학생기자단 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196656&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 커뮤니케이션팀 (~2022-04-19)
