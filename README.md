@@ -18,6 +18,33 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 2022-1학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196941&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-04-26)
+
+* **[[국제교류팀]에서 성실한 면학장학생을 모집합니다. (재학생, 휴학생 가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196939&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2022-04-26)
+
+* **[[현장실습지원센터] 2022 하계 현장실습 운영일정 안내(수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196938&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2022-04-26)
+
+* **[[장학] 2022년 이재운장학회 장학생 선발_4.29(금) 14:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196937&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-04-26)
+
+* **[2022년 제 46회 중국 상하이 국제 올림픽 대회 통역 봉사요원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196935&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학일자리플러스센터 (~2022-04-26)
+
+* **[[해외취업] 스스로 취업 파이터 in 일본](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196934&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-04-26)
+
+* **[[해외취업] 2022 미국 간호사 해외취업 온라인 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196933&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-04-26)
+
+* **[[해외취업] 스스로 취업 파이터 in 호주](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196932&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-04-26)
+
+* **[율곡관 혁신공유라운지 사용불가 안내(4/29(금) 13:00~21:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196927&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원운영팀 (~2022-04-26)
+
 * **[[입학처] 2023학년도 입시홍보관련 학과 및 부서 자랑거리 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196920&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학처 (~2022-04-25)
 
@@ -80,30 +107,3 @@
 
 * **[[대학일자리플러스센터] 금주의 추천채용_메가존클라우드/에이디테크놀로지/LIG넥스원](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196792&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-21)
-
-* **[중앙도서관 거리두기 해제 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196787&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 중앙도서관 학술정보팀 (~2022-04-21)
-
-* **[[과학영재교육원] 2022학년도 1학기 행정조교 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196755&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 과학영재교육원 (~2022-04-21)
-
-* **[반도체 소자 제작 공정 전문인력양성 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196750&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2022-04-21)
-
-* **[교내 전체 정전 안내(5월 22일 일요일)/1차공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196737&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2022-04-20)
-
-* **[[총무팀] 교내 건물 출입문 전면 개방 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196721&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-04-20)
-
-* **[성수기 주말 인조잔디구장(운동장) 예약방식 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196718&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 학생지원팀 (~2022-04-20)
-
-* **[장애학생지원실 홈페이지 오픈](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196713&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2022-04-20)
-
-* **[아르바이트 공고 - 모집완료](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196712&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-04-20)
-
-* **[[대학일자리플러스센터] 2022 기아자동차 재직선배와 함께하는 [선배만남의 날] 운영](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196710&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-04-20)
