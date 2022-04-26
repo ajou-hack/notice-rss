@@ -18,6 +18,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[토론학습실 운영시간 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196955&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생지원팀 (~2022-04-26)
+
+* **[학생 공간운영 계획 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196951&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2022-04-26)
+
+* **[(재공지)[불어권협력센터] 아주대학교-낭트대학교(프랑스) 2차 문화교류 사업 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196949&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 불어권협력센터 (~2022-04-26)
+
 * **[[경기도 청년 마음건강 지원사업] 마음세움 집단상담 프로그램](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196945&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생상담소 (~2022-04-26)
 
@@ -98,12 +107,3 @@
 
 * **[★4/22 16:00마감!★ 혁신공유단 서포터즈 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196822&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신공유단 (~2022-04-22)
-
-* **[[대학일자리플러스센터] 4월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196807&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-04-22)
-
-* **[[2022 하반기] 대웅그룹 채용연계형 인턴십 학생 모집 (~5/1까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196805&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-04-22)
-
-* **[아경장학 장학증서 수여식 및 이사장 이•취임식 개최 안내_4.25(월) 16:30 다산관강당](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196804&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-04-22)
