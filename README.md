@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[현장실습지원센터] 2022 하계 현장실습 학생 설명회 개최 안내(5/17, 5/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197053&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2022-04-27)
+
+* **[[홍보] 2022년 초기창업패키지 창업클럽(창업동아리) 모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197038&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-04-27)
+
 * **[[학생모집] 주인찬 교수님, GlobalFoundation 파운드리 업체와 GF University Partner Program 체결](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197031&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 전자공학과 (~2022-04-27)
 
@@ -101,9 +107,3 @@
 
 * **[[대학일자리플러스센터] 아시나요? 2편_취업성공 후기 소개](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196847&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-22)
-
-* **[2022학년도 1학기 파란학기제 중간교류회 이벤트 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196845&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2022-04-22)
-
-* **[한국오므론&amp;아주대학교 2차전지 현장맞춤식 특화교육 안내 [국비교육, 수당30만원]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196839&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2022-04-22)
