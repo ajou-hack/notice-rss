@@ -1,7 +1,7 @@
 # 최근 공지사항
 
-* **[[공지] [학부]2022-1학기 수업운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196532&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-04-15)
+* **[[공지] [학부]2022-1학기 수업운영 안내 (4.26 업데이트, 사회적 거리두기 폐지 반영)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196998&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-04-26)
 
 * **[[공지] [학부]전자출결시스템 사용 매뉴얼 (전자출석부 사용법)(3/31 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192571&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-15)
@@ -18,8 +18,11 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[[학부]2022-1학기 수업운영 안내 (4.26 업데이트, 사회적 거리두기 폐지 반영)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196998&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-04-26)
+* **[[학생모집] 주인찬 교수님, GlobalFoundation 파운드리 업체와 GF University Partner Program 체결](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197031&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 전자공학과 (~2022-04-27)
+
+* **[[시설팀] 2022학년도 냉·난방기 세척 및 정비안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197029&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2022-04-27)
 
 * **[[대학원 에너지시스템학과] 2022학년도 후기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196997&amp;article.offset=0&amp;articleLimit=30)**
  [학사일정] - 에너지시스템학과 (~2022-04-26)
@@ -104,6 +107,3 @@
 
 * **[한국오므론&amp;아주대학교 2차전지 현장맞춤식 특화교육 안내 [국비교육, 수당30만원]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196839&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-04-22)
-
-* **[[대학일자리플러스센터] 월간자소서 5월호(기초 입사지원서 작성법 특강 및 컨설팅)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196831&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-04-22)
