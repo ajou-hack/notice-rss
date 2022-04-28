@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학군단]63,64기 학군사관 후보생 지원마감일 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197068&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학군단 (~2022-04-28)
+
 * **[[시설팀] 2022학년도 하절기 냉방시설 운영계획 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197060&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2022-04-27)
 
@@ -103,7 +106,4 @@
  [학사] - 교무팀 (~2022-04-25)
 
 * **[[장학] 2022학년도 KT랜선야학 참여 장학생 선발_2022.04.27(수) 14:00까지 접수](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196850&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-04-23)
-
-* **[[장학] 2022년 독립유공자 후손 장학금 선발공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196849&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-04-23)
