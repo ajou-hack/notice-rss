@@ -18,6 +18,18 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[나라키움 대학생주택 2022학년 1학기 입주자 2차 추가 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197131&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-04-28)
+
+* **[[중앙도서관] 5월 토요 전자저널 검색 및 RefWorks 활용교육 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197127&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 중앙도서관 학술정보팀 (~2022-04-28)
+
+* **[[학생상담소] &#x27;스트레스도 힘이 된다&#x27; 스트레스 관리 특강 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197126&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생상담소 (~2022-04-28)
+
+* **[[학생상담소] &#x27;MBTI검사를 통한 자기이해&#x27; 특강 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197125&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생상담소 (~2022-04-28)
+
 * **[[대학일자리플러스센터X중앙도서관]도서관으로 찾아가는 상담(with. 이벤트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197105&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-28)
 
@@ -95,15 +107,3 @@
 
 * **[[대학일자리플러스센터] 전 현직자와 함께하는 모의면접](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196905&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-25)
-
-* **[｢2022년 수원시·아주대학교 로스쿨 법률사무원 인력양성 지원사업」훈련생 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196882&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 지역상생센터 (~2022-04-25)
-
-* **[[홍보] 2022년 한양대학교 창업중심대학 창업사업화지원 창업기업 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196881&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-04-25)
-
-* **[[대학일자리플러스센터]대학일자리플러스센터 서비스 모아보기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196864&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-04-25)
-
-* **[(재공지)[현장실습지원센터] 재학생 대상 2022 하계 현장실습 수요조사(~5/4까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196862&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-04-25)
