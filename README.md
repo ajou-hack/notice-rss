@@ -18,11 +18,17 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197070&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-04-28)
+
 * **[[학군단]63,64기 학군사관 후보생 지원마감일 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197068&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학군단 (~2022-04-28)
 
 * **[[시설팀] 2022학년도 하절기 냉방시설 운영계획 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197060&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2022-04-27)
+
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197058&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-04-27)
 
 * **[[현장실습지원센터] 2022 하계 현장실습 학생 설명회 안내(5/17, 5/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197053&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-04-27)
@@ -35,6 +41,9 @@
 
 * **[[시설팀] 2022학년도 냉·난방기 세척 및 정비안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197029&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2022-04-27)
+
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197026&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-04-27)
 
 * **[[대학원 에너지시스템학과] 2022학년도 후기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196997&amp;article.offset=0&amp;articleLimit=30)**
  [학사일정] - 에너지시스템학과 (~2022-04-26)
@@ -98,12 +107,3 @@
 
 * **[2022년도 수원시 청장년 자살예방프로그램 &#x27;비밀의 정원&#x27;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196861&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생상담소 (~2022-04-25)
-
-* **[[대학일자리플러스센터] 2022 한국가스기술공사 신규채용 오픈채팅 채용설명회(4/26)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196855&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-04-25)
-
-* **[[Remind][학부] 2022-1학기 최종 구제 등록 기간 안내 (04.25.~04.27.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196854&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-04-25)
-
-* **[[장학] 2022학년도 KT랜선야학 참여 장학생 선발_2022.04.27(수) 14:00까지 접수](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196850&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-04-23)
