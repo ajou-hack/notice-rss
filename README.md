@@ -18,6 +18,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[봉사활동] (대사협) 월드프렌즈코리아(WFK) 청년봉사단 온라인 해외봉사 단원 모집 (~5/18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197159&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-04-29)
+
+* **[[중앙도서관] 어린이날 자료실 휴관 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197156&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 중앙도서관 학술정보팀 (~2022-04-29)
+
+* **[체육관 체력단련실 이용 안내(신발장 정리)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197154&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-04-29)
+
 * **[율곡관 혁신공유라운지 사용불가 안내(4/29(금) 13:00~21:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197142&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원운영팀 (~2022-04-29)
 
@@ -98,12 +107,3 @@
 
 * **[[해외취업] 스스로 취업 파이터 in 일본](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196934&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-04-26)
-
-* **[[해외취업] 2022 미국 간호사 해외취업 온라인 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196933&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-04-26)
-
-* **[[해외취업] 스스로 취업 파이터 in 호주](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196932&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-04-26)
-
-* **[율곡관 혁신공유라운지 사용불가 안내(4/29(금) 13:00~21:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196927&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원운영팀 (~2022-04-26)
