@@ -18,6 +18,21 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[국제교류팀] 2022 파란사다리 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197237&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2022-04-29)
+
+* **[[국비교육/수당지급] 2차 전지 양성과정 [오므론제어기기&amp;아주대학교]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197236&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2022-04-29)
+
+* **[[국비교육/수당지급] 스마트공장(PLC자동제어) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197235&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2022-04-29)
+
+* **[[국가근로][교사대생등대학생튜터링] 4월 국가근로/교사대생등대학생튜터링장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 4/30 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197229&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-04-29)
+
+* **[[봉사활동] 2022년 중국 상하이 국제기능올림픽대회 통역봉사요원 모집( ~5/6 18시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197201&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-04-29)
+
 * **[[장학] 롯데장학재단 &#x27;취업준비생 장학생 4기&#x27; 모집_(5.11 수 13:00까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197178&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-04-29)
 
@@ -92,18 +107,3 @@
 
 * **[학생 공간운영 계획 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196951&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2022-04-26)
-
-* **[(재공지)[불어권협력센터] 아주대학교-낭트대학교(프랑스) 2차 문화교류 사업 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196949&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 불어권협력센터 (~2022-04-26)
-
-* **[[경기도 청년 마음건강 지원사업] 마음세움 집단상담 프로그램](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196945&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생상담소 (~2022-04-26)
-
-* **[[학습법] 2022-1학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196941&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-04-26)
-
-* **[[국제교류팀]에서 성실한 면학장학생을 모집합니다. (재학생, 휴학생 가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196939&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2022-04-26)
-
-* **[[현장실습지원센터] 2022 하계 현장실습 운영일정 안내(수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196938&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-04-26)
