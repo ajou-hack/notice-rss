@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[율곡관 혁신공유라운지 사용불가 안내(4/29(금) 13:00~21:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197142&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원운영팀 (~2022-04-29)
+
+* **[[대학일자리플러스센터] 금주의 추천채용_동원그룹/영풍정밀/이카운트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197141&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-04-28)
+
 * **[나라키움 대학생주택 2022학년 1학기 입주자 2차 추가 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197131&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-04-28)
 
@@ -101,9 +107,3 @@
 
 * **[율곡관 혁신공유라운지 사용불가 안내(4/29(금) 13:00~21:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196927&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원운영팀 (~2022-04-26)
-
-* **[[입학처] 2023학년도 입시홍보관련 학과 및 부서 자랑거리 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196920&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 입학처 (~2022-04-25)
-
-* **[[대학일자리플러스센터] 전 현직자와 함께하는 모의면접](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196905&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-04-25)
