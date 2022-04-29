@@ -18,6 +18,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[장학] 롯데장학재단 &#x27;취업준비생 장학생 4기&#x27; 모집_(5.11 수 13:00까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197178&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-04-29)
+
+* **[[대학일자리플러스센터] 4월 5주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197177&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-04-29)
+
+* **[[학습법] 2022-1학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197176&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-04-29)
+
 * **[[봉사활동] (대사협) 월드프렌즈코리아(WFK) 청년봉사단 온라인 해외봉사 단원 모집 (~5/18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197159&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-04-29)
 
@@ -98,12 +107,3 @@
 
 * **[[현장실습지원센터] 2022 하계 현장실습 운영일정 안내(수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196938&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-04-26)
-
-* **[[장학] 2022년 이재운장학회 장학생 선발_4.29(금) 14:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196937&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-04-26)
-
-* **[2022년 제 46회 중국 상하이 국제 올림픽 대회 통역 봉사요원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196935&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학일자리플러스센터 (~2022-04-26)
-
-* **[[해외취업] 스스로 취업 파이터 in 일본](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196934&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-04-26)
