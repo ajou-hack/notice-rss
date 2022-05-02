@@ -12,6 +12,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[Remind][학부] 전공(복수,부,연계,심화전공) 신청 및 취소 기간 안내 (05.02.~05.27.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197248&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-05-02)
+
+* **[[재공지]2022-2학기 파란학기제 교수제안 프로그램 공모(~5/9)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197245&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2022-05-02)
+
+* **[[대학일자리플러스센터] 아시나요? 3편_진로-취업 프로그램 소개](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197243&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-01)
+
 * **[[국제교류팀] 2022 파란사다리 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197237&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-04-29)
 
@@ -92,12 +101,3 @@
 
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197026&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-04-27)
-
-* **[[대학원 에너지시스템학과] 2022학년도 후기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196997&amp;article.offset=0&amp;articleLimit=30)**
- [학사일정] - 에너지시스템학과 (~2022-04-26)
-
-* **[토론학습실 운영시간 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196955&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생지원팀 (~2022-04-26)
-
-* **[학생 공간운영 계획 알림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196951&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2022-04-26)
