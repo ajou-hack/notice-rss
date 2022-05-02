@@ -63,9 +63,6 @@
 * **[[학습법] 2022-1학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197176&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-04-29)
 
-* **[[봉사활동] (대사협) 월드프렌즈코리아(WFK) 청년봉사단 온라인 해외봉사 단원 모집 (~5/18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197159&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-04-29)
-
 * **[[중앙도서관] 어린이날 자료실 휴관 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197156&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 중앙도서관 학술정보팀 (~2022-04-29)
 
@@ -101,3 +98,6 @@
 
 * **[[시설팀] 2022학년도 하절기 냉방시설 운영계획 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197060&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2022-04-27)
+
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197058&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-04-27)
