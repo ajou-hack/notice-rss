@@ -12,6 +12,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[기획팀]아주대학교 학칙 및 규정류 개정 공포(2022-제2차 교무회의, 제85차 대학평의원회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197291&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2022-05-02)
+
+* **[2022 아주 희망 글쓰기 강좌 멘티 모집 안내 (~5/10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197290&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 입학팀 (~2022-05-02)
+
 * **[2022년 멀티미디어 강의실 점검결과(04월) 및 2022년 (05월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197276&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-05-02)
 
@@ -95,9 +101,3 @@
 
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197070&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-04-28)
-
-* **[[학군단]63,64기 학군사관 후보생 지원마감일 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197068&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학군단 (~2022-04-28)
-
-* **[[시설팀] 2022학년도 하절기 냉방시설 운영계획 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197060&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2022-04-27)
