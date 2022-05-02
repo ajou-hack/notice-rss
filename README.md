@@ -12,6 +12,24 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[공학교육혁신센터] 2022학년도 1학기 학생상담 안내(2022.6.14.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197269&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2022-05-02)
+
+* **[아주대학교병원 권역별호스피스센터-완화의료센터 &#x27;2022년 통증캠페인&#x27; 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197268&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 사회봉사센터 (~2022-05-02)
+
+* **[[대학일자리플러스센터] 2022 수원시 일자리 박람회(6/9)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197267&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-02)
+
+* **[(추가모집)[불어권협력센터] 아주대학교-낭트대학교(프랑스) 2차 문화교류 사업 참가자 추가 모집(~5.8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197259&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 불어권협력센터 (~2022-05-02)
+
+* **[[대학일자리플러스센터]2022 성남 메타버스 청년채용박람회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197257&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-02)
+
+* **[[국제교육센터] 학생 인턴을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197256&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교육센터 (~2022-05-02)
+
 * **[[Remind][학부] 전공(복수,부,연계,심화전공) 신청 및 취소 기간 안내 (05.02.~05.27.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197248&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-05-02)
 
@@ -83,21 +101,3 @@
 
 * **[[시설팀] 2022학년도 하절기 냉방시설 운영계획 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197060&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2022-04-27)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197058&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-04-27)
-
-* **[[현장실습지원센터] 2022 하계 현장실습 학생 설명회 안내(5/17, 5/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197053&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-04-27)
-
-* **[[홍보] 2022년 초기창업패키지 창업클럽(창업동아리) 모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197038&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-04-27)
-
-* **[[학생모집] 주인찬 교수님, GlobalFoundation 파운드리 업체와 GF University Partner Program 체결](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197031&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 전자공학과 (~2022-04-27)
-
-* **[[시설팀] 2022학년도 냉·난방기 세척 및 정비안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197029&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2022-04-27)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197026&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-04-27)
