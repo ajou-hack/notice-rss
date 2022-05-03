@@ -15,7 +15,10 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[파란학기제-Extreme 강연 근로장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197316&amp;article.offset=0&amp;articleLimit=30)**
+* **[[중앙도서관] 거리두기 해제 기념 자료대출 이벤트 안내(5/9~13)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197318&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 중앙도서관 학술정보팀 (~2022-05-03)
+
+* **[파란학기제-Extreme 전문가 초청강연 근로장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197316&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2022-05-03)
 
 * **[파란학기제-Extreme 지역전문가 초청강연 참석 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197310&amp;article.offset=0&amp;articleLimit=30)**
@@ -101,6 +104,3 @@
 
 * **[체육관 체력단련실 이용 안내(신발장 정리)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197154&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-04-29)
-
-* **[율곡관 혁신공유라운지 사용불가 안내(4/29(금) 13:00~21:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197142&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원운영팀 (~2022-04-29)
