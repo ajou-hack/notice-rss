@@ -12,6 +12,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[국제교류팀] 2022 파란사다리 모집 재공고 (updated)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197301&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2022-05-03)
+
+* **[(재공지)[현장실습지원센터] 재학생 대상 2022 하계 현장실습 수요조사(~5/4까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197299&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2022-05-03)
+
+* **[2022년 아주 희망 학UP 멘토링 멘티 모집(~5/10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197295&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 입학팀 (~2022-05-03)
+
 * **[[기획팀]아주대학교 학칙 및 규정류 개정 공포(2022-제2차 교무회의, 제85차 대학평의원회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197291&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 기획팀 (~2022-05-02)
 
@@ -92,12 +101,3 @@
 
 * **[[학생상담소] &#x27;스트레스도 힘이 된다&#x27; 스트레스 관리 특강 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197126&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생상담소 (~2022-04-28)
-
-* **[[학생상담소] &#x27;MBTI검사를 통한 자기이해&#x27; 특강 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197125&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생상담소 (~2022-04-28)
-
-* **[[대학일자리플러스센터X중앙도서관]도서관으로 찾아가는 상담(with. 이벤트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197105&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-04-28)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197070&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-04-28)
