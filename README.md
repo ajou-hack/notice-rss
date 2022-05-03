@@ -3,14 +3,29 @@
 * **[[공지] [학부]2022-1학기 수업운영 안내 (4.26 업데이트, 사회적 거리두기 폐지 반영)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196998&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-04-26)
 
-* **[[공지] [학부]전자출결시스템 사용 매뉴얼 (전자출석부 사용법)(3/31 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192571&amp;article.offset=0&amp;articleLimit=30)**
+* **[[공지] [학부]전자출결시스템 사용 매뉴얼 (전자출석부 사용법)(5/3 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192571&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-15)
+
+* **[[공지] [교무팀] 2022-1학기 코로나19 확산에 따른 출석인정 안내(백신공결)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180913&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-02-16)
 
 * **[[공지] 아주 MS Office365 사용안내(포털 SSO연동)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-01-19)
 
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[파란학기제-Extreme 강연 근로장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197316&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2022-05-03)
+
+* **[파란학기제-Extreme 지역전문가 초청강연 참석 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197310&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2022-05-03)
+
+* **[재공지]22년도 학군사관 후보생 63,64기 지원서 및 서류제출 마감일 안내(5/6까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197304&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학군단 (~2022-05-03)
+
+* **[(학사과정)2022-하계 계절학기 국내대학 학점교류 신청 안내(22.05.03.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197302&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-05-03)
 
 * **[[국제교류팀] 2022 파란사다리 모집 재공고 (updated)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197301&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-05-03)
@@ -89,15 +104,3 @@
 
 * **[율곡관 혁신공유라운지 사용불가 안내(4/29(금) 13:00~21:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197142&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원운영팀 (~2022-04-29)
-
-* **[[대학일자리플러스센터] 금주의 추천채용_동원그룹/영풍정밀/이카운트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197141&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-04-28)
-
-* **[나라키움 대학생주택 2022학년 1학기 입주자 2차 추가 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197131&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-04-28)
-
-* **[[중앙도서관] 5월 토요 전자저널 검색 및 RefWorks 활용교육 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197127&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 중앙도서관 학술정보팀 (~2022-04-28)
-
-* **[[학생상담소] &#x27;스트레스도 힘이 된다&#x27; 스트레스 관리 특강 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197126&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생상담소 (~2022-04-28)
