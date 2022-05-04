@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 43호 (2022.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197369&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-04)
+
 * **[[대학일자리플러스센터] 아주대생을 위한 찾아가는 해외취업 설명회(온라인)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197356&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-05-04)
 
@@ -104,6 +107,3 @@
 
 * **[[국제교류팀] 2022 파란사다리 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197237&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-04-29)
-
-* **[[국비교육/수당지급] 2차 전지 양성과정 [오므론제어기기&amp;아주대학교]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197236&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2022-04-29)
