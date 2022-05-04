@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[중앙도서관]5월 이용 교육 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197376&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-05-04)
+
+* **[2022 아주 희망 카운슬러 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197375&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 입학팀 (~2022-05-04)
+
 * **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 43호 (2022.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197369&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-05-04)
 
@@ -101,9 +107,3 @@
 
 * **[[재공지]2022-2학기 파란학기제 교수제안 프로그램 공모(~5/9)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197245&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2022-05-02)
-
-* **[[대학일자리플러스센터] 아시나요? 3편_진로-취업 프로그램 소개](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197243&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-01)
-
-* **[[국제교류팀] 2022 파란사다리 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197237&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2022-04-29)
