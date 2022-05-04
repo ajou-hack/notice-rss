@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 아주대생을 위한 찾아가는 해외취업 설명회(온라인)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197356&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-04)
+
+* **[[메이커스페이스] 운영 및 휴관 안내(5/5 어린이날)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197349&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-05-04)
+
 * **[삼성 청년 SW 아카데미(SAFFY) 8기 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197346&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-05-03)
 
@@ -101,9 +107,3 @@
 
 * **[[국비교육/수당지급] 2차 전지 양성과정 [오므론제어기기&amp;아주대학교]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197236&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-04-29)
-
-* **[[국비교육/수당지급] 스마트공장(PLC자동제어) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197235&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2022-04-29)
-
-* **[[국가근로][교사대생등대학생튜터링] 4월 국가근로/교사대생등대학생튜터링장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 4/30 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197229&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-04-29)
