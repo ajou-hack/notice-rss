@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학생상담소] &#x27;나는 부럽지가 않아&#x27; 자존감 향상 집단상담 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197402&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생상담소 (~2022-05-06)
+
 * **[[외교부] 대한민국 유엔 안보리 진출 청년사절 신청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197397&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2022-05-06)
 
@@ -104,6 +107,3 @@
 
 * **[[대학일자리플러스센터] 2022 수원시 일자리 박람회(6/9)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197267&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-05-02)
-
-* **[(추가모집)[불어권협력센터] 아주대학교-낭트대학교(프랑스) 2차 문화교류 사업 참가자 추가 모집(~5.8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197259&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 불어권협력센터 (~2022-05-02)
