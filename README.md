@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022 아주 희망 학UP 멘토링 - 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197408&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 입학팀 (~2022-05-06)
+
+* **[2021년 학생인건비 지급비율 및 학생인건비 부당회수 비율 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197407&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학지원팀 (~2022-05-06)
+
 * **[[학생상담소] &#x27;나는 부럽지가 않아&#x27; 자존감 향상 집단상담 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197402&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생상담소 (~2022-05-06)
 
@@ -101,9 +107,3 @@
 
 * **[[공학교육혁신센터] 2022학년도 1학기 학생상담 안내(2022.6.14.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197269&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2022-05-02)
-
-* **[아주대학교병원 권역별호스피스센터-완화의료센터 &#x27;2022년 통증캠페인&#x27; 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197268&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 사회봉사센터 (~2022-05-02)
-
-* **[[대학일자리플러스센터] 2022 수원시 일자리 박람회(6/9)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197267&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-02)
