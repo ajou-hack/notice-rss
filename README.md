@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 이공계 대학생 진로 멘토링(경기보건환경연구원)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197410&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-06)
+
+* **[[국비교육/수당지급] 스마트공장(PLC자동제어) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197409&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2022-05-06)
+
 * **[2022 아주 희망 학UP 멘토링 - 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197408&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학팀 (~2022-05-06)
 
@@ -101,9 +107,3 @@
 
 * **[2022 아주 희망 글쓰기 강좌 멘티 모집 안내 (~5/10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197290&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학팀 (~2022-05-02)
-
-* **[2022년 멀티미디어 강의실 점검결과(04월) 및 2022년 (05월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197276&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2022-05-02)
-
-* **[[공학교육혁신센터] 2022학년도 1학기 학생상담 안내(2022.6.14.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197269&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2022-05-02)
