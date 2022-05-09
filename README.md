@@ -18,6 +18,18 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[Remind][학부] 전공(복수,부,연계,심화전공) 신청 및 취소 기간 안내 (05.02.~05.27.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197428&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-05-09)
+
+* **[[재공지] 파란학기제-Extreme 지역전문가 초청강연 참석 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197427&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2022-05-09)
+
+* **[[중앙도서관] 22-하계 대출업무보조 휴학생 모집(~5/23 am09:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197426&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-05-09)
+
+* **[[중앙도서관] 거리두기 해제 기념 자료대출 이벤트 안내(5/9~5/13) [재공지]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197422&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-05-09)
+
 * **[[국제교류팀] ★ 2022 파란사다리 모집 재공고 ★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197415&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-05-06)
 
@@ -95,15 +107,3 @@
 
 * **[(학사과정)2022-하계 계절학기 국내대학 학점교류 신청 안내(22.05.03.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197302&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-05-03)
-
-* **[[국제교류팀] 2022 파란사다리 모집 재공고 (updated)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197301&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2022-05-03)
-
-* **[(재공지)[현장실습지원센터] 재학생 대상 2022 하계 현장실습 수요조사(~5/4까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197299&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-05-03)
-
-* **[2022년 아주 희망 학UP 멘토링 멘티 모집(~5/10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197295&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 입학팀 (~2022-05-03)
-
-* **[[기획팀]아주대학교 학칙 및 규정류 개정 공포(2022-제2차 교무회의, 제85차 대학평의원회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197291&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2022-05-02)
