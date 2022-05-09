@@ -18,6 +18,27 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 재공지 - 아주대생을 위한 찾아가는 해외취업 설명회(온라인)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197447&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-09)
+
+* **[[대학일자리플러스센터] 5월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197442&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-09)
+
+* **[[학습법] 2022-1학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197441&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-05-09)
+
+* **[[중앙도서관] 4월 도서관교육 이벤트 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197439&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-05-09)
+
+* **[제82회 한국어능력시험(TOPIK) 시행에 따른 성호관 출입 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197435&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 국제교육센터운영팀 (~2022-05-09)
+
+* **[(학사과정)2022-하계 계절학기 국내대학 학점교류 신청 안내(22.05.09.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197432&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-05-09)
+
+* **[2022 캠퍼스 특허 유니버시아드 대회 참여학생 모집 및 지원 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197430&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - LINC사업팀 (~2022-05-09)
+
 * **[[Remind][학부] 전공(복수,부,연계,심화전공) 신청 및 취소 기간 안내 (05.02.~05.27.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197428&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-05-09)
 
@@ -86,24 +107,3 @@
 
 * **[[대학일자리플러스센터X중앙도서관]도서관으로 찾아가는 상담(with. 이벤트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197338&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-05-03)
-
-* **[아주대학교 기관생명윤리위원회(AjouIRB) 제17차 정기교육 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197336&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 기관생명윤리위원회 (~2022-05-03)
-
-* **[[학습법] 2022-1학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197321&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-05-03)
-
-* **[[중앙도서관] 거리두기 해제 기념 자료대출 이벤트 안내(5/9~13)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197318&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 중앙도서관 학술정보팀 (~2022-05-03)
-
-* **[파란학기제-Extreme 전문가 초청강연 근로장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197316&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2022-05-03)
-
-* **[파란학기제-Extreme 지역전문가 초청강연 참석 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197310&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2022-05-03)
-
-* **[재공지]22년도 학군사관 후보생 63,64기 지원서 및 서류제출 마감일 안내(5/6까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197304&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학군단 (~2022-05-03)
-
-* **[(학사과정)2022-하계 계절학기 국내대학 학점교류 신청 안내(22.05.03.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197302&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-05-03)
