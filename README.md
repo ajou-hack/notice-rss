@@ -21,6 +21,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[수원시건강가정지원센터] 가족세우기 집단상담 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197475&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생상담소 (~2022-05-09)
+
 * **[[대학일자리플러스센터] 구조화 면접의 이해와 답변전략_0519(목)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197463&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-05-09)
 
@@ -106,7 +109,4 @@
  [기타] - 창업지원팀 (~2022-05-04)
 
 * **[삼성 청년 SW 아카데미(SAFFY) 8기 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197346&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-03)
-
-* **[[대학일자리플러스센터] 외국인투자기업 메타버스 채용 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197345&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-05-03)
