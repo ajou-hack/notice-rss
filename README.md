@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[공지] 교내 정전으로 인한 전산 서비스 중지 안내(5/22, 일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197459&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2022-05-09)
+
 * **[[공지] [학부]2022-1학기 수업운영 안내 (4.26 업데이트, 사회적 거리두기 폐지 반영)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196998&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-04-26)
 
@@ -18,7 +21,10 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[[대학일자리플러스센터] 삼성그룹 면접준비전략](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197450&amp;article.offset=0&amp;articleLimit=30)**
+* **[[대학일자리플러스센터] 구조화 면접의 이해와 답변전략_0519(목)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197463&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-09)
+
+* **[[대학일자리플러스센터] 삼성그룹 면접준비전략_0517(화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197450&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-05-09)
 
 * **[[대학일자리플러스센터] 재공지 - 아주대생을 위한 찾아가는 해외취업 설명회(온라인)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197447&amp;article.offset=0&amp;articleLimit=30)**
@@ -104,6 +110,3 @@
 
 * **[[대학일자리플러스센터] 외국인투자기업 메타버스 채용 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197345&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-05-03)
-
-* **[(수정)[중앙도서관] 스마트 라운지 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197343&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-05-03)
