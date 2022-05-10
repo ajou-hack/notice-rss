@@ -21,6 +21,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[세미나][WISET] 제 3회 정보보안세미나 개최 및 등록안내(5/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197513&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 소프트웨어융합대학 교학팀 (~2022-05-10)
+
 * **[[중앙도서관] 거리두기 해제 기념 자료대출 이벤트 안내 (5.9~ )](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197511&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 중앙도서관 학술정보팀 (~2022-05-10)
 
@@ -107,6 +110,3 @@
 
 * **[[스승의 날 행사] &#x27;교수님, 같이 산책해요&#x27; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197394&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2022-05-06)
-
-* **[[대학일자리플러스센터] 금주의 추천채용_(주)씨엔원/천안서부신협/쿠팡CPLB](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197382&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-04)
