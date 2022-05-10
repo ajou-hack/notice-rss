@@ -21,6 +21,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[중앙도서관] 거리두기 해제 기념 자료대출 이벤트 안내 (5.9~ )](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197511&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 중앙도서관 학술정보팀 (~2022-05-10)
+
 * **[[대학일자리플러스센터] 이공계 대학생 진로 멘토링(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197502&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-05-10)
 
@@ -107,6 +110,3 @@
 
 * **[[대학일자리플러스센터] 금주의 추천채용_(주)씨엔원/천안서부신협/쿠팡CPLB](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197382&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-05-04)
-
-* **[[중앙도서관]5월 이용 교육 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197376&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-05-04)
