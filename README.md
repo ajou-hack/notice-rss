@@ -21,6 +21,21 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 이공계 대학생 진로 멘토링(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197502&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-10)
+
+* **[[학습법] 2022-1학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197501&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-05-10)
+
+* **[[대학일자리플러스센터]도서관으로 찾아가는 이벤트(소원나무 이벤트) 5월 1주차 당첨자 발표!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197499&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-10)
+
+* **[[학생지원팀] 코로나극복장학(국가장학) 신청_05.25.(수) 18:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197495&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-05-10)
+
+* **[[스승의 날 행사] &#x27;교수님, 같이 산책해요&#x27; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197493&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2022-05-10)
+
 * **[[수원시건강가정지원센터] 가족세우기 집단상담 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197475&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생상담소 (~2022-05-09)
 
@@ -95,18 +110,3 @@
 
 * **[[중앙도서관]5월 이용 교육 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197376&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-05-04)
-
-* **[2022 아주 희망 카운슬러 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197375&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 입학팀 (~2022-05-04)
-
-* **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 43호 (2022.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197369&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-04)
-
-* **[[대학일자리플러스센터] 아주대생을 위한 찾아가는 해외취업 설명회(온라인)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197356&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-04)
-
-* **[[메이커스페이스] 운영 및 휴관 안내(5/5 어린이날)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197349&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-05-04)
-
-* **[삼성 청년 SW 아카데미(SAFFY) 8기 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197346&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-03)
