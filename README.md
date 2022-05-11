@@ -24,6 +24,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[▶ 아주 희망 학UP 멘토링 멘티 추가 모집 안내 (~5/18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197577&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 입학팀 (~2022-05-11)
+
+* **[▶ 아주 희망 글쓰기 강좌 추가 모집 안내 (~5/18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197576&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 입학팀 (~2022-05-11)
+
 * **[[봉사활동] 2022년 SK희망메이커 - School 멘토링 프로그램 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197566&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-05-11)
 
@@ -107,9 +113,3 @@
 
 * **[[대학일자리플러스센터] 이공계 대학생 진로 멘토링(경기보건환경연구원)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197410&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-05-06)
-
-* **[[국비교육/수당지급] 스마트공장(PLC자동제어) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197409&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2022-05-06)
-
-* **[2022 아주 희망 학UP 멘토링 - 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197408&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 입학팀 (~2022-05-06)
