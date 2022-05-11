@@ -21,6 +21,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[공학교육혁신센터] 2022학년도 1학기 학생상담 안내(2022.6.14.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197547&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2022-05-11)
+
 * **[[세미나][WISET] 제 3회 정보보안세미나 개최 및 등록안내(5/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197513&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 소프트웨어융합대학 교학팀 (~2022-05-10)
 
@@ -106,7 +109,4 @@
  [행사] - 학생지원팀 (~2022-05-06)
 
 * **[U리그 홈경기 오늘 관람 안내(vs KC대)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197396&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2022-05-06)
-
-* **[[스승의 날 행사] &#x27;교수님, 같이 산책해요&#x27; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197394&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2022-05-06)
