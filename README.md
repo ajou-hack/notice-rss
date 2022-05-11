@@ -24,6 +24,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197562&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-05-11)
+
 * **[2022학년도 2학기 인공지능융합학과 인공지능융합전공[복수전공, 부전공] 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197554&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 소프트웨어융합대학교학팀 (~2022-05-11)
 
@@ -110,6 +113,3 @@
 
 * **[[학생상담소] &#x27;나는 부럽지가 않아&#x27; 자존감 향상 집단상담 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197402&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생상담소 (~2022-05-06)
-
-* **[[외교부] 대한민국 유엔 안보리 진출 청년사절 신청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197397&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2022-05-06)
