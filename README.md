@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[공지] 아주대학교 개교 50주년 기념 슬로건 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197550&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 커뮤니케이션팀 (~2022-05-11)
+
 * **[[공지] 교내 정전으로 인한 전산 서비스 중지 안내(5/22, 일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197459&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-05-09)
 
@@ -20,6 +23,9 @@
 
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[2022학년도 2학기 인공지능융합학과 인공지능융합전공[복수전공, 부전공] 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197554&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 소프트웨어융합대학교학팀 (~2022-05-11)
 
 * **[[공학교육혁신센터] 2022학년도 1학기 학생상담 안내(2022.6.14.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197547&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2022-05-11)
@@ -106,7 +112,4 @@
  [비교과] - 학생상담소 (~2022-05-06)
 
 * **[[외교부] 대한민국 유엔 안보리 진출 청년사절 신청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197397&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2022-05-06)
-
-* **[U리그 홈경기 오늘 관람 안내(vs KC대)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197396&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2022-05-06)
