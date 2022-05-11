@@ -24,6 +24,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[봉사활동] 2022년 SK희망메이커 - School 멘토링 프로그램 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197566&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-05-11)
+
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197565&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-05-11)
+
 * **[[봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197562&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-05-11)
 
@@ -107,9 +113,3 @@
 
 * **[2022 아주 희망 학UP 멘토링 - 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197408&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학팀 (~2022-05-06)
-
-* **[2021년 학생인건비 지급비율 및 학생인건비 부당회수 비율 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197407&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학지원팀 (~2022-05-06)
-
-* **[[학생상담소] &#x27;나는 부럽지가 않아&#x27; 자존감 향상 집단상담 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197402&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생상담소 (~2022-05-06)
