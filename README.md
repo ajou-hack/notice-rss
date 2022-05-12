@@ -24,6 +24,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 금주의 추천채용_IMI크리티컬엔지니어링코리아/선일다이파스/에드워드코리아](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197614&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-12)
+
 * **[▶ 아주 희망 카운슬러 추가 모집 안내(~5/18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197607&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학팀 (~2022-05-12)
 
@@ -110,6 +113,3 @@
 
 * **[2022 캠퍼스 특허 유니버시아드 대회 참여학생 모집 및 지원 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197430&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - LINC사업팀 (~2022-05-09)
-
-* **[[Remind][학부] 전공(복수,부,연계,심화전공) 신청 및 취소 기간 안내 (05.02.~05.27.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197428&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-05-09)
