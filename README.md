@@ -24,6 +24,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[홍보] 2022 광주민주포럼 사전등록](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197649&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 커뮤니케이션팀 (~2022-05-13)
+
 * **[[중앙도서관] 22-하계 정보지원실 업무 보조 휴학생 모집 (~5/23 am 09:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197644&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-05-13)
 
@@ -110,6 +113,3 @@
 
 * **[[스승의 날 행사] &#x27;교수님, 같이 산책해요&#x27; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197493&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2022-05-10)
-
-* **[[수원시건강가정지원센터] 가족세우기 집단상담 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197475&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생상담소 (~2022-05-09)
