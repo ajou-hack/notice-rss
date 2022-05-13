@@ -24,6 +24,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[메이커스페이스] 2022년 5월 강의 운영안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197666&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-05-13)
+
+* **[[대학일자리플러스센터] 5월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197664&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-13)
+
 * **[[홍보] 2022 광주민주포럼 사전등록](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197649&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 커뮤니케이션팀 (~2022-05-13)
 
@@ -72,10 +78,10 @@
 * **[[중앙도서관] 하절기 대비 에어컨 세정 및 정비작업 일정 안내(5.16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197592&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 중앙도서관 학술정보팀 (~2022-05-12)
 
-* **[▶ 아주 희망 학UP 멘토링 멘티 추가 모집 안내 (~5/18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197577&amp;article.offset=0&amp;articleLimit=30)**
+* **[▶ 아주 희망 학UP 멘토링 멘티 추가 모집 안내 (~5/18) **대상자 재공지**](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197577&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학팀 (~2022-05-11)
 
-* **[▶ 아주 희망 글쓰기 강좌 추가 모집 안내 (~5/18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197576&amp;article.offset=0&amp;articleLimit=30)**
+* **[▶ 아주 희망 글쓰기 강좌 추가 모집 안내 (~5/18) **대상자 재공지**](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197576&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학팀 (~2022-05-11)
 
 * **[[봉사활동] 2022년 SK희망메이커 - School 멘토링 프로그램 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197566&amp;article.offset=0&amp;articleLimit=30)**
@@ -107,9 +113,3 @@
 
 * **[[대학일자리플러스센터]도서관으로 찾아가는 이벤트(소원나무 이벤트) 5월 1주차 당첨자 발표!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197499&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-05-10)
-
-* **[[학생지원팀] 코로나극복장학(국가장학) 신청_05.25.(수) 18:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197495&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-05-10)
-
-* **[[스승의 날 행사] &#x27;교수님, 같이 산책해요&#x27; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197493&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2022-05-10)
