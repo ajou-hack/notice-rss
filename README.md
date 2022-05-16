@@ -24,6 +24,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 2022년 청년해외취업지원프로그램 GYC 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197707&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-16)
+
+* **[2022학년도 미래자동차 혁신공유대학 하계 계절학기 수강 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197706&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 혁신공유단 (~2022-05-16)
+
+* **[(학사과정)2022-하계 계절학기 국내대학 학점교류 신청 안내(22.05.16.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197705&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-05-16)
+
 * **[[모집] 아주를 빛낼 &quot;콘텐츠 크리에이터&quot;를 찾습니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197704&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 커뮤니케이션팀 (~2022-05-16)
 
@@ -87,7 +96,7 @@
 * **[(학사)2022-하계 계절수업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197634&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-05-13)
 
-* **[(학사과정)2022-하계 계절학기 국내대학 학점교류 신청 안내(22.05.09.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197631&amp;article.offset=0&amp;articleLimit=30)**
+* **[(학사과정)2022-하계 계절학기 국내대학 학점교류 신청 안내(22.05.13.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197631&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-05-13)
 
 * **[[정보통신대학원]2022학년도 후기 정시 석사과정 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197629&amp;article.offset=0&amp;articleLimit=30)**
@@ -104,12 +113,3 @@
 
 * **[▶ 아주 희망 카운슬러 추가 모집 안내(~5/18) **대상자 재공지**](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197607&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학팀 (~2022-05-12)
-
-* **[2022 캠퍼스 특허유니버시아드 대회 참여학생 지원 프로그램 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197606&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀 (~2022-05-12)
-
-* **[(당일재공지) 권역별호스피스-완화의료센터 &#x27;2022년 통증캠페인&#x27;안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197599&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 사회봉사센터 (~2022-05-12)
-
-* **[[홍보][사회적협동조합 수원행] 청년창업가육성프로그램 수원다이브 참가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197596&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-05-12)
