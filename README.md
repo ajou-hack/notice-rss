@@ -24,6 +24,27 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지)[중앙도서관] 22-하계 대출업무보조 휴학생 모집(~5/23 am09:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197685&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-05-16)
+
+* **[[총무팀] 성호관 및 팔달관 편의점 오픈 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197684&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-05-16)
+
+* **[신입학장학 도서구입비, 어학지원금 신청_2022.5.27(금) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197683&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-05-16)
+
+* **[국가고시장학, 국가자격장학 신청_2022.5.27(금) 17:00 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197680&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-05-16)
+
+* **[[5월18일(수) 10시접수~] 2022 반도체 전공정 집중과정 (초급-1차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197678&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-16)
+
+* **[[대학일자리플러스센터] 2022 Connect Job 코딩대회 (온라인)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197677&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-16)
+
+* **[[대학일자리플러스센터] [일본대기업 취업] 메루카리 인턴십 &amp; 야후재팬 정규직 채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197676&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-16)
+
 * **[[현장실습지원센터] 2022 하계방학 현장실습 학생 지원신청 안내(5/16부터, 상시접수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197668&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-05-13)
 
@@ -92,24 +113,3 @@
 
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197565&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-05-11)
-
-* **[[봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197562&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-05-11)
-
-* **[2022학년도 2학기 인공지능융합학과 인공지능융합전공[복수전공, 부전공] 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197554&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 소프트웨어융합대학교학팀 (~2022-05-11)
-
-* **[[공학교육혁신센터] 2022학년도 1학기 학생상담 안내(2022.6.14.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197547&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2022-05-11)
-
-* **[[세미나][WISET] 제 3회 정보보안세미나 개최 및 등록안내(5/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197513&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 소프트웨어융합대학 교학팀 (~2022-05-10)
-
-* **[[중앙도서관] 거리두기 해제 기념 자료대출 이벤트 안내 (5.9~ )](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197511&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 중앙도서관 학술정보팀 (~2022-05-10)
-
-* **[[대학일자리플러스센터] 이공계 대학생 진로 멘토링(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197502&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-10)
-
-* **[[학습법] 2022-1학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197501&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-05-10)
