@@ -24,6 +24,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[3단계 산학연협력 선도대학 육성사업(LINC3.0) B.I. 아이디어 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197918&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2022-05-17)
+
 * **[[대학일자리플러스센터]소원나무 이벤트 5월 2주차 당첨자 발표!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197748&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-05-17)
 
@@ -42,7 +45,7 @@
 * **[[국비교육/수당지급] PLC자동제어 전문인력양성 교육생모집(추가모집) ~5월22일까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197724&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-05-17)
 
-* **[[인권센터_성평등상담소] 단기 면학장학생 모집 (~5/20)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197723&amp;article.offset=0&amp;articleLimit=30)**
+* **[[인권센터_성평등상담소] 단기 면학장학생 모집 (조기마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197723&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 성평등상담소 (~2022-05-17)
 
 * **[[대학일자리플러스센터] 업무자동화를 위한 파이썬 기초 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197720&amp;article.offset=0&amp;articleLimit=30)**
@@ -110,6 +113,3 @@
 
 * **[[홍보] 2022 광주민주포럼 사전등록](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197649&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 커뮤니케이션팀 (~2022-05-13)
-
-* **[[중앙도서관] 22-하계 정보지원실 업무 보조 휴학생 모집 (~5/23 am 09:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197644&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-05-13)
