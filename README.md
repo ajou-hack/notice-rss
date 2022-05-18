@@ -24,6 +24,18 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[국제교육센터 제9기 아주글로벌버디(AJOU GLOBAL BUDDY) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197934&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 국제교육센터 (~2022-05-18)
+
+* **[[대학일자리플러스센터] 2022 중견기업 일자리박람회(7/5)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197929&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-18)
+
+* **[(재공지)[중앙도서관] 22-하계 정보지원실 업무 보조 휴학생 모집 (~5/23 am 09:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197926&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-05-18)
+
+* **[2022 캠퍼스 특허유니버시아드 대회 참여학생 지원 프로그램 신청 안내(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197925&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - LINC사업팀 (~2022-05-18)
+
 * **[3단계 산학연협력 선도대학 육성사업(LINC3.0) B.I. 아이디어 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197918&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-05-17)
 
@@ -101,15 +113,3 @@
 
 * **[[대학일자리플러스센터] [일본대기업 취업] 메루카리 인턴십 &amp; 야후재팬 정규직 채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197676&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-05-16)
-
-* **[[현장실습지원센터] 2022 하계방학 현장실습 학생 지원신청 안내(5/16부터, 상시접수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197668&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-05-13)
-
-* **[[메이커스페이스] 2022년 5월 강의 운영안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197666&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-05-13)
-
-* **[[대학일자리플러스센터] 5월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197664&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-13)
-
-* **[[홍보] 2022 광주민주포럼 사전등록](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197649&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 커뮤니케이션팀 (~2022-05-13)
