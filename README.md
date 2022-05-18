@@ -24,6 +24,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[중앙도서관] 거리두기 해제 기념 무인대출 이벤트 당첨자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197969&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-05-18)
+
 * **[교내 전체 정전 안내(5월 22일 일요일)/재공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197949&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2022-05-18)
 
@@ -109,7 +112,4 @@
  [기타] - 총무팀 (~2022-05-16)
 
 * **[신입학장학 도서구입비, 어학지원금 신청_2022.5.27(금) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197683&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-05-16)
-
-* **[국가고시장학, 국가자격장학 신청_2022.5.27(금) 17:00 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197680&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-05-16)
