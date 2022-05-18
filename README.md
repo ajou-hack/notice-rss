@@ -24,6 +24,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[교내 전체 정전 안내(5월 22일 일요일)/재공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197949&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2022-05-18)
+
+* **[[대학일자리플러스센터] 2022 하계 현장실습지원자를 위한 서류 작성법 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197947&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-18)
+
+* **[[학습법] 2022-1학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197944&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-05-18)
+
 * **[국제교육센터 제9기 아주글로벌버디(AJOU GLOBAL BUDDY) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197934&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 국제교육센터 (~2022-05-18)
 
@@ -104,12 +113,3 @@
 
 * **[국가고시장학, 국가자격장학 신청_2022.5.27(금) 17:00 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197680&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-05-16)
-
-* **[[5월18일(수) 10시접수~] 2022 반도체 전공정 집중과정 (초급-1차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197678&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-16)
-
-* **[[대학일자리플러스센터] 2022 Connect Job 코딩대회 (온라인)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197677&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-16)
-
-* **[[대학일자리플러스센터] [일본대기업 취업] 메루카리 인턴십 &amp; 야후재팬 정규직 채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197676&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-16)
