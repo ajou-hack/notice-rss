@@ -24,6 +24,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 금주의 추천채용_아토텍코리아/삼표(주)/콘티넨탈오토모티브일렉트로닉스](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198206&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-19)
+
+* **[[국비교육/수당지급] 2차 전지 양성과정 [오므론제어기기&amp;아주대학교]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198204&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2022-05-19)
+
 * **[[중앙도서관] 22학년도 아침 독서 서비스 구독 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198174&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-05-19)
 
@@ -107,9 +113,3 @@
 
 * **[[모집] 아주를 빛낼 &quot;콘텐츠 크리에이터&quot;를 찾습니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197704&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 커뮤니케이션팀 (~2022-05-16)
-
-* **[[박물관] 세시풍속 단오 창포 물비누 만들기 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197702&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 박물관 (~2022-05-16)
-
-* **[2022 하계 현장실습 온라인 설명회 안내(★1차 5/17(화) 18시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197700&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-05-16)
