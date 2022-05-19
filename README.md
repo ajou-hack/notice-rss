@@ -24,6 +24,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[중앙도서관] 22학년도 아침 독서 서비스 구독 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198174&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-05-19)
+
 * **[국제교육센터에서 함께 면학할 성실한 면학장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198021&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 국제교육센터 (~2022-05-19)
 
@@ -110,6 +113,3 @@
 
 * **[2022 하계 현장실습 온라인 설명회 안내(★1차 5/17(화) 18시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197700&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-05-16)
-
-* **[[대학일자리플러스센터] 2022-하계 토익사관학교 수강생 모집합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197698&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-16)
