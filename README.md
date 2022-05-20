@@ -24,6 +24,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학생지원팀] 학생자치공간 퇴실 안내 (5.21-22 방역 및 교내 정전)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198243&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2022-05-20)
+
 * **[[중앙도서관] 임시휴관 안내 (5.21-22, 방역 및 교내 정전)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198238&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-05-20)
 
@@ -110,6 +113,3 @@
 
 * **[[학사]2022-2학기 재학생/휴학생 통합 전과 신청 안내(05.23.~05.27.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197731&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-05-17)
-
-* **[[학생상담소] 스트레스 관리 특강 &#x27;스트레스도 힘이 된다&#x27; 참여 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197725&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생상담소 (~2022-05-17)
