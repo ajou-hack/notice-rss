@@ -24,6 +24,21 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 월간자소서 6월호(기초 입사지원서 작성법 특강 및 컨설팅)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198225&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-20)
+
+* **[(기간연장)[중앙도서관] 22-하계 정보지원실 업무 보조 휴학생 모집 (~5/25 am 09:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198223&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-05-20)
+
+* **[[개인정보보호 홍보포스터 공유]절대 소홀해선 안되는 정보주체의 권익보호](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198220&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-05-20)
+
+* **[[메이커스페이스] 휴관 안내(5/25 ~ 5/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198217&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-05-20)
+
+* **[[대학일자리플러스센터] 2022 상반기 와디즈PD 대규모 인재영입 메타버스 채용설명회(5/30~31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198215&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-20)
+
 * **[[국제교류팀]에서 함께 면학할 성실한 면학장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198211&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 국제교류팀 (~2022-05-20)
 
@@ -98,18 +113,3 @@
 
 * **[[인권센터_성평등상담소] 단기 면학장학생 모집 (조기마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197723&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 성평등상담소 (~2022-05-17)
-
-* **[[대학일자리플러스센터] 업무자동화를 위한 파이썬 기초 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197720&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-16)
-
-* **[[대학일자리플러스센터] 도서관으로 찾아가는 상담 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197719&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-16)
-
-* **[[재공지] 교내 정전으로 인한 전산서비스 중지 안내(전자결재, 전자증빙 서비스 중지 시간 변경 안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197712&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2022-05-16)
-
-* **[[대학일자리플러스센터] 2022년 청년해외취업지원프로그램 GYC 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197707&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-16)
-
-* **[2022학년도 미래자동차 혁신공유대학 하계 계절학기 수강 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197706&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 혁신공유단 (~2022-05-16)
