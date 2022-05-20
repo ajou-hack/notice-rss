@@ -24,6 +24,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[국제교류팀]에서 함께 면학할 성실한 면학장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198211&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 국제교류팀 (~2022-05-20)
+
+* **[[대학일자리플러스센터] 5월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198210&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-20)
+
 * **[[대학일자리플러스센터] 금주의 추천채용_아토텍코리아/삼표(주)/콘티넨탈오토모티브일렉트로닉스](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198206&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-05-19)
 
@@ -107,9 +113,3 @@
 
 * **[2022학년도 미래자동차 혁신공유대학 하계 계절학기 수강 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197706&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 혁신공유단 (~2022-05-16)
-
-* **[(학사과정)2022-하계 계절학기 국내대학 학점교류 신청 안내(22.05.16.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197705&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-05-16)
-
-* **[[모집] 아주를 빛낼 &quot;콘텐츠 크리에이터&quot;를 찾습니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197704&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 커뮤니케이션팀 (~2022-05-16)
