@@ -21,6 +21,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[국제교육센터에서 함께 면학할 성실한 면학장학생을 모집합니다. (재등록)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198417&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 국제교육센터 (~2022-05-23)
+
+* **[[비교과교육지원센터] 학생설계 비교과프로그램 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198414&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2022-05-23)
+
+* **[[교무팀] 6월~8월 근로 면학장학생 모집(휴학생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198413&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 교무팀 (~2022-05-23)
+
 * **[(학사과정)2022-하계 계절학기 국내대학 학점교류 신청 안내(22.05.23.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198411&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-05-23)
 
@@ -101,12 +110,3 @@
 
 * **[[담아: 담뿍 담은 번째 아주 – 5월 Monthly Ajou 행사 안내]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197977&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2022-05-18)
-
-* **[[중앙도서관] 거리두기 해제 기념 무인대출 이벤트 당첨자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197969&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-05-18)
-
-* **[교내 전체 정전 안내(5월 22일 일요일)/재공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197949&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2022-05-18)
-
-* **[[대학일자리플러스센터] 2022 하계 현장실습지원자를 위한 서류 작성법 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197947&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-18)
