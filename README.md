@@ -21,6 +21,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[국비교육/수당지급] PLC자동제어 전문인력양성 교육생모집(추가모집) ~5월22일까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198450&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2022-05-23)
+
+* **[서버 장애 복구 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198448&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2022-05-23)
+
+* **[&#x27;22년 아주대학교 예비군연대 훈련 시행 방안](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198447&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 예비군연대 (~2022-05-23)
+
 * **[국제교육센터에서 함께 면학할 성실한 면학장학생을 모집합니다. (재등록)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198417&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 국제교육센터 (~2022-05-23)
 
@@ -101,12 +110,3 @@
 
 * **[국제교육센터에서 함께 면학할 성실한 면학장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198021&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 국제교육센터 (~2022-05-19)
-
-* **[[보건대학원] 2022학년도 후기모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197983&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 보건대학원교학팀 (~2022-05-19)
-
-* **[[대학일자리플러스센터] 2022 AJOU-동문멘토링 신청안내(5/23~6/3)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197978&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-18)
-
-* **[[담아: 담뿍 담은 번째 아주 – 5월 Monthly Ajou 행사 안내]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197977&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2022-05-18)
