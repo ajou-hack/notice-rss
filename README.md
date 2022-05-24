@@ -24,6 +24,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터]소원나무 이벤트 5월 3주차 당첨자 발표!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198473&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-24)
+
+* **[[중앙도서관] 소음 허용 기준에 따른 도서관 공간 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198471&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 중앙도서관 학술정보팀 (~2022-05-24)
+
 * **[[공학교육혁신센터] 2022학년도 1학기 학생상담 안내(2022.6.14.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198468&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2022-05-24)
 
@@ -107,9 +113,3 @@
 
 * **[[개인정보보호 홍보포스터 공유]절대 소홀해선 안되는 정보주체의 권익보호](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198220&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-05-20)
-
-* **[[메이커스페이스] 휴관 안내(5/25 ~ 5/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198217&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-05-20)
-
-* **[[대학일자리플러스센터] 2022 상반기 와디즈PD 대규모 인재영입 메타버스 채용설명회(5/30~31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198215&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-20)
