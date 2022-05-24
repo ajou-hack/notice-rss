@@ -24,6 +24,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022 AJOU-동문멘토링 5/25(수) 일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198491&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-24)
+
+* **[[박물관] 아주대학교 개교 50주년 기념 특별 전시 영상 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198489&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 박물관 (~2022-05-24)
+
 * **[[국비교육/수당지급] PLC자동제어 교육생모집 (추가모집) ~5월29일까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198488&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-05-24)
 
@@ -107,9 +113,3 @@
 
 * **[[학생지원팀] 학생자치공간 퇴실 안내 (5.21-22 방역 및 교내 정전)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198243&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2022-05-20)
-
-* **[[중앙도서관] 임시휴관 안내 (5.21-22, 방역 및 교내 정전)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198238&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-05-20)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198226&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-05-20)
