@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[공지] [당일공지] 서버 메인보드 교체 작업으로 인한 전산서비스 일시 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198458&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 정보시스템팀 (~2022-05-24)
+
 * **[[공지] 아주대학교 개교 50주년 기념 슬로건 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197550&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 커뮤니케이션팀 (~2022-05-11)
 
@@ -20,6 +23,18 @@
 
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[국가근로] 2022학년도 2학기(9~2월) 국가근로장학금 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198460&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-05-24)
+
+* **[▶아주 희망 글쓰기 멘티 추가 모집 안내(~5/27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198456&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 입학팀 (~2022-05-24)
+
+* **[[긴급] 서버 장애로 인한 학내 전산서비스 사용 불가 안내(재발생 안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198454&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 정보시스템팀 (~2022-05-24)
+
+* **[[대학일자리플러스센터] 2022 AJOU-동문멘토링 5/24(화) 일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198453&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-23)
 
 * **[[국비교육/수당지급] PLC자동제어 전문인력양성 교육생모집(추가모집) ~5월22일까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198450&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-05-23)
@@ -98,15 +113,3 @@
 
 * **[[대학일자리플러스센터] 5월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198210&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-05-20)
-
-* **[[대학일자리플러스센터] 금주의 추천채용_아토텍코리아/삼표(주)/콘티넨탈오토모티브일렉트로닉스](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198206&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-19)
-
-* **[[국비교육/수당지급] 2차 전지 양성과정 [오므론제어기기&amp;아주대학교]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198204&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2022-05-19)
-
-* **[[중앙도서관] 22학년도 아침 독서 서비스 구독 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198174&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-05-19)
-
-* **[국제교육센터에서 함께 면학할 성실한 면학장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198021&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 국제교육센터 (~2022-05-19)
