@@ -21,6 +21,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022-1 파란학기제 성과발표회 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198515&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2022-05-25)
+
+* **[2022학년도 1학기 파란학기제 성과발표회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198511&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2022-05-25)
+
 * **[[학생상담소] 스트레스 관리 특강 &#x27;스트레스도 힘이 된다&#x27; 신청자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198499&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생상담소 (~2022-05-25)
 
@@ -104,9 +110,3 @@
 
 * **[[재공지]국가고시장학, 국가자격장학 신청_2022.5.27(금) 17:00 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198403&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-05-23)
-
-* **[[재공지]신입학장학 도서구입비, 어학지원금 신청_2022.5.27(금) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198402&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-05-23)
-
-* **[[국제교류팀] 2022년 아주대학교 파란사다리 프로그램 최종합격자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198249&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2022-05-20)
