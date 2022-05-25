@@ -1,8 +1,5 @@
 # 최근 공지사항
 
-* **[[공지] [당일공지] 서버 메인보드 교체 작업으로 인한 전산서비스 일시 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198458&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 정보시스템팀 (~2022-05-24)
-
 * **[[공지] 아주대학교 개교 50주년 기념 슬로건 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197550&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 커뮤니케이션팀 (~2022-05-11)
 
@@ -24,7 +21,16 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[2022 AJOU-동문멘토링 5/25(수) 일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198491&amp;article.offset=0&amp;articleLimit=30)**
+* **[[학생상담소] 스트레스 관리 특강 &#x27;스트레스도 힘이 된다&#x27; 신청자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198499&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생상담소 (~2022-05-25)
+
+* **[서버 메인보드 교체 작업 완료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198494&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 정보시스템팀 (~2022-05-24)
+
+* **[[대학일자리플러스센터] 2022 하계 현장실습지원자를 위한 서류 작성법 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198492&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-24)
+
+* **[[대학일자리플러스센터] 2022 AJOU-동문멘토링 5/25(수) 일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198491&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-05-24)
 
 * **[[박물관] 아주대학교 개교 50주년 기념 특별 전시 영상 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198489&amp;article.offset=0&amp;articleLimit=30)**
@@ -53,6 +59,9 @@
 
 * **[[국가근로] 2022학년도 2학기(9~2월) 국가근로장학금 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198460&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-05-24)
+
+* **[[당일공지] 서버 메인보드 교체 작업으로 인한 전산서비스 일시 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198458&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 정보시스템팀 (~2022-05-24)
 
 * **[▶아주 희망 글쓰기 멘티 추가 모집 안내(~5/27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198456&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학팀 (~2022-05-24)
@@ -101,15 +110,3 @@
 
 * **[[국제교류팀] 2022년 아주대학교 파란사다리 프로그램 최종합격자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198249&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-05-20)
-
-* **[[원천정보관] 토론학습실 퇴실 안내 (5.21-22 방역 및 교내 정전)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198247&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2022-05-20)
-
-* **[[대학일자리플러스센터] 2022 AJOU-동문멘토링 5/23(월) 일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198246&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-20)
-
-* **[[한국장학재단] 2022년 2학기 국가장학금 1차 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198245&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-05-20)
-
-* **[[학생지원팀] 학생자치공간 퇴실 안내 (5.21-22 방역 및 교내 정전)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198243&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2022-05-20)
