@@ -21,8 +21,23 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[[중앙도서관] 스마트 라운지 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198526&amp;article.offset=0&amp;articleLimit=30)**
+* **[한국오므론&amp;아주대학교 2차전지 현장맞춤식 특화교육 안내[국비교육, 수당지급]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198564&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2022-05-25)
+
+* **[[대학일자리플러스센터] 2022 AJOU-동문멘토링 5/26(목) 일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198563&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-25)
+
+* **[[중앙도서관] 지방선거일 자료실 휴관 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198561&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-05-25)
+
+* **[[학사]2022-2학기 재입학 시행 안내(06.02.~06.24.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198556&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-05-25)
+
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198545&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-05-25)
+
+* **[연암관 식당 내부 공사에 따른 운영 일시중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198540&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-05-25)
 
 * **[[조기마감] 2022-1 파란학기제 성과발표회 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198515&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2022-05-25)
@@ -95,18 +110,3 @@
 
 * **[[비교과교육지원센터] 학생설계 비교과프로그램 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198414&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2022-05-23)
-
-* **[[교무팀] 6월~8월 근로 면학장학생 모집(휴학생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198413&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 교무팀 (~2022-05-23)
-
-* **[(학사과정)2022-하계 계절학기 국내대학 학점교류 신청 안내(22.05.23.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198411&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-05-23)
-
-* **[[Remind][학부] 전공(복수,부,연계,심화전공) 신청 및 취소 기간 안내 (05.02.~05.27.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198408&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-05-23)
-
-* **[[Remind][학사]2022-2학기 재학생/휴학생 통합 전과 신청 안내(05.23.~05.27.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198406&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-05-23)
-
-* **[[봉사활동] 봉사활동과 연계한 온가족 안전운전 서약 챌린지 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198404&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-05-23)
