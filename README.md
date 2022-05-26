@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[파란학기제] 2022-2학기 파란학기제 설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198607&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2022-05-26)
+
+* **[2022학년도 2학기 미래자동차 연계전공 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198600&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 혁신공유단 (~2022-05-26)
+
 * **[「제8회 대학혁신지원사업 Webinar 컨퍼런스」 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198580&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2022-05-26)
 
@@ -100,10 +106,4 @@
  [장학] - 학생지원팀 (~2022-05-24)
 
 * **[[당일공지] 서버 메인보드 교체 작업으로 인한 전산서비스 일시 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198458&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 정보시스템팀 (~2022-05-24)
-
-* **[▶아주 희망 글쓰기 멘티 추가 모집 안내(~5/27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198456&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 입학팀 (~2022-05-24)
-
-* **[[긴급] 서버 장애로 인한 학내 전산서비스 사용 불가 안내(재발생 안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198454&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 정보시스템팀 (~2022-05-24)
