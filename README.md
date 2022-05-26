@@ -18,7 +18,13 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[[나라키움 대학생주택] 2022학년 1학기 입주자 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198654&amp;article.offset=0&amp;articleLimit=30)**
+* **[[대학일자리플러스센터] 2022 AJOU-동문멘토링 (5일차) 5/27(금) 일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198665&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-26)
+
+* **[2022년 상반기 군산시 대학생 학자금대출 이자 지원 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198659&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-05-26)
+
+* **[나라키움 대학생주택 2022학년 1학기 입주자 추가 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198654&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-05-26)
 
 * **[[대학일자리플러스센터] 2022 아주히든챔피언학생발굴단 9기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198608&amp;article.offset=0&amp;articleLimit=30)**
@@ -101,9 +107,3 @@
 
 * **[[중앙도서관] 소음 허용 기준에 따른 도서관 공간 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198471&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 중앙도서관 학술정보팀 (~2022-05-24)
-
-* **[[공학교육혁신센터] 2022학년도 1학기 학생상담 안내(2022.6.14.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198468&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2022-05-24)
-
-* **[[학습법] 2022-1학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198465&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-05-24)
