@@ -1,8 +1,5 @@
 # 최근 공지사항
 
-* **[[공지] 아주대학교 개교 50주년 기념 슬로건 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=197550&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 커뮤니케이션팀 (~2022-05-11)
-
 * **[[공지] [학부]2022-1학기 수업운영 안내 (4.26 업데이트, 사회적 거리두기 폐지 반영)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196998&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-04-26)
 
@@ -20,6 +17,12 @@
 
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[2022년 김제시 상반기 대학생 학자금 대출이자 지원 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198571&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-05-26)
+
+* **[2022 SW중심대학 공동 AI 경진대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198568&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 소융대 교학팀 (~2022-05-26)
 
 * **[한국오므론&amp;아주대학교 2차전지 현장맞춤식 특화교육 안내[국비교육, 수당지급]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198564&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-05-25)
@@ -104,9 +107,3 @@
 
 * **[&#x27;22년 아주대학교 예비군연대 훈련 시행 방안](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198447&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 예비군연대 (~2022-05-23)
-
-* **[국제교육센터에서 함께 면학할 성실한 면학장학생을 모집합니다. (재등록)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198417&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 국제교육센터 (~2022-05-23)
-
-* **[[비교과교육지원센터] 학생설계 비교과프로그램 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198414&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2022-05-23)
