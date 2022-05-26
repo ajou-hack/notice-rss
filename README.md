@@ -18,6 +18,18 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[「제8회 대학혁신지원사업 Webinar 컨퍼런스」 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198580&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2022-05-26)
+
+* **[[대학일자리플러스센터] 취업포트폴리오 작성법_6/3(금)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198578&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-26)
+
+* **[[대학일자리플러스센터] 채용공고분석 특강(3회)_5/30(월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198577&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-26)
+
+* **[2022 사회과학인의 밤 행사 &lt;애플밤&gt; 개최 (5/27금 18시~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198576&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 사회대교학팀 (~2022-05-26)
+
 * **[2022년 김제시 상반기 대학생 학자금 대출이자 지원 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198571&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-05-26)
 
@@ -95,15 +107,3 @@
 
 * **[[긴급] 서버 장애로 인한 학내 전산서비스 사용 불가 안내(재발생 안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198454&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 정보시스템팀 (~2022-05-24)
-
-* **[[대학일자리플러스센터] 2022 AJOU-동문멘토링 5/24(화) 일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198453&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-23)
-
-* **[[국비교육/수당지급] PLC자동제어 교육생모집 (추가모집) ~5월27일까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198450&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2022-05-23)
-
-* **[서버 장애 복구 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198448&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2022-05-23)
-
-* **[&#x27;22년 아주대학교 예비군연대 훈련 시행 방안](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198447&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 예비군연대 (~2022-05-23)
