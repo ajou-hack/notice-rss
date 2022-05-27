@@ -18,6 +18,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 5월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198679&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-27)
+
+* **[[중앙도서관] 2022학년도 하계방학 면학장학생 모집 (~6/10 am09:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198677&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-05-27)
+
+* **[[대학일자리플러스센터] 금주의 추천채용_한국요꼬가와일렉트로닉스매뉴팩처링/파카코리아/이데아코즈](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198666&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-26)
+
 * **[[대학일자리플러스센터] 2022 AJOU-동문멘토링 (5일차) 5/27(금) 일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198665&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-05-26)
 
@@ -98,12 +107,3 @@
 
 * **[[홍보] 2022 수원역 로데오 콘테스트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198483&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-05-24)
-
-* **[[메이커스페이스] 운영일자 변경안내 (2022.05.30-06.17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198479&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-05-24)
-
-* **[[대학일자리플러스센터]소원나무 이벤트 5월 3주차 당첨자 발표!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198473&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-24)
-
-* **[[중앙도서관] 소음 허용 기준에 따른 도서관 공간 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198471&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 중앙도서관 학술정보팀 (~2022-05-24)
