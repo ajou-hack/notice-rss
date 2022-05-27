@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[한국오므론&amp;아주대학교 2차전지 현장맞춤식 특화교육 안내[국비교육, 수당지급]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199394&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2022-05-27)
+
+* **[[대학일자리플러스센터] 2022 AJOU-동문멘토링 (6일차) 5/30(월) 일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199393&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-27)
+
 * **[[대학일자리플러스센터] 해외취업 레쥬메 첨삭 프로그램_상시모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199392&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-05-27)
 
@@ -101,9 +107,3 @@
 
 * **[서버 메인보드 교체 작업 완료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198494&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 정보시스템팀 (~2022-05-24)
-
-* **[[대학일자리플러스센터] 2022 하계 현장실습지원자를 위한 서류 작성법 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198492&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-24)
-
-* **[[대학일자리플러스센터] 2022 AJOU-동문멘토링 5/25(수) 일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198491&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-24)
