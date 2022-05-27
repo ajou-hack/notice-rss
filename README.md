@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[중앙도서관] &lt;긴급&gt; 아주대학교 학보 401호~455호, 502~585호 수집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198956&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-05-27)
+
 * **[[대학일자리플러스센터] 5월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198679&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-05-27)
 
@@ -104,6 +107,3 @@
 
 * **[[국비교육/수당지급] PLC자동제어 교육생모집 (추가모집) ~5월29일까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198488&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-05-24)
-
-* **[[홍보] 2022 수원역 로데오 콘테스트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198483&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-05-24)
