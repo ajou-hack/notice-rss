@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[홍보] 2022년 창업중심대학 창업클럽 모집 안내(한양대학교, ~6/13)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199408&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-05-30)
+
+* **[(당일재공지) 2022 하계 현장실습 온라인 설명회 안내(★2차 5/30(화) 18시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199405&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2022-05-30)
+
 * **[한국오므론&amp;아주대학교 2차전지 현장맞춤식 특화교육 안내[국비교육, 수당지급]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199394&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-05-27)
 
@@ -101,9 +107,3 @@
 
 * **[2022학년도 1학기 파란학기제 성과발표회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198511&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2022-05-25)
-
-* **[[학생상담소] 스트레스 관리 특강 &#x27;스트레스도 힘이 된다&#x27; 신청자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198499&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생상담소 (~2022-05-25)
-
-* **[서버 메인보드 교체 작업 완료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198494&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 정보시스템팀 (~2022-05-24)
