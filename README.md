@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[&#x27;연구실 안전의 날&#x27; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199417&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 안전관리센터 (~2022-05-30)
+
+* **[[국가근로][교사대생등대학생튜터링] 5월 국가근로/교사대생등대학생튜터링장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 5/31 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199415&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-05-30)
+
 * **[[홍보] 2022년 창업중심대학 창업클럽 모집 안내(한양대학교, ~6/13)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199408&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-05-30)
 
@@ -101,9 +107,3 @@
 
 * **[연암관 식당 내부 공사에 따른 운영 일시중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198540&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-05-25)
-
-* **[[조기마감] 2022-1 파란학기제 성과발표회 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198515&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2022-05-25)
-
-* **[2022학년도 1학기 파란학기제 성과발표회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198511&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2022-05-25)
