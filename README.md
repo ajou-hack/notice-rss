@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[봉사활동] 대학생 농촌일손돕기 봉사활동 (화성 포도농가 방문)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199444&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-05-30)
+
+* **[학교법인 대우학원 정관 및 규정류 개정 공포(제356차 이사회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199443&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2022-05-30)
+
 * **[[중앙도서관] 현충일 자료실 휴관 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199435&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-05-30)
 
@@ -101,9 +107,3 @@
 
 * **[한국오므론&amp;아주대학교 2차전지 현장맞춤식 특화교육 안내[국비교육, 수당지급]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198564&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-05-25)
-
-* **[[대학일자리플러스센터] 2022 AJOU-동문멘토링 5/26(목) 일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198563&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-25)
-
-* **[[중앙도서관] 지방선거일 자료실 휴관 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198561&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-05-25)
