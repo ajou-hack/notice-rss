@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[총무팀] 2022학년도 단과대학 연합 하계 축제 진행에 따른 주차 통제 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199422&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-05-30)
+
 * **[&#x27;연구실 안전의 날&#x27; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199417&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 안전관리센터 (~2022-05-30)
 
@@ -27,7 +30,7 @@
 * **[[홍보] 2022년 창업중심대학 창업클럽 모집 안내(한양대학교, ~6/13)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199408&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-05-30)
 
-* **[(당일재공지) 2022 하계 현장실습 온라인 설명회 안내(★2차 5/30(화) 18시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199405&amp;article.offset=0&amp;articleLimit=30)**
+* **[(당일재공지) 2022 하계 현장실습 온라인 설명회 안내(★2차 5/30(월) 18시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199405&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-05-30)
 
 * **[한국오므론&amp;아주대학교 2차전지 현장맞춤식 특화교육 안내[국비교육, 수당지급]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199394&amp;article.offset=0&amp;articleLimit=30)**
@@ -104,6 +107,3 @@
 
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198545&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-05-25)
-
-* **[연암관 식당 내부 공사에 따른 운영 일시중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198540&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-05-25)
