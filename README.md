@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199476&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-05-31)
+
+* **[[중앙도서관] 북큐레이션 프리뷰 이벤트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199471&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-05-31)
+
 * **[[재공지] 2022-2학기 파란학기제 설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199467&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2022-05-31)
 
@@ -101,9 +107,3 @@
 
 * **[「제8회 대학혁신지원사업 Webinar 컨퍼런스」 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198580&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2022-05-26)
-
-* **[[대학일자리플러스센터] 취업포트폴리오 작성법_6/3(금)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198578&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-26)
-
-* **[[대학일자리플러스센터] 채용공고분석 특강(3회)_5/30(월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198577&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-26)
