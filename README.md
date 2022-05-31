@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 2022 AJOU-동문멘토링 (8일차) 6/01(수) 일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199496&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-31)
+
+* **[나라키움 대학생주택 2022년 여름학기 입주자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199493&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-05-31)
+
 * **[[LINC 3.0] 환경부 국립생물자원관 2022 하계 대학생 현장실습 참가자 모집(~6.8까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199490&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-05-31)
 
@@ -57,7 +63,7 @@
 * **[[중앙도서관] 현충일 자료실 휴관 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199435&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-05-30)
 
-* **[2022-1학기 파란학기제 시상식 근로장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199428&amp;article.offset=0&amp;articleLimit=30)**
+* **[[조기마감] 2022-1학기 파란학기제 시상식 근로장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199428&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2022-05-30)
 
 * **[[총무팀] 2022학년도 단과대학 연합 하계 축제 진행에 따른 주차 통제 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199422&amp;article.offset=0&amp;articleLimit=30)**
@@ -101,9 +107,3 @@
 
 * **[[대학일자리플러스센터] 2022 AJOU-동문멘토링 (5일차) 5/27(금) 일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198665&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-05-26)
-
-* **[2022년 상반기 군산시 대학생 학자금대출 이자 지원 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198659&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-05-26)
-
-* **[나라키움 대학생주택 2022학년 1학기 입주자 추가 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198654&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-05-26)
