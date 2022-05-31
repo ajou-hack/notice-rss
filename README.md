@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 미국IT웹 개발자 멘토링_찾아가는 해외취업 Step2](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199484&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-31)
+
+* **[[대학일자리플러스센터][재공지] 2022 수원시 일자리 박람회(6/9)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199482&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-05-31)
+
 * **[[대학일자리플러스센터]소원나무 이벤트 5월 4주차 당첨자 발표!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199480&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-05-31)
 
@@ -101,9 +107,3 @@
 
 * **[[대학일자리플러스센터] 2022 아주히든챔피언학생발굴단 9기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198608&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-05-26)
-
-* **[[파란학기제] 2022-2학기 파란학기제 설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198607&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2022-05-26)
-
-* **[2022학년도 2학기 미래자동차 연계전공 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198600&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 혁신공유단 (~2022-05-26)
