@@ -18,6 +18,30 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[국가근로] 2022학년도 1학기 하계방학 일반 교내외 국가근로장학생 대체선발 공고 (희망근로장학기관 신청 필수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199557&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-06-02)
+
+* **[2022년 멀티미디어 강의실 점검결과(05월) 및 2022년 (06월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199556&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2022-06-02)
+
+* **[[대학일자리플러스센터] [재공지] 미국IT웹 개발자 멘토링_찾아가는 해외취업 설명회 Step2](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199554&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-02)
+
+* **[인조잔디구장(운동장) 예약안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199552&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 학생지원팀 (~2022-06-02)
+
+* **[[Remind][학사]2022-2학기 재입학 시행 안내(06.02.~06.24.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199551&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-06-02)
+
+* **[[봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199550&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-06-02)
+
+* **[[봉사활동] 적십자 사랑의 헌혈 운동 ( 6/8 )](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199548&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-06-02)
+
+* **[[대학일자리플러스센터] 2022 NH농협은행 인턴형 5급 신규직원 채용 설명회(6/7~8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199546&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-02)
+
 * **[[대학일자리플러스센터] 2022 AJOU-동문멘토링 (9일차) 6/02(목) 일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199526&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-01)
 
@@ -44,9 +68,6 @@
 
 * **[[대학일자리플러스센터]소원나무 이벤트 5월 4주차 당첨자 발표!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199480&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-05-31)
-
-* **[[봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199476&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-05-31)
 
 * **[[중앙도서관] 북큐레이션 프리뷰 이벤트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199471&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-05-31)
@@ -86,24 +107,3 @@
 
 * **[[홍보] 2022년 창업중심대학 창업클럽 모집 안내(한양대학교, ~6/13)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199408&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-05-30)
-
-* **[(당일재공지) 2022 하계 현장실습 온라인 설명회 안내(★2차 5/30(월) 18시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199405&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-05-30)
-
-* **[한국오므론&amp;아주대학교 2차전지 현장맞춤식 특화교육 안내[국비교육, 수당지급]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199394&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2022-05-27)
-
-* **[[대학일자리플러스센터] 2022 AJOU-동문멘토링 (6일차) 5/30(월) 일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199393&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-27)
-
-* **[[대학일자리플러스센터] 해외취업 레쥬메 첨삭 프로그램_상시모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199392&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-27)
-
-* **[국제교육센터 제9기 아주글로벌버디(AJOU GLOBAL BUDDY) 모집 (재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199381&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 국제교육센터 (~2022-05-27)
-
-* **[[중앙도서관] &lt;긴급&gt; 아주대학교 학보 401호~455호, 502~585호 수집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198956&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-05-27)
-
-* **[[대학일자리플러스센터] 5월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=198679&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-27)
