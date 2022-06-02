@@ -18,6 +18,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 44호 (2022.06)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199572&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-02)
+
+* **[[학습법] 2022-1학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199569&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-06-02)
+
+* **[[공학교육혁신센터] 2022학년도 1학기 학생상담 안내(2022.6.14.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199564&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2022-06-02)
+
 * **[[국가근로] 2022학년도 1학기 하계방학 일반 교내외 국가근로장학생 대체선발 공고 (희망근로장학기관 신청 필수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199557&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-06-02)
 
@@ -98,12 +107,3 @@
 
 * **[[총무팀] 2022학년도 단과대학 연합 하계 축제 진행에 따른 주차 통제 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199422&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-05-30)
-
-* **[&#x27;연구실 안전의 날&#x27; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199417&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 안전관리센터 (~2022-05-30)
-
-* **[[국가근로][교사대생등대학생튜터링] 5월 국가근로/교사대생등대학생튜터링장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 5/31 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199415&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-05-30)
-
-* **[[홍보] 2022년 창업중심대학 창업클럽 모집 안내(한양대학교, ~6/13)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199408&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-05-30)
