@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022년 학교 밖 수·과학실 참가자 모집 안내 (중학생 대상) (6/2~6/10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199801&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 과학영재교육원 (~2022-06-03)
+
+* **[동물실험계획서 중 동물 사육관련 계획서 작성 방법 변경에 따른 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199798&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 실험동물연구센터 (~2022-06-03)
+
 * **[2022학년도 1학기 파란학기제 성과발표회 온라인 전시관 오픈!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199797&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2022-06-03)
 
@@ -101,9 +107,3 @@
 
 * **[[대학일자리플러스센터][재공지] 2022 수원시 일자리 박람회(6/9)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199482&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-05-31)
-
-* **[[대학일자리플러스센터]소원나무 이벤트 5월 4주차 당첨자 발표!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199480&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-31)
-
-* **[[중앙도서관] 북큐레이션 프리뷰 이벤트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199471&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-05-31)
