@@ -18,6 +18,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022학년도 2학기 파란학기 MOOC 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199815&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2022-06-03)
+
+* **[2022학년도 2학기 파란학기제 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199814&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2022-06-03)
+
+* **[(재) &#x27;연구실 안전의 날&#x27; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199813&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 안전관리센터 (~2022-06-03)
+
 * **[☆대학혁신지원사업 설문조사 이벤트☆](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199806&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원운영팀 (~2022-06-03)
 
@@ -27,7 +36,7 @@
 * **[동물실험계획서 중 동물 사육관련 계획서 작성 방법 변경에 따른 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199798&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 실험동물연구센터 (~2022-06-03)
 
-* **[2022학년도 1학기 파란학기제 성과발표회 온라인 전시관 오픈!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199797&amp;article.offset=0&amp;articleLimit=30)**
+* **[☆인기투표☆ 2022학년도 1학기 파란학기제 성과발표회 온라인 전시관 오픈!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199797&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2022-06-03)
 
 * **[2022 LINC 3.0 특화분야 연계『산학협력협의체 운영 지원사업』모집(~06.16(목))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199796&amp;article.offset=0&amp;articleLimit=30)**
@@ -98,12 +107,3 @@
 
 * **[[메이커스페이스] 6월 휴관 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199502&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-05-31)
-
-* **[[대학일자리플러스센터] 2022 AJOU-동문멘토링 (8일차) 6/01(수) 일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199496&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-31)
-
-* **[나라키움 대학생주택 2022년 여름학기 입주자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199493&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-05-31)
-
-* **[[LINC 3.0] 환경부 국립생물자원관 2022 하계 대학생 현장실습 참가자 모집(~6.8까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199490&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-05-31)
