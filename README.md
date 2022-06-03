@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[☆대학혁신지원사업 설문조사 이벤트☆](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199806&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원운영팀 (~2022-06-03)
+
 * **[2022년 학교 밖 수·과학실 참가자 모집 안내 (중학생 대상) (6/2~6/10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199801&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 과학영재교육원 (~2022-06-03)
 
@@ -104,6 +107,3 @@
 
 * **[[LINC 3.0] 환경부 국립생물자원관 2022 하계 대학생 현장실습 참가자 모집(~6.8까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199490&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-05-31)
-
-* **[[대학일자리플러스센터] 미국IT웹 개발자 멘토링_찾아가는 해외취업 Step2](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199484&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-31)
