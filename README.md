@@ -18,6 +18,24 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022학년도 1학기 파란학기제 성과발표회 온라인 전시관 오픈!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199797&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2022-06-03)
+
+* **[[다산학부대학] 2022-하계 계절학기 BSM 및 공업수학 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199792&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-06-03)
+
+* **[[대학일자리플러스센터] 6월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199790&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-03)
+
+* **[(학사)2022-하계 계절수업 등록 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199783&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-06-03)
+
+* **[(학사)2022-하계 계절수업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199782&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-06-03)
+
+* **[[대학일자리플러스센터] 금주의 추천채용_SD바이오센서/쌍용정보통신/케이에스넷](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199763&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-02)
+
 * **[금융공학과 전공 설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199757&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 경영대학교학팀 (~2022-06-02)
 
@@ -54,7 +72,7 @@
 * **[[봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199550&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-06-02)
 
-* **[[봉사활동] 적십자 사랑의 헌혈 운동 ( 6/8 )](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199548&amp;article.offset=0&amp;articleLimit=30)**
+* **[[봉사활동] 적십자 교내 헌혈 안내 ( 6/8 )](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199548&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-06-02)
 
 * **[[대학일자리플러스센터] 2022 NH농협은행 인턴형 5급 신규직원 채용 설명회(6/7~8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199546&amp;article.offset=0&amp;articleLimit=30)**
@@ -89,21 +107,3 @@
 
 * **[[중앙도서관] 북큐레이션 프리뷰 이벤트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199471&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-05-31)
-
-* **[[재공지] 2022-2학기 파란학기제 설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199467&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2022-05-31)
-
-* **[[학부]2022학년도 1학기 수업평가 실시 안내(Spring Semester Course Evaluation)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199452&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-05-31)
-
-* **[[대학일자리플러스센터] 2022 롯데건설 신입/인턴채용 및 온라인 채용 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199451&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-31)
-
-* **[[대학일자리플러스센터] 2022 AJOU-동문멘토링 (7일차) 5/31(화) 일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199448&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-30)
-
-* **[[봉사활동] 대학생 농촌일손돕기 봉사활동 (화성 포도농가 방문)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199444&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-05-30)
-
-* **[학교법인 대우학원 정관 및 규정류 개정 공포(제356차 이사회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199443&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2022-05-30)
