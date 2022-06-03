@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[봉사활동] 교내 헌혈 캠페인 봉사자 모집 안내(6/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199824&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-06-03)
+
 * **[2022학년도 2학기 파란학기 MOOC 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199815&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2022-06-03)
 
@@ -104,6 +107,3 @@
 
 * **[[모집] 2022학년도 후기 아주대학교 일반대학원 비즈니스애널리틱스학과 신입생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199507&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 경영대학교학팀 (~2022-05-31)
-
-* **[[메이커스페이스] 6월 휴관 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199502&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-05-31)
