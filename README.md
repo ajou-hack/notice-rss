@@ -27,6 +27,9 @@
 * **[2022학년도 1학기 파란학기제 성과발표회 온라인 전시관 오픈!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199797&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2022-06-03)
 
+* **[2022 LINC 3.0 특화분야 연계『산학협력협의체 운영 지원사업』모집(~06.16(목))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199796&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2022-06-03)
+
 * **[[다산학부대학] 2022-하계 계절학기 BSM 및 공업수학 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199792&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-06-03)
 
@@ -103,7 +106,4 @@
  [기타] - LINC사업팀 (~2022-05-31)
 
 * **[[대학일자리플러스센터] 미국IT웹 개발자 멘토링_찾아가는 해외취업 Step2](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199484&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-05-31)
-
-* **[[대학일자리플러스센터][재공지] 2022 수원시 일자리 박람회(6/9)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199482&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-05-31)
