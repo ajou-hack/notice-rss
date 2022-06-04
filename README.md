@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[글로벌미래교육원] 취업 영어 자격증 초단기 완성 여름 특강 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199828&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 글로벌미래교육원 (~2022-06-04)
+
 * **[[홍보][한국청년기업가정신재단] 2022 학생 창업유망팀 300 경진대회 성장,교육트랙 접수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199827&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-06-03)
 
@@ -104,6 +107,3 @@
 
 * **[[대학일자리플러스센터] 2022 NH농협은행 인턴형 5급 신규직원 채용 설명회(6/7~8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199546&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-02)
-
-* **[[대학일자리플러스센터] 2022 AJOU-동문멘토링 (9일차) 6/02(목) 일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199526&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-01)
