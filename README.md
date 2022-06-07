@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[롯데장학재단] 2022-2학기 롯데 39기 희망멘토링 장학생 선발 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199874&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-06-07)
+
+* **[2022 천안시 대학생 학자금 대출이자 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199872&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-06-07)
+
 * **[22년도 제2차 동물실험기초/보수교육 -2022년 6월 23일(목)-온라인교육](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199865&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 실험동물연구센터 (~2022-06-07)
 
@@ -100,10 +106,4 @@
  [학사] - 경영대학교학팀 (~2022-06-02)
 
 * **[[대학일자리플러스센터] 2022 AJOU-동문멘토링 (10일차) 6/03(금) 일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199756&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-02)
-
-* **[[글로벌교양학부] 여름학기 슬기로운 한국어 학술모임 모집 (외국인 유학생) (~6/20)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199638&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 글로벌교양학부 (~2022-06-02)
-
-* **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 44호 (2022.06)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199572&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-02)
