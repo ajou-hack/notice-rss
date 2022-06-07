@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022학년도 2학기 장학신청_06.30(목)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199848&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-06-07)
+
+* **[[중앙도서관] 22-하계 일반자료실 업무 보조 휴학생 모집 (~6/21 am 09:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199847&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-06-07)
+
 * **[[글로벌미래교육원] 취업 영어 자격증 초단기 완성 여름 특강 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199828&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 글로벌미래교육원 (~2022-06-04)
 
@@ -101,9 +107,3 @@
 
 * **[[봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199550&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-06-02)
-
-* **[[봉사활동] 적십자 교내 헌혈 안내 ( 6/8 )](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199548&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-06-02)
-
-* **[[대학일자리플러스센터] 2022 NH농협은행 인턴형 5급 신규직원 채용 설명회(6/7~8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199546&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-02)
