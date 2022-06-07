@@ -18,10 +18,25 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 채용공고분석 특강(4회)_6/13(월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199857&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-07)
+
+* **[2022년 상반기 울산광역시 대학생 학자금대출 이자지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199854&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-06-07)
+
+* **[[중앙도서관] 2022학년도 하계방학 면학장학생 모집 (~6/10 am09:00)(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199852&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-06-07)
+
+* **[[국제교육센터] 제71회 모의토익 실시 공고(2022.6.22(수) 14:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199851&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교육센터운영팀 (~2022-06-07)
+
+* **[상위 규정 개정에 따른 학칙 개정 공포](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199850&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2022-06-07)
+
 * **[2022학년도 2학기 장학신청_06.30(목)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199848&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-06-07)
 
-* **[[중앙도서관] 22-하계 일반자료실 업무 보조 휴학생 모집 (~6/21 am 09:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199847&amp;article.offset=0&amp;articleLimit=30)**
+* **[[중앙도서관](수정) 22-하계 일반자료실 업무 보조 휴학생 모집 (~6/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199847&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-06-07)
 
 * **[[글로벌미래교육원] 취업 영어 자격증 초단기 완성 여름 특강 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199828&amp;article.offset=0&amp;articleLimit=30)**
@@ -92,18 +107,3 @@
 
 * **[[국가근로] 2022학년도 1학기 하계방학 일반 교내외 국가근로장학생 대체선발 공고 (희망근로장학기관 신청 필수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199557&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-06-02)
-
-* **[2022년 멀티미디어 강의실 점검결과(05월) 및 2022년 (06월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199556&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2022-06-02)
-
-* **[[대학일자리플러스센터] [재공지] 미국IT웹 개발자 멘토링_찾아가는 해외취업 설명회 Step2](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199554&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-02)
-
-* **[인조잔디구장(운동장) 예약안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199552&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 학생지원팀 (~2022-06-02)
-
-* **[[Remind][학사]2022-2학기 재입학 시행 안내(06.02.~06.24.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199551&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-06-02)
-
-* **[[봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199550&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-06-02)
