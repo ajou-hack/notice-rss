@@ -18,7 +18,13 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[(학사)2022-하계 계절수업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199861&amp;article.offset=0&amp;articleLimit=30)**
+* **[22년도 제2차 동물실험기초/보수교육 -2022년 6월 23일(목)-온라인교육](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199865&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 실험동물연구센터 (~2022-06-07)
+
+* **[[공학교육혁신센터] 2022학년도 1학기 학생상담 안내(2022.6.14.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199863&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2022-06-07)
+
+* **[[6/8(수)~6/10(금) 수강신청] (학사)2022-하계 계절수업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199861&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-06-07)
 
 * **[[대학일자리플러스센터] 채용공고분석 특강(4회)_6/13(월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199857&amp;article.offset=0&amp;articleLimit=30)**
@@ -81,7 +87,7 @@
 * **[[대학일자리플러스센터] 6월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199790&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-03)
 
-* **[(학사)2022-하계 계절수업 등록 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199783&amp;article.offset=0&amp;articleLimit=30)**
+* **[[6/14(화)~6/16(목)] (학사)2022-하계 계절수업 등록 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199783&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-06-03)
 
 * **[(학사)2022-하계 계절수업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199782&amp;article.offset=0&amp;articleLimit=30)**
@@ -101,9 +107,3 @@
 
 * **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 44호 (2022.06)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199572&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-02)
-
-* **[[학습법] 2022-1학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199569&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-06-02)
-
-* **[[공학교육혁신센터] 2022학년도 1학기 학생상담 안내(2022.6.14.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199564&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2022-06-02)
