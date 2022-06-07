@@ -18,6 +18,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022년 부마민주항쟁기념재단 장학생 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199884&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-06-07)
+
+* **[[대학연계] SK하이닉스(이천) 보안솔루션 운영 등 신입채용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199880&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 소프트웨어융합대학교학팀 (~2022-06-07)
+
+* **[[중앙도서관]6월 이용 교육 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199878&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-06-07)
+
 * **[[롯데장학재단] 2022-2학기 롯데 39기 희망멘토링 장학생 선발 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199874&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-06-07)
 
@@ -98,12 +107,3 @@
 
 * **[(학사)2022-하계 계절수업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199782&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-06-03)
-
-* **[[대학일자리플러스센터] 금주의 추천채용_SD바이오센서/쌍용정보통신/케이에스넷](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199763&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-02)
-
-* **[금융공학과 전공 설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199757&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 경영대학교학팀 (~2022-06-02)
-
-* **[[대학일자리플러스센터] 2022 AJOU-동문멘토링 (10일차) 6/03(금) 일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199756&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-02)
