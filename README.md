@@ -18,6 +18,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[글로벌미래교육원] 제19기 수원시여성지도자대학 수강생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200042&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 글로벌미래교육원 (~2022-06-08)
+
+* **[[대학원 인공지능학과] 2022학년도 후기 수시1차 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200040&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 소프트웨어융합대학 교학팀 (~2022-06-08)
+
+* **[[글로벌미래교육원] 2022년 여름학기 일반과정 개설 - 수강생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200038&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 글로벌미래교육원 (~2022-06-08)
+
 * **[[대학원 AI융합네트워크학과] 2022학년도 후기 수시 1차 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200035&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 소프트웨어융합대학교학팀 (~2022-06-08)
 
@@ -98,12 +107,3 @@
 
 * **[☆대학혁신지원사업 설문조사 이벤트☆](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199806&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원운영팀 (~2022-06-03)
-
-* **[2022년 학교 밖 수·과학실 참가자 모집 안내 (중학생 대상) (6/2~6/10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199801&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 과학영재교육원 (~2022-06-03)
-
-* **[동물실험계획서 중 동물 사육관련 계획서 작성 방법 변경에 따른 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199798&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 실험동물연구센터 (~2022-06-03)
-
-* **[☆인기투표☆ 2022학년도 1학기 파란학기제 성과발표회 온라인 전시관 오픈!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199797&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2022-06-03)
