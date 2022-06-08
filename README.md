@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학원 AI융합네트워크학과] 2022학년도 후기 수시 1차 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200035&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 소프트웨어융합대학교학팀 (~2022-06-08)
+
 * **[☆대학혁신지원사업 설문조사하고 기프티콘 받자☆](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200032&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2022-06-08)
 
@@ -104,6 +107,3 @@
 
 * **[☆인기투표☆ 2022학년도 1학기 파란학기제 성과발표회 온라인 전시관 오픈!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199797&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2022-06-03)
-
-* **[2022 LINC 3.0 특화분야 연계『산학협력협의체 운영 지원사업』모집(~06.16(목))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199796&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-06-03)
