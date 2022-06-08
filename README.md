@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[블록체인 중급 개발 구직자 교육과정 교육생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199897&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - LINC사업팀 (~2022-06-08)
+
+* **[2022-1학기 기말고사 대면시험 응시자의 원격시험을 위한 PC실(강의실) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199895&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-06-08)
+
 * **[2022년 부마민주항쟁기념재단 장학생 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199884&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-06-07)
 
@@ -101,9 +107,3 @@
 
 * **[[대학일자리플러스센터] 6월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199790&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-03)
-
-* **[[6/14(화)~6/16(목)] (학사)2022-하계 계절수업 등록 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199783&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-06-03)
-
-* **[(학사)2022-하계 계절수업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199782&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-06-03)
