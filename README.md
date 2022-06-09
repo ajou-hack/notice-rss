@@ -18,6 +18,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[포스코청암재단] 2022년 포스코비전장학 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200080&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-06-09)
+
+* **[[대학원 융합의과학과] 2022학년도 전기 신입생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200078&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 의과대학 교학팀 (~2022-06-09)
+
+* **[이목구비-취업 교육 프로그램 신청자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200076&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 의과대학 교학팀 (~2022-06-09)
+
 * **[[장학]2022학년도 2학기 농어촌희망재단 농림축산식품부 대학 장학금 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200073&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-06-09)
 
@@ -98,12 +107,3 @@
 
 * **[2022년 상반기 울산광역시 대학생 학자금대출 이자지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199854&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-06-07)
-
-* **[[중앙도서관] 2022학년도 하계방학 면학장학생 모집 (~6/10 am09:00)(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199852&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-06-07)
-
-* **[[접수 마감되었습니다!!][국제교육센터] 제71회 모의토익 실시 공고(2022.6.22(수) 14:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199851&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교육센터운영팀 (~2022-06-07)
-
-* **[상위 규정 개정에 따른 학칙 개정 공포](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199850&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2022-06-07)
