@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[장학]2022학년도 2학기 농어촌희망재단 농림축산식품부 대학 장학금 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200073&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-06-09)
+
+* **[율곡관 혁신공유라운지 사용불가 안내(6/10(금) 9:00~15:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200066&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원운영팀 (~2022-06-09)
+
 * **[[Remind][학사]2022-2학기 재입학 시행 안내(06.02.~06.24.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200059&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-06-09)
 
@@ -101,9 +107,3 @@
 
 * **[상위 규정 개정에 따른 학칙 개정 공포](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199850&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 기획팀 (~2022-06-07)
-
-* **[2022학년도 2학기 장학신청_06.30(목)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199848&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-06-07)
-
-* **[[중앙도서관](수정) 22-하계 일반자료실 업무 보조 휴학생 모집 (~6/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199847&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-06-07)
