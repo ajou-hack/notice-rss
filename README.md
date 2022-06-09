@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[Remind][학사]2022-2학기 재입학 시행 안내(06.02.~06.24.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200059&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-06-09)
+
 * **[[다산학부대학] 2022-하계 계절학기 영역별교양 추가 여석 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200054&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-06-08)
 
@@ -93,7 +96,7 @@
 * **[[중앙도서관] 2022학년도 하계방학 면학장학생 모집 (~6/10 am09:00)(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199852&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-06-07)
 
-* **[[국제교육센터] 제71회 모의토익 실시 공고(2022.6.22(수) 14:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199851&amp;article.offset=0&amp;articleLimit=30)**
+* **[[접수 마감되었습니다!!][국제교육센터] 제71회 모의토익 실시 공고(2022.6.22(수) 14:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199851&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교육센터운영팀 (~2022-06-07)
 
 * **[상위 규정 개정에 따른 학칙 개정 공포](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199850&amp;article.offset=0&amp;articleLimit=30)**
@@ -104,6 +107,3 @@
 
 * **[[중앙도서관](수정) 22-하계 일반자료실 업무 보조 휴학생 모집 (~6/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199847&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-06-07)
-
-* **[[글로벌미래교육원] 취업 영어 자격증 초단기 완성 여름 특강 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199828&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 글로벌미래교육원 (~2022-06-04)
