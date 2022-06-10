@@ -18,6 +18,21 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[아주대X인하대] 아인슈타인 프로젝트(현직자 선배 초청 Project Solving 과정) 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200103&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-10)
+
+* **[2022-1 전공·교양 교육과정 학습성과 재학생 설문조사(기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200102&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교육평가인증센터 (~2022-06-10)
+
+* **[학교 운동장 외부대관 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200100&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-06-10)
+
+* **[(당일재공지) 2022-1학기 파란학기제 성과발표회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200099&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2022-06-10)
+
+* **[[대학일자리플러스센터] 금주의 추천채용_동원그룹/DMC미디어/쎄크](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200094&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-09)
+
 * **[[대학일자리플러스센터] [재공지] 2022 아주히든챔피언학생발굴단 9기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200092&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-09)
 
@@ -92,18 +107,3 @@
 
 * **[[중앙도서관]6월 이용 교육 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199878&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-06-07)
-
-* **[[롯데장학재단] 2022-2학기 롯데 39기 희망멘토링 장학생 선발 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199874&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-06-07)
-
-* **[2022 천안시 대학생 학자금 대출이자 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199872&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-06-07)
-
-* **[22년도 제2차 동물실험기초/보수교육 -2022년 6월 23일(목)-온라인교육](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199865&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 실험동물연구센터 (~2022-06-07)
-
-* **[[공학교육혁신센터] 2022학년도 1학기 학생상담 안내(2022.6.14.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199863&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2022-06-07)
-
-* **[[6/8(수)~6/10(금) 수강신청] (학사)2022-하계 계절수업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199861&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-06-07)
