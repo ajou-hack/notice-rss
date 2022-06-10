@@ -18,16 +18,19 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[6/14(화)~6/16(목)] (학사)2022-하계 계절수업 등록 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200148&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-06-10)
+
 * **[2022학년도 후기 학석사연계과정생 수시 모집 전형 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200140&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 대학원교학팀 (~2022-06-10)
 
 * **[(재공지)2022 LINC 3.0 특화분야 연계『산학협력협의체 운영 지원사업』모집(~06.16(목) 18:00시까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200137&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-06-10)
 
-* **[대학혁신지원사업 설문조사만 해도 치킨을 준다고?!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200136&amp;article.offset=0&amp;articleLimit=30)**
+* **[설문조사만 해도 치킨을 준다고?! 대학혁신지원사업 설문조사 안내(~6/12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200136&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2022-06-10)
 
-* **[[글로벌교양학부] (외국인 유학생) 여름학기 슬기로운 한국어 학술모임 모집 (외국인 유학생) (~6/20)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200113&amp;article.offset=0&amp;articleLimit=30)**
+* **[[글로벌교양학부] (1학년 외국인 유학생) 여름학기 슬기로운 한국어 학술모임 모집 (~6/20)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200113&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 글로벌교양학부 (~2022-06-10)
 
 * **[[대학일자리플러스센터] 6월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200108&amp;article.offset=0&amp;articleLimit=30)**
@@ -104,6 +107,3 @@
 
 * **[(재) &#x27;연구실 안전의 날&#x27; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200030&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 안전관리센터 (~2022-06-08)
-
-* **[2022-1학기 기말고사 대면시험 응시자의 원격시험을 위한 PC실(강의실) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200022&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-06-08)
