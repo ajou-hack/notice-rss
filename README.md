@@ -18,7 +18,13 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[[글로벌교양학부](재공지) 여름학기 슬기로운 한국어 학술모임 모집 (외국인 유학생) (~6/20)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200113&amp;article.offset=0&amp;articleLimit=30)**
+* **[(재공지)2022 LINC 3.0 특화분야 연계『산학협력협의체 운영 지원사업』모집(~06.16(목) 18:00시까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200137&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2022-06-10)
+
+* **[대학혁신지원사업 설문조사만 해도 치킨을 준다고?!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200136&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2022-06-10)
+
+* **[[글로벌교양학부] (외국인 유학생) 여름학기 슬기로운 한국어 학술모임 모집 (외국인 유학생) (~6/20)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200113&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 글로벌교양학부 (~2022-06-10)
 
 * **[[대학일자리플러스센터] 6월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200108&amp;article.offset=0&amp;articleLimit=30)**
@@ -101,9 +107,3 @@
 
 * **[(당일재공지)[봉사활동] 적십자 교내 단체 헌혈 (장소변경)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199906&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-06-08)
-
-* **[블록체인 중급 개발 구직자 교육과정 교육생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199897&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀 (~2022-06-08)
-
-* **[2022년 부마민주항쟁기념재단 장학생 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=199884&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-06-07)
