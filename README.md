@@ -18,6 +18,24 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[글로벌미래교육원] 8주 간의 기적. 여름 영어 특강 서둘러 신청하고 3가지 혜택 다 받으세요](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200157&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 글로벌미래교육원 (~2022-06-11)
+
+* **[[대학일자리플러스센터] 2022 하계방학 진로-취업프로그램 사전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200155&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-10)
+
+* **[[자연대] 2022-1학기 생명과학 BSM 과목 기말고사 대학원생 부감독 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200154&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 자연과학대학교학팀 (~2022-06-10)
+
+* **[[자연대] 2022-1학기 화학 BSM 과목 기말고사 대학원생 부감독 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200153&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 자연과학대학교학팀 (~2022-06-10)
+
+* **[[자연대] 2022-1학기 수학 BSM 과목 기말고사 대학원생 부감독 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200152&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 자연과학대학교학팀 (~2022-06-10)
+
+* **[[다산학부대학] 2022-1 교양과목 기말고사 대학원생 감독자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200151&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-06-10)
+
 * **[[6/14(화)~6/16(목)] (학사)2022-하계 계절수업 등록 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200148&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-06-10)
 
@@ -89,21 +107,3 @@
 
 * **[[다산학부대학] 2022-하계 계절학기 BSM 및 공업수학 안내(추가)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200046&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-06-08)
-
-* **[[글로벌미래교육원] 제19기 수원시여성지도자대학 수강생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200042&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 글로벌미래교육원 (~2022-06-08)
-
-* **[[대학원 인공지능학과] 2022학년도 후기 수시1차 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200040&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 소프트웨어융합대학 교학팀 (~2022-06-08)
-
-* **[[글로벌미래교육원] 2022년 여름학기 일반과정 개설 - 수강생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200038&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 글로벌미래교육원 (~2022-06-08)
-
-* **[[대학원 AI융합네트워크학과] 2022학년도 후기 수시 1차 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200035&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 소프트웨어융합대학교학팀 (~2022-06-08)
-
-* **[☆대학혁신지원사업 설문조사하고 기프티콘 받자☆](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200032&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2022-06-08)
-
-* **[(재) &#x27;연구실 안전의 날&#x27; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200030&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 안전관리센터 (~2022-06-08)
