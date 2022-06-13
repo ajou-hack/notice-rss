@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[글로벌교양학부] (1학년 외국인 유학생) 여름학기 슬기로운 한국어 학술모임 모집 (~6/20)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200164&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 글로벌교양학부 (~2022-06-13)
+
 * **[[글로벌미래교육원] 8주 간의 기적. 여름 영어 특강 서둘러 신청하고 3가지 혜택 다 받으세요](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200157&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 글로벌미래교육원 (~2022-06-11)
 
@@ -104,6 +107,3 @@
 
 * **[(기한연장)[비교과교육지원센터] 학생설계 비교과프로그램 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200047&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2022-06-08)
-
-* **[[다산학부대학] 2022-하계 계절학기 BSM 및 공업수학 안내(추가)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200046&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-06-08)
