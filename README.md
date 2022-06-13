@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[다산학부대학] 2022-1 교양과목 기말고사 대학원생 감독자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200224&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-06-13)
+
+* **[[학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200222&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-06-13)
+
 * **[[기획팀]규정류 개정 공포(2022학년도 제5차 교무회의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200210&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 기획팀 (~2022-06-13)
 
@@ -57,7 +63,7 @@
 * **[[자연대] 2022-1학기 수학 BSM 과목 기말고사 대학원생 부감독 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200152&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 자연과학대학교학팀 (~2022-06-10)
 
-* **[[다산학부대학] 2022-1 교양과목 기말고사 대학원생 감독자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200151&amp;article.offset=0&amp;articleLimit=30)**
+* **[(마감)[다산학부대학] 2022-1 교양과목 기말고사 대학원생 감독자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200151&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-06-10)
 
 * **[[6/14(화)~6/16(목)] (학사)2022-하계 계절수업 등록 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200148&amp;article.offset=0&amp;articleLimit=30)**
@@ -101,9 +107,3 @@
 
 * **[[포스코청암재단] 2022년 포스코비전장학 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200080&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-06-09)
-
-* **[[대학원 융합의과학과] 2022학년도 전기 신입생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200078&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 의과대학 교학팀 (~2022-06-09)
-
-* **[이목구비-취업 교육 프로그램 신청자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200076&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 의과대학 교학팀 (~2022-06-09)
