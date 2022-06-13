@@ -18,6 +18,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[봉사활동] 2022 프로+불편러들의 사회변화 실험실 대학생팀 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200200&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-06-13)
+
+* **[★수강신청,공고성적 불이익★ 2022학년도 1학기 학생상담 기간 연장 안내 (2022.6.21.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200198&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2022-06-13)
+
+* **[[학습법] 2022-1학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200197&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-06-13)
+
 * **[[혁신공유단] 근로장학생 모집(~6/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200173&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 혁신공유단 (~2022-06-13)
 
@@ -98,12 +107,3 @@
 
 * **[[Remind][학사]2022-2학기 재입학 시행 안내(06.02.~06.24.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200059&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-06-09)
-
-* **[[다산학부대학] 2022-하계 계절학기 영역별교양 추가 여석 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200054&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-06-08)
-
-* **[[한국장학재단] 2022년 1학기 국가장학금 유형2 지급일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200053&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-06-08)
-
-* **[[대학원 금융공학과] 2022학년도 후기 수시1차 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200052&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 경영대학교학팀 (~2022-06-08)
