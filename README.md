@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[혁신공유단] 근로장학생 모집(~6/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200173&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신공유단 (~2022-06-13)
+
 * **[[글로벌교양학부] (1학년 외국인 유학생) 여름학기 슬기로운 한국어 학술모임 모집 (~6/20)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200164&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 글로벌교양학부 (~2022-06-13)
 
@@ -104,6 +107,3 @@
 
 * **[[대학원 금융공학과] 2022학년도 후기 수시1차 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200052&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 경영대학교학팀 (~2022-06-08)
-
-* **[(기한연장)[비교과교육지원센터] 학생설계 비교과프로그램 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200047&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2022-06-08)
