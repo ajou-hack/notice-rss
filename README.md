@@ -21,6 +21,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] [6월20일(월) 14시접수~] 2022 하계 반도체 공정실습 과정(패터닝, 전기적 특성측정 및 분석)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200289&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-14)
+
+* **[[대학일자리플러스센터] 현직자와 함께하는 직무캠프_코멘토](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200286&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-14)
+
+* **[[혁신공유단] 혁신공유단 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200284&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신공유단 (~2022-06-14)
+
 * **[대학혁신지원사업 설문조사 이벤트 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200271&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2022-06-14)
 
@@ -101,12 +110,3 @@
 
 * **[(재공지)2022 LINC 3.0 특화분야 연계『산학협력협의체 운영 지원사업』모집(~06.16(목) 18:00시까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200137&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-06-10)
-
-* **[설문조사만 해도 치킨을 준다고?! 대학혁신지원사업 설문조사 안내(~6/12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200136&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2022-06-10)
-
-* **[[글로벌교양학부] (1학년 외국인 유학생) 여름학기 슬기로운 한국어 학술모임 모집 (~6/20)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200113&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 글로벌교양학부 (~2022-06-10)
-
-* **[[대학일자리플러스센터] 6월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200108&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-10)
