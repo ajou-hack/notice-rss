@@ -21,6 +21,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[대학혁신지원사업 설문조사 이벤트 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200271&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2022-06-14)
+
+* **[[혁신공유대학사업] 국민대학교 주최 스케일카 기반 자율주행 경진대회 참여 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200267&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신공유단 (~2022-06-14)
+
 * **[[비교과교육지원센터] 아주희망(핵심역량진단 및 비교과 활동지원 안내) 이벤트 당첨자 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200260&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2022-06-14)
 
@@ -42,7 +48,7 @@
 * **[[대학일자리플러스센터] 에이블 플러스 프로그램(반도체/6시그마/파이썬) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200225&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-13)
 
-* **[[다산학부대학] 2022-1 교양과목 기말고사 대학원생 감독자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200224&amp;article.offset=0&amp;articleLimit=30)**
+* **[(마감)[다산학부대학] 2022-1 교양과목 기말고사 대학원생 감독자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200224&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-06-13)
 
 * **[[학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200222&amp;article.offset=0&amp;articleLimit=30)**
@@ -104,9 +110,3 @@
 
 * **[[대학일자리플러스센터] 6월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200108&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-10)
-
-* **[[아주대X인하대] 아인슈타인 프로젝트(현직자 선배 초청 Project Solving 과정) 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200103&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-10)
-
-* **[2022-1 전공·교양 교육과정 학습성과 재학생 설문조사(기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200102&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교육평가인증센터 (~2022-06-10)
