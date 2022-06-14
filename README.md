@@ -18,6 +18,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[중앙도서관] 2022년 8월 졸업예정자 학위논문 제출안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200231&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-06-14)
+
+* **[[기획팀]아주대학교 학칙 개정(안) 사전 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200227&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2022-06-13)
+
+* **[[대학일자리플러스센터] 에이블 플러스 프로그램(반도체/6시그마/파이썬) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200225&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-13)
+
 * **[[다산학부대학] 2022-1 교양과목 기말고사 대학원생 감독자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200224&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-06-13)
 
@@ -98,12 +107,3 @@
 
 * **[[대학일자리플러스센터] 금주의 추천채용_동원그룹/DMC미디어/쎄크](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200094&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-09)
-
-* **[[대학일자리플러스센터] [재공지] 2022 아주히든챔피언학생발굴단 9기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200092&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-09)
-
-* **[[다산학부대학] 2022-하계 계절학기 BSM 및 공업수학 안내(추가)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200089&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-06-09)
-
-* **[[포스코청암재단] 2022년 포스코비전장학 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200080&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-06-09)
