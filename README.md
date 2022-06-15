@@ -21,6 +21,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[「2022 실내건축공사업협의회 장학생 선발」 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200344&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-06-15)
+
+* **[경기신용보증재단 대학생 프로보노단 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200342&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 홍보실 (~2022-06-15)
+
 * **[신학생회관 세미나실(공용연습실) 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200317&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 학생지원팀 (~2022-06-15)
 
@@ -104,9 +110,3 @@
 
 * **[[봉사활동] 2022 프로+불편러들의 사회변화 실험실 대학생팀 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200200&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-06-13)
-
-* **[★수강신청,공고성적 불이익★ 2022학년도 1학기 학생상담 기간 연장 안내 (2022.6.21.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200198&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2022-06-13)
-
-* **[[학습법] 2022-1학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200197&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-06-13)
