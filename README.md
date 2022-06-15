@@ -21,6 +21,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[신학생회관 세미나실(공용연습실) 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200317&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 학생지원팀 (~2022-06-15)
+
+* **[[시설팀] 2022학년도 냉·난방기 세척 및 정비안내 (추가요청분)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200316&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2022-06-15)
+
 * **[[한국청년기업가정신재단] 지역문제 발굴단 모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200313&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-06-15)
 
@@ -104,9 +110,3 @@
 
 * **[[학습법] 2022-1학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200197&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-06-13)
-
-* **[[글로벌교양학부] (1학년 외국인 유학생) 여름학기 슬기로운 한국어 학술모임 모집 (~6/20)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200164&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 글로벌교양학부 (~2022-06-13)
-
-* **[[글로벌미래교육원] 8주 간의 기적. 여름 영어 특강 서둘러 신청하고 3가지 혜택 다 받으세요](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200157&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 글로벌미래교육원 (~2022-06-11)
