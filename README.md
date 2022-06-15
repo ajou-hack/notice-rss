@@ -21,6 +21,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학부][졸업]2022-2학기 학사학위취득유예 신청 안내(2022.06.30.~2022.07.19.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200311&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-06-15)
+
+* **[[봉사활동] 영유아보육시설 야곱의 집 자원봉사자 모집 ( ~6/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200310&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-06-15)
+
+* **[[재공지]2022학년도 2학기 장학신청_06.30(목)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200307&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-06-15)
+
 * **[[대학일자리플러스센터] 하계 취업동아리 14기 모집(6/21부터)합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200293&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-14)
 
@@ -101,12 +110,3 @@
 
 * **[[대학일자리플러스센터] 2022 하계방학 진로-취업프로그램 사전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200155&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-10)
-
-* **[[자연대] 2022-1학기 생명과학 BSM 과목 기말고사 대학원생 부감독 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200154&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 자연과학대학교학팀 (~2022-06-10)
-
-* **[[자연대] 2022-1학기 화학 BSM 과목 기말고사 대학원생 부감독 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200153&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 자연과학대학교학팀 (~2022-06-10)
-
-* **[[자연대] 2022-1학기 수학 BSM 과목 기말고사 대학원생 부감독 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200152&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 자연과학대학교학팀 (~2022-06-10)
