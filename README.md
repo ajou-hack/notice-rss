@@ -21,6 +21,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 하계 취업동아리 14기 모집(6/21부터)합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200293&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-14)
+
+* **[[대학일자리플러스센터] 6시그마GB과정(에이블 플러스) 모집 6.20(월) 10시부터](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200292&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-14)
+
+* **[[대학일자리플러스센터] 반도체 공정 학습과정(에이블 플러스) 모집(6.20 10시부터)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200291&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-14)
+
 * **[[대학일자리플러스센터] [6월20일(월) 14시접수~] 2022 하계 반도체 공정실습 과정(패터닝, 전기적 특성측정 및 분석)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200289&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-14)
 
@@ -101,12 +110,3 @@
 
 * **[[자연대] 2022-1학기 수학 BSM 과목 기말고사 대학원생 부감독 모집(선착순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200152&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 자연과학대학교학팀 (~2022-06-10)
-
-* **[(마감)[다산학부대학] 2022-1 교양과목 기말고사 대학원생 감독자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200151&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-06-10)
-
-* **[2022학년도 후기 학석사연계과정생 수시 모집 전형 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200140&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 대학원교학팀 (~2022-06-10)
-
-* **[(재공지)2022 LINC 3.0 특화분야 연계『산학협력협의체 운영 지원사업』모집(~06.16(목) 18:00시까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200137&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-06-10)
