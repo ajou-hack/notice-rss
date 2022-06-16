@@ -1,8 +1,5 @@
 # 최근 공지사항
 
-* **[[공지] [오늘 5시까지, 추가등록 없음] (학사)2022-하계 계절수업 등록 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200148&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-06-10)
-
 * **[[공지] [학부]2022-1학기 수업운영 안내 (4.26 업데이트, 사회적 거리두기 폐지 반영)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196998&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-04-26)
 
@@ -20,6 +17,12 @@
 
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[대학일자리플러스센터] 금주의 추천채용_휴세스/유베이스인터내셔널/에이티에이](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200387&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-16)
+
+* **[[봉사활동] 2022학년도 푸른등대 LH농협은행 대학생 재능봉사 캠프 멘토 모집 (~ 6/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200384&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-06-16)
 
 * **[&#x27;연구실 안전의 날&#x27; 수상자 및 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200380&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 안전관리센터 (~2022-06-16)
@@ -104,9 +107,3 @@
 
 * **[[국제교류팀] 2022 국제여름학교(AISS) 프로그램 버디(BUDDY) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200250&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-06-14)
-
-* **[(총장빵, 오늘!) 총장과 함께하는 진로취업 STEP UP!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200240&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2022-06-14)
-
-* **[[중앙도서관] 2022년 8월 졸업예정자 학위논문 제출안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200231&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-06-14)
