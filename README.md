@@ -1,6 +1,6 @@
 # 최근 공지사항
 
-* **[[공지] [오늘 5시까지] (학사)2022-하계 계절수업 등록 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200148&amp;article.offset=0&amp;articleLimit=30)**
+* **[[공지] [오늘 5시까지, 추가등록 없음] (학사)2022-하계 계절수업 등록 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200148&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-06-10)
 
 * **[[공지] [학부]2022-1학기 수업운영 안내 (4.26 업데이트, 사회적 거리두기 폐지 반영)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196998&amp;article.offset=0&amp;articleLimit=30)**
@@ -20,6 +20,9 @@
 
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[&#x27;연구실 안전의 날&#x27; 수상자 및 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200380&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 안전관리센터 (~2022-06-16)
 
 * **[[학습법] 2022-1학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200371&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-06-16)
@@ -107,6 +110,3 @@
 
 * **[[중앙도서관] 2022년 8월 졸업예정자 학위논문 제출안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200231&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-06-14)
-
-* **[[기획팀]아주대학교 학칙 개정(안) 사전 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200227&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2022-06-13)
