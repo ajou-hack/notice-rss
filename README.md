@@ -21,6 +21,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 영상편집 프리미어프로 기초 자격과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200369&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-16)
+
+* **[[대학일자리플러스센터] 포토샵 기초 자격과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200368&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-16)
+
 * **[수원역 통학버스 운행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200365&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-06-16)
 
@@ -104,9 +110,3 @@
 
 * **[[대학일자리플러스센터] 에이블 플러스 프로그램(반도체/6시그마/파이썬) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200225&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-13)
-
-* **[(마감)[다산학부대학] 2022-1 교양과목 기말고사 대학원생 감독자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200224&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-06-13)
-
-* **[[학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200222&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-06-13)
