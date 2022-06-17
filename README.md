@@ -1,8 +1,5 @@
 # 최근 공지사항
 
-* **[[공지] [학부]2022-1학기 수업운영 안내 (4.26 업데이트, 사회적 거리두기 폐지 반영)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=196998&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-04-26)
-
 * **[[공지] [학부]전자출결시스템 사용 매뉴얼 (전자출석부 사용법)(5/3 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192571&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-15)
 
@@ -17,6 +14,12 @@
 
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[대학일자리플러스센터] 6월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200393&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-17)
+
+* **[[인권센터_성평등상담소] 7~8월 면학장학생 모집(휴학생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200392&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 인권센터운영팀 (~2022-06-17)
 
 * **[[대학일자리플러스센터] 금주의 추천채용_휴세스/유베이스인터내셔널/에이티에이](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200387&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-16)
@@ -101,9 +104,3 @@
 
 * **[[비교과교육지원센터] 아주희망(핵심역량진단 및 비교과 활동지원 안내) 이벤트 당첨자 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200260&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2022-06-14)
-
-* **[[봉사활동] 2022 그루터기 학습멘토링 같이에듀 2기 대학생 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200257&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-06-14)
-
-* **[[국제교류팀] 2022 국제여름학교(AISS) 프로그램 버디(BUDDY) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200250&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2022-06-14)
