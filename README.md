@@ -15,6 +15,18 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[메이커스페이스]운영일 및 사용가능 장비 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200439&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-06-17)
+
+* **[2022학년도 아주대학교 산학협력단 전담특허사무소 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200437&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기술사업화팀 (~2022-06-17)
+
+* **[[글로벌미래교육원] 2022년 여름학기 일반과정 개설 - 수강생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200435&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 글로벌미래교육원 (~2022-06-17)
+
+* **[[학부]2022-2학기 시간제등록생 신청 기간 안내(07.01.~07.08.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200431&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-06-17)
+
 * **[[Remind][학사]2022-2학기 재입학 시행 안내(06.02.~06.24.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200407&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-06-17)
 
@@ -92,15 +104,3 @@
 
 * **[[대학일자리플러스센터] 6시그마GB과정(에이블 플러스) 모집 6.20(월) 10시부터](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200292&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-14)
-
-* **[[대학일자리플러스센터] 반도체 공정 학습과정(에이블 플러스) 모집(6.20 10시부터)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200291&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-14)
-
-* **[[대학일자리플러스센터] [6월20일(월) 14시접수~] 2022 하계 반도체 공정실습 과정(패터닝, 전기적 특성측정 및 분석)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200289&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-14)
-
-* **[[대학일자리플러스센터] 현직자와 함께하는 직무캠프_코멘토](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200286&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-14)
-
-* **[[혁신공유단] 혁신공유단 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200284&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신공유단 (~2022-06-14)
