@@ -15,6 +15,18 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학부] 졸업예정자 취업(준비)활동 지원을 위한 출석인정제도 안내(취업계)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200463&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-06-20)
+
+* **[한국우편사업진흥원 포커스온 우정사회봉사단(장학금) 제3기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200461&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-06-20)
+
+* **[[Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200459&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-06-20)
+
+* **[[SW중심대학] 아주대 클라우드 부트캠프 &lt;도커&amp;쿠버네티스 실무 Deep-dive 과정&gt; 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200457&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - SW중심대학사업단 (~2022-06-20)
+
 * **[[대학일자리플러스센터]하계방학 반도체 프로그램 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200451&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-18)
 
@@ -92,15 +104,3 @@
 
 * **[[시설팀] 2022학년도 냉·난방기 세척 및 정비안내 (추가요청분)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200316&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2022-06-15)
-
-* **[[한국청년기업가정신재단] 지역문제 발굴단 모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200313&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-06-15)
-
-* **[[학부][졸업]2022-2학기 학사학위취득유예 신청 안내(2022.06.30.~2022.07.19.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200311&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-06-15)
-
-* **[[봉사활동] 영유아보육시설 야곱의 집 자원봉사자 모집 ( ~6/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200310&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-06-15)
-
-* **[[재공지]2022학년도 2학기 장학신청_06.30(목)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200307&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-06-15)
