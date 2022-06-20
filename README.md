@@ -15,6 +15,18 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200509&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-06-20)
+
+* **[[홍보][화성시] 로컬브릿지화성(대학생/청년 로컬크리에이터 (예비)창업자 지원) 1기 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200508&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-06-20)
+
+* **[[봉사활동] 2022 굿네이버스 NGO Traveler 6기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200507&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-06-20)
+
+* **[연암관 차량 통행로 도보 이동 금지 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200505&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-06-20)
+
 * **[★수강신청,공고성적 불이익★ 2022학년도 1학기 학생상담 기간 연장 안내 (2022.6.29.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200490&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2022-06-20)
 
@@ -29,9 +41,6 @@
 
 * **[한국우편사업진흥원 포커스온 우정사회봉사단(장학금) 제3기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200461&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-06-20)
-
-* **[[Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200459&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-06-20)
 
 * **[[SW중심대학] 아주대 클라우드 부트캠프 &lt;도커&amp;쿠버네티스 실무 Deep-dive 과정&gt; 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200457&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - SW중심대학사업단 (~2022-06-20)
@@ -95,12 +104,3 @@
 
 * **[[재공지] 2022-1 전공·교양 교육과정 학습성과 재학생 설문조사(기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200357&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교육평가인증센터 (~2022-06-16)
-
-* **[[대학일자리플러스센터] 2021 지역인재 7급 합격선배가 추천하는 정부서울청사 갤러리 대학생 서포터즈 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200351&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-16)
-
-* **[[대학일자리플러스센터] 6시그마GB과정(에이블 플러스) 모집 6.20(월) 10시부터](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200350&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-16)
-
-* **[「2022 실내건축공사업협의회 장학생 선발」 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200344&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-06-15)
