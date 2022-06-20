@@ -15,6 +15,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[아주통일연구소] 강원도 DMZ 통일 체험 학습 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200482&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 아주통일연구소 (~2022-06-20)
+
 * **[[Remind][학사]2022년 8월 졸업예정자 어학졸업인증제 성적 제출 안내(~2022.07.29(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200472&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-06-20)
 
@@ -101,6 +104,3 @@
 
 * **[경기신용보증재단 대학생 프로보노단 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200342&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 홍보실 (~2022-06-15)
-
-* **[신학생회관 세미나실(공용연습실) 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200317&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 학생지원팀 (~2022-06-15)
