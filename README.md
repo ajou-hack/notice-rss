@@ -15,6 +15,18 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 구찌코리아와 함께하는 외투기업 만남의 날_KOTRA 주관(메타버스)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200538&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-21)
+
+* **[[학생상담소] &#x27;이유는 없어 그냥해!&#x27; 학업지연행동 극복 집단상담 신청자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200529&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생상담소 (~2022-06-21)
+
+* **[[학생상담소] &#x27;내 발표! 이제 불안하지 않아~&#x27; 발표불안극복 집단상담 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200528&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생상담소 (~2022-06-21)
+
+* **[[인권센터_성평등상담소] 7~8월 면학장학생 모집(재학생&amp;휴학생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200521&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 인권센터운영팀 (~2022-06-21)
+
 * **[[Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200509&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-06-20)
 
@@ -92,15 +104,3 @@
 
 * **[[대학일자리플러스센터] 영상편집 프리미어프로 기초 자격과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200369&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-16)
-
-* **[[대학일자리플러스센터] 포토샵 기초 자격과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200368&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-16)
-
-* **[수원역 통학버스 운행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200365&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-06-16)
-
-* **[★수강신청,공고성적 불이익★ 2022학년도 1학기 학생상담 기간 연장 안내 (2022.6.21.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200361&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2022-06-16)
-
-* **[[재공지] 2022-1 전공·교양 교육과정 학습성과 재학생 설문조사(기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200357&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교육평가인증센터 (~2022-06-16)
