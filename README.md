@@ -15,6 +15,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[봉사활동] 기후위기 대응을 위한 온라인 자원봉사 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200585&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-06-21)
+
+* **[[한국자원봉사협의회] 2022 청년 자원봉사 리더 교육과정 안내 및 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200583&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-06-21)
+
 * **[[대학일자리플러스센터] 하계방학 계열별 자소서 작성법 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200555&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-21)
 
@@ -98,9 +104,3 @@
 
 * **[[대학일자리플러스센터] 6월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200393&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-17)
-
-* **[[인권센터_성평등상담소] 7~8월 면학장학생 모집(휴학생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200392&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 인권센터운영팀 (~2022-06-17)
-
-* **[[대학일자리플러스센터] 금주의 추천채용_휴세스/유베이스인터내셔널/에이티에이](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200387&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-16)
