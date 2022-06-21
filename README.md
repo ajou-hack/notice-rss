@@ -15,6 +15,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[국제교육센터에서 함께 면학할 성실한 면학장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200550&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 국제교육센터 (~2022-06-21)
+
+* **[(재공지) [봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200547&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-06-21)
+
+* **[(재공지)[비교과교육지원센터] 학생설계 비교과프로그램 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200545&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2022-06-21)
+
 * **[[대학일자리플러스센터] 구찌코리아와 함께하는 외투기업 만남의 날_KOTRA 주관(메타버스)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200538&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-21)
 
@@ -95,12 +104,3 @@
 
 * **[[봉사활동] 2022학년도 푸른등대 LH농협은행 대학생 재능봉사 캠프 멘토 모집 (~ 6/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200384&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-06-16)
-
-* **[&#x27;연구실 안전의 날&#x27; 수상자 및 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200380&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 안전관리센터 (~2022-06-16)
-
-* **[[학습법] 2022-1학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200371&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-06-16)
-
-* **[[대학일자리플러스센터] 영상편집 프리미어프로 기초 자격과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200369&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-16)
