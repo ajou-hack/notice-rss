@@ -15,6 +15,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 하계방학 계열별 자소서 작성법 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200555&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-21)
+
 * **[국제교육센터에서 함께 면학할 성실한 면학장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200550&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 국제교육센터 (~2022-06-21)
 
@@ -101,6 +104,3 @@
 
 * **[[대학일자리플러스센터] 금주의 추천채용_휴세스/유베이스인터내셔널/에이티에이](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200387&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-16)
-
-* **[[봉사활동] 2022학년도 푸른등대 LH농협은행 대학생 재능봉사 캠프 멘토 모집 (~ 6/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200384&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-06-16)
