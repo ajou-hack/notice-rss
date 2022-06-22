@@ -54,6 +54,9 @@
 * **[[한국자원봉사협의회] 2022 청년 자원봉사 리더 교육과정 안내 및 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200583&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-06-21)
 
+* **[경기신용보증재단 대학생 프로보노단 모집(~6/30 24:00까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200572&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 홍보실 (~2022-06-21)
+
 * **[[대학일자리플러스센터] 하계방학 계열별 자소서 작성법 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200555&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-21)
 
@@ -101,6 +104,3 @@
 
 * **[[학부] 졸업예정자 취업(준비)활동 지원을 위한 출석인정제도 안내(취업계)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200463&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-06-20)
-
-* **[한국우편사업진흥원 포커스온 우정사회봉사단(장학금) 제3기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200461&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-06-20)
