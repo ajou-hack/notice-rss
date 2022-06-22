@@ -15,6 +15,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[재공지] 2022-1 전공·교양 교육과정 학습성과 재학생 설문조사(기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200662&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교육평가인증센터 (~2022-06-22)
+
+* **[[홍보] 스포츠 창업 아이디어 공모전 &#x27;2022 SPORTS-UP 챌린지&#x27;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200661&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-06-22)
+
+* **[[※재공지_한국장학재단] 2022년 푸른등대 기부장학금 신규장학생 선발안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200659&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-06-22)
+
 * **[[총무팀] 정기 해충방역 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200652&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-06-22)
 
@@ -95,12 +104,3 @@
 
 * **[[SW중심대학] 아주대 클라우드 부트캠프 &lt;도커&amp;쿠버네티스 실무 Deep-dive 과정&gt; 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200457&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - SW중심대학사업단 (~2022-06-20)
-
-* **[[대학일자리플러스센터]하계방학 반도체 프로그램 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200451&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-18)
-
-* **[[글로벌미래교육원] 영어 완성 여름 특강 챌린지 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200441&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 글로벌미래교육원 (~2022-06-17)
-
-* **[[메이커스페이스]운영일 및 사용가능 장비 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200439&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-06-17)
