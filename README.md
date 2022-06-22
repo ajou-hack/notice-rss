@@ -15,6 +15,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022년 소방시설 종합정밀점검 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200693&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2022-06-22)
+
 * **[[대학일자리플러스센터] 휴학생 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200664&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-22)
 
@@ -100,7 +103,4 @@
  [기타] - 아주통일연구소 (~2022-06-20)
 
 * **[[Remind][학사]2022년 8월 졸업예정자 어학졸업인증제 성적 제출 안내(~2022.07.29(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200472&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-06-20)
-
-* **[[학부] 졸업예정자 취업(준비)활동 지원을 위한 출석인정제도 안내(취업계)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200463&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-06-20)
