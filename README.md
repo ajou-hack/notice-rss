@@ -15,6 +15,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[총무팀] 정기 해충방역 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200652&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-06-22)
+
+* **[[예비군연대] `22년 예비군훈련 정보 확인방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200648&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 예비군연대 (~2022-06-22)
+
 * **[[대학일자리플러스센터] 2022-하반기 대비 공기업 직무적성(NCS특강) 프로그램 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200641&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-22)
 
@@ -98,9 +104,3 @@
 
 * **[[메이커스페이스]운영일 및 사용가능 장비 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200439&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-06-17)
-
-* **[2022학년도 아주대학교 산학협력단 전담특허사무소 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200437&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기술사업화팀 (~2022-06-17)
-
-* **[[글로벌미래교육원] 2022년 여름학기 일반과정 개설 - 수강생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200435&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 글로벌미래교육원 (~2022-06-17)
