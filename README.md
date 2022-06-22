@@ -15,6 +15,18 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 2022-하반기 대비 공기업 직무적성(NCS특강) 프로그램 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200641&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-22)
+
+* **[[대학일자리플러스센터] 2022-하반기 대비 대기업 직무적성 프로그램 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200640&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-22)
+
+* **[[재공지]2022학년도 2학기 장학신청_06.30(목)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200636&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-06-22)
+
+* **[[학습법] 2022-1학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200635&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-06-22)
+
 * **[비전공자도 배울 수 있는 &#x27;블록체인 개발 구직자 교육과정&#x27; 교육생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200626&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - LINC사업팀 (~2022-06-22)
 
@@ -92,15 +104,3 @@
 
 * **[[글로벌미래교육원] 2022년 여름학기 일반과정 개설 - 수강생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200435&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 글로벌미래교육원 (~2022-06-17)
-
-* **[[학부]2022-2학기 시간제등록생 신청 기간 안내(07.01.~07.08.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200431&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-06-17)
-
-* **[[Remind][학사]2022-2학기 재입학 시행 안내(06.02.~06.24.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200407&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-06-17)
-
-* **[[대학일자리플러스센터] [~6/19(일) 신청마감] 2022 아주히든챔피언학생발굴단 9기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200403&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-17)
-
-* **[[학습법] 2022-1학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200399&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-06-17)
