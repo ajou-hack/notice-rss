@@ -15,6 +15,18 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[총무팀]우리 꼭 지켜요! &#x27;개인정보 보호 생활 수칙7&#x27;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200771&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-06-23)
+
+* **[[총무팀]개인정보 보호 인식주간에 따른 홍보 캠페인 &#x27; 지키면 프라이벗, 놔두면 프라이빚&#x27;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200770&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-06-23)
+
+* **[2022년 온라인 법정필수교육 수강안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200765&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 인권센터 (~2022-06-23)
+
+* **[[대학일자리플러스센터] 2022 하계 빅데이터 분석실무 자격과정(R프로그램) 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200764&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-23)
+
 * **[[Remind][학부][졸업]2022-2학기 학사학위취득유예 신청 안내(2022.06.30.~2022.07.19.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200734&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-06-23)
 
@@ -91,16 +103,4 @@
  [기타] - 홍보실 (~2022-06-21)
 
 * **[[대학일자리플러스센터] 하계방학 계열별 자소서 작성법 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200555&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-21)
-
-* **[국제교육센터에서 함께 면학할 성실한 면학장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200550&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 국제교육센터 (~2022-06-21)
-
-* **[(재공지) [봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200547&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-06-21)
-
-* **[(재공지)[비교과교육지원센터] 학생설계 비교과프로그램 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200545&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2022-06-21)
-
-* **[[대학일자리플러스센터] 구찌코리아와 함께하는 외투기업 만남의 날_KOTRA 주관(메타버스)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200538&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-21)
