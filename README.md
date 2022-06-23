@@ -15,6 +15,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[Remind][학부][졸업]2022-2학기 학사학위취득유예 신청 안내(2022.06.30.~2022.07.19.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200734&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-06-23)
+
+* **[[국가근로] 2022학년도 1학기 하계방학 일반 교내외 국가근로장학생 대체선발자 안내사항](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200723&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-06-23)
+
 * **[2022학년도 1학기 한국장학재단 하계방학 집중근로 국가근로장학생 안내사항 (선발자 안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200714&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-06-23)
 
@@ -98,9 +104,3 @@
 
 * **[[대학일자리플러스센터] 구찌코리아와 함께하는 외투기업 만남의 날_KOTRA 주관(메타버스)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200538&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-21)
-
-* **[[학생상담소] &#x27;이유는 없어 그냥해!&#x27; 학업지연행동 극복 집단상담 신청자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200529&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생상담소 (~2022-06-21)
-
-* **[[학생상담소] &#x27;내 발표! 이제 불안하지 않아~&#x27; 발표불안극복 집단상담 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200528&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생상담소 (~2022-06-21)
