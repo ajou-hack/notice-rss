@@ -15,6 +15,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[글로벌미래교육원] 영어 완성 여름 특강 챌린지 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200776&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 글로벌미래교육원 (~2022-06-23)
+
 * **[[총무팀]우리 꼭 지켜요! &#x27;개인정보 보호 생활 수칙7&#x27;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200771&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-06-23)
 
@@ -101,6 +104,3 @@
 
 * **[경기신용보증재단 대학생 프로보노단 모집(~6/30 24:00까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200572&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 홍보실 (~2022-06-21)
-
-* **[[대학일자리플러스센터] 하계방학 계열별 자소서 작성법 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200555&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-21)
