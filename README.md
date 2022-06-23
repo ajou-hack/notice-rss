@@ -15,6 +15,27 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022학년도 1학기 한국장학재단 하계방학 집중근로 국가근로장학생 안내사항 (선발자 안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200714&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-06-23)
+
+* **[[LINC 3.0] 2022 기술지도/애로기술 자문 지원사업 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200706&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2022-06-23)
+
+* **[[재공지] 2022학년도 2학기 파란학기 MOOC 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200704&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2022-06-23)
+
+* **[[재공지]2022학년도 2학기 파란학기제 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200703&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2022-06-23)
+
+* **[2022-1학기 통학버스 운행 중지 안내 및 방학 중 수원역, 광교역 운행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200702&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-06-23)
+
+* **[[LINC 3.0]2022 산학협력 특화 산학공동기술개발과제 공모 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200701&amp;article.offset=0&amp;articleLimit=30)**
+ [학술] - LINC사업팀 (~2022-06-23)
+
+* **[[대학일자리플러스센터] 취업훈련소 AJOU-JEP 1기 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200698&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-22)
+
 * **[[대학일자리플러스센터] 2차전지 직무교육(NCS과정 수료증 발급)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200697&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-22)
 
@@ -83,24 +104,3 @@
 
 * **[[학생상담소] &#x27;내 발표! 이제 불안하지 않아~&#x27; 발표불안극복 집단상담 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200528&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생상담소 (~2022-06-21)
-
-* **[[인권센터_성평등상담소] 7~8월 면학장학생 모집(재학생&amp;휴학생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200521&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 인권센터운영팀 (~2022-06-21)
-
-* **[[Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200509&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-06-20)
-
-* **[[홍보][화성시] 로컬브릿지화성(대학생/청년 로컬크리에이터 (예비)창업자 지원) 1기 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200508&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-06-20)
-
-* **[[봉사활동] 2022 굿네이버스 NGO Traveler 6기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200507&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-06-20)
-
-* **[연암관 차량 통행로 도보 이동 금지 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200505&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-06-20)
-
-* **[★수강신청,공고성적 불이익★ 2022학년도 1학기 학생상담 기간 연장 안내 (2022.6.29.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200490&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2022-06-20)
-
-* **[[아주통일연구소] 강원도 DMZ 통일 체험 학습 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200482&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 아주통일연구소 (~2022-06-20)
