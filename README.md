@@ -15,6 +15,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[다산학부대학] 2022-1학기 체육수업(수영) 보조금 지급 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200828&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-06-24)
+
+* **[[메이커스페이스] 레이저 가공장비 이용 기초교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200827&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-06-24)
+
+* **[[메이커스페이스] 3D프린터 장비이용 기초교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200826&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-06-24)
+
 * **[2022 청년 UP 클라우드 - 카카오, 현대차, 쿠팡 등! 현직자와의 취·창업 멘토링 콘서트 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200825&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - LINC사업팀 (~2022-06-24)
 
@@ -95,12 +104,3 @@
 
 * **[[총무팀] 정기 해충방역 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200652&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-06-22)
-
-* **[[예비군연대] `22년 예비군훈련 정보 확인방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200648&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 예비군연대 (~2022-06-22)
-
-* **[[대학일자리플러스센터] 2022-하반기 대비 공기업 직무적성(NCS특강) 프로그램 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200641&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-22)
-
-* **[[대학일자리플러스센터] 2022-하반기 대비 대기업 직무적성 프로그램 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200640&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-22)
