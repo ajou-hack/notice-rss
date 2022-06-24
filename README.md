@@ -15,6 +15,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 6월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200785&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-24)
+
+* **[[대학일자리플러스센터] [졸업생, 4학년 모두 가능!] 메타버스 블록체인 개발 교육(마크애니) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200784&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-24)
+
+* **[[혁신공유대학] 2022학년도 1학기 미래자동차 표준공동교과목 만족도 조사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200779&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신공유단 (~2022-06-23)
+
 * **[[글로벌미래교육원] 영어 완성 여름 특강 챌린지 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200776&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 글로벌미래교육원 (~2022-06-23)
 
@@ -95,12 +104,3 @@
 
 * **[비전공자도 배울 수 있는 &#x27;블록체인 개발 구직자 교육과정&#x27; 교육생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200626&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - LINC사업팀 (~2022-06-22)
-
-* **[[봉사활동] 기후위기 대응을 위한 온라인 자원봉사 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200585&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-06-21)
-
-* **[[한국자원봉사협의회] 2022 청년 자원봉사 리더 교육과정 안내 및 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200583&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-06-21)
-
-* **[경기신용보증재단 대학생 프로보노단 모집(~6/30 24:00까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200572&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 홍보실 (~2022-06-21)
