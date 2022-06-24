@@ -15,6 +15,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[오늘 마감!][재공지] 국민대학교 주최 스케일카 기반 자율주행 경진대회 참여 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200829&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신공유단 (~2022-06-24)
+
 * **[[다산학부대학] 2022-1학기 체육수업(수영) 보조금 지급 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200828&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-06-24)
 
@@ -101,6 +104,3 @@
 
 * **[[※재공지_한국장학재단] 2022년 푸른등대 기부장학금 신규장학생 선발안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200659&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-06-22)
-
-* **[[총무팀] 정기 해충방역 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200652&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-06-22)
