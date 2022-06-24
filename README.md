@@ -15,6 +15,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[글로벌미래교육원] 영어 완성 여름 특강 챌린지 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200843&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 글로벌미래교육원 (~2022-06-24)
+
+* **[[대학일자리플러스센터] 금주의 추천채용_온세미코리아/KINX/이랜드건설](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200840&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-24)
+
 * **[[오늘 마감!][재공지] 국민대학교 주최 스케일카 기반 자율주행 경진대회 참여 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200829&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 혁신공유단 (~2022-06-24)
 
@@ -98,9 +104,3 @@
 
 * **[[재공지] 2022-1 전공·교양 교육과정 학습성과 재학생 설문조사(기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200662&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교육평가인증센터 (~2022-06-22)
-
-* **[[홍보] 스포츠 창업 아이디어 공모전 &#x27;2022 SPORTS-UP 챌린지&#x27;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200661&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-06-22)
-
-* **[[※재공지_한국장학재단] 2022년 푸른등대 기부장학금 신규장학생 선발안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200659&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-06-22)
