@@ -15,6 +15,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022 청년 UP 클라우드 - 카카오, 현대차, 쿠팡 등! 현직자와의 취·창업 멘토링 콘서트 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200825&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - LINC사업팀 (~2022-06-24)
+
 * **[[재공지] 전공·교양 교육과정 학습성과 재학생 추가 설문조사(기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200818&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교육평가인증센터 (~2022-06-24)
 
@@ -101,6 +104,3 @@
 
 * **[[대학일자리플러스센터] 2022-하반기 대비 대기업 직무적성 프로그램 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200640&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-22)
-
-* **[[재공지]2022학년도 2학기 장학신청_06.30(목)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200636&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-06-22)
