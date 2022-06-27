@@ -15,6 +15,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022학년도 아주대학교 산학협력단 전담특허사무소 모집 변경 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200887&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기술사업화팀 (~2022-06-27)
+
+* **[[학습법] 2022학년도 아주러닝캠프 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200884&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-06-27)
+
 * **[[대학일자리플러스센터] 제약·바이오분야 품질분석 직무교육](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200880&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-27)
 
@@ -98,9 +104,3 @@
 
 * **[[국가근로] 2022학년도 1학기 하계방학 일반 교내외 국가근로장학생 대체선발자 안내사항](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200723&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-06-23)
-
-* **[2022학년도 1학기 한국장학재단 하계방학 집중근로 국가근로장학생 안내사항 (선발자 안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200714&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-06-23)
-
-* **[[LINC 3.0] 2022 기술지도/애로기술 자문 지원사업 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200706&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-06-23)
