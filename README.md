@@ -15,6 +15,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[원숭이두창 감염병 위기경보 단계 격상 발령 알림(관심 → 주의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200863&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 보건진료소 (~2022-06-27)
+
 * **[국민건강보험공단 제증명서 전화발급 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200856&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-06-27)
 
@@ -101,6 +104,3 @@
 
 * **[[LINC 3.0]2022 산학협력 특화 산학공동기술개발과제 공모 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200701&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - LINC사업팀 (~2022-06-23)
-
-* **[[대학일자리플러스센터] 취업훈련소 AJOU-JEP 1기 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200698&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-22)
