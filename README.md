@@ -15,6 +15,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[국민건강보험공단 제증명서 전화발급 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200856&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-06-27)
+
+* **[[국제교류팀]에서 함께 면학할 성실한 면학장학생을 모집합니다. (재학생, 휴학생 가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200855&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 국제교류팀 (~2022-06-27)
+
+* **[(재공지)[봉사활동] 영유아보육시설 야곱의 집 자원봉사자 모집 ( ~6/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200852&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-06-27)
+
 * **[[글로벌미래교육원] 2022년 여름학기 일반과정 개설 - 수강생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200847&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 글로벌미래교육원 (~2022-06-25)
 
@@ -94,13 +103,4 @@
  [학술] - LINC사업팀 (~2022-06-23)
 
 * **[[대학일자리플러스센터] 취업훈련소 AJOU-JEP 1기 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200698&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-22)
-
-* **[[대학일자리플러스센터] 2차전지 직무교육(NCS과정 수료증 발급)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200697&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-22)
-
-* **[2022년 소방시설 종합정밀점검 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200693&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2022-06-22)
-
-* **[[대학일자리플러스센터] 휴학생 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200664&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-22)
