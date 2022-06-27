@@ -15,6 +15,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 제약·바이오분야 품질분석 직무교육](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200880&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-27)
+
+* **[2022-1학기 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200879&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-06-27)
+
+* **[2022-2학기 1학년 2학기 복학 대상자 Co-BSM 자동수강신청 요청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200877&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-06-27)
+
 * **[[Remind][학부]2022-2학기 시간제등록생 신청 기간 안내(07.01.~07.08.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200871&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-06-27)
 
@@ -95,12 +104,3 @@
 
 * **[[LINC 3.0] 2022 기술지도/애로기술 자문 지원사업 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200706&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-06-23)
-
-* **[[재공지] 2022학년도 2학기 파란학기 MOOC 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200704&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2022-06-23)
-
-* **[[재공지]2022학년도 2학기 파란학기제 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200703&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2022-06-23)
-
-* **[2022-1학기 통학버스 운행 중지 안내 및 방학 중 수원역, 광교역 운행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200702&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-06-23)
