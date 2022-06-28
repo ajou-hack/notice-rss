@@ -15,6 +15,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] Growing together 직무스터디](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201042&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-28)
+
+* **[[대학일자리플러스센터] 휴학생 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201037&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-28)
+
 * **[[학습법] 2022-1학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200936&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-06-28)
 
@@ -98,9 +104,3 @@
 
 * **[2022 청년 UP 클라우드 - 카카오, 현대차, 쿠팡 등! 현직자와의 취·창업 멘토링 콘서트 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200825&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - LINC사업팀 (~2022-06-24)
-
-* **[[재공지] 전공·교양 교육과정 학습성과 재학생 추가 설문조사(기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200818&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교육평가인증센터 (~2022-06-24)
-
-* **[[대학일자리플러스센터] 디지털역량강화 구글애널리틱스(GAIQ)자격 과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200816&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-24)
