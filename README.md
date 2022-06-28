@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[공지] 2022-1학기 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200879&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-06-27)
+
 * **[[공지] [학부]전자출결시스템 사용 매뉴얼 (전자출석부 사용법)(5/3 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192571&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-15)
 
@@ -63,9 +66,6 @@
 * **[[대학일자리플러스센터] 제약·바이오분야 품질분석 직무교육](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200880&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-27)
 
-* **[2022-1학기 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200879&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-06-27)
-
 * **[2022-2학기 1학년 2학기 복학 대상자 Co-BSM 자동수강신청 요청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200877&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-06-27)
 
@@ -104,3 +104,6 @@
 
 * **[[메이커스페이스] 3D프린터 장비이용 기초교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200826&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-06-24)
+
+* **[2022 청년 UP 클라우드 - 카카오, 현대차, 쿠팡 등! 현직자와의 취·창업 멘토링 콘서트 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200825&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - LINC사업팀 (~2022-06-24)
