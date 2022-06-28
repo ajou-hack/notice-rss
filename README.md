@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[팔달관 편의점(CU) 운영시간 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201087&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-06-28)
+
+* **[(온라인) 비전공자도 배울 수 있는 &#x27;블록체인 교육과정&#x27; 교육생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201086&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - LINC사업팀 (~2022-06-28)
+
 * **[[LINC 3.0] 제4회 청년 아이디어톤 대회(스마트관광+창업)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201068&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-06-28)
 
@@ -101,9 +107,3 @@
 
 * **[[메이커스페이스] 레이저 가공장비 이용 기초교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200827&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-06-24)
-
-* **[[메이커스페이스] 3D프린터 장비이용 기초교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200826&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-06-24)
-
-* **[2022 청년 UP 클라우드 - 카카오, 현대차, 쿠팡 등! 현직자와의 취·창업 멘토링 콘서트 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200825&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - LINC사업팀 (~2022-06-24)
