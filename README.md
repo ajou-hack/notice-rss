@@ -15,6 +15,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 2022-1학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200936&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-06-28)
+
+* **[[중앙도서관] 2022학년도 8월 졸업예정자 도서반납 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200935&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 중앙도서관 (~2022-06-28)
+
 * **[[무료교육/수당지급] 인공지능(스마트공장) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200911&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-06-28)
 
@@ -97,10 +103,4 @@
  [기타] - 교육평가인증센터 (~2022-06-24)
 
 * **[[대학일자리플러스센터] 디지털역량강화 구글애널리틱스(GAIQ)자격 과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200816&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-24)
-
-* **[[대학일자리플러스센터] 6월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200785&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-24)
-
-* **[[대학일자리플러스센터] [졸업생, 4학년 모두 가능!] 메타버스 블록체인 개발 교육(마크애니) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200784&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-24)
