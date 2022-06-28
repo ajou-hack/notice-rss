@@ -15,6 +15,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[무료교육/수당지급] 인공지능(스마트공장) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200911&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2022-06-28)
+
+* **[[대학일자리플러스센터] 아주대와 함께하는 LG디스플레이 2022 Engineer Rookie 채용 상담회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200906&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-27)
+
 * **[[대학일자리플러스센터][6월30일(목) 14시~ 신청] 2022 NCS 반도체 공정 심화과정 (하계)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200904&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-27)
 
@@ -98,9 +104,3 @@
 
 * **[[대학일자리플러스센터] [졸업생, 4학년 모두 가능!] 메타버스 블록체인 개발 교육(마크애니) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200784&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-24)
-
-* **[[혁신공유대학] 2022학년도 1학기 미래자동차 표준공동교과목 만족도 조사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200779&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신공유단 (~2022-06-23)
-
-* **[[글로벌미래교육원] 영어 완성 여름 특강 챌린지 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200776&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 글로벌미래교육원 (~2022-06-23)
