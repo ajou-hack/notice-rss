@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 2022-1학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201174&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-06-29)
+
+* **[[재단법인 인중제고장학회] 제9회 등불장학생 선발](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201173&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-06-29)
+
 * **[[시설팀] 구학생회관, 신학생회관 공사일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201152&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2022-06-29)
 
@@ -101,9 +107,3 @@
 
 * **[[국제교류팀]에서 함께 면학할 성실한 면학장학생을 모집합니다. (재학생, 휴학생 가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200855&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 국제교류팀 (~2022-06-27)
-
-* **[(재공지)[봉사활동] 영유아보육시설 야곱의 집 자원봉사자 모집 ( ~6/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200852&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-06-27)
-
-* **[[글로벌미래교육원] 2022년 여름학기 일반과정 개설 - 수강생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200847&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 글로벌미래교육원 (~2022-06-25)
