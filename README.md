@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[총장레터 제2호](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201209&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총장비서실 (~2022-06-29)
+
+* **[[재공지]2022학년도 2학기 장학신청_06.30(목)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201207&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-06-29)
+
 * **[(재공지) 2022 LINC 3.0 기술지도/애로기술 자문 지원 사업 기간 연장 안내( ~07.05(화) 14:00까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201190&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-06-29)
 
@@ -101,9 +107,3 @@
 
 * **[[Remind][학부]2022-2학기 시간제등록생 신청 기간 안내(07.01.~07.08.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200871&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-06-27)
-
-* **[원숭이두창 감염병 위기경보 단계 격상 발령 알림(관심 → 주의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200863&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 보건진료소 (~2022-06-27)
-
-* **[국민건강보험공단 제증명서 전화발급 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200856&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-06-27)
