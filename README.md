@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지) 2022 LINC 3.0 기술지도/애로기술 자문 지원 사업 기간 연장 안내( ~07.05(화) 14:00까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201190&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2022-06-29)
+
 * **[[학습법] 2022-1학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201174&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-06-29)
 
@@ -104,6 +107,3 @@
 
 * **[국민건강보험공단 제증명서 전화발급 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200856&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-06-27)
-
-* **[[국제교류팀]에서 함께 면학할 성실한 면학장학생을 모집합니다. (재학생, 휴학생 가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200855&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 국제교류팀 (~2022-06-27)
