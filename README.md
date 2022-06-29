@@ -18,6 +18,27 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[학교법인 대우학원 인사발령(제52호)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201235&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 총무팀 (~2022-06-29)
+
+* **[[봉사활동] 한국우편사업진흥원, 대학생 우정사회봉사단 POCU&#x27;S溫 3기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201233&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-06-29)
+
+* **[[글로벌미래교육원] 여름 영어 단기 특강 10명 선착순 모집에 도전하세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201232&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 글로벌미래교육원 (~2022-06-29)
+
+* **[학교법인 대우학원 인사발령(제46호)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201231&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 총무팀 (~2022-06-29)
+
+* **[[Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201230&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-06-29)
+
+* **[[Remind][학부][졸업]2022-2학기 학사학위취득유예 신청 안내(2022.06.30.~2022.07.19.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201229&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-06-29)
+
+* **[[대학일자리플러스센터] 교육 수료생 전원100% 개발자 취업의 기회(마크애니)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201228&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-29)
+
 * **[총장레터 제2호](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201209&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총장비서실 (~2022-06-29)
 
@@ -86,24 +107,3 @@
 
 * **[[생활관]2022년 하계 방학 생활관(기숙사) 추가 신청 안내-6/28(화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200898&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 생활관 (~2022-06-27)
-
-* **[[학생상담소] &#x27;내 발표! 이제 불안하지 않아~&#x27; 발표불안극복 집단상담 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200896&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생상담소 (~2022-06-27)
-
-* **[GKS 서포터즈 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200895&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2022-06-27)
-
-* **[2022학년도 아주대학교 산학협력단 전담특허사무소 모집 변경 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200887&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기술사업화팀 (~2022-06-27)
-
-* **[[학습법] 2022학년도 아주러닝캠프 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200884&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-06-27)
-
-* **[[대학일자리플러스센터] 제약·바이오분야 품질분석 직무교육](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200880&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-27)
-
-* **[2022-2학기 1학년 2학기 복학 대상자 Co-BSM 자동수강신청 요청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200877&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-06-27)
-
-* **[[Remind][학부]2022-2학기 시간제등록생 신청 기간 안내(07.01.~07.08.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200871&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-06-27)
