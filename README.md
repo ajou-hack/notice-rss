@@ -18,6 +18,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지)[대학일자리플러스센터] 디지털역량강화 구글애널리틱스(GAIQ)자격 과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201123&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-29)
+
+* **[(재공지)[LINC 3.0]2022 산학협력 특화 산학공동기술개발과제 공모 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201118&amp;article.offset=0&amp;articleLimit=30)**
+ [학술] - LINC사업팀 (~2022-06-29)
+
+* **[[과학영재교육원] 학교 밖 스마트 수·과학실 참가자 모집 안내_열화상카메라 심화(7/23 수업. 초등학생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201112&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 과학영재교육원 (~2022-06-29)
+
 * **[[대학일자리플러스센터] METAVERSE 물결에 올라타자! 메타버스 분야 취업연계 &#x27;메타버스일자리창출사업&#x27; 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201099&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-29)
 
@@ -98,12 +107,3 @@
 
 * **[[글로벌미래교육원] 영어 완성 여름 특강 챌린지 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200843&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 글로벌미래교육원 (~2022-06-24)
-
-* **[[대학일자리플러스센터] 금주의 추천채용_온세미코리아/KINX/이랜드건설](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200840&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-24)
-
-* **[[오늘 마감!][재공지] 국민대학교 주최 스케일카 기반 자율주행 경진대회 참여 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200829&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신공유단 (~2022-06-24)
-
-* **[[다산학부대학] 2022-1학기 체육수업(수영) 보조금 지급 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200828&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-06-24)
