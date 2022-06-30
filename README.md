@@ -21,6 +21,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022 국제여름학교(AISS) 프로그램 버디(BUDDY) 면접대상자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201383&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2022-06-30)
+
+* **[약학대학 대학원 바이오헬스규제과학과 2022-후기 신입생 모집(수시2차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201367&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 약학대학교학팀 (~2022-06-30)
+
 * **[제83회 한국어능력시험(TOPIK) 시행에 따른 성호관 출입 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201352&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 국제교육센터운영팀 (~2022-06-30)
 
@@ -104,9 +110,3 @@
 
 * **[[대학일자리플러스센터] 휴학생 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201037&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-28)
-
-* **[[학습법] 2022-1학기 온라인 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200936&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-06-28)
-
-* **[[중앙도서관] 2022학년도 8월 졸업예정자 도서반납 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200935&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 중앙도서관 (~2022-06-28)
