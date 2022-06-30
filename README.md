@@ -21,6 +21,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지)[비교과교육지원센터] 학생설계 비교과프로그램 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201416&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2022-06-30)
+
+* **[[Remind][학부]2022-2학기 시간제등록생 신청 기간 안내(07.01.~07.08.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201414&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-06-30)
+
 * **[[대학일자리플러스센터] [재공지] 직무 스터디_ IT개발(Big Data Eng)직무 10명 선발](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201411&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-30)
 
@@ -104,9 +110,3 @@
 
 * **[팔달관 편의점(CU) 운영시간 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201087&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-06-28)
-
-* **[(온라인) 비전공자도 배울 수 있는 &#x27;블록체인 교육과정&#x27; 교육생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201086&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀 (~2022-06-28)
-
-* **[[LINC 3.0] 제4회 청년 아이디어톤 대회(스마트관광+창업)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201068&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-06-28)
