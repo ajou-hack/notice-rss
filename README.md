@@ -18,7 +18,10 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[하계방학기간 중앙도서관 운영시간 안내(6.30~8.31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201249&amp;article.offset=0&amp;articleLimit=30)**
+* **[2022학년도 2학기 아주강좌 연사 추천](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201286&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-06-30)
+
+* **[하계방학중 중앙도서관 운영시간 안내(6.30~8.31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201249&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 중앙도서관 (~2022-06-30)
 
 * **[[국가근로][교사대생등대학생튜터링] 6월 국가근로/교사대생등대학생튜터링장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 6/30 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201247&amp;article.offset=0&amp;articleLimit=30)**
@@ -104,6 +107,3 @@
 
 * **[[무료교육/수당지급] 인공지능(스마트공장) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200911&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-06-28)
-
-* **[[대학일자리플러스센터] 아주대와 함께하는 LG디스플레이 2022 Engineer Rookie 채용 상담회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200906&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-27)
