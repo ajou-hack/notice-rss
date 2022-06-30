@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[공지] [Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201230&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-06-29)
+
 * **[[공지] 2022-1학기 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200879&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-06-27)
 
@@ -17,6 +20,12 @@
 
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[제83회 한국어능력시험(TOPIK) 시행에 따른 성호관 출입 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201352&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 국제교육센터운영팀 (~2022-06-30)
+
+* **[[대학일자리플러스센터] 지식재산(IP-R&amp;D)직군 지원자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201343&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-30)
 
 * **[2022학년도 2학기 아주강좌 연사 추천](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201286&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-06-30)
@@ -44,9 +53,6 @@
 
 * **[학교법인 대우학원 인사발령(제46호)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201231&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 총무팀 (~2022-06-29)
-
-* **[[Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201230&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-06-29)
 
 * **[[Remind][학부][졸업]2022-2학기 학사학위취득유예 신청 안내(2022.06.30.~2022.07.19.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201229&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-06-29)
@@ -104,6 +110,3 @@
 
 * **[[중앙도서관] 2022학년도 8월 졸업예정자 도서반납 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200935&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 중앙도서관 (~2022-06-28)
-
-* **[[무료교육/수당지급] 인공지능(스마트공장) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200911&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2022-06-28)
