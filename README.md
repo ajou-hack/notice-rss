@@ -18,6 +18,18 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[하계방학기간 중앙도서관 운영시간 안내(6.30~8.31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201249&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 중앙도서관 (~2022-06-30)
+
+* **[[국가근로][교사대생등대학생튜터링] 6월 국가근로/교사대생등대학생튜터링장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 6/30 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201247&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-06-30)
+
+* **[(재공지)[봉사활동] 영유아보육시설 야곱의 집 자원봉사자 모집 ( 오늘마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201245&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-06-30)
+
+* **[[봉사활동] (대사협) 해외봉사 2022년도 체코 글로벌 봉사단원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201241&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-06-30)
+
 * **[학교법인 대우학원 인사발령(제52호)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201235&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 총무팀 (~2022-06-29)
 
@@ -95,15 +107,3 @@
 
 * **[[대학일자리플러스센터] 아주대와 함께하는 LG디스플레이 2022 Engineer Rookie 채용 상담회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200906&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-27)
-
-* **[[대학일자리플러스센터][6월30일(목) 14시~ 신청] 2022 NCS 반도체 공정 심화과정 (하계)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200904&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-27)
-
-* **[[아주통일연구소] 제5차 통일체험학습 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200902&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 아주통일연구소 (~2022-06-27)
-
-* **[아주대학교 개교 50주년 기념 슬로건 공모전 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200900&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 홍보실 (~2022-06-27)
-
-* **[[생활관]2022년 하계 방학 생활관(기숙사) 추가 신청 안내-6/28(화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200898&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 생활관 (~2022-06-27)
