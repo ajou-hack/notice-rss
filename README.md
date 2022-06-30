@@ -21,6 +21,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] [재공지] 직무 스터디_ IT개발(Big Data Eng)직무 10명 선발](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201411&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-06-30)
+
 * **[[최종공지] 전공·교양 교육과정 학습성과 재학생 설문조사(기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201405&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교육평가인증센터 (~2022-06-30)
 
@@ -107,6 +110,3 @@
 
 * **[[LINC 3.0] 제4회 청년 아이디어톤 대회(스마트관광+창업)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201068&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-06-28)
-
-* **[[대학일자리플러스센터] Growing together 직무스터디](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201042&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-28)
