@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 7월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201442&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-07-01)
+
+* **[동관 2,3층 실험실 조명개선공사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201441&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2022-07-01)
+
 * **[2022년 멀티미디어 강의실 점검결과(06월) 및 2022년 (07월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201429&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-07-01)
 
@@ -101,9 +107,3 @@
 
 * **[(재공지)[대학일자리플러스센터] 디지털역량강화 구글애널리틱스(GAIQ)자격 과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201123&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-29)
-
-* **[(재공지)[LINC 3.0]2022 산학협력 특화 산학공동기술개발과제 공모 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201118&amp;article.offset=0&amp;articleLimit=30)**
- [학술] - LINC사업팀 (~2022-06-29)
-
-* **[[과학영재교육원] 학교 밖 스마트 수·과학실 참가자 모집 안내_열화상카메라 심화(7/23 수업. 초등학생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201112&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 과학영재교육원 (~2022-06-29)
