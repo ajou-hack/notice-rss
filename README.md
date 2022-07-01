@@ -6,9 +6,6 @@
 * **[[공지] 2022-1학기 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200879&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-06-27)
 
-* **[[공지] [학부]전자출결시스템 사용 매뉴얼 (전자출석부 사용법)(5/3 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192571&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-15)
-
 * **[[공지] [교무팀] 2022-1학기 코로나19 확산에 따른 출석인정 안내(백신공결)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180913&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-16)
 
@@ -20,6 +17,12 @@
 
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[2022년 멀티미디어 강의실 점검결과(06월) 및 2022년 (07월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201429&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2022-07-01)
+
+* **[[중앙도서관] 북큐레이션 도서 안내 - 자기계발](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201427&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-07-01)
 
 * **[(재공지)[비교과교육지원센터] 학생설계 비교과프로그램 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201416&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2022-06-30)
@@ -54,7 +57,7 @@
 * **[[국가근로][교사대생등대학생튜터링] 6월 국가근로/교사대생등대학생튜터링장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 6/30 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201247&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-06-30)
 
-* **[(재공지)[봉사활동] 영유아보육시설 야곱의 집 자원봉사자 모집 ( 오늘마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201245&amp;article.offset=0&amp;articleLimit=30)**
+* **[(재공지)[봉사활동] 영유아보육시설 야곱의 집 자원봉사자 모집 (오늘마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201245&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-06-30)
 
 * **[[봉사활동] (대사협) 해외봉사 2022년도 체코 글로벌 봉사단원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201241&amp;article.offset=0&amp;articleLimit=30)**
@@ -104,9 +107,3 @@
 
 * **[[과학영재교육원] 학교 밖 스마트 수·과학실 참가자 모집 안내_열화상카메라 심화(7/23 수업. 초등학생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201112&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 과학영재교육원 (~2022-06-29)
-
-* **[[대학일자리플러스센터] METAVERSE 물결에 올라타자! 메타버스 분야 취업연계 &#x27;메타버스일자리창출사업&#x27; 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201099&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-29)
-
-* **[팔달관 편의점(CU) 운영시간 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201087&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-06-28)
