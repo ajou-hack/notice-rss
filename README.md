@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[재공지] 2022학년도 2학기 파란학기제 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201514&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2022-07-04)
+
+* **[[학습법] 2022-1학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201513&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-07-04)
+
 * **[한국장학재단-은행권 대학생 연합기숙사 신규 입주생 모집 안내_22년 2학기](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201501&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-07-04)
 
@@ -101,9 +107,3 @@
 
 * **[[봉사활동] 한국우편사업진흥원, 대학생 우정사회봉사단 POCU&#x27;S溫 3기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201233&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-06-29)
-
-* **[[글로벌미래교육원] 여름 영어 단기 특강 10명 선착순 모집에 도전하세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201232&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 글로벌미래교육원 (~2022-06-29)
-
-* **[학교법인 대우학원 인사발령(제46호)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201231&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 총무팀 (~2022-06-29)
