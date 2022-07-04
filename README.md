@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[한국장학재단-은행권 대학생 연합기숙사 신규 입주생 모집 안내_22년 2학기](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201501&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-07-04)
+
 * **[경기도송파학사 22년 하반기 추가선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201499&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-07-04)
 
@@ -104,6 +107,3 @@
 
 * **[학교법인 대우학원 인사발령(제46호)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201231&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 총무팀 (~2022-06-29)
-
-* **[[Remind][학부][졸업]2022-2학기 학사학위취득유예 신청 안내(2022.06.30.~2022.07.19.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201229&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-06-29)
