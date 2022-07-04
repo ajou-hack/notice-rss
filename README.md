@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[율곡관 지하 혁신공유라운지 사용불가 안내(7/11(월)~12(화))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201531&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 혁신공유팀 (~2022-07-04)
+
 * **[[대학일자리플러스센터] 2022 하계방학 삼성그룹 자소서 완성반 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201528&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-07-04)
 
@@ -104,6 +107,3 @@
 
 * **[[국가근로][교사대생등대학생튜터링] 6월 국가근로/교사대생등대학생튜터링장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 6/30 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201247&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-06-30)
-
-* **[(재공지)[봉사활동] 영유아보육시설 야곱의 집 자원봉사자 모집 (오늘마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201245&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-06-30)
