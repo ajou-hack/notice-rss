@@ -18,6 +18,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 2022 하계방학 삼성그룹 자소서 완성반 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201528&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-07-04)
+
+* **[하계방학중 토론학습실 운영시간 안내(6.30~8.31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201526&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2022-07-04)
+
+* **[(학사과정)2022-하계 계절학기 국내대학 학점교류 신청 안내(22.07.04.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201519&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-07-04)
+
 * **[[재공지] 2022학년도 2학기 파란학기제 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201514&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2022-07-04)
 
@@ -98,12 +107,3 @@
 
 * **[(재공지)[봉사활동] 영유아보육시설 야곱의 집 자원봉사자 모집 (오늘마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201245&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-06-30)
-
-* **[[봉사활동] (대사협) 해외봉사 2022년도 체코 글로벌 봉사단원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201241&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-06-30)
-
-* **[학교법인 대우학원 인사발령(제52호)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201235&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 총무팀 (~2022-06-29)
-
-* **[[봉사활동] 한국우편사업진흥원, 대학생 우정사회봉사단 POCU&#x27;S溫 3기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201233&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-06-29)
