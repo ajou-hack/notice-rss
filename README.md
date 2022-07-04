@@ -18,11 +18,23 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[경기도송파학사 22년 하반기 추가선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201499&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-07-04)
+
+* **[인하대학교 미세먼지연구관리센터 학부연구생 프로그램](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201493&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 홍보실 (~2022-07-04)
+
 * **[[국제교류팀] 2022학년도 국제여름학교 (AISS) BUDDY 최종 합격 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201473&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-07-01)
 
 * **[[대학일자리플러스센터] 금주의 추천채용_드림라인/한국유미코아촉매/(주)드림](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201471&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-07-01)
+
+* **[[다산학부대학] 2022-2학기 고전 토론 대회 사전안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201462&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 다산학부대학 교학팀 (~2022-07-01)
+
+* **[[다산학부대학] 2022-2학기 고전 에세이 대회 사전안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201461&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 다산학부대학 교학팀 (~2022-07-01)
 
 * **[(재공지)2022 청년 UP 클라우드 - 카카오, 현대차, 쿠팡 등! 현직자와의 취·창업 멘토링 콘서트 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201453&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - LINC사업팀 (~2022-07-01)
@@ -95,15 +107,3 @@
 
 * **[[Remind][학부][졸업]2022-2학기 학사학위취득유예 신청 안내(2022.06.30.~2022.07.19.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201229&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-06-29)
-
-* **[[대학일자리플러스센터] 교육 수료생 전원100% 개발자 취업의 기회(마크애니)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201228&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-29)
-
-* **[총장레터 제2호](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201209&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총장비서실 (~2022-06-29)
-
-* **[[재공지]2022학년도 2학기 장학신청_06.30(목)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201207&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-06-29)
-
-* **[(재공지) 2022 LINC 3.0 기술지도/애로기술 자문 지원 사업 기간 연장 안내( ~07.05(화) 14:00까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201190&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-06-29)
