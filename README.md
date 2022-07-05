@@ -21,6 +21,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[교무팀] 전체직원연수 (7.6~7.7)로 인한 교무팀 업무 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201580&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교무팀 (~2022-07-05)
+
 * **[[혁신공유대학] 2022학년도 1학기 미래자동차 표준공동교과목 만족도 조사 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201578&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 혁신공유단 (~2022-07-05)
 
@@ -107,6 +110,3 @@
 
 * **[[Remind][학부]2022-2학기 시간제등록생 신청 기간 안내(07.01.~07.08.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201414&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-06-30)
-
-* **[[대학일자리플러스센터] [재공지] 직무 스터디_ IT개발(Big Data Eng)직무 10명 선발](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201411&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-06-30)
