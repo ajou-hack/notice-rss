@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[공지] 서버 장애로 인한 전산서비스 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201546&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2022-07-05)
+
 * **[[공지] [Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201230&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-06-29)
 
@@ -17,6 +20,12 @@
 
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[(기한연장)[LINC 3.0]2022 산학협력 특화 산학공동기술개발과제 공모 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201563&amp;article.offset=0&amp;articleLimit=30)**
+ [학술] - LINC사업팀 (~2022-07-05)
+
+* **[[국제교류팀] 2022학년도 2학기 제28기 A.G.A. 1차 합격자 발표 및 면접 일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201540&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2022-07-04)
 
 * **[[무료교육/수당지급] 인공지능(스마트공장) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201539&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-07-04)
@@ -101,9 +110,3 @@
 
 * **[[대학일자리플러스센터] 지식재산(IP-R&amp;D)직군 지원자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201343&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-06-30)
-
-* **[2022학년도 2학기 아주강좌 연사 추천](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201286&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-06-30)
-
-* **[하계방학중 중앙도서관 운영시간 안내(6.30~8.31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201249&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 중앙도서관 (~2022-06-30)
