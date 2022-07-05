@@ -21,6 +21,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[Remind][학부][졸업]2022-2학기 학사학위취득유예 신청 안내(2022.06.30.~2022.07.19.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201586&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-07-05)
+
+* **[[Remind][학부]2022-2학기 시간제등록생 신청 기간 안내(07.01.~07.08.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201585&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-07-05)
+
+* **[(재공지)[비교과교육지원센터] 학생설계 비교과프로그램 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201581&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2022-07-05)
+
 * **[[교무팀] 전체직원연수 (7.6~7.7)로 인한 교무팀 업무 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201580&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교무팀 (~2022-07-05)
 
@@ -101,12 +110,3 @@
 
 * **[2022년 멀티미디어 강의실 점검결과(06월) 및 2022년 (07월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201429&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-07-01)
-
-* **[[중앙도서관] 북큐레이션 도서 안내 - 자기계발](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201427&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-07-01)
-
-* **[(재공지)[비교과교육지원센터] 학생설계 비교과프로그램 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201416&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2022-06-30)
-
-* **[[Remind][학부]2022-2학기 시간제등록생 신청 기간 안내(07.01.~07.08.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201414&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-06-30)
