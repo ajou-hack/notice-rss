@@ -1,8 +1,5 @@
 # 최근 공지사항
 
-* **[[공지] 서버 장애로 인한 전산서비스 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201546&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2022-07-05)
-
 * **[[공지] [Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201230&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-06-29)
 
@@ -63,6 +60,9 @@
 * **[(기한연장)[LINC 3.0]2022 산학협력 특화 산학공동기술개발과제 공모 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201563&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - LINC사업팀 (~2022-07-05)
 
+* **[서버 장애로 인한 전산서비스 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201546&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2022-07-05)
+
 * **[[국제교류팀] 2022학년도 2학기 제28기 A.G.A. 1차 합격자 발표 및 면접 일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201540&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-07-04)
 
@@ -107,6 +107,3 @@
 
 * **[[다산학부대학] 2022-2학기 고전 에세이 대회 사전안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201461&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 다산학부대학 교학팀 (~2022-07-01)
-
-* **[(재공지)2022 청년 UP 클라우드 - 카카오, 현대차, 쿠팡 등! 현직자와의 취·창업 멘토링 콘서트 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201453&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀 (~2022-07-01)
