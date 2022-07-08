@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 7월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201658&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-07-08)
+
+* **[[생활관]2022년 2학기 생활관(기숙사) 입사 신청 및 등록 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201657&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 생활관 (~2022-07-08)
+
 * **[[대학언론사] 학보사 수습기자 모집 안내(~7.20)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201647&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생지원팀 (~2022-07-08)
 
@@ -101,9 +107,3 @@
 
 * **[[재공지] 2022학년도 2학기 파란학기제 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201514&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2022-07-04)
-
-* **[[학습법] 2022-1학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201513&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-07-04)
-
-* **[한국장학재단-은행권 대학생 연합기숙사 신규 입주생 모집 안내_22년 2학기](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201501&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-07-04)
