@@ -3,9 +3,6 @@
 * **[[공지] [Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201230&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-06-29)
 
-* **[[공지] 2022-1학기 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=200879&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-06-27)
-
 * **[[공지] [교무팀] 2022-1학기 코로나19 확산에 따른 출석인정 안내(백신공결)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180913&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-16)
 
