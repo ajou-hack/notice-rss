@@ -15,7 +15,16 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[DDoS 공격으로 인한 일부 서비스 접속 지연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201666&amp;article.offset=0&amp;articleLimit=30)**
+* **[비전공자도 배울 수 있는 &#x27;블록체인 교육과정&#x27; 모집 안내(신청/교육기간 변경 안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201684&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - LINC사업팀 (~2022-07-11)
+
+* **[양지현 공인회계사 및 세무사 준비 실원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201682&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 경영대학 (~2022-07-11)
+
+* **[[교외장학] 2022학년도 2학기 가송재단 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201681&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-07-11)
+
+* **[DDoS 공격으로 인한 일부 서비스 접속 지연 안내(조치완료)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201666&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-07-09)
 
 * **[[대학일자리플러스센터] 7월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201658&amp;article.offset=0&amp;articleLimit=30)**
@@ -95,12 +104,3 @@
 
 * **[율곡관 지하 혁신공유라운지 사용불가 안내(7/11(월)~12(화))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201531&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 혁신공유팀 (~2022-07-04)
-
-* **[[대학일자리플러스센터] 2022 하계방학 삼성그룹 자소서 완성반 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201528&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-07-04)
-
-* **[하계방학중 토론학습실 운영시간 안내(6.30~8.31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201526&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2022-07-04)
-
-* **[(학사과정)2022-하계 계절학기 국내대학 학점교류 신청 안내(22.07.04.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201519&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-07-04)
