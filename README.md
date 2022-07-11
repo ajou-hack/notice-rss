@@ -15,6 +15,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022-2학기 파란학기 신청학생 명단 공지(신청학생 필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201710&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2022-07-11)
+
+* **[[무료교육/수당지급] 인공지능(스마트공장) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201709&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2022-07-11)
+
 * **[[모집] 2022학년도 후기 아주대학교 일반대학원 비즈니스애널리틱스학과 신입생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201708&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 경영대학교학팀 (~2022-07-11)
 
@@ -98,9 +104,3 @@
 
 * **[[학습법] 2022학년도 아주러닝캠프 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201572&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-07-05)
-
-* **[[메이커스페이스] 7월 휴관안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201570&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-07-05)
-
-* **[[메이커스페이스] 하계방학 중 메이커스페이스 운영시간 안내(7.04~8.12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201569&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-07-05)
