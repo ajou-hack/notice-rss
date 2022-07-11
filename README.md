@@ -15,6 +15,18 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 거점형 특화 프로그램 안내 (명지대, 가천대)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201690&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-07-11)
+
+* **[[대학일자리플러스센터] 6시그마BB과정(에이블 플러스) 모집 7.18(월) 10시부터](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201688&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-07-11)
+
+* **[[교외장학] 2022학년도 2학기 해성문화재단 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201687&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-07-11)
+
+* **[[교외장학] 서암 윤세영 재단 2022년도 신규 대학 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201686&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-07-11)
+
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201685&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-07-11)
 
@@ -92,15 +104,3 @@
 
 * **[[봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201568&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-07-05)
-
-* **[(기한연장)[LINC 3.0]2022 산학협력 특화 산학공동기술개발과제 공모 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201563&amp;article.offset=0&amp;articleLimit=30)**
- [학술] - LINC사업팀 (~2022-07-05)
-
-* **[서버 장애로 인한 전산서비스 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201546&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2022-07-05)
-
-* **[[국제교류팀] 2022학년도 2학기 제28기 A.G.A. 1차 합격자 발표 및 면접 일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201540&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2022-07-04)
-
-* **[[무료교육/수당지급] 인공지능(스마트공장) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201539&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2022-07-04)
