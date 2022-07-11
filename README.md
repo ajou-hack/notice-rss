@@ -15,6 +15,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201685&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-07-11)
+
 * **[비전공자도 배울 수 있는 &#x27;블록체인 교육과정&#x27; 모집 안내(신청/교육기간 변경 안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201684&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - LINC사업팀 (~2022-07-11)
 
@@ -101,6 +104,3 @@
 
 * **[[무료교육/수당지급] 인공지능(스마트공장) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201539&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-07-04)
-
-* **[율곡관 지하 혁신공유라운지 사용불가 안내(7/11(월)~12(화))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201531&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 혁신공유팀 (~2022-07-04)
