@@ -15,13 +15,25 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022년도 하반기 경기도 학자금 대출이자 지원 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201724&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-07-12)
+
+* **[2022년도 충청남도서울학사관 2학기 충원 모집 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201723&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-07-12)
+
+* **[[공학교육혁신센터] 2022 학생포트폴리오 경진대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201721&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 공학교육혁신센터 (~2022-07-12)
+
+* **[나라키움 대학생주택 2022년 여름학기 입주자 추가 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201717&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-07-12)
+
 * **[2022-2학기 파란학기 신청학생 명단 공지(신청학생 필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201710&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2022-07-11)
 
 * **[[무료교육/수당지급] 인공지능(스마트공장) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201709&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-07-11)
 
-* **[[모집] 2022학년도 후기 아주대학교 일반대학원 비즈니스애널리틱스학과 신입생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201708&amp;article.offset=0&amp;articleLimit=30)**
+* **[[모집] 2022학년도 후기 아주대학교 일반대학원 비즈니스애널리틱스학과 신입생 모집 (7/19~7/25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201708&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 경영대학교학팀 (~2022-07-11)
 
 * **[[대학일자리플러스센터] 거점형 특화 프로그램 안내 (명지대, 가천대)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201690&amp;article.offset=0&amp;articleLimit=30)**
@@ -92,15 +104,3 @@
 
 * **[[Remind][학부]2022-2학기 시간제등록생 신청 기간 안내(07.01.~07.08.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201585&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-07-05)
-
-* **[(재공지)[비교과교육지원센터] 학생설계 비교과프로그램 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201581&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2022-07-05)
-
-* **[[교무팀] 전체직원연수 (7.6~7.7)로 인한 교무팀 업무 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201580&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교무팀 (~2022-07-05)
-
-* **[[혁신공유대학] 2022학년도 1학기 미래자동차 표준공동교과목 만족도 조사 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201578&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신공유단 (~2022-07-05)
-
-* **[[학습법] 2022학년도 아주러닝캠프 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201572&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-07-05)
