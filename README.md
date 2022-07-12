@@ -15,6 +15,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[재공지][대학일자리플러스센터] 내게 ON 상담 - EDISC 진단을 통한 진로 상담](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201749&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-07-12)
+
 * **[[시설팀] 율곡관 강의실 냉방시설 사용불가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201748&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2022-07-12)
 
@@ -37,7 +40,7 @@
  [장학] - 학생지원팀 (~2022-07-12)
 
 * **[[공학교육혁신센터] 2022 학생포트폴리오 경진대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201721&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 공학교육혁신센터 (~2022-07-12)
+ [비교과] - 공학교육혁신센터 (~2022-07-12)
 
 * **[나라키움 대학생주택 2022년 여름학기 입주자 추가 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201717&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-07-12)
@@ -101,6 +104,3 @@
 
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201623&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-07-07)
-
-* **[[대학일자리플러스센터] [재공지] 취업동아리 14기 연구생산 직무 추가 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201600&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-07-05)
