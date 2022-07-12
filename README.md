@@ -15,6 +15,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[외국인 유학생 여러분, 하계방학 글쓰기 클리닉 신청하세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201742&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 유학생입학팀 (~2022-07-12)
+
+* **[[교외장학] 2022학년도 2학기 김수정장학 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201739&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-07-12)
+
 * **[[학습법] 2022학년도 아주러닝캠프 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201732&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-07-12)
 
@@ -98,9 +104,3 @@
 
 * **[[대학일자리플러스센터] 내게 ON 상담 - EDISC 진단을 통한 진로 상담](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201595&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-07-05)
-
-* **[[봉사활동] (대사협) WFK 청년중기봉사단(KOICA 그린봉사단) 봉사단원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201594&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-07-05)
-
-* **[[Remind][학사]2022년 8월 졸업예정자 어학졸업인증제 성적 제출 안내(~2022.07.29(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201588&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-07-05)
