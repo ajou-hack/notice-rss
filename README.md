@@ -15,6 +15,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 2022학년도 아주러닝캠프 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201732&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-07-12)
+
+* **[[교외장학] The가꿈7기 대학생 가꾸미 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201731&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-07-12)
+
 * **[2022년도 하반기 경기도 학자금 대출이자 지원 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201724&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-07-12)
 
@@ -97,10 +103,4 @@
  [학사] - 사회봉사센터 (~2022-07-05)
 
 * **[[Remind][학사]2022년 8월 졸업예정자 어학졸업인증제 성적 제출 안내(~2022.07.29(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201588&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-07-05)
-
-* **[[Remind][학부][졸업]2022-2학기 학사학위취득유예 신청 안내(2022.06.30.~2022.07.19.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201586&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-07-05)
-
-* **[[Remind][학부]2022-2학기 시간제등록생 신청 기간 안내(07.01.~07.08.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201585&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-07-05)
