@@ -15,6 +15,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[시설팀] 율곡관 강의실 냉방시설 사용불가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201748&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2022-07-12)
+
 * **[외국인 유학생 여러분, 하계방학 글쓰기 클리닉 신청하세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201742&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 유학생입학팀 (~2022-07-12)
 
@@ -39,7 +42,7 @@
 * **[나라키움 대학생주택 2022년 여름학기 입주자 추가 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201717&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-07-12)
 
-* **[2022-2학기 파란학기 신청학생 명단 공지(신청학생 필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201710&amp;article.offset=0&amp;articleLimit=30)**
+* **[2022-2학기 파란학기 신청학생 명단 공지_수정(신청학생 필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201710&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2022-07-11)
 
 * **[[무료교육/수당지급] 인공지능(스마트공장) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201709&amp;article.offset=0&amp;articleLimit=30)**
@@ -100,7 +103,4 @@
  [기타] - 종합지원센터 (~2022-07-07)
 
 * **[[대학일자리플러스센터] [재공지] 취업동아리 14기 연구생산 직무 추가 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201600&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-07-05)
-
-* **[[대학일자리플러스센터] 내게 ON 상담 - EDISC 진단을 통한 진로 상담](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201595&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-07-05)
