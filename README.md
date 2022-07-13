@@ -15,6 +15,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[아주대학교](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201770&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 국제대학원 교학팀 (~2022-07-13)
+
+* **[[학부] 2022-2학기 전과 확정 알림 및 학사안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201765&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-07-13)
+
 * **[[학습법] 2022-1학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201763&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-07-13)
 
@@ -98,9 +104,3 @@
 
 * **[[대학언론사] 학보사 수습기자 모집 안내(~7.20)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201647&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생지원팀 (~2022-07-08)
-
-* **[[전공진입평가 미이수자 필독] 2022-2학기 전공진입평가 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201643&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-07-08)
-
-* **[2022-2학기 1학년 2학기 복학 대상자 Co-BSM 자동수강신청 요청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201640&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-07-08)
