@@ -15,6 +15,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 에이블 플러스_IT교육(파이썬) 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201779&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-07-13)
+
+* **[[대학일자리플러스센터] 에이블 플러스_반도체 제조 실습과정 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201778&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-07-13)
+
 * **[[학부] 2022-2학기 재입학 확정 및 학사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201776&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-07-13)
 
@@ -98,9 +104,3 @@
 
 * **[DDoS 공격으로 인한 일부 서비스 접속 지연 안내(조치완료)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201666&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-07-09)
-
-* **[[대학일자리플러스센터] 7월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201658&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-07-08)
-
-* **[[생활관]2022년 2학기 생활관(기숙사) 입사 신청 및 등록 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201657&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 생활관 (~2022-07-08)
