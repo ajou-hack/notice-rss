@@ -15,6 +15,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 금주의 추천채용_LSK Global PS/삼화콘덴서공업/스테코](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201824&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-07-14)
+
 * **[[봉사활동] 영유아보육시설 야곱의 집 자원봉사자 모집 (7/29 금)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201813&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-07-14)
 
@@ -101,6 +104,3 @@
 
 * **[[대학일자리플러스센터] 6시그마BB과정(에이블 플러스) 모집 7.18(월) 10시부터](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201688&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-07-11)
-
-* **[[교외장학] 2022학년도 2학기 해성문화재단 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201687&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-07-11)
