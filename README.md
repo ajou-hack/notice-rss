@@ -15,6 +15,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[전공진입평가 미이수자 필독] 2022-2학기 전공진입평가 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201788&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-07-14)
+
+* **[[대학일자리플러스센터] 티랩 IT 개발엔지니어, 솔루션카탈리스트 채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201783&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-07-14)
+
+* **[[Remind][학부][졸업]2022-2학기 학사학위취득유예 신청 안내(2022.06.30.~2022.07.19.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201781&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-07-14)
+
 * **[[대학일자리플러스센터] 에이블 플러스_IT교육(파이썬) 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201779&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-07-13)
 
@@ -23,9 +32,6 @@
 
 * **[[학부] 2022-2학기 재입학 확정 및 학사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201776&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-07-13)
-
-* **[아주대학교](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201770&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 국제대학원 교학팀 (~2022-07-13)
 
 * **[[학부] 2022-2학기 전과 확정 알림 및 학사안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201765&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-07-13)
@@ -98,9 +104,3 @@
 
 * **[양지현 공인회계사 및 세무사 준비 실원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201682&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 경영대학 (~2022-07-11)
-
-* **[[교외장학] 2022학년도 2학기 가송재단 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201681&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-07-11)
-
-* **[DDoS 공격으로 인한 일부 서비스 접속 지연 안내(조치완료)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201666&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2022-07-09)
