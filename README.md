@@ -15,6 +15,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 하계 취업동아리 14기 3학년 대상 종합반을 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201793&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-07-14)
+
+* **[[현장실습지원센터] 2022-2학기 현장실습 학생 참여 신청 안내 (★07.18~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201791&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2022-07-14)
+
 * **[[전공진입평가 미이수자 필독] 2022-2학기 전공진입평가 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201788&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-07-14)
 
@@ -39,7 +45,7 @@
 * **[[학습법] 2022-1학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201763&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-07-13)
 
-* **[2022 미래자동차 혁신공유대학 메타버스 퀴즈대회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201757&amp;article.offset=0&amp;articleLimit=30)**
+* **[[혁신공유대학] 2022 미래자동차 혁신공유대학 메타버스 퀴즈대회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201757&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 혁신공유단 (~2022-07-13)
 
 * **[(당일공지)[다산학부대학]2022-2학기 1학년 2학기 복학 대상자 Co-BSM 자동수강신청 요청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201753&amp;article.offset=0&amp;articleLimit=30)**
@@ -98,9 +104,3 @@
 
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201685&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-07-11)
-
-* **[비전공자도 배울 수 있는 &#x27;블록체인 교육과정&#x27; 모집 안내(신청/교육기간 변경 안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201684&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀 (~2022-07-11)
-
-* **[양지현 공인회계사 및 세무사 준비 실원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201682&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 경영대학 (~2022-07-11)
