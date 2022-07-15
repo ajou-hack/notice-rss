@@ -15,7 +15,10 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[[교육대학원]2022 하계 정교사 1급 자격연수 수업 운영 보조 아르바이트 모집(~7/26까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201835&amp;article.offset=0&amp;articleLimit=30)**
+* **[[교외장학]2022년도 정읍시민장학재단 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201841&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-07-15)
+
+* **[(모집종료)[교육대학원]2022 하계 정교사 1급 자격연수 수업 운영 보조 아르바이트 모집(~7/26까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201835&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 교육대학원 (~2022-07-15)
 
 * **[[대학일자리플러스센터] 금주의 추천채용_LSK Global PS/삼화콘덴서공업/스테코](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201824&amp;article.offset=0&amp;articleLimit=30)**
@@ -101,6 +104,3 @@
 
 * **[[무료교육/수당지급] 인공지능(스마트공장) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201709&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-07-11)
-
-* **[[모집] 2022학년도 후기 아주대학교 일반대학원 비즈니스애널리틱스학과 신입생 모집 (7/19~7/25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201708&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 경영대학교학팀 (~2022-07-11)
