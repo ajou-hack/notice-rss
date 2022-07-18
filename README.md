@@ -15,6 +15,21 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[전공진입평가 미이수자 필독] 2022-2학기 전공진입평가 수강신청 안내(신청시간 변경 10:00→10:30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201896&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-07-18)
+
+* **[(재공지) [봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201886&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-07-18)
+
+* **[2022년 경기도 기숙사 하반기 추가 입사생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201881&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-07-18)
+
+* **[[다산학부대학] 2022-2학기 BSM 및 공업수학 예비수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201880&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-07-18)
+
+* **[[전공진입평가 미이수자 필독] 2022-2학기 전공진입평가 수강신청 안내(당일공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201879&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-07-18)
+
 * **[[대학일자리플러스센터] 아인슈타인 프로젝트 과제발표 참관자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201870&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-07-15)
 
@@ -89,18 +104,3 @@
 
 * **[[시설팀] 율곡관 강의실 냉방시설 사용불가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201748&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2022-07-12)
-
-* **[외국인 유학생 여러분, 하계방학 글쓰기 클리닉 신청하세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201742&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 유학생입학팀 (~2022-07-12)
-
-* **[[교외장학] 2022학년도 2학기 김수정장학 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201739&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-07-12)
-
-* **[[학습법] 2022학년도 아주러닝캠프 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201732&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-07-12)
-
-* **[[교외장학] The가꿈7기 대학생 가꾸미 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201731&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-07-12)
-
-* **[2022년도 하반기 경기도 학자금 대출이자 지원 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201724&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-07-12)
