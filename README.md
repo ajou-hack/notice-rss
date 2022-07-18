@@ -15,6 +15,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(학사과정)2022-2학기 국내대학 학점교류 신청 안내(22.07.18.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201937&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-07-18)
+
 * **[[대학혁신지원사업] 대학교육혁신원 6월 뉴스레터](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201921&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2022-07-18)
 
@@ -101,6 +104,3 @@
 
 * **[[학습법] 2022-1학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201763&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-07-13)
-
-* **[[혁신공유대학] 2022 미래자동차 혁신공유대학 메타버스 퀴즈대회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201757&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신공유단 (~2022-07-13)
