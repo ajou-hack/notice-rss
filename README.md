@@ -15,6 +15,24 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2023학년도 재외국민 전형 수강능력시험에 따른 건물 출입제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201972&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 입학팀 (~2022-07-19)
+
+* **[[대학일자리플러스센터]대학일자리플러스센터 서비스 모아보기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201968&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-07-19)
+
+* **[[Remind][학사]2022년 8월 졸업예정자 어학졸업인증제 성적 제출 안내(~2022.07.29(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201967&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-07-19)
+
+* **[2023학년도 법학적성시험(LEET) 시행에 따른 성호관 출입제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201966&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 법학전문대학원교학팀 (~2022-07-19)
+
+* **[2022-하계 계절수업 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201964&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-07-19)
+
+* **[[학습법] 2022-1학기 온라인 학습법 특강 우수 수강자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201963&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-07-19)
+
 * **[[봉사활동] (대한민국교육봉사단) 중학생 진로멘토링 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201940&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-07-18)
 
@@ -86,21 +104,3 @@
 
 * **[[전공진입평가 미이수자 필독] 2022-2학기 전공진입평가 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201788&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-07-14)
-
-* **[[대학일자리플러스센터] 티랩 IT 개발엔지니어, 솔루션카탈리스트 채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201783&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-07-14)
-
-* **[[Remind][학부][졸업]2022-2학기 학사학위취득유예 신청 안내(2022.06.30.~2022.07.19.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201781&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-07-14)
-
-* **[[대학일자리플러스센터] 에이블 플러스_IT교육(파이썬) 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201779&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-07-13)
-
-* **[[대학일자리플러스센터] 에이블 플러스_반도체 제조 실습과정 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201778&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-07-13)
-
-* **[[학부] 2022-2학기 재입학 확정 및 학사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201776&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-07-13)
-
-* **[[학부] 2022-2학기 전과 확정 알림 및 학사안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201765&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-07-13)
