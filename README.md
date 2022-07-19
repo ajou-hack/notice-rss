@@ -15,6 +15,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022-2학기 강의페어링 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201984&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산융복합교육센터 (~2022-07-19)
+
+* **[[다산학부대학] 2022학년도 신입생 대상 자동수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201983&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-07-19)
+
 * **[[토론학습실] 임시휴관 안내(7/23~24 토,일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201978&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2022-07-19)
 
@@ -98,9 +104,3 @@
 
 * **[[입학처] 2023학년도 신입생 선발에 따른 협조 요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201801&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 입학팀 (~2022-07-14)
-
-* **[[대학일자리플러스센터] 취업동아리 14기 3학년 대상 종합반을 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201793&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-07-14)
-
-* **[[현장실습지원센터] 2022-2학기 현장실습 학생 참여 신청 안내 (★07.18~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201791&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-07-14)
