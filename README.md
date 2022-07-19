@@ -15,6 +15,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[토론학습실] 임시휴관 안내(7/23~24 토,일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201978&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2022-07-19)
+
 * **[2023학년도 재외국민 전형 수강능력시험에 따른 건물 출입제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201972&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 입학팀 (~2022-07-19)
 
@@ -101,6 +104,3 @@
 
 * **[[현장실습지원센터] 2022-2학기 현장실습 학생 참여 신청 안내 (★07.18~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201791&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-07-14)
-
-* **[[전공진입평가 미이수자 필독] 2022-2학기 전공진입평가 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201788&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-07-14)
