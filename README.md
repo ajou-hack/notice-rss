@@ -15,6 +15,18 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] SK하이닉스 청년 Hy-Po 학교 추천자 모집(~7/22 9시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202012&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-07-20)
+
+* **[[Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202009&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-07-20)
+
+* **[아주대학교 의료인공지능 학부 마이크로과정 및 대학원 과정 모집 공고 (2022년도 2학기)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202007&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 의과대학 교학팀 (~2022-07-20)
+
+* **[[창업교육센터] 2022학년도 창업동아리 모집 안내(~08.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202003&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업교육센터 (~2022-07-20)
+
 * **[[교외장학] 2022년 서울희망대학진로 장학생 선발 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201998&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-07-19)
 
@@ -92,15 +104,3 @@
 
 * **[[대학일자리플러스센터] 7월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201850&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-07-15)
-
-* **[[교외장학]2022년도 정읍시민장학재단 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201841&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-07-15)
-
-* **[(모집종료)[교육대학원]2022 하계 정교사 1급 자격연수 수업 운영 보조 아르바이트 모집(~7/26까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201835&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 교육대학원 (~2022-07-15)
-
-* **[[대학일자리플러스센터] 금주의 추천채용_LSK Global PS/삼화콘덴서공업/스테코](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201824&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-07-14)
-
-* **[[봉사활동] 영유아보육시설 야곱의 집 자원봉사자 모집 (7/29 금)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201813&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-07-14)
