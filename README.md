@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[[공지] 2022-하계 계절수업 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201964&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-07-19)
+
 * **[[공지] [Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201230&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-06-29)
 
@@ -14,6 +17,15 @@
 
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[LINC 3.0] 랜선으로 만나는 릴레이 글로벌 취·창업 톡톡톡(talk)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202036&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2022-07-20)
+
+* **[LH 청년 전세임대주택 입주자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202029&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-07-20)
+
+* **[나라키움 대학생주택 2022년 여름학기 입주자 추가 모집 안내 (2차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202023&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-07-20)
 
 * **[[대학일자리플러스센터] SK하이닉스 청년 Hy-Po 학교 추천자 모집(~7/22 9시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202012&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-07-20)
@@ -36,7 +48,7 @@
 * **[2022-2학기 강의페어링 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201984&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산융복합교육센터 (~2022-07-19)
 
-* **[[다산학부대학] 2022학년도 신입생 대상 자동수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201983&amp;article.offset=0&amp;articleLimit=30)**
+* **[[다산학부대학] 2022학년도 신입생 대상 자동수강신청 완료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201983&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-07-19)
 
 * **[[토론학습실] 임시휴관 안내(7/23~24 토,일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201978&amp;article.offset=0&amp;articleLimit=30)**
@@ -53,9 +65,6 @@
 
 * **[2023학년도 법학적성시험(LEET) 시행에 따른 성호관 출입제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201966&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 법학전문대학원교학팀 (~2022-07-19)
-
-* **[2022-하계 계절수업 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201964&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-07-19)
 
 * **[[학습법] 2022-1학기 온라인 학습법 특강 우수 수강자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201963&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-07-19)
@@ -98,9 +107,3 @@
 
 * **[[학부]2022-2학기 과목별 운영방식 안내(예비 수강신청 및 본수강신청, 수강정정 확인용)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201860&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-07-15)
-
-* **[[학부]2022-2학기 수업 운영 안내 (2022.7.15. 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201853&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-07-15)
-
-* **[[대학일자리플러스센터] 7월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201850&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-07-15)
