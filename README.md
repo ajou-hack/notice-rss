@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(장애학생 대상)포스코 1% 나눔재단 [디지털 코딩 아카데미] 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202097&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2022-07-21)
+
 * **[[다산학부대학] 2022-2학기 BSM 및 공업수학 예비수강신청 안내(재안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202078&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-07-21)
 
@@ -104,6 +107,3 @@
 
 * **[[전공진입평가 미이수자 필독] 2022-2학기 전공진입평가 수강신청 안내(신청시간 변경 10:00→10:30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201896&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-07-18)
-
-* **[(재공지) [봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201886&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-07-18)
