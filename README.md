@@ -18,6 +18,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[다산학부대학] 2022-2학기 BSM 및 공업수학 예비수강신청 안내(재안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202078&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-07-21)
+
+* **[[대학일자리플러스센터] [WORKNET] 4차산업혁명채용관 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202074&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-07-21)
+
+* **[율곡관 1,2층 로비 등 조명개선공사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202073&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2022-07-21)
+
 * **[[기초과학연구소]2022년 자율운영 중점연구소 세부과제 2차 공모안내(~8.16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202061&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - 기초과학연구소 (~2022-07-20)
 
@@ -98,12 +107,3 @@
 
 * **[(재공지) [봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201886&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-07-18)
-
-* **[2022년 경기도 기숙사 하반기 추가 입사생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201881&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-07-18)
-
-* **[[다산학부대학] 2022-2학기 BSM 및 공업수학 예비수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201880&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-07-18)
-
-* **[[전공진입평가 미이수자 필독] 2022-2학기 전공진입평가 수강신청 안내(당일공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201879&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-07-18)
