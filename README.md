@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 금주의 추천채용_(주)보령/비츠로그룹/엔큐리티](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202109&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-07-21)
+
+* **[[모바일 운전면허증] 전국 발급 안내 및 협조 요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202106&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-07-21)
+
 * **[(장애학생 대상)포스코 1% 나눔재단 [디지털 코딩 아카데미] 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202097&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2022-07-21)
 
@@ -100,10 +106,4 @@
  [기타] - 대학교육혁신원 (~2022-07-18)
 
 * **[[다산학부대학] 아주인성 공통반(재학생 수강신청가능반), 고급영어 과목 재수강 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201917&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-07-18)
-
-* **[[학습법] 2022학년도 아주러닝캠프 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201910&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-07-18)
-
-* **[[전공진입평가 미이수자 필독] 2022-2학기 전공진입평가 수강신청 안내(신청시간 변경 10:00→10:30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201896&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-07-18)
