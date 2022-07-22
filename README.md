@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[8/3(수) 미래자동차 현직전문가 특강&amp; 연계전공 설명회 (경품 이벤트O)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202161&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 혁신공유팀 (~2022-07-22)
+
+* **[[장학-연장공고] 2022학년도 2학기 김수정장학 장학생 선발 공고_7.29(금) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202160&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-07-22)
+
 * **[[대학일자리플러스센터] - 7월26일(화) 10시~ 신청접수 - 2022 NCS 반도체 전공정 집중과정 (초급-2차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202158&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-07-22)
 
@@ -101,9 +107,3 @@
 
 * **[아주대학교 의료인공지능 학부 마이크로과정 및 대학원 과정 모집 공고 (2022년도 2학기)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202007&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 의과대학 교학팀 (~2022-07-20)
-
-* **[[창업교육센터] 2022학년도 창업동아리 모집 안내(~08.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202003&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업교육센터 (~2022-07-20)
-
-* **[[교외장학] 2022년 서울희망대학진로 장학생 선발 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201998&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-07-19)
