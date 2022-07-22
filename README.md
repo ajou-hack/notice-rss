@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[LINC 3.0] 한전 전력연구원 2022년 하반기 대학생 현장실습 학생 모집 안내(서류접수~8.2까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202147&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2022-07-22)
+
+* **[[봉사활동] 야생조류 유리창 충돌조사 버드세이버 자원봉사 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202144&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-07-22)
+
 * **[[봉사활동] 참지마요 느린 학습자를 위한 대학생 교육봉사단 6기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202141&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-07-22)
 
@@ -101,9 +107,3 @@
 
 * **[2022-2학기 강의페어링 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201984&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산융복합교육센터 (~2022-07-19)
-
-* **[[다산학부대학] 2022학년도 신입생 대상 자동수강신청 완료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201983&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-07-19)
-
-* **[[토론학습실] 임시휴관 안내(7/23~24 토,일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201978&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2022-07-19)
