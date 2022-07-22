@@ -18,6 +18,18 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[자연대/영재교육원]아주사이언스 페스티벌 개최 안내(UN 세계기초과학의해 기념 청소년 과학교실)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202126&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 자연과학대학교학팀 (~2022-07-22)
+
+* **[[대학일자리플러스센터] [재공지] 취업동아리 추가모집 &amp; 온라인 운영](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202124&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-07-22)
+
+* **[[LINC 3.0] 2022-2학기 다학제캡스톤디자인 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202121&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - LINC사업팀 (~2022-07-22)
+
+* **[2022 부산국제광고제 대학생 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202120&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 홍보실 (~2022-07-22)
+
 * **[[대학일자리플러스센터] 금주의 추천채용_(주)보령/비츠로그룹/엔큐리티](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202109&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-07-21)
 
@@ -95,15 +107,3 @@
 
 * **[[학습법] 2022-1학기 온라인 학습법 특강 우수 수강자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201963&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-07-19)
-
-* **[[봉사활동] (대한민국교육봉사단) 중학생 진로멘토링 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201940&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-07-18)
-
-* **[(학사과정)2022-2학기 국내대학 학점교류 신청 안내(22.07.18.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201937&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-07-18)
-
-* **[[대학혁신지원사업] 대학교육혁신원 6월 뉴스레터](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201921&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2022-07-18)
-
-* **[[다산학부대학] 아주인성 공통반(재학생 수강신청가능반), 고급영어 과목 재수강 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201917&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-07-18)
