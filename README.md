@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[봉사활동] 참지마요 느린 학습자를 위한 대학생 교육봉사단 6기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202141&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-07-22)
+
+* **[[다산학부대학] 2022-2학기 BSM 및 공업수학 예비수강신청 안내(영어2 공통반 수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202140&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-07-22)
+
 * **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 45호 (2022.07)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202136&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-07-22)
 
@@ -101,9 +107,3 @@
 
 * **[[토론학습실] 임시휴관 안내(7/23~24 토,일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201978&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2022-07-19)
-
-* **[2023학년도 재외국민 전형 수강능력시험에 따른 건물 출입제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201972&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 입학팀 (~2022-07-19)
-
-* **[[대학일자리플러스센터]대학일자리플러스센터 서비스 모아보기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201968&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-07-19)
