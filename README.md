@@ -18,6 +18,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 45호 (2022.07)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202136&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-07-22)
+
+* **[[대학일자리플러스센터] 7월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202131&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-07-22)
+
+* **[[공학교육혁신센터] 2022 학생포트폴리오 경진대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202130&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2022-07-22)
+
 * **[[자연대/영재교육원]아주사이언스 페스티벌 개최 안내(UN 세계기초과학의해 기념 청소년 과학교실)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202126&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 자연과학대학교학팀 (~2022-07-22)
 
@@ -98,12 +107,3 @@
 
 * **[[대학일자리플러스센터]대학일자리플러스센터 서비스 모아보기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201968&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-07-19)
-
-* **[[Remind][학사]2022년 8월 졸업예정자 어학졸업인증제 성적 제출 안내(~2022.07.29(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201967&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-07-19)
-
-* **[2023학년도 법학적성시험(LEET) 시행에 따른 성호관 출입제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201966&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 법학전문대학원교학팀 (~2022-07-19)
-
-* **[[학습법] 2022-1학기 온라인 학습법 특강 우수 수강자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201963&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-07-19)
