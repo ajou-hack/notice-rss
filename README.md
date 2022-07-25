@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[혁신공유단] 제2회 혁신공유대학 메타버스 콘테스트 공모 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202186&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신공유단 (~2022-07-25)
+
 * **[[경영연구소] [모집] 2022학년도 하계세미나 실시 및 프로그램 신청안내 (주제: Introduction to OLS and Causality in Data Science)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202185&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 경영연구소 (~2022-07-25)
 
@@ -103,7 +106,4 @@
  [기타] - LINC사업팀 (~2022-07-20)
 
 * **[LH 청년 전세임대주택 입주자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202029&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-07-20)
-
-* **[나라키움 대학생주택 2022년 여름학기 입주자 추가 모집 안내 (2차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202023&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-07-20)
