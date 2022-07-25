@@ -18,6 +18,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[과학영재교육원] 학교 밖 스마트 수·과학실 참가자 모집 안내_동굴 세계(8/15 수업, 초등학생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202203&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 과학영재교육원 (~2022-07-25)
+
+* **[2022년 학교 밖 스마트 수·과학실 참가자 모집 안내 (고등학생 대상 – 정보과학) (7.27 ~ 7.31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202201&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 과학영재교육원 (~2022-07-25)
+
+* **[(학사과정)2022-2학기 국내대학 학점교류 신청 안내(22.07.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202197&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-07-25)
+
 * **[[혁신공유단] 제2회 혁신공유대학 메타버스 콘테스트 공모 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202186&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 혁신공유단 (~2022-07-25)
 
@@ -98,12 +107,3 @@
 
 * **[[LINC 3.0] 아주 링크의 얼굴이 될 캐릭터를 찾습니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202060&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - LINC사업팀 (~2022-07-20)
-
-* **[[재공지] 2022-2학기 강의페어링 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202058&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산융복합교육센터 (~2022-07-20)
-
-* **[[LINC 3.0] 랜선으로 만나는 릴레이 글로벌 취·창업 톡톡톡(talk)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202036&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-07-20)
-
-* **[LH 청년 전세임대주택 입주자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202029&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-07-20)
