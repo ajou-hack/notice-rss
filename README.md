@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[봉사활동] 2022학년도 2학기 십시일밥 봉사자 사전 수요조사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202172&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-07-25)
+
 * **[8/3(수) 미래자동차 현직전문가 특강&amp; 연계전공 설명회 (경품 이벤트O)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202161&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 혁신공유팀 (~2022-07-22)
 
@@ -104,6 +107,3 @@
 
 * **[[Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202009&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-07-20)
-
-* **[아주대학교 의료인공지능 학부 마이크로과정 및 대학원 과정 모집 공고 (2022년도 2학기)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202007&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 의과대학 교학팀 (~2022-07-20)
