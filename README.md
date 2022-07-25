@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지)[LINC 3.0] 제4회 청년 아이디어톤 대회(스마트관광+창업)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202207&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2022-07-25)
+
+* **[[과학영재교육원] 2022 아주 사이언스 페스티벌 행사 운영 보조 아르바이트 모집(~7/29까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202206&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 과학영재교육원 (~2022-07-25)
+
 * **[[과학영재교육원] 학교 밖 스마트 수·과학실 참가자 모집 안내_동굴 세계(8/15 수업, 초등학생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202203&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 과학영재교육원 (~2022-07-25)
 
@@ -101,9 +107,3 @@
 
 * **[율곡관 1,2층 로비 등 조명개선공사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202073&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2022-07-21)
-
-* **[[기초과학연구소]2022년 자율운영 중점연구소 세부과제 2차 공모안내(~8.16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202061&amp;article.offset=0&amp;articleLimit=30)**
- [학술] - 기초과학연구소 (~2022-07-20)
-
-* **[[LINC 3.0] 아주 링크의 얼굴이 될 캐릭터를 찾습니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202060&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀 (~2022-07-20)
