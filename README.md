@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[경영연구소] [모집] 2022학년도 하계세미나 실시 및 프로그램 신청안내 (주제: Introduction to OLS and Causality in Data Science)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202185&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 경영연구소 (~2022-07-25)
+
+* **[[학부] 2022-2학기 등록 안내(08.22.~08.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202177&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-07-25)
+
 * **[[봉사활동] 2022학년도 2학기 십시일밥 봉사자 사전 수요조사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202172&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-07-25)
 
@@ -101,9 +107,3 @@
 
 * **[나라키움 대학생주택 2022년 여름학기 입주자 추가 모집 안내 (2차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202023&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-07-20)
-
-* **[[대학일자리플러스센터] SK하이닉스 청년 Hy-Po 학교 추천자 모집(~7/22 9시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202012&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-07-20)
-
-* **[[Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202009&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-07-20)
