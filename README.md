@@ -18,6 +18,15 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[나라키움 대학생주택 2022학년 2학기 입주자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202234&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-07-26)
+
+* **[[기획팀]규정류 개정 공포(2022학년도 제7차 교무회의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202232&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2022-07-26)
+
+* **[2022학년도 8월 졸업예정자 도서반납 안내(~8.22 까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202231&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 중앙도서관 학술정보팀 (~2022-07-26)
+
 * **[[대학일자리플러스센터] 하계방학 면접특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202214&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-07-26)
 
@@ -98,12 +107,3 @@
 
 * **[[대학일자리플러스센터] 금주의 추천채용_(주)보령/비츠로그룹/엔큐리티](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202109&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-07-21)
-
-* **[[모바일 운전면허증] 전국 발급 안내 및 협조 요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202106&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-07-21)
-
-* **[(장애학생 대상)포스코 1% 나눔재단 [디지털 코딩 아카데미] 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202097&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2022-07-21)
-
-* **[[다산학부대학] 2022-2학기 BSM 및 공업수학 예비수강신청 안내(재안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202078&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-07-21)
