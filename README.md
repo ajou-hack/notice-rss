@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 하계방학 면접특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202214&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-07-26)
+
+* **[[공학교육혁신센터] 2022 학생포트폴리오 경진대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202212&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2022-07-26)
+
 * **[(재공지)[LINC 3.0] 제4회 청년 아이디어톤 대회(스마트관광+창업)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202207&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-07-25)
 
@@ -101,9 +107,3 @@
 
 * **[[다산학부대학] 2022-2학기 BSM 및 공업수학 예비수강신청 안내(재안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202078&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-07-21)
-
-* **[[대학일자리플러스센터] [WORKNET] 4차산업혁명채용관 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202074&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-07-21)
-
-* **[율곡관 1,2층 로비 등 조명개선공사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202073&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2022-07-21)
