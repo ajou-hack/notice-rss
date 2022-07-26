@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 2022 온라인 환경산업 일자리 박람회(7/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202242&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-07-26)
+
+* **[[성평등상담소] 언제 이용할까?](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202241&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 성평등상담소 (~2022-07-26)
+
 * **[[대학일자리플러스센터] 6시그마BB과정(에이블 플러스) 추가모집(7/26 14시~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202239&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-07-26)
 
@@ -101,9 +107,3 @@
 
 * **[[자연대/영재교육원]아주사이언스 페스티벌 개최 안내(UN 세계기초과학의해 기념 청소년 과학교실)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202126&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 자연과학대학교학팀 (~2022-07-22)
-
-* **[[대학일자리플러스센터] [재공지] 취업동아리 추가모집 &amp; 온라인 운영](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202124&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-07-22)
-
-* **[[LINC 3.0] 2022-2학기 다학제캡스톤디자인 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202121&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - LINC사업팀 (~2022-07-22)
