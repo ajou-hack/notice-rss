@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 6시그마BB과정(에이블 플러스) 추가모집(7/26 14시~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202239&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-07-26)
+
+* **[[예비군연대] 22년 하반기 전입신고, 연락처최신화, 훈련일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202235&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 예비군연대 (~2022-07-26)
+
 * **[나라키움 대학생주택 2022학년 2학기 입주자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202234&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-07-26)
 
@@ -101,9 +107,3 @@
 
 * **[[LINC 3.0] 2022-2학기 다학제캡스톤디자인 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202121&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - LINC사업팀 (~2022-07-22)
-
-* **[2022 부산국제광고제 대학생 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202120&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 홍보실 (~2022-07-22)
-
-* **[[대학일자리플러스센터] 금주의 추천채용_(주)보령/비츠로그룹/엔큐리티](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202109&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-07-21)
