@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 2022-1학기 수업 참여 사례 공모전 수상작 선정 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202268&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-07-27)
+
 * **[[정보시스템팀] 보안 패치 작업으로 인한 전산 서비스 일시 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202259&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-07-27)
 
@@ -103,7 +106,4 @@
  [학사] - 다산학부대학교학팀 (~2022-07-22)
 
 * **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 45호 (2022.07)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202136&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-07-22)
-
-* **[[대학일자리플러스센터] 7월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202131&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-07-22)
