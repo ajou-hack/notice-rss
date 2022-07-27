@@ -18,6 +18,9 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[LINC 3.0] KBO 구단 현장방문의 기회 !「2022 KBO-NINE 프로그램」모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202274&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - LINC사업팀 (~2022-07-27)
+
 * **[[학습법] 2022-1학기 수업 참여 사례 공모전 수상작 선정 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202268&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-07-27)
 
@@ -104,6 +107,3 @@
 
 * **[[다산학부대학] 2022-2학기 BSM 및 공업수학 예비수강신청 안내(영어2 공통반 수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202140&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-07-22)
-
-* **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 45호 (2022.07)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202136&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-07-22)
