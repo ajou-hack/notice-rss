@@ -124,14 +124,18 @@ fn compose_md(notices: &[Notice]) -> String {
     let items = notices
         .iter()
         .map(|notice| -> String {
+            let title = if notice.index == -1 {
+                format!("📌 {}", notice.title)
+            } else {
+                notice.title.clone()
+            };
+
             let description = format!(
                 "[{}] - {} (~{})",
                 notice.category, notice.author, notice.published_at
             );
-            format!(
-                r"* **[{}]({})**\n  {}",
-                notice.title, notice.link, description
-            )
+
+            format!(r"* **[{}]({})**\n  {}", title, notice.link, description)
         })
         .collect::<Vec<String>>()
         .join(r"\n\n");
