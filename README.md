@@ -18,6 +18,12 @@
 * **[[공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[정보시스템팀] 보안 패치 작업으로 인한 전산 서비스 일시 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202259&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2022-07-27)
+
+* **[(접수)아주북통 &#x27;교수님과 함께하는 독서클럽&#x27; 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202256&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학술정보팀 (~2022-07-27)
+
 * **[[대학일자리플러스센터] 2022 온라인 환경산업 일자리 박람회(7/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202242&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-07-26)
 
@@ -101,9 +107,3 @@
 
 * **[[대학일자리플러스센터] 7월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202131&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-07-22)
-
-* **[[공학교육혁신센터] 2022 학생포트폴리오 경진대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202130&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2022-07-22)
-
-* **[[자연대/영재교육원]아주사이언스 페스티벌 개최 안내(UN 세계기초과학의해 기념 청소년 과학교실)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202126&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 자연과학대학교학팀 (~2022-07-22)
