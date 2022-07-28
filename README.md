@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 금주의 추천채용_IDIS/비즈테크아이/스탠다드인터내셔널](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202339&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-07-28)
+
+* **[[유학생입학팀] 취업특강 - 더 나은 미래 만들기 프로젝트2탄 - 외국인 채용박람회 준비!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202332&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 유학생입학팀 (~2022-07-28)
+
 * **[TOPIK 응시료 장학금 신청하세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202328&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 유학생입학팀 (~2022-07-28)
 
@@ -98,9 +104,3 @@
 
 * **[[봉사활동] 2022학년도 2학기 십시일밥 봉사자 사전 수요조사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202172&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-07-25)
-
-* **[8/3(수) 미래자동차 현직전문가 특강&amp; 연계전공 설명회 (경품 이벤트O)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202161&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 혁신공유팀 (~2022-07-22)
-
-* **[[장학-연장공고] 2022학년도 2학기 김수정장학 장학생 선발 공고_7.29(금) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202160&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-07-22)
