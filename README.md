@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[창업교육센터][재공지] 2022학년도 창업동아리 모집 안내(~08.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202319&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업교육센터 (~2022-07-28)
+
 * **[[공학교육혁신센터] 2022 학생포트폴리오 경진대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202312&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2022-07-28)
 
@@ -101,6 +104,3 @@
 
 * **[[대학일자리플러스센터] - 7월26일(화) 10시~ 신청접수 - 2022 NCS 반도체 전공정 집중과정 (초급-2차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202158&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-07-22)
-
-* **[[글로벌미래교육원] 2022년 2학기 일반과정 개설 - 수강생모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202156&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 글로벌미래교육원 (~2022-07-22)
