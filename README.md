@@ -1,8 +1,5 @@
 # 최근 공지사항
 
-* **[📌 [공지] 2022-하계 계절수업 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201964&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-07-19)
-
 * **[📌 [공지] [Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201230&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-06-29)
 
@@ -17,6 +14,9 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[공학교육혁신센터] 2022 학생포트폴리오 경진대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202312&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2022-07-28)
 
 * **[(재공지)[LINC 3.0] 2022-2학기 현장실습 학생 참여 신청 안내 (★07.18~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202296&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-07-27)
@@ -104,6 +104,3 @@
 
 * **[[글로벌미래교육원] 2022년 2학기 일반과정 개설 - 수강생모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202156&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 글로벌미래교육원 (~2022-07-22)
-
-* **[[LINC 3.0] 한전 전력연구원 2022년 하반기 대학생 현장실습 학생 모집 안내(서류접수~8.2까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202147&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-07-22)
