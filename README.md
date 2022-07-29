@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[홍보] LG CNS STARTUP MONSTER 참여 스타트업 모집 안내(~8/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202361&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-07-29)
+
 * **[2022 산학협력 EXPO 홍보영상 공모전 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202350&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-07-29)
 
@@ -101,6 +104,3 @@
 
 * **[(학사과정)2022-2학기 국내대학 학점교류 신청 안내(22.07.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202197&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-07-25)
-
-* **[[혁신공유단] 제2회 혁신공유대학 메타버스 콘테스트 공모 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202186&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신공유단 (~2022-07-25)
