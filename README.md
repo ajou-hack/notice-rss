@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[학교법인 대우학원 인사발령(제62호)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202370&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-07-29)
+
+* **[2022년 상반기 인천시 대학생 학자금대출 이자지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202367&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-07-29)
+
 * **[[글로벌미래교육원] 2022년 2학기 일반과정 개설 - 수강생모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202365&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 글로벌미래교육원 (~2022-07-29)
 
@@ -96,11 +102,5 @@
 * **[(재공지)[LINC 3.0] 제4회 청년 아이디어톤 대회(스마트관광+창업)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202207&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-07-25)
 
-* **[[과학영재교육원] 2022 아주 사이언스 페스티벌 행사 운영 보조 아르바이트 모집(~7/29까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202206&amp;article.offset=0&amp;articleLimit=30)**
+* **[[마감] [과학영재교육원] 2022 아주 사이언스 페스티벌 행사 운영 보조 아르바이트 모집(~7/29까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202206&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 과학영재교육원 (~2022-07-25)
-
-* **[[과학영재교육원] 학교 밖 스마트 수·과학실 참가자 모집 안내_동굴 세계(8/15 수업, 초등학생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202203&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 과학영재교육원 (~2022-07-25)
-
-* **[2022년 학교 밖 스마트 수·과학실 참가자 모집 안내 (고등학생 대상 – 정보과학) (7.27 ~ 7.31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202201&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 과학영재교육원 (~2022-07-25)
