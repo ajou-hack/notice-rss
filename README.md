@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[글로벌미래교육원] 2022년 2학기 일반과정 개설 - 수강생모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202365&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 글로벌미래교육원 (~2022-07-29)
+
 * **[[홍보] LG CNS STARTUP MONSTER 참여 스타트업 모집 안내(~8/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202361&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-07-29)
 
@@ -101,6 +104,3 @@
 
 * **[2022년 학교 밖 스마트 수·과학실 참가자 모집 안내 (고등학생 대상 – 정보과학) (7.27 ~ 7.31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202201&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 과학영재교육원 (~2022-07-25)
-
-* **[(학사과정)2022-2학기 국내대학 학점교류 신청 안내(22.07.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202197&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-07-25)
