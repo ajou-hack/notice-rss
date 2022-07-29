@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[제77주년 광복절 기념 「나라사랑 태극기 달기 운동」 추진계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202347&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 홍보실 (~2022-07-29)
+
 * **[[대학일자리플러스센터] 금주의 추천채용_IDIS/비즈테크아이/스탠다드인터내셔널](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202339&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-07-28)
 
@@ -101,6 +104,3 @@
 
 * **[[학부] 2022-2학기 등록 안내(08.22.~08.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202177&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-07-25)
-
-* **[[봉사활동] 2022학년도 2학기 십시일밥 봉사자 사전 수요조사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202172&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-07-25)
