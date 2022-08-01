@@ -12,6 +12,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202390&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-08-01)
+
+* **[[Remind][학부] 2022-2학기 등록 안내(08.22.~08.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202388&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-08-01)
+
+* **[[SW중심대학] 2022 동계 A3 인턴십 학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202387&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - SW중심대학사업단 (~2022-08-01)
+
+* **[[다산학부대학] 2022-2학기 고전 에세이 대회 사전안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202384&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 다산학부대학 교학팀 (~2022-08-01)
+
+* **[[다산학부대학] 2022-2학기 고전 토론 대회 사전안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202383&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 다산학부대학 교학팀 (~2022-08-01)
+
 * **[2022학년도 2학기 인공지능융합학과 인공지능융합전공[복수전공, 부전공] 2차 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202382&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 소프트웨어융합대학교학팀 (~2022-08-01)
 
@@ -86,18 +101,3 @@
 
 * **[[대학일자리플러스센터] 2022 온라인 환경산업 일자리 박람회(7/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202242&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-07-26)
-
-* **[[성평등상담소] 언제 이용할까?](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202241&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 성평등상담소 (~2022-07-26)
-
-* **[[대학일자리플러스센터] 6시그마BB과정(에이블 플러스) 추가모집(7/26 14시~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202239&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-07-26)
-
-* **[[예비군연대] 22년 하반기 전입신고, 연락처최신화, 훈련일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202235&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 예비군연대 (~2022-07-26)
-
-* **[나라키움 대학생주택 2022학년 2학기 입주자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202234&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-07-26)
-
-* **[[기획팀]규정류 개정 공포(2022학년도 제7차 교무회의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202232&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2022-07-26)
