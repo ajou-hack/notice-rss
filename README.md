@@ -12,6 +12,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022학년도 2학기 인공지능융합학과 인공지능융합전공[복수전공, 부전공] 2차 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202382&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 소프트웨어융합대학교학팀 (~2022-08-01)
+
+* **[[중앙도서관] 2022학년도 2학기 면학장학생 모집 (~8/16 am10:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202381&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-08-01)
+
+* **[2022년『아주 희망 교재 지원』장학생 모집 안내(~8/15까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202379&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 입학팀 (~2022-08-01)
+
 * **[2022학년도 2학기 한국어튜터(TA) 모집 안내(~8.22.(월) 14:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202376&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 글로벌교양학부 (~2022-08-01)
 
@@ -92,12 +101,3 @@
 
 * **[[기획팀]규정류 개정 공포(2022학년도 제7차 교무회의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202232&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 기획팀 (~2022-07-26)
-
-* **[2022학년도 8월 졸업예정자 도서반납 안내(~8.22 까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202231&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 중앙도서관 학술정보팀 (~2022-07-26)
-
-* **[[대학일자리플러스센터] 하계방학 면접특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202214&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-07-26)
-
-* **[[공학교육혁신센터] 2022 학생포트폴리오 경진대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202212&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2022-07-26)
