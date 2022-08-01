@@ -9,11 +9,14 @@
 * **[📌 [공지] [총무팀] 코로나19 확진자 교내 심층역학조사 URL 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180493&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-02-08)
 
-* **[📌 [공지] 아주 MS Office365 사용안내(포털 SSO연동)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=179802&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2022-01-19)
-
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[2022학년도 2학기 한국어튜터(TA) 모집 안내(~8.22.(월) 14:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202376&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 글로벌교양학부 (~2022-08-01)
+
+* **[2022년 멀티미디어 강의실 점검결과(07월) 및 2022년 (08월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202374&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2022-08-01)
 
 * **[학교법인 대우학원 인사발령(제62호)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202370&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-07-29)
@@ -98,9 +101,3 @@
 
 * **[[공학교육혁신센터] 2022 학생포트폴리오 경진대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202212&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2022-07-26)
-
-* **[(재공지)[LINC 3.0] 제4회 청년 아이디어톤 대회(스마트관광+창업)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202207&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-07-25)
-
-* **[[마감] [과학영재교육원] 2022 아주 사이언스 페스티벌 행사 운영 보조 아르바이트 모집(~7/29까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202206&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 과학영재교육원 (~2022-07-25)
