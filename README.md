@@ -1,7 +1,10 @@
 # 최근 공지사항
 
-* **[📌 [공지] [Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=201230&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-06-29)
+* **[📌 [공지] [Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202390&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-08-01)
+
+* **[📌 [공지] [Remind][학부] 2022-2학기 등록 안내(08.22.~08.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202388&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-08-01)
 
 * **[📌 [공지] [교무팀] 2022-1학기 코로나19 확산에 따른 출석인정 안내(백신공결)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180913&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-16)
@@ -12,11 +15,11 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[[Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202390&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-08-01)
+* **[[학부] 2022-2학기 학부 등록금 분할납부 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202397&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 재무회계팀 (~2022-08-01)
 
-* **[[Remind][학부] 2022-2학기 등록 안내(08.22.~08.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202388&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-08-01)
+* **[[대학일자리플러스센터] 졸업생을 위한 &#x27;커리어케어&#x27; 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202395&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-08-01)
 
 * **[[SW중심대학] 2022 동계 A3 인턴십 학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202387&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - SW중심대학사업단 (~2022-08-01)
