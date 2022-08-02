@@ -15,7 +15,13 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[[글로벌교양학부] 2022-2학기 학부 신입학 유학생의 멘토를 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202422&amp;article.offset=0&amp;articleLimit=30)**
+* **[[혁신공유대학]2022학년도 2학기 미래자동차 공동교과목 타대학 학점교류 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202427&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 혁신공유단 (~2022-08-02)
+
+* **[[학부]2022-2학기 수강신청 안내(8/8(월)~8/12(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202426&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-08-02)
+
+* **[[글로벌교양학부] 2022-2학기 학부 신입학 유학생 멘토 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202422&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 글로벌교양학부 (~2022-08-02)
 
 * **[2022년 대한민국 인재상 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202410&amp;article.offset=0&amp;articleLimit=30)**
@@ -98,9 +104,3 @@
 
 * **[(재공지)[LINC 3.0] 2022-2학기 현장실습 학생 참여 신청 안내 (★07.18~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202296&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-07-27)
-
-* **[전공·교양 교육과정 학습성과 재학생 설문조사(기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202284&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교육평가인증센터 (~2022-07-27)
-
-* **[8/3(수) 미래자동차 현직전문가 특강&amp; 연계전공 설명회 (경품 이벤트O)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202279&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 혁신공유단 (~2022-07-27)
