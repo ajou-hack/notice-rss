@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[♥2022-2 장애대학생 교육지원인력 모집♥(재학생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202451&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2022-08-02)
+
 * **[[성평등상담소] 아직 2022학년도 폭력예방교육을 이수하지 않은 학부생이라면! 클릭!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202444&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 성평등상담소 (~2022-08-02)
 
@@ -101,6 +104,3 @@
 
 * **[[창업교육센터][재공지] 2022학년도 창업동아리 모집 안내(~08.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202319&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업교육센터 (~2022-07-28)
-
-* **[[공학교육혁신센터] 2022 학생포트폴리오 경진대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202312&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2022-07-28)
