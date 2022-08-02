@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[성평등상담소] 아직 2022학년도 폭력예방교육을 이수하지 않은 학부생이라면! 클릭!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202444&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 성평등상담소 (~2022-08-02)
+
 * **[[혁신공유대학]2022학년도 2학기 미래자동차 공동교과목 타대학 학점교류 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202427&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 혁신공유단 (~2022-08-02)
 
@@ -101,6 +104,3 @@
 
 * **[[공학교육혁신센터] 2022 학생포트폴리오 경진대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202312&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2022-07-28)
-
-* **[(재공지)[LINC 3.0] 2022-2학기 현장실습 학생 참여 신청 안내 (★07.18~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202296&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-07-27)
