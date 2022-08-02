@@ -15,6 +15,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[글로벌교양학부] 2022-2학기 학부 신입학 유학생의 멘토를 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202422&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 글로벌교양학부 (~2022-08-02)
+
+* **[2022년 대한민국 인재상 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202410&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-08-02)
+
+* **[(재공지)[공학교육혁신센터] 2022 학생포트폴리오 경진대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202408&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2022-08-02)
+
+* **[재한 중국인 유학생들을 위한 온라인 취업특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202407&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 유학생입학팀 (~2022-08-02)
+
+* **[(재공지)2022-2학기 강의페어링 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202404&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산융복합교육센터 (~2022-08-02)
+
 * **[[학부] 2022-2학기 학부 등록금 분할납부 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202397&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 재무회계팀 (~2022-08-01)
 
@@ -89,18 +104,3 @@
 
 * **[8/3(수) 미래자동차 현직전문가 특강&amp; 연계전공 설명회 (경품 이벤트O)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202279&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 혁신공유단 (~2022-07-27)
-
-* **[[LINC 3.0] KBO 구단 현장방문의 기회 !「2022 KBO-NINE 프로그램」모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202274&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - LINC사업팀 (~2022-07-27)
-
-* **[[학습법] 2022-1학기 수업 참여 사례 공모전 수상작 선정 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202268&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-07-27)
-
-* **[[정보시스템팀] 보안 패치 작업으로 인한 전산 서비스 일시 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202259&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2022-07-27)
-
-* **[(접수)아주북통 &#x27;교수님과 함께하는 독서클럽&#x27; 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202256&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학술정보팀 (~2022-07-27)
-
-* **[[대학일자리플러스센터] 2022 온라인 환경산업 일자리 박람회(7/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202242&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-07-26)
