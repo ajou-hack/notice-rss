@@ -15,6 +15,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[토론학습실] 임시휴관 안내(8/12~13 금,토)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202465&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2022-08-03)
+
+* **[(재공고) [LINC 3.0] KBO 구단 현장방문의 기회 !「2022 KBO-NINE 프로그램」모집 안내(~08.08.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202460&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - LINC사업팀 (~2022-08-03)
+
+* **[(재공지) 2022학년도 2학기 한국어튜터(TA) 모집 안내(~8.22.(월) 14:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202458&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 글로벌교양학부 (~2022-08-03)
+
+* **[2022.2학기 미래자동차 연계전공 추가신청 안내(~9/5월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202457&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 혁신공유팀 (~2022-08-03)
+
+* **[2022-2학기 시간제등록생 전형 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202456&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-08-03)
+
 * **[♣2022-2 장애학생 교육지원인력 모집♣(대학원생, 휴학생, 학적유지자)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202453&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2022-08-02)
 
@@ -69,9 +84,6 @@
 * **[2022년『아주 희망 교재 지원』장학생 모집 안내(~8/15까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202379&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학팀 (~2022-08-01)
 
-* **[2022학년도 2학기 한국어튜터(TA) 모집 안내(~8.22.(월) 14:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202376&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 글로벌교양학부 (~2022-08-01)
-
 * **[2022년 멀티미디어 강의실 점검결과(07월) 및 2022년 (08월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202374&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-08-01)
 
@@ -92,15 +104,3 @@
 
 * **[청년월세 특별지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202349&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-07-29)
-
-* **[제77주년 광복절 기념 「나라사랑 태극기 달기 운동」 추진계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202347&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 홍보실 (~2022-07-29)
-
-* **[[대학일자리플러스센터] 금주의 추천채용_IDIS/비즈테크아이/스탠다드인터내셔널](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202339&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-07-28)
-
-* **[[유학생입학팀] 취업특강 - 더 나은 미래 만들기 프로젝트2탄 - 외국인 채용박람회 준비!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202332&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 유학생입학팀 (~2022-07-28)
-
-* **[TOPIK 응시료 장학금 신청하세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202328&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 유학생입학팀 (~2022-07-28)
