@@ -15,10 +15,13 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 46호 (2022.08)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202480&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-08-03)
+
 * **[[학습법] 2022학년도 아주러닝캠프 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202474&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-08-03)
 
-* **[(재공지)[LINC 3.0] 한전 전력연구원 2022년 하반기 대학생 현장실습 학생 모집 안내(★긱나연장~8.4까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202470&amp;article.offset=0&amp;articleLimit=30)**
+* **[(재공지)[LINC 3.0] 한전 전력연구원 2022년 하반기 대학생 현장실습 학생 모집 안내(★기간연장~8.4까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202470&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-08-03)
 
 * **[(재공지) 2022-2학기 강의페어링 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202468&amp;article.offset=0&amp;articleLimit=30)**
@@ -101,6 +104,3 @@
 
 * **[2022년 상반기 인천시 대학생 학자금대출 이자지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202367&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-07-29)
-
-* **[[글로벌미래교육원] 2022년 2학기 일반과정 개설 - 수강생모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202365&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 글로벌미래교육원 (~2022-07-29)
