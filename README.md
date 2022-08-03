@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[SW중심대학] 2022년 2학기 코딩 트레이너 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202482&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - SW중심대학사업단 (~2022-08-03)
+
 * **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 46호 (2022.08)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202480&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-08-03)
 
@@ -101,6 +104,3 @@
 
 * **[학교법인 대우학원 인사발령(제62호)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202370&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-07-29)
-
-* **[2022년 상반기 인천시 대학생 학자금대출 이자지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202367&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-07-29)
