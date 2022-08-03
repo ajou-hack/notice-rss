@@ -15,6 +15,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 2022학년도 아주러닝캠프 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202474&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-08-03)
+
+* **[(재공지)[LINC 3.0] 한전 전력연구원 2022년 하반기 대학생 현장실습 학생 모집 안내(★긱나연장~8.4까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202470&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2022-08-03)
+
+* **[(재공지) 2022-2학기 강의페어링 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202468&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산융복합교육센터 (~2022-08-03)
+
+* **[[경영대학] 2022-2학기 제7기 ABIZ 글로벌 서포터즈(AGS) 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202467&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 경영대학교학팀 (~2022-08-03)
+
 * **[[토론학습실] 임시휴관 안내(8/12~13 금,토)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202465&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2022-08-03)
 
@@ -57,9 +69,6 @@
 * **[재한 중국인 유학생들을 위한 온라인 취업특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202407&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 유학생입학팀 (~2022-08-02)
 
-* **[(재공지)2022-2학기 강의페어링 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202404&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산융복합교육센터 (~2022-08-02)
-
 * **[[학부] 2022-2학기 학부 등록금 분할납부 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202397&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 재무회계팀 (~2022-08-01)
 
@@ -95,12 +104,3 @@
 
 * **[[글로벌미래교육원] 2022년 2학기 일반과정 개설 - 수강생모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202365&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 글로벌미래교육원 (~2022-07-29)
-
-* **[[홍보] LG CNS STARTUP MONSTER 참여 스타트업 모집 안내(~8/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202361&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-07-29)
-
-* **[2022 산학협력 EXPO 홍보영상 공모전 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202350&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-07-29)
-
-* **[청년월세 특별지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202349&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-07-29)
