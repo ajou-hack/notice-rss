@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[홍보][창업진흥원]『대-스타 해결사 플랫폼』 ESG경영 및 4차산업 분야 스타트업 모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202515&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-08-04)
+
 * **[[다산학부대학] 아주인성 공통반(재학생 수강신청가능반), 고급영어 과목 재수강 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202508&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-08-04)
 
@@ -101,6 +104,3 @@
 
 * **[[SW중심대학] 2022 동계 A3 인턴십 학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202387&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - SW중심대학사업단 (~2022-08-01)
-
-* **[[다산학부대학] 2022-2학기 고전 에세이 대회 사전안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202384&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 다산학부대학 교학팀 (~2022-08-01)
