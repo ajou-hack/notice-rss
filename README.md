@@ -15,6 +15,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 7월 5주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202504&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-08-04)
+
+* **[[다산학부대학] 2022-2학기 BSM 및 공업수학 본수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202501&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-08-04)
+
+* **[[봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202500&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-08-04)
+
+* **[[대학일자리플러스센터] 2022-1차 비교과 프로그램 마일리지 당첨자 발표!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202499&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-08-04)
+
 * **[[홍보] 수원특례시 문화관광 청년 홍보모델 모집안내(~08.22까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202495&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-08-03)
 
@@ -92,15 +104,3 @@
 
 * **[[다산학부대학] 2022-2학기 고전 토론 대회 사전안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202383&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 다산학부대학 교학팀 (~2022-08-01)
-
-* **[2022학년도 2학기 인공지능융합학과 인공지능융합전공[복수전공, 부전공] 2차 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202382&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 소프트웨어융합대학교학팀 (~2022-08-01)
-
-* **[[중앙도서관] 2022학년도 2학기 면학장학생 모집 (~8/16 am10:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202381&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-08-01)
-
-* **[2022년『아주 희망 교재 지원』장학생 모집 안내(~8/15까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202379&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 입학팀 (~2022-08-01)
-
-* **[2022년 멀티미디어 강의실 점검결과(07월) 및 2022년 (08월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202374&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2022-08-01)
