@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[다산학부대학] 아주인성 공통반(재학생 수강신청가능반), 고급영어 과목 재수강 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202508&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-08-04)
+
 * **[[대학일자리플러스센터] 7월 5주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202504&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-08-04)
 
@@ -72,7 +75,7 @@
 * **[[성평등상담소] 아직 2022학년도 폭력예방교육을 이수하지 않은 학부생이라면! 클릭!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202444&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 성평등상담소 (~2022-08-02)
 
-* **[[혁신공유대학]2022학년도 2학기 미래자동차 공동교과목 타대학 학점교류 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202427&amp;article.offset=0&amp;articleLimit=30)**
+* **[[혁신공유대학]2022학년도 2학기 미래자동차 공동교과목 타대학 학점교류 수강신청 안내(수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202427&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 혁신공유단 (~2022-08-02)
 
 * **[[학부]2022-2학기 수강신청 안내(8/8(월)~8/12(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202426&amp;article.offset=0&amp;articleLimit=30)**
@@ -100,7 +103,4 @@
  [학사] - SW중심대학사업단 (~2022-08-01)
 
 * **[[다산학부대학] 2022-2학기 고전 에세이 대회 사전안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202384&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 다산학부대학 교학팀 (~2022-08-01)
-
-* **[[다산학부대학] 2022-2학기 고전 토론 대회 사전안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202383&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 다산학부대학 교학팀 (~2022-08-01)
