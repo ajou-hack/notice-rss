@@ -15,6 +15,24 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[살레시안 미래위원회] 2022년도 살레시안 미래위원회 제5기 장학생 선정계획 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202548&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-08-05)
+
+* **[[혁신공유대학] 2022학년도 2학기 Alchera(알체라) 대학생 현장실습 학생 모집(~8/15)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202546&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신공유단 (~2022-08-05)
+
+* **[2022년 학자금 대출이자 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202545&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-08-05)
+
+* **[[대학일자리플러스센터] 8월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202544&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-08-05)
+
+* **[(재공지)[공학교육혁신센터] 2022 학생포트폴리오 경진대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202537&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2022-08-05)
+
+* **[(재공지) 2022-2학기 강의페어링 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202527&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산융복합교육센터 (~2022-08-05)
+
 * **[[국가근로][교사대생등대학생튜터링] 7월 국가근로/교사대생등대학생튜터링장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 7/31 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202523&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-08-04)
 
@@ -54,9 +72,6 @@
 * **[(재공지)[LINC 3.0] 한전 전력연구원 2022년 하반기 대학생 현장실습 학생 모집 안내(★기간연장~8.4까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202470&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-08-03)
 
-* **[(재공지) 2022-2학기 강의페어링 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202468&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산융복합교육센터 (~2022-08-03)
-
 * **[[경영대학] 2022-2학기 제7기 ABIZ 글로벌 서포터즈(AGS) 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202467&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 경영대학교학팀 (~2022-08-03)
 
@@ -89,18 +104,3 @@
 
 * **[[학부]2022-2학기 수강신청 안내(8/8(월)~8/12(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202426&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-08-02)
-
-* **[[글로벌교양학부] 2022-2학기 학부 신입학 유학생 멘토 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202422&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 글로벌교양학부 (~2022-08-02)
-
-* **[2022년 대한민국 인재상 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202410&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-08-02)
-
-* **[(재공지)[공학교육혁신센터] 2022 학생포트폴리오 경진대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202408&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2022-08-02)
-
-* **[재한 중국인 유학생들을 위한 온라인 취업특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202407&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 유학생입학팀 (~2022-08-02)
-
-* **[[학부] 2022-2학기 학부 등록금 분할납부 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202397&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 재무회계팀 (~2022-08-01)
