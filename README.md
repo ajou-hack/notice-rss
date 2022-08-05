@@ -15,6 +15,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[학교법인 대우학원 인사발령(제64호)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202574&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-08-05)
+
+* **[[대학일자리플러스센터] 2022 SK하이닉스 재직동문과 함께하는 &#x27;선배만남의 날&quot; 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202569&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-08-05)
+
+* **[(재공지)[LINC 3.0] 랜선으로 만나는 릴레이 글로벌 취·창업 톡톡톡(talk)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202568&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2022-08-05)
+
+* **[[총무팀] 연암관 지하주차장 물청소 시행에 따른 차량 통제 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202566&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-08-05)
+
 * **[[약학대학] 2022학년도 2학기 수강신청 안내_전공과목 타학과 수강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202562&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 약학대학 교학팀 (~2022-08-05)
 
@@ -92,15 +104,3 @@
 
 * **[(재공고) [LINC 3.0] KBO 구단 현장방문의 기회 !「2022 KBO-NINE 프로그램」모집 안내(~08.08.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202460&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - LINC사업팀 (~2022-08-03)
-
-* **[(재공지) 2022학년도 2학기 한국어튜터(TA) 모집 안내(~8.22.(월) 14:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202458&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 글로벌교양학부 (~2022-08-03)
-
-* **[2022.2학기 미래자동차 연계전공 추가신청 안내(~9/5월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202457&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 혁신공유팀 (~2022-08-03)
-
-* **[2022-2학기 시간제등록생 전형 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202456&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-08-03)
-
-* **[♣2022-2 장애학생 교육지원인력 모집♣(대학원생, 휴학생, 학적유지자)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202453&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2022-08-02)
