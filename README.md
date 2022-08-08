@@ -15,6 +15,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[♣2022-2 장애학생 교육지원인력 합격자 발표♣(대학원생, 휴학생, 학적유지자)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202594&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2022-08-08)
+
+* **[♥2022-2 장애학생 교육지원인력 합격자 발표♥(재학생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202593&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2022-08-08)
+
+* **[2022-2학기 국가근로장학금 희망근로지 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202592&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-08-08)
+
+* **[(재공지)[다산학부대학] 2022-2학기 BSM 및 공업수학 본수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202591&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-08-08)
+
+* **[(재공지) 2022-2학기 강의페어링 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202589&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산융복합교육센터 (~2022-08-08)
+
 * **[[대학혁신지원사업] 대학교육혁신원 7월 뉴스레터](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202581&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2022-08-05)
 
@@ -57,9 +72,6 @@
 * **[(재공지)[공학교육혁신센터] 2022 학생포트폴리오 경진대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202537&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2022-08-05)
 
-* **[(재공지) 2022-2학기 강의페어링 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202527&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산융복합교육센터 (~2022-08-05)
-
 * **[[국가근로][교사대생등대학생튜터링] 7월 국가근로/교사대생등대학생튜터링장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 7/31 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202523&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-08-04)
 
@@ -92,15 +104,3 @@
 
 * **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제 46호 (2022.08)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202480&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-08-03)
-
-* **[[학습법] 2022학년도 아주러닝캠프 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202474&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-08-03)
-
-* **[(재공지)[LINC 3.0] 한전 전력연구원 2022년 하반기 대학생 현장실습 학생 모집 안내(★기간연장~8.4까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202470&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-08-03)
-
-* **[[경영대학] 2022-2학기 제7기 ABIZ 글로벌 서포터즈(AGS) 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202467&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 경영대학교학팀 (~2022-08-03)
-
-* **[[토론학습실] 임시휴관 안내(8/12~13 금,토)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202465&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2022-08-03)
