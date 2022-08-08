@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[♣2022-2 장애학생 교육지원인력 2차 모집♣(대학원생, 휴학생, 학적유지자)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202616&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2022-08-08)
+
+* **[♥2022-2 장애학생 교육지원인력 2차 모집♥(재학생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202615&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2022-08-08)
+
 * **[혁신공유라운지(율곡관B104) 회의실 예약 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202610&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 혁신공유단 (~2022-08-08)
 
@@ -98,9 +104,3 @@
 
 * **[[봉사활동] 「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202500&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-08-04)
-
-* **[[대학일자리플러스센터] 2022-1차 비교과 프로그램 마일리지 당첨자 발표!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202499&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-08-04)
-
-* **[[홍보] 수원특례시 문화관광 청년 홍보모델 모집안내(~08.22까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202495&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-08-03)
