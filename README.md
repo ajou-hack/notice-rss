@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[혁신공유라운지(율곡관B104) 회의실 예약 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202610&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신공유단 (~2022-08-08)
+
 * **[[중앙도서관] 22-2학기 대출업무보조 휴학생 모집(~8/22 am09:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202603&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-08-08)
 
@@ -101,6 +104,3 @@
 
 * **[[홍보] 수원특례시 문화관광 청년 홍보모델 모집안내(~08.22까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202495&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-08-03)
-
-* **[[SW중심대학] 2022년 2학기 코딩 트레이너 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202482&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - SW중심대학사업단 (~2022-08-03)
