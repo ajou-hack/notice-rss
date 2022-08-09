@@ -15,6 +15,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[LINC 3.0] 2022 ALL-SET(기업역량 Value-Up) 지원사업 공고(기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202642&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2022-08-09)
+
+* **[[대학일자리플러스센터][SEMI] 글로벌 반도체 취업 멘토링 프로그램 개최 안내(8/22-26)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202641&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-08-09)
+
+* **[아르비아트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202640&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-08-09)
+
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202639&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-08-09)
+
 * **[[교외장학] 2022학년도 2학기 건아재단 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202630&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-08-09)
 
@@ -92,15 +104,3 @@
 
 * **[[대학일자리플러스센터] 8월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202544&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-08-05)
-
-* **[(재공지)[공학교육혁신센터] 2022 학생포트폴리오 경진대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202537&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2022-08-05)
-
-* **[[국가근로][교사대생등대학생튜터링] 7월 국가근로/교사대생등대학생튜터링장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 7/31 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202523&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-08-04)
-
-* **[[대학일자리플러스센터] 2022 A.C.E. STUDY(22-1기) 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202519&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-08-04)
-
-* **[[홍보][창업진흥원]『대-스타 해결사 플랫폼』 ESG경영 및 4차산업 분야 스타트업 모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202515&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-08-04)
