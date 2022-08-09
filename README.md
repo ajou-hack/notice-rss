@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[교외장학] 2022학년도 2학기 건아재단 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202630&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-08-09)
+
+* **[[학습법] 2022학년도 아주러닝캠프 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202627&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-08-09)
+
 * **[[성평등상담소] 폭력예방교육 이수하고 한줄평 작성하기! _커피쿠폰 추첨](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202625&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 성평등상담소 (~2022-08-09)
 
@@ -98,9 +104,3 @@
 
 * **[[홍보][창업진흥원]『대-스타 해결사 플랫폼』 ESG경영 및 4차산업 분야 스타트업 모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202515&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-08-04)
-
-* **[[다산학부대학] 아주인성 공통반(재학생 수강신청가능반), 고급영어 과목 재수강 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202508&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-08-04)
-
-* **[[대학일자리플러스센터] 7월 5주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202504&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-08-04)
