@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022학년도 1학기 아주복지장학 선발안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202650&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-08-09)
+
+* **[원천관 및 서관 소방시설 보수공사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202649&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2022-08-09)
+
+* **[[대학일자리플러스센터] 2022 하반기 서포터즈 13기 대모집!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202648&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-08-09)
+
 * **[[인권센터_성평등상담소] 단기 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202645&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 성평등상담소 (~2022-08-09)
 
@@ -95,12 +104,3 @@
 
 * **[(재공지) 2022학년도 2학기 한국어튜터(TA) 모집 안내(~8.22.(월) 14:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202551&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 글로벌교양학부 (~2022-08-05)
-
-* **[[살레시안 미래위원회] 2022년도 살레시안 미래위원회 제5기 장학생 선정계획 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202548&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-08-05)
-
-* **[[혁신공유대학] 2022학년도 2학기 Alchera(알체라) 대학생 현장실습 학생 모집(~8/15)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202546&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신공유단 (~2022-08-05)
-
-* **[2022년 학자금 대출이자 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202545&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-08-05)
