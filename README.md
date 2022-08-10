@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학자금대출] [학부] 2022-2학기 한국장학재단 학자금대출 특별승인 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202671&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-08-10)
+
 * **[[봉사활동] 서울시립청소년이동쉼터(서남권) 하반기 자원활동가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202669&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-08-10)
 
@@ -101,6 +104,3 @@
 
 * **[[대학일자리플러스센터] 2022 SK하이닉스 재직동문과 함께하는 &#x27;선배만남의 날&quot; 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202569&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-08-05)
-
-* **[(재공지)[LINC 3.0] 랜선으로 만나는 릴레이 글로벌 취·창업 톡톡톡(talk)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202568&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-08-05)
