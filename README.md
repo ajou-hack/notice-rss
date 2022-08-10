@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[봉사활동] 서울시립청소년이동쉼터(서남권) 하반기 자원활동가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202669&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-08-10)
+
+* **[[비교과교육지원센터] 학생설계 비교과 프로그램 공모전 수상팀 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202665&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2022-08-10)
+
 * **[[다산학부대학] 2022-2 영역별교양 과목 수강신청 관련 안내사항](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202664&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-08-10)
 
@@ -98,9 +104,3 @@
 
 * **[(재공지)[LINC 3.0] 랜선으로 만나는 릴레이 글로벌 취·창업 톡톡톡(talk)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202568&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-08-05)
-
-* **[[총무팀] 연암관 지하주차장 물청소 시행에 따른 차량 통제 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202566&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-08-05)
-
-* **[[약학대학] 2022학년도 2학기 수강신청 안내_전공과목 타학과 수강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202562&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 약학대학 교학팀 (~2022-08-05)
