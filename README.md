@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[교무팀] 9월~11월 근로 면학장학생 모집(휴학생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202690&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 교무팀 (~2022-08-11)
+
+* **[[봉사활동] 2022년 국제기능올림픽 특별대회 통역봉사요원 모집( ~8/15 23시 )](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202688&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-08-11)
+
 * **[[학자금대출] [학부] 2022-2학기 한국장학재단 학자금대출 특별승인 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202671&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-08-10)
 
@@ -24,7 +30,7 @@
 * **[[비교과교육지원센터] 학생설계 비교과 프로그램 공모전 수상팀 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202665&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2022-08-10)
 
-* **[[다산학부대학] 2022-2 영역별교양 과목 수강신청 관련 안내사항](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202664&amp;article.offset=0&amp;articleLimit=30)**
+* **[[다산학부대학] 2022-2 영역별교양 과목 수강신청 관련 안내사항(수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202664&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-08-10)
 
 * **[[대학일자리플러스센터]대학일자리플러스센터 서비스 모아보기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202662&amp;article.offset=0&amp;articleLimit=30)**
@@ -98,9 +104,3 @@
 
 * **[[대학혁신지원사업] 대학교육혁신원 7월 뉴스레터](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202581&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2022-08-05)
-
-* **[학교법인 대우학원 인사발령(제64호)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202574&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-08-05)
-
-* **[[대학일자리플러스센터] 2022 SK하이닉스 재직동문과 함께하는 &#x27;선배만남의 날&quot; 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202569&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-08-05)
