@@ -15,8 +15,14 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[[다산학부대학] 2022-2 영역별교양 과목 수강신청 관련 안내사항(2차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202702&amp;article.offset=0&amp;articleLimit=30)**
+* **[[다산학부대학] 2022-2 교양과목 수강신청 관련 안내사항](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202715&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-08-11)
+
+* **[[다산학부대학] 2022-2학기 BSM 본수강신청 안내(신입생반 신청가능 분반 목록)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202714&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-08-11)
+
+* **[(재공지) 2022-2학기 강의페어링 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202709&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산융복합교육센터 (~2022-08-11)
 
 * **[[학습법] 2022학년도 아주부스트 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202698&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-08-11)
@@ -47,9 +53,6 @@
 
 * **[[학생상담소] 위기 심리상담 신청서 &quot;마음이 너무 힘들어 죽고 싶다는 생각이 자주 나요.&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202661&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생상담소 (~2022-08-10)
-
-* **[(재공지) 2022-2학기 강의페어링 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202658&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산융복합교육센터 (~2022-08-10)
 
 * **[2022학년도 1학기 아주복지장학 선발안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202650&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-08-09)
@@ -100,7 +103,4 @@
  [기타] - 학술정보팀 (~2022-08-08)
 
 * **[♣2022-2 장애학생 교육지원인력 합격자 발표♣(대학원생, 휴학생, 학적유지자)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202594&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2022-08-08)
-
-* **[♥2022-2 장애학생 교육지원인력 합격자 발표♥(재학생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202593&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2022-08-08)
