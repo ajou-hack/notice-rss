@@ -15,10 +15,16 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[♠(3차) 장애학생 교육지원인력 모집(대학원생, 휴학생, 학적유지자)♠](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202764&amp;article.offset=0&amp;articleLimit=30)**
+* **[2022학년도 2학기 장학선발 결과 발표_8.17(수) 09:00](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202770&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-08-12)
+
+* **[[학부]2021학년도 후기(2022년 8월 22일)졸업확정자(학사학위취득자), 학사학위취득유예자, 졸업연기 승인자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202767&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-08-12)
+
+* **[♥(변경) 장애학생 교육지원인력 3차 모집(대학원생, 휴학생, 학적유지자)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202764&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2022-08-12)
 
-* **[♥(3차) 장애학생 교육지원인력 모집(재학생)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202763&amp;article.offset=0&amp;articleLimit=30)**
+* **[♥(변경) 장애학생 교육지원인력 3차 모집(재학생)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202763&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2022-08-12)
 
 * **[[메이커스페이스] 레이저 가공장비 이용 8월 1회차 기초교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202761&amp;article.offset=0&amp;articleLimit=30)**
@@ -98,9 +104,3 @@
 
 * **[[대학일자리플러스센터][SEMI] 글로벌 반도체 취업 멘토링 프로그램 개최 안내(8/22-26)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202641&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-08-09)
-
-* **[아르비아트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202640&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-08-09)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202639&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-08-09)
