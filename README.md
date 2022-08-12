@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[LINC 3.0] LINC 3.0 서포터즈 4기 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202733&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - LINC사업팀 (~2022-08-12)
+
+* **[[유학생입학팀] 외국인 유학생 채용박람회 대비 취업특강 장소 공지합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202732&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 유학생입학팀 (~2022-08-12)
+
 * **[[다산학부대학] 2022-2 교양과목 수강신청 관련 안내사항](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202715&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-08-11)
 
@@ -98,9 +104,3 @@
 
 * **[혁신공유라운지(율곡관B104) 회의실 예약 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202610&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 혁신공유단 (~2022-08-08)
-
-* **[[중앙도서관] 22-2학기 대출업무보조 휴학생 모집(~8/22 am09:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202603&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-08-08)
-
-* **[♣2022-2 장애학생 교육지원인력 합격자 발표♣(대학원생, 휴학생, 학적유지자)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202594&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2022-08-08)
