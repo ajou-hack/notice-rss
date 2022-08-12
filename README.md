@@ -15,6 +15,24 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[♠(3차) 장애학생 교육지원인력 모집(대학원생, 휴학생, 학적유지자)♠](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202764&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2022-08-12)
+
+* **[♥(3차) 장애학생 교육지원인력 모집(재학생)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202763&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2022-08-12)
+
+* **[[메이커스페이스] 레이저 가공장비 이용 8월 1회차 기초교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202761&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-08-12)
+
+* **[[메이커스페이스] 3D프린터 장비이용 8월 1회차 기초교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202759&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-08-12)
+
+* **[(재공지) [LINC 3.0] 아주 링크의 얼굴이 될 캐릭터를 찾습니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202757&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - LINC사업팀 (~2022-08-12)
+
+* **[[대학일자리플러스센터] 8월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202755&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-08-12)
+
 * **[(재공지)[중앙도서관] 2022학년도 2학기 면학장학생 모집 (~8/16 am10:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202745&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-08-12)
 
@@ -86,21 +104,3 @@
 
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202639&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-08-09)
-
-* **[[교외장학] 2022학년도 2학기 건아재단 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202630&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-08-09)
-
-* **[[학습법] 2022학년도 아주러닝캠프 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202627&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-08-09)
-
-* **[[성평등상담소] 폭력예방교육 이수하고 한줄평 작성하기! _커피쿠폰 추첨](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202625&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 성평등상담소 (~2022-08-09)
-
-* **[[중앙도서관] 2022학년도 2학기 도서관 운영 지원 면학장학생(휴학생) 모집(~8/22 am 9:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202624&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-08-09)
-
-* **[♣2022-2 장애학생 교육지원인력 2차 모집♣(대학원생, 휴학생, 학적유지자)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202616&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2022-08-08)
-
-* **[♥2022-2 장애학생 교육지원인력 2차 모집♥(재학생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202615&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2022-08-08)
