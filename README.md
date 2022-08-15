@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[기획팀]아주대학교 학칙 및 규정류 개정 공포(2022-제7차 교무회의, 제86차 대학평의원회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202777&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2022-08-15)
+
+* **[[글로벌미래교육원] 2022년 2학기 일반과정 개설 - 수강생모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202776&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 글로벌미래교육원 (~2022-08-13)
+
 * **[2022학년도 2학기 장학선발 결과 발표_8.17(수) 09:00](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202770&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-08-12)
 
@@ -98,9 +104,3 @@
 
 * **[[인권센터_성평등상담소] 단기 면학장학생 모집(조기마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202645&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 성평등상담소 (~2022-08-09)
-
-* **[[LINC 3.0] 2022 ALL-SET(기업역량 Value-Up) 지원사업 공고(기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202642&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC사업팀 (~2022-08-09)
-
-* **[[대학일자리플러스센터][SEMI] 글로벌 반도체 취업 멘토링 프로그램 개최 안내(8/22-26)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202641&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-08-09)
