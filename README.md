@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202798&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-08-16)
+
+* **[[학습법] 2022학년도 아주러닝캠프 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202795&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-08-16)
+
+* **[[봉사활동] (재공지)「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집 ( 8/17 , 추가모집 )](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202794&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-08-16)
+
 * **[[Remind][학부] 2022-2학기 등록 안내(08.22.~08.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202789&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-08-16)
 
@@ -95,12 +104,3 @@
 
 * **[[봉사활동] 서울시립청소년이동쉼터(서남권) 하반기 자원활동가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202669&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-08-10)
-
-* **[[비교과교육지원센터] 학생설계 비교과 프로그램 공모전 수상팀 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202665&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2022-08-10)
-
-* **[[다산학부대학] 2022-2 영역별교양 과목 수강신청 관련 안내사항(수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202664&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-08-10)
-
-* **[[대학일자리플러스센터]대학일자리플러스센터 서비스 모아보기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202662&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-08-10)
