@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[봉사활동] KB국민은행-YMCA 대학생 경제금융교육 봉사단 POLARIS 19기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202814&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-08-16)
+
+* **[[LINC 3.0] KBO 구단 현장방문의 기회 !「2022 KBO-NINE 프로그램」모집 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202813&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - LINC사업팀 (~2022-08-16)
+
 * **[2022년 2학기 국가장학금 2차 신청안내 (~9.15.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202805&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-08-16)
 
@@ -101,9 +107,3 @@
 
 * **[[교무팀] 9월~11월 근로 면학장학생 모집(휴학생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202690&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 교무팀 (~2022-08-11)
-
-* **[[봉사활동] 2022년 국제기능올림픽 특별대회 통역봉사요원 모집( ~8/15 23시 )](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202688&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-08-11)
-
-* **[[학자금대출] [학부] 2022-2학기 한국장학재단 학자금대출 특별승인 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202671&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-08-10)
