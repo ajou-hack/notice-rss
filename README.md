@@ -15,6 +15,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[Remind][학부] 2022-2학기 등록 안내(08.22.~08.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202789&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-08-16)
+
+* **[[Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202788&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-08-16)
+
+* **[(재공지) 2022학년도 2학기 한국어튜터(TA) 모집 안내(~8.22.(월) 14:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202786&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 글로벌교양학부 (~2022-08-16)
+
+* **[(재공지)[공학교육혁신센터] 2022 학생포트폴리오 경진대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202785&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2022-08-16)
+
+* **[[봉사활동] 2022학년도 2학기 십시일밥 봉사자 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202783&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-08-16)
+
 * **[[기획팀]아주대학교 학칙 및 규정류 개정 공포(2022-제7차 교무회의, 제86차 대학평의원회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202777&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 기획팀 (~2022-08-15)
 
@@ -89,18 +104,3 @@
 
 * **[[대학일자리플러스센터]대학일자리플러스센터 서비스 모아보기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202662&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-08-10)
-
-* **[[학생상담소] 위기 심리상담 신청서 &quot;마음이 너무 힘들어 죽고 싶다는 생각이 자주 나요.&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202661&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생상담소 (~2022-08-10)
-
-* **[2022학년도 1학기 아주복지장학 선발안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202650&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-08-09)
-
-* **[원천관 및 서관 소방시설 보수공사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202649&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2022-08-09)
-
-* **[[대학일자리플러스센터] 2022 하반기 서포터즈 13기 대모집!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202648&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-08-09)
-
-* **[[인권센터_성평등상담소] 단기 면학장학생 모집(조기마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202645&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 성평등상담소 (~2022-08-09)
