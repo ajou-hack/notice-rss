@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] [학부]2021학년도 후기(2022년 8월 22일)졸업확정자(학사학위취득자), 학사학위취득유예자, 졸업연기 승인자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202767&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-08-12)
+
 * **[📌 [공지] [Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202390&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-08-01)
 
@@ -15,13 +18,19 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022년 2학기 국가장학금 2차 신청안내 (~9.15.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202805&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-08-16)
+
+* **[[종합지원센터] 2022년도 1학기 사물함 회수 물품 확인 및 수령 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202804&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-08-16)
+
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202798&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-08-16)
 
 * **[[학습법] 2022학년도 아주러닝캠프 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202795&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-08-16)
 
-* **[[봉사활동] (재공지)「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집 ( 8/17 , 추가모집 )](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202794&amp;article.offset=0&amp;articleLimit=30)**
+* **[[봉사활동] (재공지)「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집 ( 마감 )](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202794&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-08-16)
 
 * **[[Remind][학부] 2022-2학기 등록 안내(08.22.~08.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202789&amp;article.offset=0&amp;articleLimit=30)**
@@ -47,9 +56,6 @@
 
 * **[2022학년도 2학기 장학선발 결과 발표_8.17(수) 09:00](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202770&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-08-12)
-
-* **[[학부]2021학년도 후기(2022년 8월 22일)졸업확정자(학사학위취득자), 학사학위취득유예자, 졸업연기 승인자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202767&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-08-12)
 
 * **[♥(변경) 장애학생 교육지원인력 3차 모집(대학원생, 휴학생, 학적유지자)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202764&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2022-08-12)
@@ -101,6 +107,3 @@
 
 * **[[학자금대출] [학부] 2022-2학기 한국장학재단 학자금대출 특별승인 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202671&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-08-10)
-
-* **[[봉사활동] 서울시립청소년이동쉼터(서남권) 하반기 자원활동가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202669&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-08-10)
