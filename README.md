@@ -18,6 +18,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지)[대학일자리플러스센터] 2022 하반기 서포터즈 13기 대모집!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202831&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-08-17)
+
+* **[2022학년도 2학기 교·사대생 등 대학생 튜터링 장학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202830&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-08-17)
+
+* **[국제교육센터 제10기 아주글로벌버디(AJOU GLOBAL BUDDY) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202828&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 국제교육센터 (~2022-08-17)
+
+* **[2022학년도 2학기 수학1 1대4 튜터링 Tutor 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202825&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-08-17)
+
 * **[[봉사활동] KB국민은행-YMCA 대학생 경제금융교육 봉사단 POLARIS 19기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202814&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-08-16)
 
@@ -95,15 +107,3 @@
 
 * **[[다산학부대학] 2022-2학기 BSM 본수강신청 안내(신입생반 신청가능 분반 목록)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202714&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-08-11)
-
-* **[(재공지) 2022-2학기 강의페어링 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202709&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산융복합교육센터 (~2022-08-11)
-
-* **[[학습법] 2022학년도 아주부스트 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202698&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-08-11)
-
-* **[[교외장학]2022년 5ㆍ18희망장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202694&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-08-11)
-
-* **[[교무팀] 9월~11월 근로 면학장학생 모집(휴학생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202690&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 교무팀 (~2022-08-11)
