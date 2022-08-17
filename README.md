@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] 교직원퇴직, 학부 및 대학원 졸업자(제적생 포함) 구글드라이브(공유드라이브 포함) 정리 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202858&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2022-08-17)
+
 * **[📌 [공지] [학부]2021학년도 후기(2022년 8월 22일)졸업확정자(학사학위취득자), 학사학위취득유예자, 졸업연기 승인자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202767&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-08-12)
 
@@ -17,6 +20,9 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[유학생입학팀] 제85회 한국어능력시험(TOPIK) 단체접수 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202857&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 유학생입학팀 (~2022-08-17)
 
 * **[2022년도 2학기 인공지능융합학과 교과목 담당 학부생 TA 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202854&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 소프트웨어융합대학교학팀 (~2022-08-17)
@@ -103,7 +109,4 @@
  [기타] - 장애학생지원실 (~2022-08-12)
 
 * **[[메이커스페이스] 레이저 가공장비 이용 8월 1회차 기초교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202761&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-08-12)
-
-* **[[메이커스페이스] 3D프린터 장비이용 8월 1회차 기초교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202759&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-08-12)
