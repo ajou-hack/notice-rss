@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022년도 2학기 인공지능융합학과 교과목 담당 학부생 TA 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202854&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 소프트웨어융합대학교학팀 (~2022-08-17)
+
 * **[[융복합 의료제품 촉진지원센터] 근로학생 모집(~8/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202848&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 약학대학 교학팀 (~2022-08-17)
 
@@ -104,6 +107,3 @@
 
 * **[[메이커스페이스] 3D프린터 장비이용 8월 1회차 기초교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202759&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-08-12)
-
-* **[(재공지) [LINC 3.0] 아주 링크의 얼굴이 될 캐릭터를 찾습니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202757&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀 (~2022-08-12)
