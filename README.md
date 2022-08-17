@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[메이커스페이스] 야, 너두 만들 수 있어!(석고트레이 과정) 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202845&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-08-17)
+
+* **[[학습법] 2022학년도 아주부스트 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202843&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-08-17)
+
 * **[체육관 강당 대관료 인상 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202839&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-08-17)
 
@@ -36,7 +42,7 @@
 * **[국제교육센터 제10기 아주글로벌버디(AJOU GLOBAL BUDDY) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202828&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 국제교육센터 (~2022-08-17)
 
-* **[2022학년도 2학기 수학1 1대4 튜터링 Tutor 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202825&amp;article.offset=0&amp;articleLimit=30)**
+* **[2022학년도 2학기 수학2 1대4 튜터링 Tutor 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202825&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-08-17)
 
 * **[[봉사활동] KB국민은행-YMCA 대학생 경제금융교육 봉사단 POLARIS 19기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202814&amp;article.offset=0&amp;articleLimit=30)**
@@ -101,9 +107,3 @@
 
 * **[[대학일자리플러스센터] 8월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202755&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-08-12)
-
-* **[(재공지)[중앙도서관] 2022학년도 2학기 면학장학생 모집 (~8/16 am10:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202745&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-08-12)
-
-* **[[LINC 3.0] LINC 3.0 서포터즈 4기 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202733&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀 (~2022-08-12)
