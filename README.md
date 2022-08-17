@@ -18,6 +18,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[체육관 강당 대관료 인상 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202839&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-08-17)
+
+* **[[교외장학]「2022년 공중보건장학제도 시범사업」 장학생 하반기 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202836&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-08-17)
+
+* **[학교버스 배차요금 인상 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202834&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-08-17)
+
 * **[(재공지)[대학일자리플러스센터] 2022 하반기 서포터즈 13기 대모집!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202831&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-08-17)
 
@@ -98,12 +107,3 @@
 
 * **[[LINC 3.0] LINC 3.0 서포터즈 4기 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202733&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - LINC사업팀 (~2022-08-12)
-
-* **[[유학생입학팀] 외국인 유학생 채용박람회 대비 취업특강 장소 공지합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202732&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 유학생입학팀 (~2022-08-12)
-
-* **[[다산학부대학] 2022-2 교양과목 수강신청 관련 안내사항](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202715&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-08-11)
-
-* **[[다산학부대학] 2022-2학기 BSM 본수강신청 안내(신입생반 신청가능 분반 목록)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202714&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-08-11)
