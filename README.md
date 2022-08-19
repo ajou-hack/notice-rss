@@ -90,9 +90,6 @@
 * **[[학습법] 2022학년도 아주부스트 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202843&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-08-17)
 
-* **[체육관 강당 대관료 인상 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202839&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-08-17)
-
 * **[[교외장학]「2022년 공중보건장학제도 시범사업」 장학생 하반기 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202836&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-08-17)
 
@@ -110,3 +107,6 @@
 
 * **[2022학년도 2학기 수학2 1대4 튜터링 Tutor 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202825&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-08-17)
+
+* **[[봉사활동] KB국민은행-YMCA 대학생 경제금융교육 봉사단 POLARIS 19기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202814&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-08-16)
