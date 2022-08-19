@@ -21,6 +21,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학부]2022-2학기 수업운영 안내 (8.19, 대면수업)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202913&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-08-19)
+
+* **[[글로벌미래교육원] 2022년 2학기 일반과정 개설 - 수강생모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202912&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 글로벌미래교육원 (~2022-08-19)
+
+* **[(기간연장!)[대학일자리플러스센터] 2022 하반기 서포터즈 13기 대모집!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202911&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-08-19)
+
+* **[축구 운동장(인조잔디구장) 예약 안내 (8/21 예약가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202908&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 학생지원팀 (~2022-08-19)
+
 * **[(재공지) 2022학년도 2학기 한국어튜터(TA) 모집 안내(~8.22.(월) 14:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202904&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 글로벌교양학부 (~2022-08-19)
 
@@ -98,15 +110,3 @@
 
 * **[2022학년도 2학기 수학2 1대4 튜터링 Tutor 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202825&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-08-17)
-
-* **[[봉사활동] KB국민은행-YMCA 대학생 경제금융교육 봉사단 POLARIS 19기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202814&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-08-16)
-
-* **[[LINC 3.0] KBO 구단 현장방문의 기회 !「2022 KBO-NINE 프로그램」모집 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202813&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀 (~2022-08-16)
-
-* **[2022년 2학기 국가장학금 2차 신청안내 (~9.15.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202805&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-08-16)
-
-* **[[종합지원센터] 2022년도 1학기 사물함 회수 물품 확인 및 수령 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202804&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-08-16)
