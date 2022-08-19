@@ -12,7 +12,7 @@
 * **[📌 [공지] [Remind][학부] 2022-2학기 등록 안내(08.22.~08.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202388&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-08-01)
 
-* **[📌 [공지] [교무팀] 2022-1학기 코로나19 확산에 따른 출석인정 안내(백신공결 등)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180913&amp;article.offset=0&amp;articleLimit=30)**
+* **[📌 [공지] [교무팀] 2022학년도 코로나19 확산에 따른 출석인정 안내(백신공결 등)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180913&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-16)
 
 * **[📌 [공지] [총무팀] 코로나19 확진자 교내 심층역학조사 URL 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180493&amp;article.offset=0&amp;articleLimit=30)**
@@ -20,6 +20,12 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[(재공지) 2022학년도 2학기 한국어튜터(TA) 모집 안내(~8.22.(월) 14:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202904&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 글로벌교양학부 (~2022-08-19)
+
+* **[종합실험동(혜강관) 통신공사 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202902&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2022-08-19)
 
 * **[[대학일자리플러스센터] 금주의 추천채용_텔레트론/세아제강/한국알콜그룹](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202898&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-08-18)
@@ -104,9 +110,3 @@
 
 * **[[종합지원센터] 2022년도 1학기 사물함 회수 물품 확인 및 수령 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202804&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-08-16)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202798&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-08-16)
-
-* **[[학습법] 2022학년도 아주러닝캠프 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202795&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-08-16)
