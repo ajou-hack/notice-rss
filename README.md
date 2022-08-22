@@ -21,8 +21,17 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[「제9회 대학혁신지원사업 Webinar 컨퍼런스」 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202939&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2022-08-22)
+
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202937&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-08-22)
+
 * **[(재공지) [LINC 3.0] LINC 3.0 서포터즈 4기 모집 공고(~08.23까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202928&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - LINC사업팀 (~2022-08-19)
+
+* **[[LINC 3.0] 2022 제16회, 17회 현장실습 수기•영상 공모전 개최 안내(8.22 접수시작)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202926&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2022-08-19)
 
 * **[[기획팀]규정류 개정 공포(2022학년도 하계 제1차 임시교무회의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202921&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 기획팀 (~2022-08-19)
@@ -39,11 +48,8 @@
 * **[(기간연장!)[대학일자리플러스센터] 2022 하반기 서포터즈 13기 대모집!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202911&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-08-19)
 
-* **[축구 운동장(인조잔디구장) 예약 안내 (8/21 예약가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202908&amp;article.offset=0&amp;articleLimit=30)**
+* **[축구 운동장(인조잔디구장) 예약 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202908&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 학생지원팀 (~2022-08-19)
-
-* **[(재공지) 2022학년도 2학기 한국어튜터(TA) 모집 안내(~8.22.(월) 14:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202904&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 글로벌교양학부 (~2022-08-19)
 
 * **[종합실험동(혜강관) 통신공사 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202902&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2022-08-19)
@@ -104,9 +110,3 @@
 
 * **[학교버스 배차요금 인상 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202834&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-08-17)
-
-* **[(재공지)[대학일자리플러스센터] 2022 하반기 서포터즈 13기 대모집!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202831&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-08-17)
-
-* **[2022학년도 2학기 교·사대생 등 대학생 튜터링 장학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202830&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-08-17)
