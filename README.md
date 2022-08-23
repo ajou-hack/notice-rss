@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[▶(재공지) 2022-2학기 수학2 1대4 튜터링 Tutor 모집◀](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203003&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 다산학부대학교학팀 (~2022-08-23)
+
 * **[[학부]2022-2학기 수강정정 안내(9/1(목)~9/7(수), 토/일 제외)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202999&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-08-23)
 
@@ -106,7 +109,4 @@
  [장학] - 학생지원팀 (~2022-08-18)
 
 * **[[대학일자리플러스센터] 2022년 하반기 SK하이닉스 1:1 서류 컨설팅](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202887&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-08-18)
-
-* **[[대학일자리플러스센터] 휴학생 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202886&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-08-18)
