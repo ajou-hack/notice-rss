@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지) [LINC 3.0] LINC 3.0 서포터즈 4기 모집 공고(오늘마감★)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202991&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - LINC사업팀 (~2022-08-23)
+
+* **[[경영대학] 2022-2학기 수업TA(Teaching Assistant) 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202990&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 경영대학교학팀 (~2022-08-23)
+
 * **[2022-2학기 물리학 ITP 프로그램 튜터(Tutor)모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202984&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-08-23)
 
@@ -53,9 +59,6 @@
 
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202937&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-08-22)
-
-* **[(재공지) [LINC 3.0] LINC 3.0 서포터즈 4기 모집 공고(~08.23까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202928&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀 (~2022-08-19)
 
 * **[[LINC 3.0] 2022 제16회, 17회 현장실습 수기•영상 공모전 개최 안내(8.22 접수시작)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202926&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2022-08-19)
@@ -104,6 +107,3 @@
 
 * **[[다산학부대학] 2022학년도 2학기 AWAC 튜터 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202885&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 다산학부대학 교학팀 (~2022-08-18)
-
-* **[♥2022-2 장애학생 교육지원인력(재학생) 모집♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202877&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2022-08-18)
