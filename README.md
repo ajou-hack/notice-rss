@@ -9,6 +9,9 @@
 * **[📌 [공지] [Remind][학부] 2022-2학기 등록 안내(08.22.~08.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202388&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-08-01)
 
+* **[📌 [공지] [학부]전자출결시스템 사용 매뉴얼 (전자출석부 사용법)(5/3 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192571&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-03-15)
+
 * **[📌 [공지] [교무팀] 2022학년도 코로나19 확산에 따른 출석인정 안내(백신공결 등)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180913&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-02-16)
 
@@ -17,6 +20,9 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[학부/학사과정]2022학년도 전기(2023년 2월) 조기졸업 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202992&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-08-23)
 
 * **[(재공지) [LINC 3.0] LINC 3.0 서포터즈 4기 모집 공고(오늘마감★)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202991&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - LINC사업팀 (~2022-08-23)
@@ -35,9 +41,6 @@
 
 * **[♥(재학생) 장애학생 이동지원인력 모집(수정)♥(소득분위 제외)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202976&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2022-08-23)
-
-* **[[학부/학사과정]2022학년도 전기(2023년 2월) 조기졸업 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202975&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-08-23)
 
 * **[율곡관 지하 혁신공유라운지 사용불가 안내&lt;8/26(금)&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202968&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 홍보실 (~2022-08-22)
