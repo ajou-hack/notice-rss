@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[산학협력 가족회사 유료회원제 및 주요 혜택 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203027&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC사업팀 (~2022-08-24)
+
+* **[[재공지]국제교육센터 제10기 아주글로벌버디(AJOU GLOBAL BUDDY) 모집(**~9/4까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203025&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 국제교육센터 (~2022-08-24)
+
 * **[[성평등상담소] 25일마감!! 폭력예방교육 이수하고 한줄평 작성하기! _커피쿠폰 추첨](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203018&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 성평등상담소 (~2022-08-24)
 
@@ -104,9 +110,3 @@
 
 * **[종합실험동(혜강관) 통신공사 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202902&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2022-08-19)
-
-* **[[대학일자리플러스센터] 금주의 추천채용_텔레트론/세아제강/한국알콜그룹](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202898&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-08-18)
-
-* **[[수원시자살예방센터] 우울관리 프로그램 &#x27;마음건강 살롱&#x27; 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202895&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생상담소 (~2022-08-18)
