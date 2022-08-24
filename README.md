@@ -21,6 +21,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 2022 하반기 서류 특강 ① 대기업 문항분석 및 자소서 작성법 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203051&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-08-24)
+
+* **[♦(재학생 1명) 2022-2 장애학생 교육지원인력 모집♦](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203049&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2022-08-24)
+
+* **[[국비교육/수당지급] PLC자동제어 전문인력양성 교육생모집 ~9월 26일까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203048&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2022-08-24)
+
+* **[[종합지원센터] 2022학년도 도서관, 구학생회관 전자사물함 회수 물품 확인 및 수령 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203046&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-08-24)
+
+* **[[봉사활동] 함께 이루는 꿈! 하반기 온(溫)택트 학습 멘토링 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203045&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-08-24)
+
 * **[[봉사활동] 수원 지동초등학교 학교복지실 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203033&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-08-24)
 
@@ -95,18 +110,3 @@
 
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202937&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-08-22)
-
-* **[[LINC 3.0] 2022 제16회, 17회 현장실습 수기•영상 공모전 개최 안내(8.22 접수시작)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202926&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2022-08-19)
-
-* **[[기획팀]규정류 개정 공포(2022학년도 하계 제1차 임시교무회의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202921&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2022-08-19)
-
-* **[[교외장학] 금신사랑장학생 (대학생) 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202920&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-08-19)
-
-* **[[학부]2022-2학기 수업운영 안내 (8.19, 대면수업)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202913&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-08-19)
-
-* **[[글로벌미래교육원] 2022년 2학기 일반과정 개설 - 수강생모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202912&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 글로벌미래교육원 (~2022-08-19)
