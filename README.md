@@ -9,7 +9,7 @@
 * **[📌 [공지] [Remind][학부] 2022-2학기 등록 안내(08.22.~08.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202388&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-08-01)
 
-* **[📌 [공지] [학부]전자출결시스템 사용 매뉴얼 (전자출석부 사용법)(5/3 업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192571&amp;article.offset=0&amp;articleLimit=30)**
+* **[📌 [공지] [학부학생필독!!] 전자출결시스템 사용 매뉴얼 (전자출석부 사용법)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192571&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-15)
 
 * **[📌 [공지] [교무팀] 2022학년도 코로나19 확산에 따른 출석인정 안내(백신공결 등)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180913&amp;article.offset=0&amp;articleLimit=30)**
@@ -20,6 +20,15 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[봉사활동] 수원 지동초등학교 학교복지실 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203033&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-08-24)
+
+* **[[메이커스페이스] 야, 너두 만들 수 있어!(석고트레이 과정-오후반/저녁반) 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203031&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-08-24)
+
+* **[[교외장학] (재)포항시장학회 2022년도 대학교 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203030&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-08-24)
 
 * **[산학협력 가족회사 유료회원제 및 주요 혜택 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203027&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC사업팀 (~2022-08-24)
@@ -101,12 +110,3 @@
 
 * **[[글로벌미래교육원] 2022년 2학기 일반과정 개설 - 수강생모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202912&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 글로벌미래교육원 (~2022-08-19)
-
-* **[(기간연장!)[대학일자리플러스센터] 2022 하반기 서포터즈 13기 대모집!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202911&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-08-19)
-
-* **[축구 운동장(인조잔디구장) 예약 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202908&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 학생지원팀 (~2022-08-19)
-
-* **[종합실험동(혜강관) 통신공사 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202902&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2022-08-19)
