@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[혁신공유팀 사무실 부재 안내(8/26(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203016&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 혁신공유팀 (~2022-08-24)
+
+* **[[LINC 3.0] 한국연구재단 2022년도 캡스톤디자인 경진대회 참여 팀 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203014&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 현장실습지원센터 (~2022-08-24)
+
 * **[[교외장학] 2022년 2학기 청년창업농육성 장학생 추가모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203008&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-08-23)
 
@@ -104,9 +110,3 @@
 
 * **[(재공지)[중앙도서관]22-2학기 중앙도서관 업무보조 휴학생 모집(~8/22 am 9:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202893&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-08-18)
-
-* **[[연장-교외장학] 2022학년도 2학기 건아재단 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202889&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-08-18)
-
-* **[[교외장학] 2022-2학기 인송문화재단 인송장학생 추천 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202888&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-08-18)
