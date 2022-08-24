@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[성평등상담소] 25일마감!! 폭력예방교육 이수하고 한줄평 작성하기! _커피쿠폰 추첨](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203018&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 성평등상담소 (~2022-08-24)
+
 * **[혁신공유팀 사무실 부재 안내(8/26(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203016&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 혁신공유팀 (~2022-08-24)
 
@@ -107,6 +110,3 @@
 
 * **[[수원시자살예방센터] 우울관리 프로그램 &#x27;마음건강 살롱&#x27; 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202895&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생상담소 (~2022-08-18)
-
-* **[(재공지)[중앙도서관]22-2학기 중앙도서관 업무보조 휴학생 모집(~8/22 am 9:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202893&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-08-18)
