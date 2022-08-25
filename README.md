@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 8월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203055&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-08-25)
+
+* **[[대학일자리플러스센터] 진로취업 1:1 상담 운영 사이트 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203052&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-08-24)
+
 * **[[대학일자리플러스센터] 2022 하반기 서류 특강 ① 대기업 문항분석 및 자소서 작성법 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203051&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-08-24)
 
@@ -29,6 +35,9 @@
 
 * **[[국비교육/수당지급] PLC자동제어 전문인력양성 교육생모집 ~9월 26일까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203048&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-08-24)
+
+* **[[박물관] 박물관 서포터즈 1기 모집 공고 (~9/14)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203047&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 박물관 (~2022-08-24)
 
 * **[[종합지원센터] 2022학년도 도서관, 구학생회관 전자사물함 회수 물품 확인 및 수령 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203046&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-08-24)
@@ -101,12 +110,3 @@
 
 * **[♥(대학원생, 휴학생, 학적유지자) 2022-2 장애학생 교육지원인력 모집♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202955&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2022-08-22)
-
-* **[(재공지)2022학년도 2학기 수학2 1대4 튜터링 Tutor 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202947&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 다산학부대학교학팀 (~2022-08-22)
-
-* **[「제9회 대학혁신지원사업 Webinar 컨퍼런스」 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202939&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2022-08-22)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202937&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-08-22)
