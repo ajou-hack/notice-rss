@@ -21,6 +21,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[글로벌미래교육원] 2022년 2학기 일반과정 개설 - 수강생모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203096&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 글로벌미래교육원 (~2022-08-25)
+
+* **[[재공고][LINC 3.0] 2022-2학기 산학연계 교과목 개발 및 운영 지원사업 공모 안내 (추가모집 ~9/5)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203095&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - LINC 사업팀 (~2022-08-25)
+
+* **[[다산학부대학] 2022-2학기 교양과목 교원 배정 및 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203093&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-08-25)
+
 * **[팔달관 화재수신기 교체 공사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203090&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 안전관리센터 (~2022-08-25)
 
@@ -101,12 +110,3 @@
 
 * **[(재공지) [LINC 3.0] LINC 3.0 서포터즈 4기 모집 공고(오늘마감★)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202991&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - LINC사업팀 (~2022-08-23)
-
-* **[[경영대학] (신청마감) 2022-2학기 수업TA(Teaching Assistant) 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202990&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 경영대학교학팀 (~2022-08-23)
-
-* **[2022-2학기 물리학 ITP 프로그램 튜터(Tutor)모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202984&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-08-23)
-
-* **[[예비군연대] 훈련 면제 (특별재난지역 - 집중호우)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202983&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 예비군연대 (~2022-08-23)
