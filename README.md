@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 2022 A.C.E. STUDY(22-2기) 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203088&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-08-25)
+
+* **[[다산학부대학] 2022-2 수강정정 기간 글쓰기, 영어1, 영어2 수강제한 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203084&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-08-25)
+
 * **[[봉사활동] 우만종합사회복지관 고1 대상 학습 멘토링 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203077&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-08-25)
 
@@ -104,9 +110,3 @@
 
 * **[♥(대학원생, 휴학생, 학적유지자) 장애학생 교육지원인력 모집(수정)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202979&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2022-08-23)
-
-* **[♥(재학생) 장애학생 이동지원인력 모집(수정)♥(소득분위 제외)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202976&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2022-08-23)
-
-* **[율곡관 지하 혁신공유라운지 사용불가 안내&lt;8/26(금)&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202968&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 홍보실 (~2022-08-22)
