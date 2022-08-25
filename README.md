@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[팔달관 화재수신기 교체 공사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203090&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 안전관리센터 (~2022-08-25)
+
 * **[[대학일자리플러스센터] 2022 A.C.E. STUDY(22-2기) 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203088&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-08-25)
 
@@ -107,6 +110,3 @@
 
 * **[[예비군연대] 훈련 면제 (특별재난지역 - 집중호우)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202983&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 예비군연대 (~2022-08-23)
-
-* **[♥(대학원생, 휴학생, 학적유지자) 장애학생 교육지원인력 모집(수정)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202979&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2022-08-23)
