@@ -21,6 +21,27 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지) [LINC 3.0] 아주 링크의 얼굴이 될 캐릭터를 찾습니다!(~08.31까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203130&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - LINC사업팀 (~2022-08-26)
+
+* **[[메이커스페이스] 레이저 가공장비 이용 기초교육생 모집(9월 1회차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203128&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-08-26)
+
+* **[[메이커스페이스] 3D프린터 장비이용 기초교육생 모집(8월 2회차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203127&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-08-26)
+
+* **[[대학일자리플러스센터] 2022 삼성전자 재직동문과 함께하는 &#x27;선배만남의 날&quot; 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203126&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-08-26)
+
+* **[[교외장학] 2023년도 젊은 당뇨인 푸른빛 희망 장학금 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203123&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-08-26)
+
+* **[[봉사활동] 원주시립중앙도서관 2022 대한민국 독서대전 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203122&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-08-26)
+
+* **[(외국인 유학생) 세계 한국어 한마당 문화행사 &#x27;2022 함께 읽다&#x27; 홍보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203120&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 글로벌교양학부 (~2022-08-26)
+
 * **[(재공지)[법학도서관] 2022학년도 2학기 면학장학생 모집(~8/30 am 10:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203113&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학술정보팀 (~2022-08-26)
 
@@ -89,24 +110,3 @@
 
 * **[[국비교육/수당지급] PLC자동제어 전문인력양성 교육생모집 ~9월 26일까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203048&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-08-24)
-
-* **[[박물관] 박물관 서포터즈 1기 모집 공고 (~9/14)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203047&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 박물관 (~2022-08-24)
-
-* **[[종합지원센터] 2022학년도 도서관, 구학생회관 전자사물함 회수 물품 확인 및 수령 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203046&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-08-24)
-
-* **[[봉사활동] 함께 이루는 꿈! 하반기 온(溫)택트 학습 멘토링 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203045&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-08-24)
-
-* **[[종합지원센터] 휴학생 면학장학 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203039&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-08-24)
-
-* **[[봉사활동] 수원 지동초등학교 학교복지실 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203033&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-08-24)
-
-* **[[메이커스페이스] 야, 너두 만들 수 있어!(석고트레이 과정-오후반/저녁반) 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203031&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-08-24)
-
-* **[[교외장학] (재)포항시장학회 2022년도 대학교 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203030&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-08-24)
