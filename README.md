@@ -21,7 +21,16 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[2022-2학기 등교버스 운행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203133&amp;article.offset=0&amp;articleLimit=30)**
+* **[[교외장학] 2022년 2학기「농림축산식품부 장학금」장학생 추가선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203143&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-08-26)
+
+* **[[대학혁신지원사업] 대학교육혁신원 7월 뉴스레터](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203142&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2022-08-26)
+
+* **[2022-2학기 강의페어링 설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203140&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 다산융복합교육센터 (~2022-08-26)
+
+* **[2022-2학기 등교버스 운행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203137&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-08-26)
 
 * **[제2회 혁신공유대학 메타버스 콘테스트(~9/16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203132&amp;article.offset=0&amp;articleLimit=30)**
@@ -101,12 +110,3 @@
 
 * **[[다산학부대학] 아주인성 신입생 여석반 선착순 신청 관련 공지(※신청방법 필독※)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203063&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-08-25)
-
-* **[[대학일자리플러스센터] 2022 NCS 반도체 전공정 집중과정 (초급-3차) - 신청기간(8/25~29) 선착순모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203062&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-08-25)
-
-* **[[대학일자리플러스센터] 8월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203055&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-08-25)
-
-* **[[대학일자리플러스센터] 진로취업 1:1 상담 운영 사이트 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203052&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-08-24)
