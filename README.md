@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[제2회 혁신공유대학 메타버스 콘테스트(~9/16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203132&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신공유단 (~2022-08-26)
+
+* **[(8/26~9/6) 2022-2학기 수학2 1대4 튜터링 튜티 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203131&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-08-26)
+
 * **[(재공지) [LINC 3.0] 아주 링크의 얼굴이 될 캐릭터를 찾습니다!(~08.31까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203130&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - LINC사업팀 (~2022-08-26)
 
@@ -57,7 +63,7 @@
 * **[[대학일자리플러스센터] 8월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203107&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-08-26)
 
-* **[(8/29~9/5) 수학2 반 변경 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203104&amp;article.offset=0&amp;articleLimit=30)**
+* **[▷(8/29~9/5) 수학2 반 변경 신청 안내◁](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203104&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-08-26)
 
 * **[의료인공지능 콜로키움 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203103&amp;article.offset=0&amp;articleLimit=30)**
@@ -104,9 +110,3 @@
 
 * **[[대학일자리플러스센터] 2022 하반기 서류 특강 ① 대기업 문항분석 및 자소서 작성법 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203051&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-08-24)
-
-* **[♦(재학생 1명) 2022-2 장애학생 교육지원인력 모집♦](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203049&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2022-08-24)
-
-* **[[국비교육/수당지급] PLC자동제어 전문인력양성 교육생모집 ~9월 26일까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203048&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2022-08-24)
