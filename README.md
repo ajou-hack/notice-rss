@@ -21,6 +21,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(8/29~9/5) 수학2 반 변경 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203104&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-08-26)
+
+* **[의료인공지능 콜로키움 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203103&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 의과대학 교학팀 (~2022-08-26)
+
+* **[의료인공지능 교육 프로그램 홍보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203102&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 의과대학 교학팀 (~2022-08-26)
+
+* **[[축구부] 추계대회 결승전 진출! 응원하러 가요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203098&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2022-08-25)
+
 * **[[글로벌미래교육원] 2022년 2학기 일반과정 개설 - 수강생모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203096&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 글로벌미래교육원 (~2022-08-25)
 
@@ -98,15 +110,3 @@
 
 * **[[교외장학] 2022년 2학기 청년창업농육성 장학생 추가모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203008&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-08-23)
-
-* **[▶(재공지) 2022-2학기 수학2 1대4 튜터링 Tutor 모집◀](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203003&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 다산학부대학교학팀 (~2022-08-23)
-
-* **[[학부]2022-2학기 수강정정 안내(9/1(목)~9/7(수), 토/일 제외)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202999&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-08-23)
-
-* **[[학부/학사과정]2022학년도 전기(2023년 2월) 조기졸업 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202992&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-08-23)
-
-* **[(재공지) [LINC 3.0] LINC 3.0 서포터즈 4기 모집 공고(오늘마감★)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202991&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀 (~2022-08-23)
