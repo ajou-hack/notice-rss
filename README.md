@@ -6,9 +6,6 @@
 * **[📌 [공지] [Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202390&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-08-01)
 
-* **[📌 [공지] [Remind][학부] 2022-2학기 등록 안내(08.22.~08.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202388&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-08-01)
-
 * **[📌 [공지] [학부학생필독!!] 전자출결시스템 사용 매뉴얼 (전자출석부 사용법)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192571&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-15)
 
@@ -20,6 +17,9 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[글로벌미래교육원] 2022년 2학기 일반과정 개설 - 수강생모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203145&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 글로벌미래교육원 (~2022-08-26)
 
 * **[[교외장학] 2022년 2학기「농림축산식품부 장학금」장학생 추가선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203143&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-08-26)
@@ -86,9 +86,6 @@
 
 * **[[축구부] 추계대회 결승전 진출! 응원하러 가요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203098&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2022-08-25)
-
-* **[[글로벌미래교육원] 2022년 2학기 일반과정 개설 - 수강생모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203096&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 글로벌미래교육원 (~2022-08-25)
 
 * **[[재공고][LINC 3.0] 2022-2학기 산학연계 교과목 개발 및 운영 지원사업 공모 안내 (추가모집 ~9/5)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203095&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - LINC 사업팀 (~2022-08-25)
