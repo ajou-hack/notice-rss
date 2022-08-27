@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[경기도 청년 마음건강 지원사업] 2차 마음세움 집단상담 프로그램](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203147&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생상담소 (~2022-08-27)
+
 * **[[글로벌미래교육원] 2022년 2학기 일반과정 개설 - 수강생모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203145&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 글로벌미래교육원 (~2022-08-26)
 
@@ -104,6 +107,3 @@
 
 * **[[봉사활동] 우만종합사회복지관 고1 대상 학습 멘토링 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203077&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-08-25)
-
-* **[[다산학부대학] 아주인성 신입생 여석반 선착순 신청 관련 공지(※신청방법 필독※)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203063&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-08-25)
