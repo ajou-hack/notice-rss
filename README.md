@@ -18,6 +18,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[메이커스페이스] 야, 너두 만들 수 있어!(석고트레이 과정-오후반/저녁반) 교육생 모집 (9/1)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203192&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-08-29)
+
+* **[기존주택 매입임대주택 입주자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203188&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-08-29)
+
+* **[대신러닝과 함께하는 AI NIGHT 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203185&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW중심대학사업단 (~2022-08-29)
+
 * **[[교수학습개발센터] 2022-1학기 수업 참여 사례 공모전 수상작 모음집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203182&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-08-29)
 
@@ -98,12 +107,3 @@
 
 * **[[교외장학] 2022-2학기 동산장학회 장학생 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203110&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-08-26)
-
-* **[[장학] 제 28기 미래에셋 교환장학생 선발안내(2023년 봄학기 파견)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203109&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-08-26)
-
-* **[[대학일자리플러스센터] 2022 하반기 GS리테일 밀착형 메타버스 채용설명회(9/15~16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203108&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-08-26)
-
-* **[[대학일자리플러스센터] 8월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203107&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-08-26)
