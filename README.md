@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[교수학습개발센터] 2022-1학기 수업 참여 사례 공모전 수상작 모음집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203182&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-08-29)
+
+* **[[국가근로] 2022년 2학기 국가근로장학생 안내사항(선발자 안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203178&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-08-29)
+
 * **[(재공지)2022-2학기 강의페어링 설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203166&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 다산융복합교육센터 (~2022-08-29)
 
@@ -101,9 +107,3 @@
 
 * **[[대학일자리플러스센터] 8월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203107&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-08-26)
-
-* **[▷(8/29~9/5) 수학2 반 변경 신청 안내◁](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203104&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-08-26)
-
-* **[의료인공지능 콜로키움 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203103&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 의과대학 교학팀 (~2022-08-26)
