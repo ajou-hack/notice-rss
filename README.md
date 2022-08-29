@@ -18,6 +18,30 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지)2022-2학기 강의페어링 설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203166&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 다산융복합교육센터 (~2022-08-29)
+
+* **[[다산학부대학] 2022-2학기 BSM 및 공업수학 수강정정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203164&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-08-29)
+
+* **[[다산학부대학] 2022-2학기 다산서원 13기(고전형 자기개발장학) 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203163&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 다산학부대학 교학팀 (~2022-08-29)
+
+* **[[다산학부대학] 2022-2학기 고전 에세이대회 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203162&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 다산학부대학 교학팀 (~2022-08-29)
+
+* **[[다산학부대학] 2022-2학기 고전 토론 대회 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203159&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 다산학부대학 교학팀 (~2022-08-29)
+
+* **[▷(8/29~9/5) 수학2 반 변경 신청 안내(재공지)◁](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203158&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-08-29)
+
+* **[[교외장학]인천 인재평생교육진흥원 하반기 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203156&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-08-29)
+
+* **[[봉사활동] (재공지) 영통구청 함께 이루는 꿈! 하반기 온(溫)택트 학습 멘토링 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203152&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-08-29)
+
 * **[[경기도 청년 마음건강 지원사업] 2차 마음세움 집단상담 프로그램](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203147&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생상담소 (~2022-08-27)
 
@@ -83,27 +107,3 @@
 
 * **[의료인공지능 콜로키움 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203103&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 의과대학 교학팀 (~2022-08-26)
-
-* **[의료인공지능 교육 프로그램 홍보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203102&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 의과대학 교학팀 (~2022-08-26)
-
-* **[[축구부] 추계대회 결승전 진출! 응원하러 가요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203098&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2022-08-25)
-
-* **[[재공고][LINC 3.0] 2022-2학기 산학연계 교과목 개발 및 운영 지원사업 공모 안내 (추가모집 ~9/5)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203095&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - LINC 사업팀 (~2022-08-25)
-
-* **[[다산학부대학] 2022-2학기 교양과목 교원 배정 및 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203093&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-08-25)
-
-* **[팔달관 화재수신기 교체 공사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203090&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 안전관리센터 (~2022-08-25)
-
-* **[[대학일자리플러스센터] 2022 A.C.E. STUDY(22-2기) 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203088&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-08-25)
-
-* **[[다산학부대학] 2022-2 수강정정 기간 글쓰기, 영어1, 영어2 수강제한 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203084&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-08-25)
-
-* **[[봉사활동] 우만종합사회복지관 고1 대상 학습 멘토링 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203077&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-08-25)
