@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[교외장학] 2022년도 2학기 한국선원복지고용센터 선원가족 장학생 선발안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203199&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-08-29)
+
 * **[[메이커스페이스] 야, 너두 만들 수 있어!(석고트레이 과정-오후반/저녁반) 교육생 모집 (9/1)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203192&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-08-29)
 
@@ -104,6 +107,3 @@
 
 * **[(재공지)[법학도서관] 2022학년도 2학기 면학장학생 모집(~8/30 am 10:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203113&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학술정보팀 (~2022-08-26)
-
-* **[[교외장학] 2022-2학기 동산장학회 장학생 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203110&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-08-26)
