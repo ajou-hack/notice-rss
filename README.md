@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[봉사활동] 용인시 벽화그리기 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203203&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-08-29)
+
+* **[[경영대학] 2022-2학기 수업TA(Teaching Assistant) 모집 연장](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203201&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 경영대학교학팀 (~2022-08-29)
+
 * **[[교외장학] 2022년도 2학기 한국선원복지고용센터 선원가족 장학생 선발안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203199&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-08-29)
 
@@ -101,9 +107,3 @@
 
 * **[[봉사활동] 원주시립중앙도서관 2022 대한민국 독서대전 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203122&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-08-26)
-
-* **[(외국인 유학생) 세계 한국어 한마당 문화행사 &#x27;2022 함께 읽다&#x27; 홍보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203120&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 글로벌교양학부 (~2022-08-26)
-
-* **[(재공지)[법학도서관] 2022학년도 2학기 면학장학생 모집(~8/30 am 10:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203113&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학술정보팀 (~2022-08-26)
