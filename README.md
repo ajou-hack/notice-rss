@@ -18,6 +18,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[재공지][LINC 3.0] 2022 제16회, 17회 현장실습 수기•영상 공모전 개최 안내(8.22 접수시작)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203245&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2022-08-30)
+
+* **[▶(~9/6) 2022-2학기 아주강좌2 수업TA 학생 모집◀](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203244&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 다산학부대학교학팀 (~2022-08-30)
+
+* **[2022년 교내 독감 예방 접종 시행](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203243&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 보건진료소 (~2022-08-30)
+
 * **[[의과대학] 의료인공지능 학부 마이크로 과정 추가 모집 공고(2022학년도 2학기)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203231&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 의과대학 교학팀 (~2022-08-30)
 
@@ -98,12 +107,3 @@
 
 * **[(8/26~9/6) 2022-2학기 수학2 1대4 튜터링 튜티 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203131&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-08-26)
-
-* **[(재공지) [LINC 3.0] 아주 링크의 얼굴이 될 캐릭터를 찾습니다!(~08.31까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203130&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀 (~2022-08-26)
-
-* **[[메이커스페이스] 레이저 가공장비 이용 기초교육생 모집(9월 1회차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203128&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-08-26)
-
-* **[[메이커스페이스] 3D프린터 장비이용 기초교육생 모집(8월 2회차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203127&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-08-26)
