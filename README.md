@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] [긴급공지]알약백신2.5 버전 `랜섬웨어 오탐 발생` 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203255&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2022-08-30)
+
 * **[📌 [공지] 교직원퇴직자, 학부 및 대학원 졸업자(제적생 포함) 구글드라이브(공유드라이브 포함) 정리 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202858&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-08-17)
 
@@ -17,6 +20,15 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[(재공지)[다산학부대학] 아주인성 신입생 여석반 선착순 신청 관련 공지(※신청방법 필독※)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203253&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-08-30)
+
+* **[(재공지)[다산학부대학] 2022-2 수강정정 기간 글쓰기, 영어1, 영어2 여석 추가 개방 안내(수강제한 변경 안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203252&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-08-30)
+
+* **[화장실 단수 안내(화공실험동 1층 남자화장실, 팔달관 2층 여자화장실) (8/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203250&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 안전관리센터 (~2022-08-30)
 
 * **[[재공지][LINC 3.0] 2022 제16회, 17회 현장실습 수기•영상 공모전 개최 안내(8.22 접수시작)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203245&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2022-08-30)
@@ -98,12 +110,3 @@
 
 * **[2022-2학기 강의페어링 설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203140&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 다산융복합교육센터 (~2022-08-26)
-
-* **[2022-2학기 등교버스 운행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203137&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-08-26)
-
-* **[제2회 혁신공유대학 메타버스 콘테스트(~9/16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203132&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신공유단 (~2022-08-26)
-
-* **[(8/26~9/6) 2022-2학기 수학2 1대4 튜터링 튜티 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203131&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-08-26)
