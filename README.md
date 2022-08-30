@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022년도 2학기 교사대생튜터링장학생 안내사항 (선발자 안내사항)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203215&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-08-30)
+
+* **[[봉사활동] (재공지) 영통구청 비대면 학습 멘토링 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203214&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-08-30)
+
 * **[[봉사활동] 용인시 벽화그리기 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203203&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-08-29)
 
@@ -63,9 +69,6 @@
 * **[[교외장학]인천 인재평생교육진흥원 하반기 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203156&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-08-29)
 
-* **[[봉사활동] (재공지) 영통구청 함께 이루는 꿈! 하반기 온(溫)택트 학습 멘토링 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203152&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-08-29)
-
 * **[[경기도 청년 마음건강 지원사업] 2차 마음세움 집단상담 프로그램](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203147&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생상담소 (~2022-08-27)
 
@@ -104,6 +107,3 @@
 
 * **[[교외장학] 2023년도 젊은 당뇨인 푸른빛 희망 장학금 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203123&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-08-26)
-
-* **[[봉사활동] 원주시립중앙도서관 2022 대한민국 독서대전 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203122&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-08-26)
