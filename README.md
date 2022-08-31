@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 2022 하반기 서류 특강 ② 삼성그룹 자소서 작성법 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203289&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-08-31)
+
+* **[[국가근로][교사대생등대학생튜터링] 8월 국가근로/교사대생등대학생튜터링장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 8/31 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203287&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-08-31)
+
 * **[[대학일자리플러스센터] 아주대와 함께하는 삼성SDS 채용 상담회 (9/6~7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203286&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-08-31)
 
@@ -59,9 +65,6 @@
 
 * **[[봉사활동] 용인시 벽화그리기 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203203&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-08-29)
-
-* **[[경영대학] 2022-2학기 수업TA(Teaching Assistant) 모집 연장](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203201&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 경영대학교학팀 (~2022-08-29)
 
 * **[[교외장학] 2022년도 2학기 한국선원복지고용센터 선원가족 장학생 선발안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203199&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-08-29)
@@ -107,6 +110,3 @@
 
 * **[[글로벌미래교육원] 2022년 2학기 일반과정 개설 - 수강생모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203145&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 글로벌미래교육원 (~2022-08-26)
-
-* **[[교외장학] 2022년 2학기「농림축산식품부 장학금」장학생 추가선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203143&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-08-26)
