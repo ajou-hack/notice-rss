@@ -1,6 +1,6 @@
 # 최근 공지사항
 
-* **[📌 [공지] [긴급공지]알약백신2.5 버전 `랜섬웨어 오탐 발생` 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203255&amp;article.offset=0&amp;articleLimit=30)**
+* **[📌 [공지] [긴급공지]알약백신2.5 버전 `랜섬웨어 오탐 발생` 조치 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203255&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-08-30)
 
 * **[📌 [공지] 교직원퇴직자, 학부 및 대학원 졸업자(제적생 포함) 구글드라이브(공유드라이브 포함) 정리 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202858&amp;article.offset=0&amp;articleLimit=30)**
@@ -20,6 +20,12 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[대학일자리플러스센터] 아주대와 함께하는 삼성SDS 채용 상담회 (9/6~7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203286&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-08-31)
+
+* **[(재공지) [LINC 3.0] 아주 링크의 얼굴이 될 캐릭터를 찾습니다!(★오늘마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203277&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - LINC사업팀 (~2022-08-31)
 
 * **[(재공지)[다산학부대학] 아주인성 신입생 여석반 선착순 신청 관련 공지(※신청방법 필독※)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203253&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-08-30)
@@ -104,9 +110,3 @@
 
 * **[[교외장학] 2022년 2학기「농림축산식품부 장학금」장학생 추가선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203143&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-08-26)
-
-* **[[대학혁신지원사업] 대학교육혁신원 7월 뉴스레터](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203142&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2022-08-26)
-
-* **[2022-2학기 강의페어링 설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203140&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 다산융복합교육센터 (~2022-08-26)
