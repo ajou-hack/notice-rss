@@ -21,6 +21,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[수업 저작권 관련 유의사항 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203327&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-08-31)
+
+* **[[Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203322&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-08-31)
+
+* **[[Remind][학부] 2022-2학기 등록 안내(09.01.~09.02.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203321&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-08-31)
+
 * **[[대학일자리플러스센터]대학일자리플러스센터 서비스 모아보기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203309&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-08-31)
 
@@ -101,12 +110,3 @@
 
 * **[[다산학부대학] 2022-2학기 고전 에세이대회 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203162&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 다산학부대학 교학팀 (~2022-08-29)
-
-* **[[다산학부대학] 2022-2학기 고전 토론 대회 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203159&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 다산학부대학 교학팀 (~2022-08-29)
-
-* **[▷(8/29~9/5) 수학2 반 변경 신청 안내(재공지)◁](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203158&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-08-29)
-
-* **[[교외장학]인천 인재평생교육진흥원 하반기 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203156&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-08-29)
