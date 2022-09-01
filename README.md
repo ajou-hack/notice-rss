@@ -15,14 +15,23 @@
 * **[📌 [공지] [학부학생필독!!] 전자출결시스템 사용 매뉴얼 (전자출석부 사용법)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192571&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-15)
 
-* **[📌 [공지] [교무팀] 2022학년도 코로나19 확산에 따른 출석인정 안내(백신공결 등)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180913&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-02-16)
-
 * **[📌 [공지] [총무팀] 코로나19 확진자 교내 심층역학조사 URL 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180493&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-02-08)
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[2022년 멀티미디어 강의실 점검결과(08월) 및 2022년 (09월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203362&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2022-09-01)
+
+* **[(재공지)[메이커스페이스] 야, 너두 만들 수 있어!(석고트레이 과정-오후반/저녁반) 교육생 모집 (9/1-12시까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203360&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-09-01)
+
+* **[[비교과교육지원센터] 아주허브에서 퀴즈 풀고 스타벅스 쿠폰 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203358&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 비교과교육지원센터 (~2022-09-01)
+
+* **[[기획팀]아주대학교 학칙 개정(안) 사전 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203355&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2022-08-31)
 
 * **[에너지센터 단수 안내(1, 2, 3, 5층) (9/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203340&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 안전관리센터 (~2022-08-31)
@@ -101,15 +110,3 @@
 
 * **[[메이커스페이스] 야, 너두 만들 수 있어!(석고트레이 과정-오후반/저녁반) 교육생 모집 (9/1)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203192&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-08-29)
-
-* **[기존주택 매입임대주택 입주자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203188&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-08-29)
-
-* **[대신러닝과 함께하는 AI NIGHT 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203185&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW중심대학사업단 (~2022-08-29)
-
-* **[[교수학습개발센터] 2022-1학기 수업 참여 사례 공모전 수상작 모음집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203182&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-08-29)
-
-* **[[국가근로] 2022년 2학기 국가근로장학생 안내사항(선발자 안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203178&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-08-29)
