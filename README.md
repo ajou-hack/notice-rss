@@ -24,6 +24,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[율곡관 변압기 용량증설공사 안내(율곡관 정전 9월 18일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203422&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2022-09-01)
+
+* **[[학사]2023년 2월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.01.27(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203420&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-09-01)
+
 * **[[대학일자리플러스센터] 2022 현대자동차 신입채용 및 메타버스 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203412&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-01)
 
@@ -107,9 +113,3 @@
 
 * **[[대학일자리플러스센터] 아주대와 함께하는 삼성SDS 채용 상담회 (9/6~7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203286&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-08-31)
-
-* **[(재공지) [LINC 3.0] 아주 링크의 얼굴이 될 캐릭터를 찾습니다!(★오늘마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203277&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - LINC사업팀 (~2022-08-31)
-
-* **[(재공지)[다산학부대학] 아주인성 신입생 여석반 선착순 신청 관련 공지(※신청방법 필독※)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203253&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-08-30)
