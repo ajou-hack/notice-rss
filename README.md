@@ -21,6 +21,24 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[중앙도서관]9월 이용교육 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203378&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-09-01)
+
+* **[▶2022-2학기 ITP 프로그램 튜터(Tutor)모집 공고◀](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203377&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 다산학부대학교학팀 (~2022-09-01)
+
+* **[(재공지)[박물관] 박물관 서포터즈 1기 모집 공고 (~9/14)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203373&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 박물관 (~2022-09-01)
+
+* **[전주기 신약개발전문가 양성 워크숍](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203372&amp;article.offset=0&amp;articleLimit=30)**
+ [학술] - 약과학연구소 (~2022-09-01)
+
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203371&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 경영대학 (~2022-09-01)
+
+* **[[대학일자리플러스센터] 아주대와 함께하는 삼성DS 반도체연구소 채용 설명회 및 상담회 (9/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203369&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-01)
+
 * **[2022년 멀티미디어 강의실 점검결과(08월) 및 2022년 (09월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203362&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-09-01)
 
@@ -92,21 +110,3 @@
 
 * **[2022년 교내 독감 예방 접종 시행](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203243&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 보건진료소 (~2022-08-30)
-
-* **[[의과대학] 의료인공지능 학부 마이크로 과정 추가 모집 공고(2022학년도 2학기)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203231&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 의과대학 교학팀 (~2022-08-30)
-
-* **[[재안내][교외장학] 2022-2학기 인송문화재단 인송장학생 추천 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203230&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-08-30)
-
-* **[2022년도 2학기 교사대생튜터링장학생 안내사항 (선발자 안내사항)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203215&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-08-30)
-
-* **[[봉사활동] 용인시 벽화그리기 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203203&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-08-29)
-
-* **[[교외장학] 2022년도 2학기 한국선원복지고용센터 선원가족 장학생 선발안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203199&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-08-29)
-
-* **[[메이커스페이스] 야, 너두 만들 수 있어!(석고트레이 과정-오후반/저녁반) 교육생 모집 (9/1)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203192&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-08-29)
