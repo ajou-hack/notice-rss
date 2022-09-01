@@ -21,6 +21,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제47호(2022.09)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203399&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-01)
+
+* **[[대학일자리플러스센터] 금주의 추천채용_ 한국다이요잉크주식회사/대아티아이/앱스필](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203397&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-01)
+
+* **[[학생지원팀] 2202-2학기 토론학습실 운영시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203388&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2022-09-01)
+
 * **[[중앙도서관]9월 이용교육 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203378&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-09-01)
 
@@ -101,12 +110,3 @@
 
 * **[화장실 단수 안내(화공실험동 1층 남자화장실, 팔달관 2층 여자화장실) (8/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203250&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 안전관리센터 (~2022-08-30)
-
-* **[[재공지][LINC 3.0] 2022 제16회, 17회 현장실습 수기•영상 공모전 개최 안내(8.22 접수시작)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203245&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2022-08-30)
-
-* **[▶(~9/6) 2022-2학기 아주강좌2 수업TA 학생 모집◀](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203244&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 다산학부대학교학팀 (~2022-08-30)
-
-* **[2022년 교내 독감 예방 접종 시행](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203243&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 보건진료소 (~2022-08-30)
