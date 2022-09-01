@@ -15,6 +15,9 @@
 * **[📌 [공지] [학부학생필독!!] 전자출결시스템 사용 매뉴얼 (전자출석부 사용법)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192571&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-03-15)
 
+* **[📌 [공지] [교무팀] 2022학년도 코로나19 확산에 따른 출석인정 안내(백신공결 등)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180913&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-02-16)
+
 * **[📌 [공지] [총무팀] 코로나19 확진자 교내 심층역학조사 URL 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180493&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-02-08)
 
