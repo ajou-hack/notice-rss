@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[국비교육/수당지급] PLC자동제어 전문인력양성 교육생모집 ~9월 26일까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203483&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2022-09-02)
+
 * **[[교외장학] 2022년 &lt;서울희망 디딤돌 장학금&gt; 장학생 선발공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203482&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-09-02)
 
@@ -110,6 +113,3 @@
 
 * **[(재공지)[메이커스페이스] 야, 너두 만들 수 있어!(석고트레이 과정-오후반/저녁반) 교육생 모집 (9/1-12시까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203360&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-09-01)
-
-* **[[비교과교육지원센터] 아주허브에서 퀴즈 풀고 스타벅스 쿠폰 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203358&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 비교과교육지원센터 (~2022-09-01)
