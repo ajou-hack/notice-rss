@@ -24,6 +24,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 엑셀 데이터 분석과 시각화 특강(비대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203449&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-09-02)
+
+* **[[학습법] 엑셀 데이터 분석과 시각화 특강(대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203448&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-09-02)
+
 * **[[과학영재교육원] 2022년 스마트 수·과학실 참가자 모집 안내 (중학생 대상 – 정보과학) (9.1 ~ 9.13)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203438&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 과학영재교육원 (~2022-09-02)
 
@@ -107,9 +113,3 @@
 
 * **[수업 저작권 관련 유의사항 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203327&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-08-31)
-
-* **[[대학일자리플러스센터]대학일자리플러스센터 서비스 모아보기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203309&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-08-31)
-
-* **[(도서관)아주북통 12기에 활동할 학생을 모집합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203299&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학술정보팀 (~2022-08-31)
