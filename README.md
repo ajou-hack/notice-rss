@@ -24,6 +24,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[교외장학] 2023년 미래인재육성재단 신규장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203477&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-09-02)
+
+* **[[대학일자리플러스센터] 아주대와 함께하는 ASML 채용 설명회 및 상담회 (9/5)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203474&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-02)
+
 * **[[대학일자리플러스센터] 2022 하반기 삼성 기회균등 특별채용 지원자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203470&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-02)
 
@@ -107,9 +113,3 @@
 
 * **[[기획팀]아주대학교 학칙 개정(안) 사전 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203355&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 기획팀 (~2022-08-31)
-
-* **[에너지센터 단수 안내(1, 2, 3, 5층) (9/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203340&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 안전관리센터 (~2022-08-31)
-
-* **[화장실 단수 안내(원천관 1층 남자 화장실/ 동관 1,2층 남자 화장실) (9/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203339&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 안전관리센터 (~2022-08-31)
