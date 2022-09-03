@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[학교법인 대우학원 정관 및 규정류 개정 공포(제358차 이사회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203489&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2022-09-02)
+
 * **[[재공지](도서관)아주북통 12기에 활동할 학생을 모집합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203486&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학술정보팀 (~2022-09-02)
 
@@ -110,6 +113,3 @@
 
 * **[[대학일자리플러스센터] 아주대와 함께하는 삼성DS 반도체연구소 채용 설명회 및 상담회 (9/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203369&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-01)
-
-* **[2022년 멀티미디어 강의실 점검결과(08월) 및 2022년 (09월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203362&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2022-09-01)
