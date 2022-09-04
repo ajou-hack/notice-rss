@@ -3,9 +3,6 @@
 * **[📌 [공지] [Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203322&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-08-31)
 
-* **[📌 [공지] [Remind][학부] 2022-2학기 등록 안내(09.01.~09.02.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203321&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-08-31)
-
 * **[📌 [공지] [긴급공지]알약백신2.5 버전 `랜섬웨어 오탐 발생` 조치 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203255&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-08-30)
 
