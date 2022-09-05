@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[태풍 &#x27;힌남노&#x27; 북상에 따른 교무팀 근무시간 조정 안내 (9.6.(화))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203570&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-09-05)
+
 * **[태풍 경보 격상(심각)에 따른 9.6(화) 근무 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203563&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 총무팀 (~2022-09-05)
 
@@ -107,6 +110,3 @@
 
 * **[[학생지원팀] 영자신문사 수습기자 모집 안내(~9.6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203460&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2022-09-02)
-
-* **[[대학일자리플러스센터] 아주대와 함께하는 삼성디스플레이 채용 설명회 및 상담회 (9/5~6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203458&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-02)
