@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학생지원팀] 학생자치공간 출입 등록 절차 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203547&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2022-09-05)
+
+* **[[학부]2022-2학기 9/6(화) 학부 비대면수업 권고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203545&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-09-05)
+
 * **[2022년 교내 독감예방접종 접수](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203540&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 보건진료소 (~2022-09-05)
 
@@ -104,9 +110,3 @@
 
 * **[[학습법] 엑셀 데이터 분석과 시각화 특강(대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203448&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-09-02)
-
-* **[[과학영재교육원] [마감] 2022년 스마트 수·과학실 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203438&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 과학영재교육원 (~2022-09-02)
-
-* **[[공학교육혁신센터] 2022 학생포트폴리오 경진대회 수상 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203433&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2022-09-02)
