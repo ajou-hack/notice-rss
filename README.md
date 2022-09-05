@@ -21,6 +21,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 아주대와 함께하는 삼성물산 채용 설명회 및 상담회 (9/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203521&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-05)
+
+* **[[대학일자리플러스센터] 아주대와 함께하는 삼성에스원 채용 설명회 및 상담회 (9/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203519&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-05)
+
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203518&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-09-05)
+
 * **[[입실공고] 2022학년도 2학기 고시반(아현재) 입실 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203511&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 사회과학대학 교학팀 (~2022-09-05)
 
@@ -101,12 +110,3 @@
 
 * **[[대학일자리플러스센터] 금주의 추천채용_ 한국다이요잉크주식회사/대아티아이/앱스필](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203397&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-01)
-
-* **[[학생지원팀] 2022-2학기 토론학습실 운영시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203388&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2022-09-01)
-
-* **[[중앙도서관]9월 이용교육 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203378&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-09-01)
-
-* **[▶2022-2학기 ITP 프로그램 튜터(Tutor)모집 공고◀](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203377&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 다산학부대학교학팀 (~2022-09-01)
