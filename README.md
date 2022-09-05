@@ -21,7 +21,28 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[[대학일자리플러스센터] 아주대와 함께하는 삼성물산 채용 설명회 및 상담회 (9/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203521&amp;article.offset=0&amp;articleLimit=30)**
+* **[2022년 교내 독감예방접종 접수](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203540&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 보건진료소 (~2022-09-05)
+
+* **[[대학일자리플러스센터] (미취업 졸업생을 위한) 네오챌린지플러스 5기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203535&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-05)
+
+* **[[학습법] 2022-2학기 학습공동체(III) 공부가치 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203531&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-09-05)
+
+* **[[학습법] 2022-2학기 학습공동체(II) ASAP 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203530&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-09-05)
+
+* **[[학습법] 2022-2학기 학습공동체(I) 스터디그룹 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203529&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-09-05)
+
+* **[(수정) 2022학년도 2학기 사회봉사장학 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203528&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 사회봉사센터 (~2022-09-05)
+
+* **[[학부] 2022학년도 2학기 취득학점포기 안내 (성적포기) (9/27~29)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203524&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-09-05)
+
+* **[[대학일자리플러스센터] 아주대와 함께하는 삼성물산 리조트부문 채용상담회 (9/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203521&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-05)
 
 * **[[대학일자리플러스센터] 아주대와 함께하는 삼성에스원 채용 설명회 및 상담회 (9/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203519&amp;article.offset=0&amp;articleLimit=30)**
@@ -89,24 +110,3 @@
 
 * **[[공학교육혁신센터] 2022 학생포트폴리오 경진대회 수상 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203433&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2022-09-02)
-
-* **[[축구부] 수원FC 홈경기 시축행사 및 아주인 무료관람 경기](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203430&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2022-09-02)
-
-* **[율곡관 변압기 용량증설공사 안내(율곡관 정전 9월 18일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203422&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2022-09-01)
-
-* **[[학사]2023년 2월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.01.27(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203420&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-09-01)
-
-* **[[대학일자리플러스센터] 2022 현대자동차 신입채용 및 메타버스 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203412&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-01)
-
-* **[[대학일자리플러스센터] 2022학년도 하반기 ALL라인멘토스 멘티 신청 접수(9/1~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203409&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-01)
-
-* **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제47호(2022.09)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203399&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-01)
-
-* **[[대학일자리플러스센터] 금주의 추천채용_ 한국다이요잉크주식회사/대아티아이/앱스필](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203397&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-01)
