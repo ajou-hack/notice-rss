@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[태풍 경보 격상(심각)에 따른 9.6(화) 근무 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203563&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 총무팀 (~2022-09-05)
+
 * **[[송지현] 변리사/기술고시 준비반 신입현생 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203553&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공과대학교학팀 (~2022-09-05)
 
@@ -107,6 +110,3 @@
 
 * **[[대학일자리플러스센터] 아주대와 함께하는 삼성디스플레이 채용 설명회 및 상담회 (9/5~6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203458&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-02)
-
-* **[[학습법] 엑셀 데이터 분석과 시각화 특강(비대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203449&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-09-02)
