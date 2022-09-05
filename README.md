@@ -21,6 +21,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[입실공고] 2022학년도 2학기 고시반(아현재) 입실 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203511&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 사회과학대학 교학팀 (~2022-09-05)
+
+* **[[입실 공고]2022학년도 2학기 고시반(청람재) 입실 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203510&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 사회과학대학 교학팀 (~2022-09-05)
+
+* **[국제교육센터에서 함께 면학할 성실한 면학장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203496&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 국제교육센터 (~2022-09-05)
+
+* **[[대학발전팀] 대학발전팀 사무실 임시 이전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203495&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 대학발전팀 (~2022-09-05)
+
 * **[학교법인 대우학원 정관 및 규정류 개정 공포(제358차 이사회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203489&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 기획팀 (~2022-09-02)
 
@@ -63,7 +75,7 @@
 * **[[학습법] 엑셀 데이터 분석과 시각화 특강(대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203448&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-09-02)
 
-* **[[과학영재교육원] 2022년 스마트 수·과학실 참가자 모집 안내 (중학생 대상 – 정보과학) (9.1 ~ 9.13)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203438&amp;article.offset=0&amp;articleLimit=30)**
+* **[[과학영재교육원] [마감] 2022년 스마트 수·과학실 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203438&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 과학영재교육원 (~2022-09-02)
 
 * **[[공학교육혁신센터] 2022 학생포트폴리오 경진대회 수상 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203433&amp;article.offset=0&amp;articleLimit=30)**
@@ -98,15 +110,3 @@
 
 * **[▶2022-2학기 ITP 프로그램 튜터(Tutor)모집 공고◀](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203377&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 다산학부대학교학팀 (~2022-09-01)
-
-* **[(재공지)[박물관] 박물관 서포터즈 1기 모집 공고 (~9/14)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203373&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 박물관 (~2022-09-01)
-
-* **[전주기 신약개발전문가 양성 워크숍](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203372&amp;article.offset=0&amp;articleLimit=30)**
- [학술] - 약과학연구소 (~2022-09-01)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203371&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 경영대학 (~2022-09-01)
-
-* **[[대학일자리플러스센터] 아주대와 함께하는 삼성DS 반도체연구소 채용 설명회 및 상담회 (9/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203369&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-01)
