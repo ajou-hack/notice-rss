@@ -21,6 +21,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 아주대와 함께하는 포스코그룹 채용 설명회 및 상담회 (9/15)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203623&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-06)
+
+* **[[메이커스페이스] 9월 교육프로그램 강의 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203622&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-09-06)
+
+* **[[대학일자리플러스센터] 아주대와 함께하는 DB손해보험 채용 상담회 (9/16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203621&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-06)
+
 * **[[다산학부대학] 2022-2학기 BSM 및 공업수학 수강정정 안내(추가공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203612&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-09-06)
 
@@ -101,12 +110,3 @@
 
 * **[[대학발전팀] 대학발전팀 사무실 임시 이전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203495&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 대학발전팀 (~2022-09-05)
-
-* **[학교법인 대우학원 정관 및 규정류 개정 공포(제358차 이사회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203489&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2022-09-02)
-
-* **[[재공지](도서관)아주북통 12기에 활동할 학생을 모집합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203486&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학술정보팀 (~2022-09-02)
-
-* **[[국비교육/수당지급] PLC자동제어 전문인력양성 교육생모집 ~9월 26일까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203483&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2022-09-02)
