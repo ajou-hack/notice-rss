@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[코로나바이러스감염증-19 생활 방역수칙 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203632&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-09-07)
+
+* **[[대학일자리플러스센터] 2022년 하반기 삼성그룹 공채 대비 자소서 1:1 컨설팅(화상상담)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203628&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-06)
+
 * **[[대학일자리플러스센터] 아주대와 함께하는 포스코그룹 채용 설명회 및 상담회 (9/15)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203623&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-06)
 
@@ -29,6 +35,9 @@
 
 * **[[대학일자리플러스센터] 아주대와 함께하는 DB손해보험 채용 상담회 (9/16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203621&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-06)
+
+* **[학생설계전공 운영 및 정착을 위한 조사(학부생 대상)_선착순 기프티콘 증정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203615&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-09-06)
 
 * **[[다산학부대학] 2022-2학기 BSM 및 공업수학 수강정정 안내(추가공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203612&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-09-06)
@@ -101,12 +110,3 @@
 
 * **[[입실공고] 2022학년도 2학기 고시반(아현재) 입실 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203511&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 사회과학대학 교학팀 (~2022-09-05)
-
-* **[[입실 공고]2022학년도 2학기 고시반(청람재) 입실 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203510&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 사회과학대학 교학팀 (~2022-09-05)
-
-* **[국제교육센터에서 함께 면학할 성실한 면학장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203496&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 국제교육센터 (~2022-09-05)
-
-* **[[대학발전팀] 대학발전팀 사무실 임시 이전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203495&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 대학발전팀 (~2022-09-05)
