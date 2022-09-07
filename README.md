@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[다산학부대학] 정책연구 보조 연구원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203683&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 다산학부대학 교학팀 (~2022-09-07)
+
+* **[[학부]2022-2학기 수강포기(수강철회) 안내(9/26(월) 9시~9/28(수) 23시59분)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203679&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-09-07)
+
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203677&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-09-07)
 
@@ -104,9 +110,3 @@
 
 * **[[학부]2022-2학기 9/6(화) 학부 비대면수업 권고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203545&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-09-05)
-
-* **[2022년 교내 독감예방접종 접수](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203540&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 보건진료소 (~2022-09-05)
-
-* **[[대학일자리플러스센터] (미취업 졸업생을 위한) 네오챌린지플러스 5기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203535&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-05)
