@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[봉사활동] 적십자 교내 헌혈 안내 및 봉사자 모집( 9/13 - 14 )](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203647&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-09-07)
+
+* **[[공학교육혁신센터] 2022학년도 2학기 학생상담 안내 (12.29.까지)*연장 절대 없음*](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203643&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2022-09-07)
+
 * **[코로나바이러스감염증-19 생활 방역수칙 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203632&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-09-07)
 
@@ -104,9 +110,3 @@
 
 * **[[대학일자리플러스센터] 아주대와 함께하는 삼성에스원 채용 상담회 (9/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203519&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-05)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203518&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-09-05)
-
-* **[[입실공고] 2022학년도 2학기 고시반(아현재) 입실 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203511&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 사회과학대학 교학팀 (~2022-09-05)
