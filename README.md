@@ -21,6 +21,24 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[추석 연휴 전일(9.8(목)) 퇴근시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203671&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 총무팀 (~2022-09-07)
+
+* **[[봉사활동] &#x27;2022년 국제기능올림픽 특별대회 고양&#x27; 기술매니저/ 워크샵매니저 통역봉사요원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203662&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-09-07)
+
+* **[[대학일자리플러스센터] [삼성디스플레이] &#x27;22.하반기 공채 온라인 리크루팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203660&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-07)
+
+* **[[학습법] 엑셀 데이터 분석과 시각화 특강(비대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203655&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-09-07)
+
+* **[[학습법] 엑셀 데이터 분석과 시각화 특강(대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203654&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-09-07)
+
+* **[[총무팀] 추석 연휴 중 교내 편의점 영업시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203653&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-09-07)
+
 * **[[봉사활동] 적십자 교내 헌혈 안내 및 봉사자 모집( 9/13 - 14 )](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203647&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-09-07)
 
@@ -92,21 +110,3 @@
 
 * **[[학습법] 2022-2학기 학습공동체(III) 공부가치 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203531&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-09-05)
-
-* **[[학습법] 2022-2학기 학습공동체(II) ASAP 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203530&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-09-05)
-
-* **[[학습법] 2022-2학기 학습공동체(I) 스터디그룹 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203529&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-09-05)
-
-* **[(수정) 2022학년도 2학기 사회봉사장학 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203528&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 사회봉사센터 (~2022-09-05)
-
-* **[[학부] 2022학년도 2학기 취득학점포기 안내 (성적포기) (9/27~29)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203524&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-09-05)
-
-* **[[대학일자리플러스센터] 아주대와 함께하는 삼성물산 리조트부문 채용상담회 (9/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203521&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-05)
-
-* **[[대학일자리플러스센터] 아주대와 함께하는 삼성에스원 채용 상담회 (9/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203519&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-05)
