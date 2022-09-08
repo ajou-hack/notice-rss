@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[아주팝스오케스트라] 24회 정기 연주회에 초대합니다!!(9.16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203751&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2022-09-08)
+
 * **[[다산학부대학] (재공고) 2022-2학기 고전 에세이 대회 모집 (~9/12까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203748&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 다산학부대학 교학팀 (~2022-09-08)
 
@@ -107,6 +110,3 @@
 
 * **[[다산학부대학] 2022-2학기 BSM 및 공업수학 수강정정 안내(추가공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203612&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-09-06)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203605&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-09-06)
