@@ -21,6 +21,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 아주대와 함께하는 AMK 채용 설명회 및 상담회 (9/15)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203737&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-08)
+
+* **[추석 연휴 기간 안전수칙 준수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203730&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 안전관리센터 (~2022-09-08)
+
+* **[학생설계전공 운영 및 정착을 위한 조사(학부생 대상)_선착순 기프티콘 증정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203728&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-09-08)
+
 * **[[대학일자리플러스센터] 경영대학 동문 초청특강 안내 - 나는솔로 9기 영수 최준배 동문이 온다!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203721&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-08)
 
@@ -101,12 +110,3 @@
 
 * **[[국제교류팀] 혁신공유라운지 사용불가 안내 &lt;9월 23일 금 오후 1시 ~ 5시&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203586&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 국제교류팀 (~2022-09-06)
-
-* **[[교외장학]춘천시민장학복지재단 2022년도 하반기 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203582&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-09-06)
-
-* **[[학습법] 2022-2학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203581&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-09-06)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203580&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-09-06)
