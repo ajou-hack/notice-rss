@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[총무팀] 추석 연휴 중 교내 학생식당 영업시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203705&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-09-08)
+
 * **[[다산학부대학] 정책연구 보조 연구원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203683&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 다산학부대학 교학팀 (~2022-09-07)
 
@@ -107,6 +110,3 @@
 
 * **[[학생지원팀] 학생자치공간 출입 등록 절차 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203547&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2022-09-05)
-
-* **[[학부]2022-2학기 9/6(화) 학부 비대면수업 권고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203545&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-09-05)
