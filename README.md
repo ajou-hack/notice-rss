@@ -21,6 +21,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[다산학부대학] (재공고) 2022-2학기 고전 에세이 대회 모집 (~9/12까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203748&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 다산학부대학 교학팀 (~2022-09-08)
+
+* **[[비교과교육지원센터] 아주허브에서 퀴즈 풀고 스타벅스 쿠폰 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203747&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2022-09-08)
+
+* **[[대학일자리플러스센터] 아주대와 함께하는 포스코그룹 채용 설명회(9/15)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203746&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-08)
+
+* **[[다산학부대학] (재공고) 2022-2학기 고전 토론 대회 모집 (~9/12까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203745&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 다산학부대학 교학팀 (~2022-09-08)
+
+* **[2022-2학기 동아리박람회(문화제) 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203743&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2022-09-08)
+
 * **[[대학일자리플러스센터] 아주대와 함께하는 AMK 채용 설명회 및 상담회 (9/15)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203737&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-08)
 
@@ -81,9 +96,6 @@
 * **[[대학일자리플러스센터] 2022년 하반기 삼성그룹 공채 대비 자소서 1:1 컨설팅(화상상담)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203628&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-06)
 
-* **[[대학일자리플러스센터] 아주대와 함께하는 포스코그룹 채용 설명회 및 상담회 (9/15)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203623&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-06)
-
 * **[[메이커스페이스] 9월 교육프로그램 강의 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203622&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-09-06)
 
@@ -98,15 +110,3 @@
 
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203605&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-09-06)
-
-* **[[대학일자리플러스센터] 아주대와 함께하는 삼성디스플레이 채용 설명회 및 상담회 (9/5~6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203599&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-06)
-
-* **[(재공지)[LINC 3.0] 랜선으로 만나는 릴레이 글로벌 취·창업 톡톡톡(talk)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203596&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2022-09-06)
-
-* **[(조치완료)[당일공지] 서버 부품 교체로 인한 전산 서비스 일시 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203595&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 중앙도서관 (~2022-09-06)
-
-* **[[국제교류팀] 혁신공유라운지 사용불가 안내 &lt;9월 23일 금 오후 1시 ~ 5시&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203586&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 국제교류팀 (~2022-09-06)
