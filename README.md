@@ -21,6 +21,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 경영대학 동문 초청특강 안내 - 나는솔로 9기 영수 최준배 동문이 온다!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203721&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-08)
+
+* **[[학생상담소] &#x27;안녕, 나야?&#x27; 자기이해 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203718&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생상담소 (~2022-09-08)
+
+* **[[메이커스페이스]퓨전360을 활용한 제품 3D모델링 기초교육 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203715&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-09-08)
+
 * **[[총무팀] 추석 연휴 중 교내 학생식당 영업시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203705&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-09-08)
 
@@ -101,12 +110,3 @@
 
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203580&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-09-06)
-
-* **[태풍 경보 격상(심각)에 따른 9.6(화) 근무 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203563&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 총무팀 (~2022-09-05)
-
-* **[[송지현] 변리사/기술고시 준비반 신입현생 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203553&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공과대학교학팀 (~2022-09-05)
-
-* **[[학생지원팀] 학생자치공간 출입 등록 절차 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203547&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2022-09-05)
