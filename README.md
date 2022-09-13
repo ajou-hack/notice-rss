@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지)[메이커스페이스]퓨전360을 활용한 제품 3D모델링 기초교육 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203781&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-09-13)
+
+* **[[학습법] 엑셀 데이터 분석과 시각화 특강(비대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203780&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-09-13)
+
 * **[[비교과교육지원센터] 아주허브 홍보영상 제작 공모전(9/13~10/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203773&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 비교과교육지원센터 (~2022-09-13)
 
@@ -101,9 +107,3 @@
 
 * **[코로나바이러스감염증-19 생활 방역수칙 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203632&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-09-07)
-
-* **[[대학일자리플러스센터] 2022년 하반기 삼성그룹 공채 대비 자소서 1:1 컨설팅(화상상담)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203628&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-06)
-
-* **[[메이커스페이스] 9월 교육프로그램 강의 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203622&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-09-06)
