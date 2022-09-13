@@ -18,6 +18,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[중앙도서관] 대학원생을 위한 이용교육 참여하고 햄버거 쿠폰도 받으세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203804&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-09-13)
+
+* **[[대학사료실] 아주대학교 역사관 뉴스레터 Vol. 09](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203802&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-09-13)
+
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203799&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-09-13)
+
+* **[[LINC 3.0] 아주 링크의 얼굴이 될 캐릭터에 투표해주세요!(선호도 조사)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203798&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2022-09-13)
+
 * **[[교외장학] 2022년 고속도로 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203789&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-09-13)
 
@@ -95,15 +107,3 @@
 
 * **[[학습법] 엑셀 데이터 분석과 시각화 특강(비대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203655&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-09-07)
-
-* **[[학습법] 엑셀 데이터 분석과 시각화 특강(대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203654&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-09-07)
-
-* **[[총무팀] 추석 연휴 중 교내 편의점 영업시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203653&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-09-07)
-
-* **[[봉사활동] 적십자 교내 헌혈 안내 및 봉사자 모집( 9/13 - 14 )](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203647&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-09-07)
-
-* **[[공학교육혁신센터] 2022학년도 2학기 학생상담 안내 (12.29.까지)*연장 절대 없음*](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203643&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2022-09-07)
