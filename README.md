@@ -18,6 +18,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[비교과교육지원센터] 아주허브 홍보영상 제작 공모전(9/13~10/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203773&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 비교과교육지원센터 (~2022-09-13)
+
+* **[[봉사활동](당일) 적십자 교내 단체 헌혈 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203772&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-09-13)
+
+* **[2022학년도 2학기 가족장학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203765&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-09-13)
+
 * **[[아주팝스오케스트라] 24회 정기 연주회에 초대합니다!!(9.16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203751&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2022-09-08)
 
@@ -98,12 +107,3 @@
 
 * **[[메이커스페이스] 9월 교육프로그램 강의 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203622&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-09-06)
-
-* **[[대학일자리플러스센터] 아주대와 함께하는 DB손해보험 채용 상담회 (9/16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203621&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-06)
-
-* **[학생설계전공 운영 및 정착을 위한 조사(학부생 대상)_선착순 기프티콘 증정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203615&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-09-06)
-
-* **[[다산학부대학] 2022-2학기 BSM 및 공업수학 수강정정 안내(추가공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203612&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-09-06)
