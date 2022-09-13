@@ -18,6 +18,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[국비교육/수당지급] PLC자동제어 전문인력양성 교육생모집 ~9월 27일까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203824&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2022-09-13)
+
+* **[[봉사활동] 14일 헌혈 부스 운영 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203821&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-09-13)
+
+* **[[재안내][교외장학] 2022-2학기 인송문화재단 인송장학생 추천 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203819&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-09-13)
+
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203815&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-09-13)
+
 * **[[중앙도서관] 대학원생을 위한 이용교육 참여하고 햄버거 쿠폰도 받으세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203804&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-09-13)
 
@@ -95,15 +107,3 @@
 
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203677&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-09-07)
-
-* **[추석 연휴 전일(9.8(목)) 퇴근시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203671&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 총무팀 (~2022-09-07)
-
-* **[[봉사활동] &#x27;2022년 국제기능올림픽 특별대회 고양&#x27; 기술매니저/ 워크샵매니저 통역봉사요원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203662&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-09-07)
-
-* **[[대학일자리플러스센터] [삼성디스플레이] &#x27;22.하반기 공채 온라인 리크루팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203660&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-07)
-
-* **[[학습법] 엑셀 데이터 분석과 시각화 특강(비대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203655&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-09-07)
