@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[교외장학] 2022년도 (재)광산장학회 장학생 선발공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203880&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-09-14)
+
+* **[[교외장학] 2022년 2학기 안산시 대학생 본인부담 등록금 반값지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203879&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-09-14)
+
 * **[아주대학교 학생을 위한 TOEFL &amp; GRE 온라인 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203875&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-09-14)
 
@@ -101,9 +107,3 @@
 
 * **[[봉사활동](당일) 적십자 교내 단체 헌혈 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203772&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-09-13)
-
-* **[2022학년도 2학기 가족장학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203765&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-09-13)
-
-* **[[아주팝스오케스트라] 24회 정기 연주회에 초대합니다!!(9.16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203751&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2022-09-08)
