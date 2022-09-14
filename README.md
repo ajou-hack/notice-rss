@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[성수기 주말 인조잔디구장(운동장) 예약방식 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203874&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 학생지원팀 (~2022-09-14)
+
+* **[교내 주차장 통제 안내(도서관 앞 갓길 및 율곡관 동편 일부)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203873&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-09-14)
+
 * **[[학생상담소] &#x27;꼬인 우리 관계, 다시 가보자고~&#x27; 대인관계 향상 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203869&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생상담소 (~2022-09-14)
 
@@ -101,9 +107,3 @@
 
 * **[[다산학부대학] (재공고) 2022-2학기 고전 에세이 대회 모집 (~9/12까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203748&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 다산학부대학 교학팀 (~2022-09-08)
-
-* **[[비교과교육지원센터] 아주허브에서 퀴즈 풀고 스타벅스 쿠폰 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203747&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2022-09-08)
-
-* **[[대학일자리플러스센터] 아주대와 함께하는 포스코그룹 채용 설명회(9/15)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203746&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-08)
