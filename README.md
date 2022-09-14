@@ -18,6 +18,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 9월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203847&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-14)
+
+* **[[중앙도서관] 학기중 스마트 라운지 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203846&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-09-14)
+
+* **[[미래자동차 렉처시리즈] 9/28(수) 미래자동차분야 현직전문가 초청특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203840&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신공유팀 (~2022-09-14)
+
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203834&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-09-14)
+
 * **[[국비교육/수당지급] PLC자동제어 전문인력양성 교육생모집 ~9월 27일까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203824&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-09-13)
 
@@ -95,15 +107,3 @@
 
 * **[[메이커스페이스]퓨전360을 활용한 제품 3D모델링 기초교육 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203715&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-09-08)
-
-* **[[총무팀] 추석 연휴 중 교내 학생식당 영업시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203705&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-09-08)
-
-* **[[다산학부대학] 정책연구 보조 연구원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203683&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 다산학부대학 교학팀 (~2022-09-07)
-
-* **[[학부]2022-2학기 수강포기(수강철회) 안내(9/26(월) 9시~9/28(수) 23시59분)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203679&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-09-07)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203677&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-09-07)
