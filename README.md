@@ -18,6 +18,24 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[재안내][교외장학] 2022-2학기 동산장학회 장학생 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203855&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-09-14)
+
+* **[[학습법] 2022-2학기 학습공동체(III) 공부가치 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203852&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-09-14)
+
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203851&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-09-14)
+
+* **[[학습법] 2022-2학기 학습공동체(II) ASAP 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203850&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-09-14)
+
+* **[[학습법] 2022-2학기 학습공동체(I) 스터디그룹 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203849&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-09-14)
+
+* **[[마감임박]대학원생을 위한 도서관 이용교육 참여하고 햄버거 쿠폰도 받으세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203848&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-09-14)
+
 * **[[대학일자리플러스센터] 9월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203847&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-14)
 
@@ -89,21 +107,3 @@
 
 * **[2022-2학기 동아리박람회(문화제) 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203743&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2022-09-08)
-
-* **[[대학일자리플러스센터] 아주대와 함께하는 AMK 채용 설명회 및 상담회 (9/15)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203737&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-08)
-
-* **[추석 연휴 기간 안전수칙 준수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203730&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 안전관리센터 (~2022-09-08)
-
-* **[학생설계전공 운영 및 정착을 위한 조사(학부생 대상)_선착순 기프티콘 증정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203728&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-09-08)
-
-* **[[대학일자리플러스센터] 경영대학 동문 초청특강 안내 - 나는솔로 9기 영수 최준배 동문이 온다!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203721&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-08)
-
-* **[[학생상담소] &#x27;안녕, 나야?&#x27; 자기이해 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203718&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생상담소 (~2022-09-08)
-
-* **[[메이커스페이스]퓨전360을 활용한 제품 3D모델링 기초교육 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203715&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-09-08)
