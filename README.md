@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[금융공학과] 금융공학 캡스톤디자인 프로젝트 초청강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203925&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 경영대학교학팀 (~2022-09-15)
+
 * **[[LINC3.0] 2022 제16회, 17회 LINC 3.0 현장실습 수기·영상 공모전 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203923&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 현장실습지원센터 (~2022-09-15)
 
@@ -104,6 +107,3 @@
 
 * **[[중앙도서관] 학기중 스마트 라운지 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203846&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-09-14)
-
-* **[[미래자동차 렉처시리즈] 9/28(수) 미래자동차분야 현직전문가 초청특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203840&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 혁신공유팀 (~2022-09-14)
