@@ -18,13 +18,31 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[20022년 아주 희망 기숙사(비) 지원 안내(9/19~10/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203917&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 입학팀 (~2022-09-15)
+
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203916&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-09-15)
+
+* **[[봉사활동]「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203914&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-09-15)
+
+* **[[봉사활동] 2022 세종학당 우수학습자 초청 연수 대학생 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203913&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-09-15)
+
+* **[[대학일자리플러스센터] 2022-하반기 대비 대기업 직무적성 프로그램 참여 안내(GSAT 대비 가능!!)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203912&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-15)
+
+* **[[대학일자리플러스센터] 2022-하반기 대비 공기업 직무적성(NCS 문제풀이 특강) 프로그램 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203911&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-15)
+
 * **[[다산학부대학] (재공고) 정책연구 보조 연구원 모집 (~9/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203910&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 다산학부대학 교학팀 (~2022-09-15)
 
 * **[율곡관 변압기 용량증설공사 안내(율곡관 정전 9월 18일)/재공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203905&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2022-09-15)
 
-* **[[LINC 3.0] 산업체 재직자 교육프로그램 참여요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203904&amp;article.offset=0&amp;articleLimit=30)**
+* **[[LINC 3.0] 산업체 재직자 교육프로그램 참여 요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203904&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-09-15)
 
 * **[[학생상담소] &#x27;안녕, 나야?&#x27; 자기이해 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203901&amp;article.offset=0&amp;articleLimit=30)**
@@ -89,21 +107,3 @@
 
 * **[[국비교육/수당지급] PLC자동제어 전문인력양성 교육생모집 ~9월 27일까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203824&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-09-13)
-
-* **[[봉사활동] 14일 헌혈 부스 운영 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203821&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-09-13)
-
-* **[[재안내][교외장학] 2022-2학기 인송문화재단 인송장학생 추천 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203819&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-09-13)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203815&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-09-13)
-
-* **[[중앙도서관] 대학원생을 위한 이용교육 참여하고 햄버거 쿠폰도 받으세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203804&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-09-13)
-
-* **[[대학사료실] 아주대학교 역사관 뉴스레터 Vol. 09](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203802&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-09-13)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203799&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-09-13)
