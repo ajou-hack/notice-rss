@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203892&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-09-15)
+
 * **[[교외장학] 2022년도 (재)광산장학회 장학생 선발공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203880&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-09-14)
 
@@ -104,6 +107,3 @@
 
 * **[[비교과교육지원센터] 아주허브 홍보영상 제작 공모전(9/13~10/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203773&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 비교과교육지원센터 (~2022-09-13)
-
-* **[[봉사활동](당일) 적십자 교내 단체 헌혈 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203772&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-09-13)
