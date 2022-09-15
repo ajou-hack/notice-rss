@@ -18,6 +18,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[LINC3.0] 2022 제16회, 17회 LINC 3.0 현장실습 수기·영상 공모전 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203923&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 현장실습지원센터 (~2022-09-15)
+
+* **[[대학일자리플러스센터] 2022 하반기 서류 특강 ④ 공기업(NCS) 자소서 작성법 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203922&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-15)
+
+* **[2022년 하반기 경기도 학자금 대출이자 지원 추가 접수 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203920&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-09-15)
+
 * **[20022년 아주 희망 기숙사(비) 지원 안내(9/19~10/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203917&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학팀 (~2022-09-15)
 
@@ -41,9 +50,6 @@
 
 * **[율곡관 변압기 용량증설공사 안내(율곡관 정전 9월 18일)/재공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203905&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2022-09-15)
-
-* **[[LINC 3.0] 산업체 재직자 교육프로그램 참여 요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203904&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2022-09-15)
 
 * **[[학생상담소] &#x27;안녕, 나야?&#x27; 자기이해 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203901&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생상담소 (~2022-09-15)
@@ -101,9 +107,3 @@
 
 * **[[미래자동차 렉처시리즈] 9/28(수) 미래자동차분야 현직전문가 초청특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203840&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신공유팀 (~2022-09-14)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203834&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-09-14)
-
-* **[[국비교육/수당지급] PLC자동제어 전문인력양성 교육생모집 ~9월 27일까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203824&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2022-09-13)
