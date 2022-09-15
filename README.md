@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] 학기초 학내 무선인터넷 및 모바일 앱 서비스 장애 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203929&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 정보시스템팀 (~2022-09-15)
+
 * **[📌 [공지] [Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203322&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-08-31)
 
@@ -18,7 +21,10 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[[금융공학과] 금융공학 캡스톤디자인 프로젝트 초청강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203925&amp;article.offset=0&amp;articleLimit=30)**
+* **[2022 장애인식개선교육 전문강사 초청 특강(비대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203928&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 장애학생지원실 (~2022-09-15)
+
+* **[[금융공학과] 금융공학 캡스톤디자인 프로젝트 초청 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203925&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 경영대학교학팀 (~2022-09-15)
 
 * **[[LINC3.0] 2022 제16회, 17회 LINC 3.0 현장실습 수기·영상 공모전 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203923&amp;article.offset=0&amp;articleLimit=30)**
@@ -104,6 +110,3 @@
 
 * **[[대학일자리플러스센터] 9월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203847&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-14)
-
-* **[[중앙도서관] 학기중 스마트 라운지 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203846&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-09-14)
