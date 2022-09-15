@@ -18,6 +18,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[다산학부대학] (재공고) 정책연구 보조 연구원 모집 (~9/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203910&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 다산학부대학 교학팀 (~2022-09-15)
+
+* **[율곡관 변압기 용량증설공사 안내(율곡관 정전 9월 18일)/재공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203905&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2022-09-15)
+
+* **[[LINC 3.0] 산업체 재직자 교육프로그램 참여요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203904&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2022-09-15)
+
+* **[[학생상담소] &#x27;안녕, 나야?&#x27; 자기이해 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203901&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생상담소 (~2022-09-15)
+
 * **[[대학일자리플러스센터] 2022 하반기 찾아가는 해외취업 설명회(온라인)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203895&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-15)
 
@@ -95,15 +107,3 @@
 
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203799&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-09-13)
-
-* **[[LINC 3.0] 아주 링크의 얼굴이 될 캐릭터에 투표해주세요!(선호도 조사)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203798&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2022-09-13)
-
-* **[[교외장학] 2022년 고속도로 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203789&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-09-13)
-
-* **[(재공지)[메이커스페이스]퓨전360을 활용한 제품 3D모델링 기초교육 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203781&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-09-13)
-
-* **[[학습법] 엑셀 데이터 분석과 시각화 특강(비대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203780&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-09-13)
