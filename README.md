@@ -24,6 +24,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(수정) 의료인공지능 콜로키움 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203970&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 의과대학 교학팀 (~2022-09-16)
+
+* **[22년도 제3차 동물실험기초/보수교육 -2022년 9월 29일(목)-온라인교육](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203968&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 실험동물연구센터 (~2022-09-16)
+
 * **[[종합지원센터] 사물함 신청방법 변경 안내 (2023년 1학기 부터 적용)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203962&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-09-16)
 
@@ -107,9 +113,3 @@
 
 * **[[교외장학] 2022년 2학기 안산시 대학생 본인부담 등록금 반값지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203879&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-09-14)
-
-* **[아주대학교 학생을 위한 TOEFL &amp; GRE 온라인 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203875&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2022-09-14)
-
-* **[성수기 주말 인조잔디구장(운동장) 예약방식 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203874&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 학생지원팀 (~2022-09-14)
