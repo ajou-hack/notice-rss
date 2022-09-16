@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] [Remind][학부] 2022-2학기 등록 안내(09.20.~09.29.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203938&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-09-16)
+
 * **[📌 [공지] 학기초 학내 무선인터넷 및 모바일 앱 서비스 장애 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203929&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 정보시스템팀 (~2022-09-15)
 
@@ -20,6 +23,30 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[중앙도서관] Fall into the Book 이벤트 안내 (9.19~9.30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203946&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학술정보팀 (~2022-09-16)
+
+* **[[대학일자리플러스센터] [Synopsys] 시높시스코리아 온라인 채용 설명회(10/5)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203945&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-16)
+
+* **[[학습법] 최신 파워포인트 스킬의 모든 것(비대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203944&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-09-16)
+
+* **[[학습법] 최신 파워포인트 스킬의 모든 것(대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203943&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-09-16)
+
+* **[[학습법] 대학생을 위한 파워포인트 특강(비대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203942&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-09-16)
+
+* **[[대학일자리플러스센터] 9월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203941&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-16)
+
+* **[[학습법] 대학생을 위한 파워포인트 특강(대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203940&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-09-16)
+
+* **[[교외장학] 2022년 2학기 고양시 대학생 본인부담 등록금 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203935&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-09-16)
 
 * **[2022 장애인식개선교육 전문강사 초청 특강(비대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203928&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 장애학생지원실 (~2022-09-15)
@@ -86,27 +113,3 @@
 
 * **[[학생상담소] &#x27;꼬인 우리 관계, 다시 가보자고~&#x27; 대인관계 향상 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203869&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생상담소 (~2022-09-14)
-
-* **[2022년도 아주대 공인회계사 및 세무사 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203867&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 경영대학교학팀 (~2022-09-14)
-
-* **[[재안내][교외장학] 2022-2학기 동산장학회 장학생 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203855&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-09-14)
-
-* **[[학습법] 2022-2학기 학습공동체(III) 공부가치 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203852&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-09-14)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203851&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-09-14)
-
-* **[[학습법] 2022-2학기 학습공동체(II) ASAP 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203850&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-09-14)
-
-* **[[학습법] 2022-2학기 학습공동체(I) 스터디그룹 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203849&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-09-14)
-
-* **[[마감임박]대학원생을 위한 도서관 이용교육 참여하고 햄버거 쿠폰도 받으세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203848&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-09-14)
-
-* **[[대학일자리플러스센터] 9월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203847&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-14)
