@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[국비교육/수당지급] PLC자동제어 전문인력양성 교육생모집 ~9월 27일까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203982&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 기업지원센터 (~2022-09-16)
+
 * **[[대학일자리플러스센터] 아주대와 함께하는 일진그룹 채용 설명회(9/20)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203977&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-16)
 
@@ -110,6 +113,3 @@
 
 * **[율곡관 변압기 용량증설공사 안내(율곡관 정전 9월 18일)/재공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203905&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2022-09-15)
-
-* **[[학생상담소] &#x27;안녕, 나야?&#x27; 자기이해 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203901&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생상담소 (~2022-09-15)
