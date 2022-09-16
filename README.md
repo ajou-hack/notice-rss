@@ -24,7 +24,19 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[(수정) 의료인공지능 콜로키움 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203970&amp;article.offset=0&amp;articleLimit=30)**
+* **[[대학일자리플러스센터] 아주대와 함께하는 일진그룹 채용 설명회(9/20)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203977&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-16)
+
+* **[[대학일자리플러스센터] 9/26(월)_채용공고분석 특강(1회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203975&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-16)
+
+* **[[대학일자리플러스센터] 9/20(화) 대기업/공기업 하반기 채용트랜드 &amp; 9/27(화) (인문특화)직무별 면접전략 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203973&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-16)
+
+* **[(재공지)[대학일자리플러스센터] 경영대학 동문 초청특강 안내 - 나는솔로 9기 영수 최준배 동문이 온다!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203972&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-16)
+
+* **[(수정) 의료인공지능 콜로키움 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203971&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 의과대학 교학팀 (~2022-09-16)
 
 * **[22년도 제3차 동물실험기초/보수교육 -2022년 9월 29일(목)-온라인교육](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203968&amp;article.offset=0&amp;articleLimit=30)**
@@ -101,15 +113,3 @@
 
 * **[[학생상담소] &#x27;안녕, 나야?&#x27; 자기이해 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203901&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생상담소 (~2022-09-15)
-
-* **[[대학일자리플러스센터] 2022 하반기 찾아가는 해외취업 설명회(온라인)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203895&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-15)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203892&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-09-15)
-
-* **[[교외장학] 2022년도 (재)광산장학회 장학생 선발공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203880&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-09-14)
-
-* **[[교외장학] 2022년 2학기 안산시 대학생 본인부담 등록금 반값지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203879&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-09-14)
