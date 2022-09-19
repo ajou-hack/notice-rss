@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[LINC 3.0] 2022-2학기 캡스톤디자인(종합설계) 교과목 지원(학생) 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204051&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2022-09-19)
+
 * **[[메이커스페이스] 야, 너두 만들 수 있어!(석고오너먼트 과정-오후반/저녁반) 교육생 모집 (9/22)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204043&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-09-19)
 
@@ -109,7 +112,4 @@
  [기타] - 교수학습개발센터 (~2022-09-16)
 
 * **[[학습법] 최신 파워포인트 스킬의 모든 것(대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203943&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-09-16)
-
-* **[[학습법] 대학생을 위한 파워포인트 특강(비대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203942&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-09-16)
