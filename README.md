@@ -24,6 +24,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[인플루엔자 유행주의보 발령에 따른 주의 당부 주요 내용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204004&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 보건진료소 (~2022-09-19)
+
+* **[[대학일자리플러스센터] 한국 제약바이오 채용박람회(10/11)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203998&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-19)
+
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203997&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-09-19)
+
+* **[[다산학부대학] 정책연구 보조 연구원 모집 (~9/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203995&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 다산학부대학 교학팀 (~2022-09-19)
+
+* **[[십시일밥] 2022학년도 2학기 십시일밥 수혜자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203994&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-09-19)
+
 * **[[국비교육/수당지급] PLC자동제어 전문인력양성 교육생모집 ~9월 27일까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203982&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 기업지원센터 (~2022-09-16)
 
@@ -98,18 +113,3 @@
 
 * **[[봉사활동]「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203914&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-09-15)
-
-* **[[봉사활동] 2022 세종학당 우수학습자 초청 연수 대학생 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203913&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-09-15)
-
-* **[[대학일자리플러스센터] 2022-하반기 대비 대기업 직무적성 프로그램 참여 안내(GSAT 대비 가능!!)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203912&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-15)
-
-* **[[대학일자리플러스센터] 2022-하반기 대비 공기업 직무적성(NCS 문제풀이 특강) 프로그램 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203911&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-15)
-
-* **[[다산학부대학] (재공고) 정책연구 보조 연구원 모집 (~9/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203910&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 다산학부대학 교학팀 (~2022-09-15)
-
-* **[율곡관 변압기 용량증설공사 안내(율곡관 정전 9월 18일)/재공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203905&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2022-09-15)
