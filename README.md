@@ -24,6 +24,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[메이커스페이스] 야, 너두 만들 수 있어!(석고오너먼트 과정-오후반/저녁반) 교육생 모집 (9/22)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204043&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-09-19)
+
+* **[[메이커스페이스]CNC조각기를 활용한 아이디어 구현 기초교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204042&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-09-19)
+
+* **[2022년 4년제 대학생 취업인식도 설문조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204033&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-19)
+
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204025&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-09-19)
 
@@ -104,12 +113,3 @@
 
 * **[[학습법] 대학생을 위한 파워포인트 특강(비대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203942&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-09-16)
-
-* **[[대학일자리플러스센터] 9월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203941&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-16)
-
-* **[[학습법] 대학생을 위한 파워포인트 특강(대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203940&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-09-16)
-
-* **[[교외장학] 2022년 2학기 고양시 대학생 본인부담 등록금 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203935&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-09-16)
