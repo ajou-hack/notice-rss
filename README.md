@@ -24,6 +24,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[등교버스 잠실노선 출발시간 조정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204013&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-09-19)
+
+* **[아주 가족기업을 위한 세무컨설팅 및 경정청구 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204012&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2022-09-19)
+
+* **[[학습법] 2022-2학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204007&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-09-19)
+
+* **[[학습법] 2022-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204006&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-09-19)
+
 * **[인플루엔자 유행주의보 발령에 따른 주의 당부 주요 내용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204004&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 보건진료소 (~2022-09-19)
 
@@ -101,15 +113,3 @@
 
 * **[[대학일자리플러스센터] 2022 하반기 서류 특강 ④ 공기업(NCS) 자소서 작성법 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203922&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-15)
-
-* **[2022년 하반기 경기도 학자금 대출이자 지원 추가 접수 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203920&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-09-15)
-
-* **[20022년 아주 희망 기숙사(비) 지원 안내(9/19~10/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203917&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 입학팀 (~2022-09-15)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203916&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-09-15)
-
-* **[[봉사활동]「결식아동돕기 사랑의 쌀 배달」자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203914&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-09-15)
