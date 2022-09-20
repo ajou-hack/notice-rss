@@ -24,6 +24,24 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 2022-2학기 학습공동체(III) 공부가치 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204077&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-09-20)
+
+* **[[학습법] 2022-2학기 학습공동체(II) ASAP 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204076&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-09-20)
+
+* **[[학습법] 2022-2학기 학습공동체(I) 스터디그룹 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204075&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-09-20)
+
+* **[[미래자동차 렉처시리즈] 9/28(수) 미래자동차분야 현직전문가 특강(워터북 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204073&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신공유팀 (~2022-09-20)
+
+* **[[교외장학] 2022년 울산인재평생교육진흥원 하반기 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204065&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-09-20)
+
+* README.md 2022학년도 2학기 가족장학신청_9.26(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204062&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-09-20)
+
 * **[[LINC 3.0] 2022-2학기 캡스톤디자인(종합설계) 교과목 지원(학생) 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204051&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학사업팀 (~2022-09-19)
 
@@ -95,21 +113,3 @@
 
 * **[22년도 제3차 동물실험기초/보수교육 -2022년 9월 29일(목)-온라인교육](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203968&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 실험동물연구센터 (~2022-09-16)
-
-* **[[종합지원센터] 사물함 신청방법 변경 안내 (2023년 1학기 부터 적용)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203962&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-09-16)
-
-* **[[재공지]2022학년도 2학기 가족장학신청_09.26(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203959&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-09-16)
-
-* **[[중앙도서관] Fall into the Book 이벤트 안내 (9.19~9.30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203946&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학술정보팀 (~2022-09-16)
-
-* **[[대학일자리플러스센터] [Synopsys] 시높시스코리아 온라인 채용 설명회(10/5)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203945&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-16)
-
-* **[[학습법] 최신 파워포인트 스킬의 모든 것(비대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203944&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-09-16)
-
-* **[[학습법] 최신 파워포인트 스킬의 모든 것(대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203943&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-09-16)
