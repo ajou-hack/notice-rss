@@ -24,6 +24,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 해외취업_2022년 GYBM 13th - 아세안 과정 모집 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204112&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-20)
+
+* **[[대학혁신지원사업] 2022 대학혁신지원사업 총괄협의회 서포터즈 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204110&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2022-09-20)
+
 * **[[대학일자리플러스센터] 청년과 고용부 장관의 토크콘서트: 고용부 장관에 바란다!(9/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204095&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-20)
 
@@ -107,9 +113,3 @@
 
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203997&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-09-19)
-
-* **[[다산학부대학] 정책연구 보조 연구원 모집 (~9/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203995&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 다산학부대학 교학팀 (~2022-09-19)
-
-* **[[십시일밥] 2022학년도 2학기 십시일밥 수혜자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203994&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-09-19)
