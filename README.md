@@ -24,6 +24,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 청년과 고용부 장관의 토크콘서트: 고용부 장관에 바란다!(9/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204095&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-20)
+
+* **[[재안내][교외장학] 2023년 미래인재육성재단 신규장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204088&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-09-20)
+
 * **[(재공지) [LINC 3.0] 아주 링크의 얼굴이 될 캐릭터에 투표해주세요!(~09.21까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204085&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학사업팀 (~2022-09-20)
 
@@ -107,9 +113,3 @@
 
 * **[[십시일밥] 2022학년도 2학기 십시일밥 수혜자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203994&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-09-19)
-
-* **[[국비교육/수당지급] PLC자동제어 전문인력양성 교육생모집 ~9월 27일까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203982&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 기업지원센터 (~2022-09-16)
-
-* **[[대학일자리플러스센터] 아주대와 함께하는 일진그룹 채용 설명회(9/20)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203977&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-16)
