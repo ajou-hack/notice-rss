@@ -24,6 +24,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지) [LINC 3.0] 아주 링크의 얼굴이 될 캐릭터에 투표해주세요!(~09.21까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204085&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2022-09-20)
+
+* **[[법학전문대학원] 행정 근로학생 채용안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204084&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 법학전문대학원 교학팀 (~2022-09-20)
+
+* **[♥2022 장애인식개선교육 전문강사 초청 특강(zoom)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204081&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2022-09-20)
+
 * **[[학습법] 2022-2학기 학습공동체(III) 공부가치 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204077&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-09-20)
 
@@ -35,6 +44,12 @@
 
 * **[[미래자동차 렉처시리즈] 9/28(수) 미래자동차분야 현직전문가 특강(워터북 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204073&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신공유팀 (~2022-09-20)
+
+* **[2022-2학기 한국어 스터디 멘토 모집(~9/25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204071&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 글로벌교양학부 (~2022-09-20)
+
+* **[2022-2학기 한국어 글쓰기 튜터 모집 안내(~9/25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204070&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 글로벌교양학부 (~2022-09-20)
 
 * **[[교외장학] 2022년 울산인재평생교육진흥원 하반기 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204065&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-09-20)
@@ -98,18 +113,3 @@
 
 * **[[대학일자리플러스센터] 아주대와 함께하는 일진그룹 채용 설명회(9/20)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203977&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-16)
-
-* **[[대학일자리플러스센터] 9/26(월)_채용공고분석 특강(1회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203975&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-16)
-
-* **[[대학일자리플러스센터] 9/20(화) 대기업/공기업 하반기 채용트랜드 &amp; 9/27(화) (인문특화)직무별 면접전략 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203973&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-16)
-
-* **[(재공지)[대학일자리플러스센터] 경영대학 동문 초청특강 안내 - 나는솔로 9기 영수 최준배 동문이 온다!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203972&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-16)
-
-* **[(수정) 의료인공지능 콜로키움 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203971&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 의과대학 교학팀 (~2022-09-16)
-
-* **[22년도 제3차 동물실험기초/보수교육 -2022년 9월 29일(목)-온라인교육](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203968&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 실험동물연구센터 (~2022-09-16)
