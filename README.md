@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[LINC 3.0] W-OKTA 2022 차세대 글로벌 창업무역스쿨 모국방문교육 참가자 모집 안내(~28일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204161&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 산학사업팀(창업교육센터) (~2022-09-21)
+
 * **[[비교과교육지원센터]아주허브 9월 퀴즈대회 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204142&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2022-09-21)
 
@@ -110,6 +113,3 @@
 
 * **[아주 가족기업을 위한 세무컨설팅 및 경정청구 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204012&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학사업팀 (~2022-09-19)
-
-* **[[학습법] 2022-2학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204007&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-09-19)
