@@ -24,6 +24,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학생상담소] 대인관계 향상 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204129&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생상담소 (~2022-09-21)
+
+* **[[인천테크노파크]2022 AI융합 아이디어 경진대회(AWS DeepRacer Chanpionship) 참가팀 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204127&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신공유단 (~2022-09-21)
+
 * **[[대학일자리플러스센터] 해외취업_2022년 GYBM 13th - 아세안 과정 모집 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204112&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-20)
 
@@ -107,9 +113,3 @@
 
 * **[인플루엔자 유행주의보 발령에 따른 주의 당부 주요 내용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204004&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 보건진료소 (~2022-09-19)
-
-* **[[대학일자리플러스센터] 한국 제약바이오 채용박람회(10/11)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203998&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-19)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203997&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-09-19)
