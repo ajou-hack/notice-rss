@@ -24,6 +24,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[비교과교육지원센터]아주허브 9월 퀴즈대회 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204142&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2022-09-21)
+
+* **[2022-2학기 통학버스 운행 현황 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204140&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-09-21)
+
 * **[[학생상담소] 대인관계 향상 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204129&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생상담소 (~2022-09-21)
 
@@ -45,7 +51,7 @@
 * **[(재공지) [LINC 3.0] 아주 링크의 얼굴이 될 캐릭터에 투표해주세요!(~09.21까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204085&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학사업팀 (~2022-09-20)
 
-* **[[법학전문대학원] 행정 근로학생 채용안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204084&amp;article.offset=0&amp;articleLimit=30)**
+* **[[법학전문대학원] 행정 근로학생 채용안내 (마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204084&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 법학전문대학원 교학팀 (~2022-09-20)
 
 * **[♥2022 장애인식개선교육 전문강사 초청 특강(zoom)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204081&amp;article.offset=0&amp;articleLimit=30)**
@@ -107,9 +113,3 @@
 
 * **[[학습법] 2022-2학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204007&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-09-19)
-
-* **[[학습법] 2022-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204006&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-09-19)
-
-* **[인플루엔자 유행주의보 발령에 따른 주의 당부 주요 내용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204004&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 보건진료소 (~2022-09-19)
