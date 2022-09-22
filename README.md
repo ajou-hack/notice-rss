@@ -24,6 +24,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[중앙도서관] 북큐레이션 도서 안내 - 위로](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204172&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-09-22)
+
+* **[(재공지) 2022-2학기 한국어 글쓰기 튜터 모집 안내(~9/25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204169&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 글로벌교양학부 (~2022-09-22)
+
+* **[(재공지)2022-2학기 한국어 스터디 멘토 모집(~9/25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204168&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 글로벌교양학부 (~2022-09-22)
+
+* **[(재공지) [국제교류팀] 혁신공유라운지 사용불가 안내 &lt;9월 23일 금 오후 1시 ~ 5시&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204162&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2022-09-21)
+
 * **[[LINC 3.0] W-OKTA 2022 차세대 글로벌 창업무역스쿨 모국방문교육 참가자 모집 안내(~28일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204161&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀(창업교육센터) (~2022-09-21)
 
@@ -101,15 +113,3 @@
 
 * **[[해외취업]전경련 K-move 일본 호텔&amp;리조트 전문가 양성과정 7기](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204021&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-19)
-
-* **[[해외취업] [Nippon Express Inc.] 미주법인 물류부문 인턴 채용(~10.07)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204020&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-19)
-
-* **[[해외취업] [미국/뉴저지] LX 판토스 HR 인턴 사원 채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204019&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-19)
-
-* **[등교버스 잠실노선 출발시간 조정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204013&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-09-19)
-
-* **[아주 가족기업을 위한 세무컨설팅 및 경정청구 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204012&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2022-09-19)
