@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 원익 라이브 채용설명회 (9/29 목 18:00~19:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204215&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-22)
+
 * **[[대학일자리플러스센터] 신세계아이앤씨 메타버스 채용설명회(9/27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204184&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-22)
 
@@ -109,7 +112,4 @@
  [기타] - 산학사업팀 (~2022-09-19)
 
 * **[[메이커스페이스] 야, 너두 만들 수 있어!(석고오너먼트 과정-오후반/저녁반) 교육생 모집 (9/22)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204043&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-09-19)
-
-* **[[메이커스페이스]CNC조각기를 활용한 아이디어 구현 기초교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204042&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-09-19)
