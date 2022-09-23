@@ -24,6 +24,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[미래자동차 렉처시리즈] 9/28(수) 미래자동차분야 현직전문가 특강(워터북 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204262&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신공유팀 (~2022-09-23)
+
+* **[[대학일자리플러스센터] 월간자소서 10월호(기초 입사지원서 작성법 특강 및 컨설팅)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204260&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-23)
+
 * **[[메이커스페이스] 레이저 가공장비 이용 기초교육생 모집(10월 1회차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204248&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-09-23)
 
@@ -107,9 +113,3 @@
 
 * **[[법학전문대학원] 행정 근로학생 채용안내 (마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204084&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 법학전문대학원 교학팀 (~2022-09-20)
-
-* **[♥2022 장애인식개선교육 전문강사 초청 특강(zoom)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204081&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2022-09-20)
-
-* **[[학습법] 2022-2학기 학습공동체(III) 공부가치 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204077&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-09-20)
