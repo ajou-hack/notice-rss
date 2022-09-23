@@ -24,6 +24,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(당일재공지) [국제교류팀] 혁신공유라운지 사용불가 안내 &lt;9월 23일 금 오후 1시 ~ 5시&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204238&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2022-09-23)
+
+* **[[대학일자리플러스센터] 9월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204236&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-23)
+
+* **[[십시일밥] (재공지) 2022학년도 2학기 십시일밥 수혜자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204226&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-09-23)
+
+* **[[대학일자리플러스센터] 절대 놓치지 말아야 할 취업정보 TOP 2가지 설명회 초대](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204224&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-22)
+
 * **[[대학일자리플러스센터] 원익 라이브 채용설명회 (9/29 목 18:00~19:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204215&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-22)
 
@@ -101,15 +113,3 @@
 
 * **[2022-2학기 한국어 글쓰기 튜터 모집 안내(~9/25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204070&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 글로벌교양학부 (~2022-09-20)
-
-* **[[교외장학] 2022년 울산인재평생교육진흥원 하반기 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204065&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-09-20)
-
-* README.md 2022학년도 2학기 가족장학신청_9.26(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204062&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-09-20)
-
-* **[[LINC 3.0] 2022-2학기 캡스톤디자인(종합설계) 교과목 지원(학생) 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204051&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2022-09-19)
-
-* **[[메이커스페이스] 야, 너두 만들 수 있어!(석고오너먼트 과정-오후반/저녁반) 교육생 모집 (9/22)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204043&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-09-19)
