@@ -24,6 +24,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[메이커스페이스] 레이저 가공장비 이용 기초교육생 모집(10월 1회차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204248&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-09-23)
+
+* **[[메이커스페이스] 3D프린터 장비이용 기초교육생 모집(9월 2회차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204247&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-09-23)
+
+* **[(재공지)[중앙도서관] Fall into the Book 이벤트 안내 (9.19~9.30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204243&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-09-23)
+
+* **[2022 아주 가족기업을 위한 세무컨설팅 및 경정청구 지원 세미나 개최(9/29.목)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204242&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2022-09-23)
+
+* **[[대학일자리플러스센터]아주히든챔피언학생발굴단★선정기업발표회★에 초대합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204241&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-23)
+
 * **[(당일재공지) [국제교류팀] 혁신공유라운지 사용불가 안내 &lt;9월 23일 금 오후 1시 ~ 5시&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204238&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-09-23)
 
@@ -98,18 +113,3 @@
 
 * **[[학습법] 2022-2학기 학습공동체(III) 공부가치 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204077&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-09-20)
-
-* **[[학습법] 2022-2학기 학습공동체(II) ASAP 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204076&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-09-20)
-
-* **[[학습법] 2022-2학기 학습공동체(I) 스터디그룹 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204075&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-09-20)
-
-* **[[미래자동차 렉처시리즈] 9/28(수) 미래자동차분야 현직전문가 특강(워터북 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204073&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 혁신공유팀 (~2022-09-20)
-
-* **[2022-2학기 한국어 스터디 멘토 모집(~9/25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204071&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 글로벌교양학부 (~2022-09-20)
-
-* **[2022-2학기 한국어 글쓰기 튜터 모집 안내(~9/25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204070&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 글로벌교양학부 (~2022-09-20)
