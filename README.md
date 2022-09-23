@@ -24,6 +24,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 2022 현대자동차 구매직무 재직동문과 함께하는 &#x27;선배만남의 날&quot; 프로그램 운영](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204267&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-23)
+
+* **[[혁신공유단] 혁신공유단 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204265&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신공유단 (~2022-09-23)
+
+* **[[공학대학원교학팀] 2022-2학기 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204264&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학대학원교학팀 (~2022-09-23)
+
 * **[[미래자동차 렉처시리즈] 9/28(수) 미래자동차분야 현직전문가 특강(워터북 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204262&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신공유팀 (~2022-09-23)
 
@@ -104,12 +113,3 @@
 
 * **[[대학일자리플러스센터] 청년과 고용부 장관의 토크콘서트: 고용부 장관에 바란다!(9/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204095&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-20)
-
-* **[[재안내][교외장학] 2023년 미래인재육성재단 신규장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204088&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-09-20)
-
-* **[(재공지) [LINC 3.0] 아주 링크의 얼굴이 될 캐릭터에 투표해주세요!(~09.21까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204085&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2022-09-20)
-
-* **[[법학전문대학원] 행정 근로학생 채용안내 (마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204084&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 법학전문대학원 교학팀 (~2022-09-20)
