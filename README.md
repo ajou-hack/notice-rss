@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지)[대학일자리플러스센터] 아주인이라면 절대 놓치면 안되는 혜택 2가지 설명회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204268&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-23)
+
 * **[[대학일자리플러스센터] 2022 현대자동차 구매직무 재직동문과 함께하는 &#x27;선배만남의 날&quot; 프로그램 운영](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204267&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-23)
 
@@ -110,6 +113,3 @@
 
 * **[[대학혁신지원사업] 2022 대학혁신지원사업 총괄협의회 서포터즈 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204110&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2022-09-20)
-
-* **[[대학일자리플러스센터] 청년과 고용부 장관의 토크콘서트: 고용부 장관에 바란다!(9/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204095&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-20)
