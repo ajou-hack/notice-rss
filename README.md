@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[LINC 3.0] AJOU-Stars 액셀러레이팅 창업교육(1차) 안내(9/30 15시-17시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204323&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 산학사업팀(창업교육센터) (~2022-09-26)
+
 * **[[아주통일연구소] 통일동아리 &lt;한비톡 1기&gt; 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204319&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 아주통일연구소 (~2022-09-26)
 
@@ -109,7 +112,4 @@
  [취업] - 대학일자리플러스센터 (~2022-09-22)
 
 * **[[대학일자리플러스센터] 신세계아이앤씨 메타버스 채용설명회(9/27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204184&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-22)
-
-* **[[대학일자리플러스센터] 2022 A.C.E. STUDY(22-3기) 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204180&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-22)
