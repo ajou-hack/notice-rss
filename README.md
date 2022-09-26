@@ -24,6 +24,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(고용노동부)공정채용법 개정 관련 설문조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204296&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-26)
+
+* **[[학습법] 최신 파워포인트 스킬의 모든 것(비대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204291&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-09-26)
+
+* **[[학습법] 최신 파워포인트 스킬의 모든 것(대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204290&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-09-26)
+
+* **[[학습법] 대학생을 위한 파워포인트 특강(비대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204289&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-09-26)
+
+* **[[학습법] 대학생을 위한 파워포인트 특강(대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204288&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-09-26)
+
 * **[(재공지)[대학일자리플러스센터] 아주인이라면 절대 놓치면 안되는 혜택 2가지 설명회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204268&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-23)
 
@@ -98,18 +113,3 @@
 
 * **[[학부]2022-2학기 수업피드백 참여 안내(9/22~10/12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204152&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교수학습개발센터 (~2022-09-21)
-
-* **[[비교과교육지원센터]아주허브 9월 퀴즈대회 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204142&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2022-09-21)
-
-* **[2022-2학기 통학버스 운행 현황 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204140&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-09-21)
-
-* **[[학생상담소] 대인관계 향상 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204129&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생상담소 (~2022-09-21)
-
-* **[[인천테크노파크]2022 AI융합 아이디어 경진대회(AWS DeepRacer Chanpionship) 참가팀 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204127&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신공유단 (~2022-09-21)
-
-* **[[대학일자리플러스센터] 해외취업_2022년 GYBM 13th - 아세안 과정 모집 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204112&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-20)
