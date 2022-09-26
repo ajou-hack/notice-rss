@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022 CO-WEEK Academy 개최 및 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204314&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신공유단 (~2022-09-26)
+
 * **[[비교과교육지원센터] 아주허브 이용 불가 안내 (10/7(금) 9:00 ~ 18:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204311&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2022-09-26)
 
@@ -110,6 +113,3 @@
 
 * **[[대학일자리플러스센터] 2022 NCS 반도체 공정심화과정 (동계-1차) - 신청기간(9/22~28) 선착순모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204179&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-22)
-
-* **[[중앙도서관] 북큐레이션 도서 안내 - 위로](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204172&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-09-22)
