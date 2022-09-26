@@ -96,6 +96,9 @@
 * **[[LINC 3.0] W-OKTA 2022 차세대 글로벌 창업무역스쿨 모국방문교육 참가자 모집 안내(~28일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204161&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀(창업교육센터) (~2022-09-21)
 
+* **[[학부]2022-2학기 수업피드백 참여 안내(9/22~10/12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204152&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교수학습개발센터 (~2022-09-21)
+
 * **[[비교과교육지원센터]아주허브 9월 퀴즈대회 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204142&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2022-09-21)
 
@@ -110,6 +113,3 @@
 
 * **[[대학일자리플러스센터] 해외취업_2022년 GYBM 13th - 아세안 과정 모집 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204112&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-20)
-
-* **[[대학혁신지원사업] 2022 대학혁신지원사업 총괄협의회 서포터즈 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204110&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2022-09-20)
