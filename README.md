@@ -24,6 +24,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[비교과교육지원센터] 아주허브 이용 불가 안내 (10/7(금) 9:00 ~ 18:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204311&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2022-09-26)
+
+* **[(재공지) 2022-2학기 한국어 스터디 멘토 모집(~9/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204310&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 글로벌교양학부 (~2022-09-26)
+
+* **[(재공지) 2022-2학기 한국어 글쓰기 튜터 모집안내(~9/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204309&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 글로벌교양학부 (~2022-09-26)
+
+* **[(외국인 유학생) 한국어 백일장 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204303&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 글로벌교양학부 (~2022-09-26)
+
+* **[[학생상담소] 위기 심리상담 신청서 &quot;마음이 너무 힘들어 죽고 싶다는 생각이 자주 나요.&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204299&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생상담소 (~2022-09-26)
+
 * **[(고용노동부)공정채용법 개정 관련 설문조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204296&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-26)
 
@@ -98,18 +113,3 @@
 
 * **[[중앙도서관] 북큐레이션 도서 안내 - 위로](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204172&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-09-22)
-
-* **[(재공지) 2022-2학기 한국어 글쓰기 튜터 모집 안내(~9/25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204169&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 글로벌교양학부 (~2022-09-22)
-
-* **[(재공지)2022-2학기 한국어 스터디 멘토 모집(~9/25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204168&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 글로벌교양학부 (~2022-09-22)
-
-* **[(재공지) [국제교류팀] 혁신공유라운지 사용불가 안내 &lt;9월 23일 금 오후 1시 ~ 5시&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204162&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2022-09-21)
-
-* **[[LINC 3.0] W-OKTA 2022 차세대 글로벌 창업무역스쿨 모국방문교육 참가자 모집 안내(~28일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204161&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀(창업교육센터) (~2022-09-21)
-
-* **[[학부]2022-2학기 수업피드백 참여 안내(9/22~10/12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204152&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교수학습개발센터 (~2022-09-21)
