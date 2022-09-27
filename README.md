@@ -24,8 +24,14 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[9.30(금) 하교 통학 버스 출발 장소 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204355&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-09-27)
+
 * **[[Remind][학부]2022-2학기 수강포기(수강철회) 안내(9/26(월) 9시~9/28(수) 23시59분)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204347&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-09-27)
+
+* **[의료인공지능 융합인재양성 사업단 산학연병 협동연구 프로젝트 참여교수 모집 공고(~10/3)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204345&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 의과대학 교학팀 (~2022-09-27)
 
 * **[[학생상담소] &#x27;After Stress, 정서조절&#x27; 스트레스와 정서조절 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204342&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생상담소 (~2022-09-27)
@@ -107,9 +113,3 @@
 
 * **[[대학일자리플러스센터] 월간자소서 10월호(기초 입사지원서 작성법 특강 및 컨설팅)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204260&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-23)
-
-* **[[메이커스페이스] 레이저 가공장비 이용 기초교육생 모집(10월 1회차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204248&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-09-23)
-
-* **[[메이커스페이스] 3D프린터 장비이용 기초교육생 모집(9월 2회차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204247&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-09-23)
