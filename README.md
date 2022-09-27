@@ -24,6 +24,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 10/11(화) (이공특화) 직무별 면접전략](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204374&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-27)
+
+* **[[메이커스페이스] 블렌더를 활용한 3D모델링 제작 교육(기초+응용+심화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204373&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-09-27)
+
+* **[[메이커스페이스] 야, 너두 만들 수 있어!(석고오너먼트 과정-오후반/저녁반) 교육생 모집 (9/29)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204372&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-09-27)
+
 * **[[Remind][학사]2023년 2월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.01.27(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204371&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-09-27)
 
@@ -104,12 +113,3 @@
 
 * **[[학습법] 대학생을 위한 파워포인트 특강(대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204288&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-09-26)
-
-* **[(재공지)[대학일자리플러스센터] 아주인이라면 절대 놓치면 안되는 혜택 2가지 설명회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204268&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-23)
-
-* **[[대학일자리플러스센터] 2022 현대자동차 구매직무 재직동문과 함께하는 &#x27;선배만남의 날&quot; 프로그램 운영](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204267&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-23)
-
-* **[[혁신공유단] 혁신공유단 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204265&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신공유단 (~2022-09-23)
