@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[Remind][학사]2023년 2월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.01.27(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204371&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-09-27)
+
 * **[등교버스 목동노선 출발시간 조정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204361&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-09-27)
 
@@ -110,6 +113,3 @@
 
 * **[[혁신공유단] 혁신공유단 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204265&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 혁신공유단 (~2022-09-23)
-
-* **[[공학대학원교학팀] 2022-2학기 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204264&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학대학원교학팀 (~2022-09-23)
