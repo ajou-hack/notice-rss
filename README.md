@@ -24,6 +24,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 이벤트 맛집 대학일자리플러스센터가 대동제 축제로 돌아왔습니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204379&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-27)
+
+* **[2022 원천대동제 안내(첨부파일참조)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204378&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2022-09-27)
+
+* **[(재공지)[비교과교육지원센터] 아주허브 홍보영상 제작 공모전(9/13~10/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204377&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2022-09-27)
+
+* **[[중요] 2022학년도 원천대동제 개최에 따른 주차 및 차량통제 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204376&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 총무팀 (~2022-09-27)
+
+* **[[대학일자리플러스센터] 현직자와 함께하는 모의면접](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204375&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-27)
+
 * **[[대학일자리플러스센터] 10/11(화) (이공특화) 직무별 면접전략](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204374&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-27)
 
@@ -98,18 +113,3 @@
 
 * **[[학생상담소] 위기 심리상담 신청서 &quot;마음이 너무 힘들어 죽고 싶다는 생각이 자주 나요.&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204299&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생상담소 (~2022-09-26)
-
-* **[(고용노동부)공정채용법 개정 관련 설문조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204296&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-26)
-
-* **[[학습법] 최신 파워포인트 스킬의 모든 것(비대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204291&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-09-26)
-
-* **[[학습법] 최신 파워포인트 스킬의 모든 것(대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204290&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-09-26)
-
-* **[[학습법] 대학생을 위한 파워포인트 특강(비대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204289&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-09-26)
-
-* **[[학습법] 대학생을 위한 파워포인트 특강(대면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204288&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-09-26)
