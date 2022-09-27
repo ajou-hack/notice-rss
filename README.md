@@ -24,6 +24,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[등교버스 목동노선 출발시간 조정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204361&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-09-27)
+
+* **[[기획팀]아주대학교 학칙 및 규정류 개정 공포(2022-제8차 교무회의, 2022-제1차 대학평의원회 서면결의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204360&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2022-09-27)
+
 * **[9.30(금) 하교 통학 버스 출발 장소 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204355&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-09-27)
 
@@ -107,9 +113,3 @@
 
 * **[[공학대학원교학팀] 2022-2학기 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204264&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학대학원교학팀 (~2022-09-23)
-
-* **[[미래자동차 렉처시리즈] 9/28(수) 미래자동차분야 현직전문가 특강(워터북 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204262&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 혁신공유팀 (~2022-09-23)
-
-* **[[대학일자리플러스센터] 월간자소서 10월호(기초 입사지원서 작성법 특강 및 컨설팅)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204260&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-23)
