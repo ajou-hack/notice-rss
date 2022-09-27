@@ -24,6 +24,30 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학생상담소] &#x27;After Stress, 정서조절&#x27; 스트레스와 정서조절 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204342&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생상담소 (~2022-09-27)
+
+* **[[학습법] 2022-2학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204340&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-09-27)
+
+* **[[학습법] 2022-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204339&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-09-27)
+
+* **[[학습법] 2022-2학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204338&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-09-27)
+
+* **[(오늘부터)[학부] 2022학년도 2학기 취득학점포기 안내 (성적포기) (9/27~29)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204336&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-09-27)
+
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204333&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-09-27)
+
+* **[[해외취업] 미츠비시UFJ은행 신입 정규직 채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204331&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-27)
+
+* **[일류투어 아주대학교 배차현황표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204329&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-09-27)
+
 * **[[LINC 3.0] AJOU-Stars 액셀러레이팅 창업교육(1차) 안내(9/30 15시-17시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204323&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀(창업교육센터) (~2022-09-26)
 
@@ -89,27 +113,3 @@
 
 * **[(재공지)[중앙도서관] Fall into the Book 이벤트 안내 (9.19~9.30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204243&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-09-23)
-
-* **[2022 아주 가족기업을 위한 세무컨설팅 및 경정청구 지원 세미나 개최(9/29.목)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204242&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2022-09-23)
-
-* **[[대학일자리플러스센터]아주히든챔피언학생발굴단★선정기업발표회★에 초대합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204241&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-23)
-
-* **[(당일재공지) [국제교류팀] 혁신공유라운지 사용불가 안내 &lt;9월 23일 금 오후 1시 ~ 5시&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204238&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2022-09-23)
-
-* **[[대학일자리플러스센터] 9월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204236&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-23)
-
-* **[[십시일밥] (재공지) 2022학년도 2학기 십시일밥 수혜자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204226&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-09-23)
-
-* **[[대학일자리플러스센터] 절대 놓치지 말아야 할 취업정보 TOP 2가지 설명회 초대](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204224&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-22)
-
-* **[[대학일자리플러스센터] 원익 라이브 채용설명회 (9/29 목 18:00~19:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204215&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-22)
-
-* **[[대학일자리플러스센터] 신세계아이앤씨 메타버스 채용설명회(9/27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204184&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-22)
