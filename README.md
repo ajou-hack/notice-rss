@@ -24,6 +24,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[아주통일연구소] 통일동아리 &lt;한비톡 1기&gt; 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204409&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 아주통일연구소 (~2022-09-28)
+
+* **[[인권센터] 2022학년도 인권센터 법정필수교육을 아직 안 들으셨다고요?!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204407&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 성평등상담소 (~2022-09-28)
+
 * **[[대학일자리플러스센터] 이번 겨울방학, 역대급 토익사관학교가 온다!! ★ 얼리버드 할인혜택 안내 ★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204392&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-28)
 
@@ -102,14 +108,8 @@
 * **[[LINC 3.0] AJOU-Stars 액셀러레이팅 창업교육(1차) 안내(9/30 15시-17시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204323&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀(창업교육센터) (~2022-09-26)
 
-* **[[아주통일연구소] 통일동아리 &lt;한비톡 1기&gt; 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204319&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 아주통일연구소 (~2022-09-26)
-
 * **[2022 CO-WEEK Academy 개최 및 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204314&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 혁신공유단 (~2022-09-26)
 
 * **[[비교과교육지원센터] 아주허브 이용 불가 안내 (10/7(금) 9:00 ~ 18:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204311&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2022-09-26)
-
-* **[(재공지) 2022-2학기 한국어 스터디 멘토 모집(~9/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204310&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 글로벌교양학부 (~2022-09-26)
