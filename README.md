@@ -24,7 +24,16 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[[대학일자리플러스센터] 이벤트 맛집 대학일자리플러스센터가 대동제 축제로 돌아왔습니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204379&amp;article.offset=0&amp;articleLimit=30)**
+* **[[대학일자리플러스센터] 이번 겨울방학, 역대급 토익사관학교가 온다!! ★ 얼리버드 할인혜택 안내 ★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204392&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-28)
+
+* **[반도체 소자 제작 공정 전문인력양성(2차) 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204390&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 기업지원센터 (~2022-09-28)
+
+* **[대동제 부스 이벤트 참여하고 선물 받아가세요 [정부 재정지원사업 연합 홍보단]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204385&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2022-09-28)
+
+* **[[대학일자리플러스센터] 이벤트 맛집 대플센터가 대동제 축제로 돌아왔습니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204380&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-27)
 
 * **[2022 원천대동제 안내(첨부파일참조)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204378&amp;article.offset=0&amp;articleLimit=30)**
@@ -104,12 +113,3 @@
 
 * **[(재공지) 2022-2학기 한국어 스터디 멘토 모집(~9/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204310&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 글로벌교양학부 (~2022-09-26)
-
-* **[(재공지) 2022-2학기 한국어 글쓰기 튜터 모집안내(~9/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204309&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 글로벌교양학부 (~2022-09-26)
-
-* **[(외국인 유학생) 한국어 백일장 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204303&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 글로벌교양학부 (~2022-09-26)
-
-* **[[학생상담소] 위기 심리상담 신청서 &quot;마음이 너무 힘들어 죽고 싶다는 생각이 자주 나요.&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204299&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생상담소 (~2022-09-26)
