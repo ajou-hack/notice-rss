@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[【유학생입학팀】남이섬 문화체험](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204435&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 유학생입학팀 (~2022-09-28)
+
 * **[[교외장학] 2023년도 대산농촌재단 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204431&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-09-28)
 
@@ -109,7 +112,4 @@
  [기타] - 교수학습개발센터 (~2022-09-27)
 
 * **[[학습법] 2022-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204339&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-09-27)
-
-* **[[학습법] 2022-2학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204338&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-09-27)
