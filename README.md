@@ -24,6 +24,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[SW융합교육원/SW중심대학]2022학년도 SW기초교육 AJOU SOFTCON 개최(2022.10.05 ~ 2022.10.07)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204429&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - SW융합교육원 (~2022-09-28)
+
+* **[[대학일자리플러스센터] 통합연계상담 홍보 행사(선착순 200명 선물 증정!)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204428&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 대학일자리플러스센터 (~2022-09-28)
+
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204424&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-09-28)
 
@@ -107,9 +113,3 @@
 
 * **[(오늘부터)[학부] 2022학년도 2학기 취득학점포기 안내 (성적포기) (9/27~29)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204336&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-09-27)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204333&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-09-27)
-
-* **[[해외취업] 미츠비시UFJ은행 신입 정규직 채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204331&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-27)
