@@ -24,6 +24,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204424&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-09-28)
+
+* **[[해외취업] (커피 쿠폰 제공) GYBM 13th - 아세안 과정 모집 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204422&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-28)
+
+* **[[박물관] 아주대학교 개교 50주년 기념 특별전시 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204420&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 박물관 (~2022-09-28)
+
+* **[[학습법] 2022-2학기 학습공동체 선정 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204411&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-09-28)
+
 * **[[아주통일연구소] 통일동아리 &lt;한비톡 1기&gt; 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204409&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 아주통일연구소 (~2022-09-28)
 
@@ -101,15 +113,3 @@
 
 * **[[해외취업] 미츠비시UFJ은행 신입 정규직 채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204331&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-27)
-
-* **[일류투어 아주대학교 배차현황표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204329&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-09-27)
-
-* **[[LINC 3.0] AJOU-Stars 액셀러레이팅 창업교육(1차) 안내(9/30 15시-17시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204323&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀(창업교육센터) (~2022-09-26)
-
-* **[2022 CO-WEEK Academy 개최 및 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204314&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신공유단 (~2022-09-26)
-
-* **[[비교과교육지원센터] 아주허브 이용 불가 안내 (10/7(금) 9:00 ~ 18:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204311&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2022-09-26)
