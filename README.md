@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[국제교류팀] 국제교류팀 면학장학생 모집 (재,휴학생 모두 지원가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204477&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 국제교류팀 (~2022-09-29)
+
 * **[[LINC 3.0] 2022 동계 현장실습 재학생 대상 사전 수요조사(~11/28까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204473&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2022-09-29)
 
@@ -107,6 +110,3 @@
 
 * **[[대학일자리플러스센터] 10/11(화) (이공특화) 직무별 면접전략](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204374&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-27)
-
-* **[[메이커스페이스] 블렌더를 활용한 3D모델링 제작 교육(기초+응용+심화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204373&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-09-27)
