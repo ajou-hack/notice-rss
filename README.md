@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022 제 2차 청년UP클라우드-대기업 현직자, 스타트업 대표와 함께 하는 취·창업 멘토링!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204453&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2022-09-29)
+
 * **[2023 ICT 학점연계 프로젝트 인턴십 대학 사업설명회 참여신청 수요조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204449&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW융합교육원 (~2022-09-29)
 
@@ -107,6 +110,3 @@
 
 * **[의료인공지능 융합인재양성 사업단 산학연병 협동연구 프로젝트 참여교수 모집 공고(~10/3)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204345&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 의과대학 교학팀 (~2022-09-27)
-
-* **[[학생상담소] &#x27;After Stress, 정서조절&#x27; 스트레스와 정서조절 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204342&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생상담소 (~2022-09-27)
