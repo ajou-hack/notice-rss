@@ -21,6 +21,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[축구 응원하고, 아이패드도 받고] 9월30일 금요일 오후 3시15분 축구경기장으로 모여라!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204472&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2022-09-29)
+
+* **[[융복합 의료제품 촉진지원센터] 단기 근로학생 모집(~10/07(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204471&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 약학대학 교학팀 (~2022-09-29)
+
+* **[[대학일자리플러스센터] 2022년 한국유나이티드제약 온라인 채용설명회(10/14)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204470&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-29)
+
+* **[2023-1학기 파란학기제 교수제안 프로그램 공모(~10/24)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204469&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2022-09-29)
+
 * **[[고용노동부X경기도]메타버스 청년채용박람회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204462&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-29)
 
@@ -98,15 +110,3 @@
 
 * **[[메이커스페이스] 야, 너두 만들 수 있어!(석고오너먼트 과정-오후반/저녁반) 교육생 모집 (9/29)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204372&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-09-27)
-
-* **[[Remind][학사]2023년 2월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.01.27(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204371&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-09-27)
-
-* **[등교버스 목동노선 출발시간 조정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204361&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-09-27)
-
-* **[[기획팀]아주대학교 학칙 및 규정류 개정 공포(2022-제8차 교무회의, 2022-제1차 대학평의원회 서면결의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204360&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2022-09-27)
-
-* **[9.30(금) 하교 통학 버스 출발 장소 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204355&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-09-27)
