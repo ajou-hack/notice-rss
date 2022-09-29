@@ -6,9 +6,6 @@
 * **[📌 [공지] 학기초 학내 무선인터넷 및 모바일 앱 서비스 장애 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203929&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 정보시스템팀 (~2022-09-15)
 
-* **[📌 [공지] [Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203322&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-08-31)
-
 * **[📌 [공지] 교직원퇴직자, 학부 및 대학원 졸업자(제적생 포함) 구글드라이브(공유드라이브 포함) 정리 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202858&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-08-17)
 
@@ -23,6 +20,12 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[2023 ICT 학점연계 프로젝트 인턴십 대학 사업설명회 참여신청 수요조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204449&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW융합교육원 (~2022-09-29)
+
+* **[[대학일자리플러스센터] 아주대와 함께하는 키엔스코리아 채용 설명회(10/5)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204444&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-29)
 
 * **[【유학생입학팀】남이섬 문화체험](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204435&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 유학생입학팀 (~2022-09-28)
@@ -107,9 +110,3 @@
 
 * **[[학생상담소] &#x27;After Stress, 정서조절&#x27; 스트레스와 정서조절 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204342&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생상담소 (~2022-09-27)
-
-* **[[학습법] 2022-2학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204340&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-09-27)
-
-* **[[학습법] 2022-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204339&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-09-27)
