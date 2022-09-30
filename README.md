@@ -18,6 +18,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[비교과교육지원센터] 아주허브에서 10월 퀴즈 풀고 스타벅스 쿠폰 받자! (1,2학년 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204546&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2022-09-30)
+
+* **[[학생상담소] &#x27;After Stress, 정서조절&#x27; 스트레스와 정서조절 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204541&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생상담소 (~2022-09-30)
+
+* **[[학부] 2022-2학기 미등록자 구제등록 안내(10.06. ~ 10.14. / 주말 및 공휴일 수납 불가)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204536&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 재무회계팀 (~2022-09-30)
+
 * **[학교법인 대우학원 인사발령(제85호)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204535&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 총무팀 (~2022-09-30)
 
@@ -98,12 +107,3 @@
 
 * **[[해외취업] (커피 쿠폰 제공) GYBM 13th - 아세안 과정 모집 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204422&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-28)
-
-* **[[박물관] 아주대학교 개교 50주년 기념 특별전시 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204420&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 박물관 (~2022-09-28)
-
-* **[[학습법] 2022-2학기 학습공동체 선정 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204411&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-09-28)
-
-* **[[아주통일연구소] 통일동아리 &lt;한비톡 1기&gt; 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204409&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 아주통일연구소 (~2022-09-28)
