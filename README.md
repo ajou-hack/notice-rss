@@ -1,8 +1,5 @@
 # 최근 공지사항
 
-* **[📌 [공지] [Remind][학부] 2022-2학기 등록 안내(09.20.~09.29.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203938&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-09-16)
-
 * **[📌 [공지] 학기초 학내 무선인터넷 및 모바일 앱 서비스 장애 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=203929&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 정보시스템팀 (~2022-09-15)
 
@@ -21,7 +18,28 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[[국제교류팀] 국제교류팀 면학장학생 모집 (재,휴학생 모두 지원가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204477&amp;article.offset=0&amp;articleLimit=30)**
+* **[[입학팀] 혁신공유라운지 사용불가 안내 &lt; 10월 5일 수요일 오전 9시 ~ 10시&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204506&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 입학팀 (~2022-09-30)
+
+* **[[대학일자리플러스센터] 2022 A.C.E. STUDY(22-3기) 추가참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204497&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-30)
+
+* **[[해외취업] 미국 취업가이드 과정_해외일자리 엑스포 연계](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204491&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-09-30)
+
+* **[[국가근로][교사대생등대학생튜터링] 9월 국가근로/교사대생등대학생튜터링장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 9/30 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204490&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-09-30)
+
+* **[[비교과교육지원센터] 아주허브 이용 불가 안내 (10/7(금) 9:00 ~ 18:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204489&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2022-09-30)
+
+* **[(긴급)원천대동제 노천극장 입장방식 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204488&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2022-09-30)
+
+* **[[교외장학] 2022년도 한국문화재재단 전통 기·예능 및 매장문화재 분야 우수 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204479&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-09-29)
+
+* **[[수정공지][국제교류팀] 국제교류팀 면학장학생 모집 (재,휴학생 모두 지원가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204477&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 국제교류팀 (~2022-09-29)
 
 * **[[LINC 3.0] 2022 동계 현장실습 재학생 대상 사전 수요조사(~11/28까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204473&amp;article.offset=0&amp;articleLimit=30)**
@@ -89,24 +107,3 @@
 
 * **[반도체 소자 제작 공정 전문인력양성(2차) 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204390&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 기업지원센터 (~2022-09-28)
-
-* **[대동제 부스 이벤트 참여하고 선물 받아가세요 [정부 재정지원사업 연합 홍보단]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204385&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2022-09-28)
-
-* **[[대학일자리플러스센터] 이벤트 맛집 대플센터가 대동제 축제로 돌아왔습니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204380&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-27)
-
-* **[2022 원천대동제 안내(첨부파일참조)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204378&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2022-09-27)
-
-* **[(재공지)[비교과교육지원센터] 아주허브 홍보영상 제작 공모전(9/13~10/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204377&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2022-09-27)
-
-* **[[중요] 2022학년도 원천대동제 개최에 따른 주차 및 차량통제 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204376&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 총무팀 (~2022-09-27)
-
-* **[[대학일자리플러스센터] 현직자와 함께하는 모의면접](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204375&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-27)
-
-* **[[대학일자리플러스센터] 10/11(화) (이공특화) 직무별 면접전략](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204374&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-27)
