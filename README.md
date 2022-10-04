@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[메이커스페이스] 야, 너두 만들 수 있어!(석고오너먼트 과정-오후반/저녁반) 교육생 모집 (10/06)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204617&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-10-04)
+
 * **[(전일재공지)[SW융합교육원/SW중심대학]2022학년도 SW기초교육 AJOU SOFTCON 개최(2022.10.05 ~ 2022.10.07)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204601&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - SW융합교육원 (~2022-10-04)
 
@@ -101,6 +104,3 @@
 
 * **[[LINC 3.0] 2022 동계 현장실습 재학생 대상 사전 수요조사(~11/28까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204473&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2022-09-29)
-
-* **[[축구 응원하고, 아이패드도 받고] 9월30일 금요일 오후 3시15분 축구경기장으로 모여라!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204472&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2022-09-29)
