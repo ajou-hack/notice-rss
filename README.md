@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[약학대학 대학원 바이오헬스규제과학과 2023-전기 신입생 모집(정시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204593&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 약학대학교학팀 (~2022-10-04)
+
 * **[[대학일자리플러스센터] 10/11(화)_채용공고분석 특강(2회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204590&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-10-04)
 
@@ -101,6 +104,3 @@
 
 * **[[고용노동부X경기도]메타버스 청년채용박람회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204462&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-29)
-
-* **[의료인공지능 부트캠프 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204460&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 의과대학 교학팀 (~2022-09-29)
