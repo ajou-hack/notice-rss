@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 10/11(화)_채용공고분석 특강(2회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204590&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-04)
+
+* **[(재공지) 외국인 유학생 한국어 백일장 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204585&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 글로벌교양학부 (~2022-10-04)
+
 * **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제48호(2022.10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204577&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-10-04)
 
@@ -98,9 +104,3 @@
 
 * **[의료인공지능 부트캠프 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204460&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 의과대학 교학팀 (~2022-09-29)
-
-* **[2022 제 2차 청년UP클라우드-대기업 현직자, 스타트업 대표와 함께 하는 취·창업 멘토링!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204453&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2022-09-29)
-
-* **[2023 ICT 학점연계 프로젝트 인턴십 대학 사업설명회 참여신청 수요조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204449&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW융합교육원 (~2022-09-29)
