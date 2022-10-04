@@ -15,6 +15,24 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제48호(2022.10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204577&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-04)
+
+* **[[혁신공유단] 혁신공유라운지(율곡관B104) 예약 방법 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204576&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신공유단 (~2022-10-04)
+
+* **[[메이커스페이스]&#x27;파이썬 왕초보&#x27; 처음 배우는 기초교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204574&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-10-04)
+
+* **[2022년 수원시 대학생 학자금 대출이자 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204567&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-10-04)
+
+* **[2022년 멀티미디어 강의실 점검결과(09월) 및 2022년(10월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204564&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2022-10-04)
+
+* **[[Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204563&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-10-04)
+
 * **[[대학일자리플러스센터] 뿌링클치킨쏜다★아주히든챔피언학생발굴단 선정기업발표회★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204547&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-30)
 
@@ -86,21 +104,3 @@
 
 * **[2023 ICT 학점연계 프로젝트 인턴십 대학 사업설명회 참여신청 수요조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204449&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW융합교육원 (~2022-09-29)
-
-* **[[대학일자리플러스센터] 아주대와 함께하는 키엔스코리아 채용 설명회(10/5)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204444&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-29)
-
-* **[【유학생입학팀】남이섬 문화체험](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204435&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 유학생입학팀 (~2022-09-28)
-
-* **[[교외장학] 2023년도 대산농촌재단 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204431&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-09-28)
-
-* **[[SW융합교육원/SW중심대학]2022학년도 SW기초교육 AJOU SOFTCON 개최(2022.10.05 ~ 2022.10.07)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204429&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - SW융합교육원 (~2022-09-28)
-
-* **[[대학일자리플러스센터] 통합연계상담 홍보 행사(선착순 200명 선물 증정!)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204428&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 대학일자리플러스센터 (~2022-09-28)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204424&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-09-28)
