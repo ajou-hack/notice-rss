@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204649&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-10-05)
+
+* **[[학부] 2022-2학기 구제등록 주말 및 공휴일 수납 불가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204648&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 재무회계팀 (~2022-10-05)
+
 * **[[비교과교육지원센터] 아주허브 이용 불가 안내 (10/7(금) 9:00 ~ 18:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204641&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2022-10-05)
 
@@ -98,9 +104,3 @@
 
 * **[[국가근로][교사대생등대학생튜터링] 9월 국가근로/교사대생등대학생튜터링장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 9/30 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204490&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-09-30)
-
-* **[[비교과교육지원센터] 아주허브 이용 불가 안내 (10/7(금) 9:00 ~ 18:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204489&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2022-09-30)
-
-* **[(긴급)원천대동제 노천극장 입장방식 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204488&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2022-09-30)
