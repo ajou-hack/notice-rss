@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[비교과교육지원센터] 아주허브 이용 불가 안내 (10/7(금) 9:00 ~ 18:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204641&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2022-10-05)
+
+* **[의료인공지능 융합인재양성 사업단 산학연병 협동연구 프로젝트 참여학생 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204639&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 의과대학 교학팀 (~2022-10-05)
+
+* **[[해외취업] (커피 쿠폰 제공) GYBM 13th - 아세안 과정 모집 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204638&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-05)
+
 * **[[메이커스페이스] 야, 너두 만들 수 있어!(석고오너먼트 과정-오후반/저녁반) 교육생 모집 (10/06)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204617&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-10-04)
 
@@ -95,12 +104,3 @@
 
 * **[(긴급)원천대동제 노천극장 입장방식 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204488&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2022-09-30)
-
-* **[[교외장학] 2022년도 한국문화재재단 전통 기·예능 및 매장문화재 분야 우수 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204479&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-09-29)
-
-* **[[수정공지][국제교류팀] 국제교류팀 면학장학생 모집 (재,휴학생 모두 지원가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204477&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 국제교류팀 (~2022-09-29)
-
-* **[[LINC 3.0] 2022 동계 현장실습 재학생 대상 사전 수요조사(~11/28까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204473&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2022-09-29)
