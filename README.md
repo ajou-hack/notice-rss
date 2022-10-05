@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[교외장학] 2022-2학기 송화재단 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204654&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-10-05)
+
+* **[2022년 하반기 「청년 매입임대 예비입주자 모집공고」안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204653&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-10-05)
+
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204649&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-10-05)
 
@@ -98,9 +104,3 @@
 
 * **[[대학일자리플러스센터] 2022 A.C.E. STUDY(22-3기) 추가참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204497&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-30)
-
-* **[[해외취업] 미국 취업가이드 과정_해외일자리 엑스포 연계](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204491&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-30)
-
-* **[[국가근로][교사대생등대학생튜터링] 9월 국가근로/교사대생등대학생튜터링장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 9/30 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204490&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-09-30)
