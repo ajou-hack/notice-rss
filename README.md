@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] [긴급] 메인 DNS 서버 장애로 인한 긴급 서버교체 작업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204669&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 정보시스템팀 (~2022-10-05)
+
 * **[📌 [공지] 교직원퇴직자, 학부 및 대학원 졸업자(제적생 포함) 구글드라이브(공유드라이브 포함) 정리 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202858&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-08-17)
 
@@ -14,6 +17,12 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[2022-2 파란학기제 중간교류회 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204670&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2022-10-05)
+
+* **[총장레터 제3호](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204667&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총장비서실 (~2022-10-05)
 
 * **[[학부_재공지]2022-2학기 수업피드백 참여 안내(~10/12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204659&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교수학습개발센터 (~2022-10-05)
@@ -98,9 +107,3 @@
 
 * **[[학부] 2022-2학기 미등록자 구제등록 안내(10.06. ~ 10.14. / 주말 및 공휴일 수납 불가)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204536&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 재무회계팀 (~2022-09-30)
-
-* **[학교법인 대우학원 인사발령(제85호)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204535&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 총무팀 (~2022-09-30)
-
-* **[[대학일자리플러스센터] 9월 5주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204530&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-30)
