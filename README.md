@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학부_재공지]2022-2학기 수업피드백 참여 안내(~10/12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204659&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교수학습개발센터 (~2022-10-05)
+
+* **[(재공지)[박물관] 아주대학교 개교 50주년 기념 특별전시 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204658&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 박물관 (~2022-10-05)
+
+* **[[SW융합교육원/SW중심대학] SW 활용 지식 동영상 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204657&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW융합교육원 (~2022-10-05)
+
 * **[[교외장학] 2022-2학기 송화재단 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204654&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-10-05)
 
@@ -94,13 +103,4 @@
  [사무] - 총무팀 (~2022-09-30)
 
 * **[[대학일자리플러스센터] 9월 5주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204530&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-30)
-
-* **[[교외장학] 2022년 유한재단 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204526&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-09-30)
-
-* **[[입학팀] 혁신공유라운지 사용불가 안내 &lt; 10월 5일 수요일 오전 9시 ~ 10시&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204506&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 입학팀 (~2022-09-30)
-
-* **[[대학일자리플러스센터] 2022 A.C.E. STUDY(22-3기) 추가참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204497&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-30)
