@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[재공지]CO-WEEK Academy 개최 및 수강신청 안내 (10/4~10/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204679&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신공유단 (~2022-10-05)
+
+* **[2022 제2차 청년UP클라우드-LG전자, 현대모비스 등 대기업 현직자와 스타트업 대표와 함께하는 취·창업 멘토링!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204678&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2022-10-05)
+
 * **[[대학원 비즈니스애널리틱스학과] 2023학년도 전기 모집 입시설명회 개최 및 사전참여신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204673&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 경영대학 (~2022-10-05)
 
@@ -101,9 +107,3 @@
 
 * **[[대학일자리플러스센터] 뿌링클치킨쏜다★아주히든챔피언학생발굴단 선정기업발표회★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204547&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-09-30)
-
-* **[[비교과교육지원센터] 아주허브에서 10월 퀴즈 풀고 스타벅스 쿠폰 받자! (1,2학년 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204546&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2022-09-30)
-
-* **[[학생상담소] &#x27;After Stress, 정서조절&#x27; 스트레스와 정서조절 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204541&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생상담소 (~2022-09-30)
