@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[교내 불법카메라 점검(총학생회, 경기남부경찰서 공동 점검)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204709&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2022-10-06)
+
+* **[[교외장학] 2023년도 STX장학재단 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204707&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-10-06)
+
+* **[[대학일자리플러스센터] 아주대와 함께하는 LIG넥스원 채용 설명회(10/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204706&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-06)
+
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204700&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-10-06)
 
@@ -95,12 +104,3 @@
 
 * **[[중앙도서관] 대학원생을 위한 이용교육 참여하고 햄버거 쿠폰도 받으세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204599&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-10-04)
-
-* **[[중앙도서관]10월 이용 교육 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204598&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-10-04)
-
-* **[[대학혁신지원사업] 대학교육혁신원 9월 뉴스레터](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204597&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2022-10-04)
-
-* **[약학대학 대학원 바이오헬스규제과학과 2023-전기 신입생 모집(정시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204593&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 약학대학교학팀 (~2022-10-04)
