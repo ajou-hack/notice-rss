@@ -15,6 +15,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204700&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-10-06)
+
+* **[[총동문회] 선배가 쏜다! 빤닭빤닭 중간고사 간식 이벤트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204699&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 총동문회 (~2022-10-06)
+
+* **[[대학일자리플러스센터] 2022 한솔케미칼 메타버스 채용설명회·상담회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204697&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-06)
+
+* **[(1학년 외국인 유학생) 22-2학기 슬기로운 한국어 학술모임 모집(~10.14)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204696&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 글로벌교양학부 (~2022-10-06)
+
 * **[[대학일자리플러스센터] 2022 신한투자증권 하반기 채용설명회(10/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204695&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-10-06)
 
@@ -92,15 +104,3 @@
 
 * **[약학대학 대학원 바이오헬스규제과학과 2023-전기 신입생 모집(정시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204593&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 약학대학교학팀 (~2022-10-04)
-
-* **[[대학일자리플러스센터] 10/11(화)_채용공고분석 특강(2회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204590&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-04)
-
-* **[(재공지) 외국인 유학생 한국어 백일장 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204585&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 글로벌교양학부 (~2022-10-04)
-
-* **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제48호(2022.10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204577&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-04)
-
-* **[[혁신공유단] 혁신공유라운지(율곡관B104) 예약 방법 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204576&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신공유단 (~2022-10-04)
