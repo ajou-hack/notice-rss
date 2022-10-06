@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022학년도 2학기 사회봉사장학생 최종 선발 명단](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204715&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 사회봉사센터 (~2022-10-06)
+
+* **[[대학일자리플러스센터] 10/17(월) 삼성그룹 면접 합격가이드](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204710&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-06)
+
 * **[교내 불법카메라 점검(총학생회, 경기남부경찰서 공동 점검)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204709&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2022-10-06)
 
@@ -98,9 +104,3 @@
 
 * **[[메이커스페이스] 야, 너두 만들 수 있어!(석고오너먼트 과정-오후반/저녁반) 교육생 모집 (10/06)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204617&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-10-04)
-
-* **[(전일재공지)[SW융합교육원/SW중심대학]2022학년도 SW기초교육 AJOU SOFTCON 개최(2022.10.05 ~ 2022.10.07)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204601&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - SW융합교육원 (~2022-10-04)
-
-* **[[중앙도서관] 대학원생을 위한 이용교육 참여하고 햄버거 쿠폰도 받으세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204599&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-10-04)
