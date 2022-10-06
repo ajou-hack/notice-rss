@@ -1,8 +1,5 @@
 # 최근 공지사항
 
-* **[📌 [공지] [긴급] 메인 DNS 서버 장애로 인한 긴급 서버교체 작업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204669&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 정보시스템팀 (~2022-10-05)
-
 * **[📌 [공지] 교직원퇴직자, 학부 및 대학원 졸업자(제적생 포함) 구글드라이브(공유드라이브 포함) 정리 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202858&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-08-17)
 
@@ -18,6 +15,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 2022 신한투자증권 하반기 채용설명회(10/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204695&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-06)
+
+* **[문화체육관광부 대학생기자단 울림 18기 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204691&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2022-10-06)
+
+* **[[재공지]★아주허브 이용 불가 안내 (10/7(금) 9:00 ~ 18:00)★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204687&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2022-10-06)
+
+* **[[공지] 목동노선 등교버스 미운행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204682&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-10-06)
+
 * **[[재공지]CO-WEEK Academy 개최 및 수강신청 안내 (10/4~10/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204679&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 혁신공유단 (~2022-10-05)
 
@@ -29,6 +38,9 @@
 
 * **[2022-2 파란학기제 중간교류회 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204670&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2022-10-05)
+
+* **[[긴급] 메인 DNS 서버 장애로 인한 긴급 서버교체 작업 안내(완료)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204669&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 정보시스템팀 (~2022-10-05)
 
 * **[총장레터 제3호](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204667&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총장비서실 (~2022-10-05)
@@ -92,18 +104,3 @@
 
 * **[[혁신공유단] 혁신공유라운지(율곡관B104) 예약 방법 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204576&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 혁신공유단 (~2022-10-04)
-
-* **[[메이커스페이스]&#x27;파이썬 왕초보&#x27; 처음 배우는 기초교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204574&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-10-04)
-
-* **[2022년 수원시 대학생 학자금 대출이자 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204567&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-10-04)
-
-* **[2022년 멀티미디어 강의실 점검결과(09월) 및 2022년(10월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204564&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2022-10-04)
-
-* **[[Remind][학사] 2022-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204563&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-10-04)
-
-* **[[대학일자리플러스센터] 뿌링클치킨쏜다★아주히든챔피언학생발굴단 선정기업발표회★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204547&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-09-30)
