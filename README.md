@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[일본 대기업 잡페어 안내] Connect Job 2023](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204718&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-06)
+
+* **[[국어국문학과 학생회] &#x27;우리가 모여 만들 하나의 글, 한글&#x27; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204717&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 인문대학교학팀 (~2022-10-06)
+
 * **[2022학년도 2학기 사회봉사장학생 최종 선발 명단](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204715&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 사회봉사센터 (~2022-10-06)
 
@@ -39,7 +45,7 @@
 * **[[대학일자리플러스센터] 2022 한솔케미칼 메타버스 채용설명회·상담회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204697&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-10-06)
 
-* **[(1학년 외국인 유학생) 22-2학기 슬기로운 한국어 학술모임 모집(~10.14)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204696&amp;article.offset=0&amp;articleLimit=30)**
+* **[(1학년 외국인 유학생) 22-2학기 슬기로운 한국어 학술모임 모집(~10.21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204696&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 글로벌교양학부 (~2022-10-06)
 
 * **[[대학일자리플러스센터] 2022 신한투자증권 하반기 채용설명회(10/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204695&amp;article.offset=0&amp;articleLimit=30)**
@@ -98,9 +104,3 @@
 
 * **[의료인공지능 융합인재양성 사업단 산학연병 협동연구 프로젝트 참여학생 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204639&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 의과대학 교학팀 (~2022-10-05)
-
-* **[[해외취업] (커피 쿠폰 제공) GYBM 13th - 아세안 과정 모집 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204638&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-05)
-
-* **[[메이커스페이스] 야, 너두 만들 수 있어!(석고오너먼트 과정-오후반/저녁반) 교육생 모집 (10/06)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204617&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-10-04)
