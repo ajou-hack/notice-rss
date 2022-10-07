@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[중앙도서관] 메타버스 도서관 ver.2 오픈 기념 이벤트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204774&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-10-07)
+
+* **[[대학일자리플러스센터]대학일자리플러스센터 서비스 모아보기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204772&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-07)
+
 * **[[교외장학] 2023년 북한이탈청소년 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204771&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-10-07)
 
@@ -98,9 +104,3 @@
 
 * **[총장레터 제3호](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204667&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총장비서실 (~2022-10-05)
-
-* **[[학부_재공지]2022-2학기 수업피드백 참여 안내(~10/12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204659&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교수학습개발센터 (~2022-10-05)
-
-* **[(재공지)[박물관] 아주대학교 개교 50주년 기념 특별전시 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204658&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 박물관 (~2022-10-05)
