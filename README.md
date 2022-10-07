@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[봉사활동] (버드내노인복지관) 자원봉사자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204780&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-10-07)
+
+* **[2022년 영주시 대학생 학자금 대출이자 지원 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204779&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-10-07)
+
 * **[[봉사활동] (대한민국교육봉사단) 고등학생 진로멘토링 대학생 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204777&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-10-07)
 
@@ -98,9 +104,3 @@
 
 * **[[대학원 비즈니스애널리틱스학과] 2023학년도 전기 모집 입시설명회 개최 및 사전참여신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204673&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 경영대학 (~2022-10-05)
-
-* **[2022-2 파란학기제 중간교류회 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204670&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2022-10-05)
-
-* **[[긴급] 메인 DNS 서버 장애로 인한 긴급 서버교체 작업 안내(완료)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204669&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 정보시스템팀 (~2022-10-05)
