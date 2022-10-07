@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[국제교류팀] 22-동계 1차 해외단기파견 모집 (~10.13(목)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204795&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2022-10-07)
+
 * **[(완료)[비교과교육지원센터] 아주허브 서버 증설 완료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204784&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2022-10-07)
 
@@ -101,6 +104,3 @@
 
 * **[[재공지]CO-WEEK Academy 개최 및 수강신청 안내 (10/4~10/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204679&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 혁신공유단 (~2022-10-05)
-
-* **[2022 제2차 청년UP클라우드-LG전자, 현대모비스 등 대기업 현직자와 스타트업 대표와 함께하는 취·창업 멘토링!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204678&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2022-10-05)
