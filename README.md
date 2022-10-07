@@ -15,7 +15,10 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[2022 아주 바이오 헬스사이언스 리서치페어 시행 (11.7 ~ 11.11)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204770&amp;article.offset=0&amp;articleLimit=30)**
+* **[[교외장학] 2023년 북한이탈청소년 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204771&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-10-07)
+
+* **[2022 아주 바이오 헬스사이언스 리서치페어 개최 (11.7(월) ~ 11.11(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204770&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 의과대학 교학팀 (~2022-10-07)
 
 * **[[대학일자리플러스센터] 10월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204760&amp;article.offset=0&amp;articleLimit=30)**
@@ -101,6 +104,3 @@
 
 * **[(재공지)[박물관] 아주대학교 개교 50주년 기념 특별전시 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204658&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 박물관 (~2022-10-05)
-
-* **[[SW융합교육원/SW중심대학] SW 활용 지식 동영상 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204657&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW융합교육원 (~2022-10-05)
