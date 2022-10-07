@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[봉사활동] (대한민국교육봉사단) 고등학생 진로멘토링 대학생 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204777&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-10-07)
+
 * **[[중앙도서관] 메타버스 도서관 ver.2 오픈 기념 이벤트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204774&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-10-07)
 
@@ -101,6 +104,3 @@
 
 * **[[긴급] 메인 DNS 서버 장애로 인한 긴급 서버교체 작업 안내(완료)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204669&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 정보시스템팀 (~2022-10-05)
-
-* **[총장레터 제3호](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204667&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총장비서실 (~2022-10-05)
