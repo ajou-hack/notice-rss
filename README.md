@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(완료)[비교과교육지원센터] 아주허브 서버 증설 완료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204784&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2022-10-07)
+
 * **[[봉사활동] (버드내노인복지관) 자원봉사자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204780&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-10-07)
 
@@ -101,6 +104,3 @@
 
 * **[2022 제2차 청년UP클라우드-LG전자, 현대모비스 등 대기업 현직자와 스타트업 대표와 함께하는 취·창업 멘토링!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204678&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학사업팀 (~2022-10-05)
-
-* **[[대학원 비즈니스애널리틱스학과] 2023학년도 전기 모집 입시설명회 개최 및 사전참여신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204673&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 경영대학 (~2022-10-05)
