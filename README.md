@@ -15,6 +15,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 10월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204760&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-07)
+
+* **[코로나극복장학(바르게장학)신청_2022.10.24.(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204756&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-10-07)
+
+* **[(~10.11까지)2023 ICT 학점연계 프로젝트 인턴십 대학 사업설명회 참여신청 수요조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204750&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW융합교육원 (~2022-10-07)
+
+* **[[한국산업기술평가관리원] 소부장넷 통계활용대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204739&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 경영대학교학팀 (~2022-10-06)
+
 * **[[차량관리실] 아주대학교 등교 버스 운행 및 배차 현황](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204723&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-10-06)
 
@@ -92,15 +104,3 @@
 
 * **[[교외장학] 2022-2학기 송화재단 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204654&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-10-05)
-
-* **[2022년 하반기 「청년 매입임대 예비입주자 모집공고」안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204653&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-10-05)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204649&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-10-05)
-
-* **[[학부] 2022-2학기 구제등록 주말 및 공휴일 수납 불가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204648&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 재무회계팀 (~2022-10-05)
-
-* **[[비교과교육지원센터] 아주허브 이용 불가 안내 (10/7(금) 9:00 ~ 18:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204641&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2022-10-05)
