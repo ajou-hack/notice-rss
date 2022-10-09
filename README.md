@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[메이커스페이스] 3D프린터 장비이용 기초교육생 모집(10월 1회차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204813&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-10-09)
+
 * **[[국제교류팀] 22-동계 1차 해외단기파견 모집 (~10.13(목)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204795&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-10-07)
 
@@ -101,6 +104,3 @@
 
 * **[[공지] 목동노선 등교버스 미운행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204682&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-10-06)
-
-* **[[재공지]CO-WEEK Academy 개최 및 수강신청 안내 (10/4~10/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204679&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신공유단 (~2022-10-05)
