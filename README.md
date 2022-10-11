@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[LINC 3.0] 2022 동계 현장실습 진행 일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204884&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2022-10-11)
+
+* **[[국제교류팀] 22-동계 1차 해외단기파견 설명회 (10.12. (수) 15시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204871&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2022-10-11)
+
+* **[(학사과정)2022-동계 계절학기 국내대학 학점교류 신청 안내(22.10.11.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204870&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-10-11)
+
 * **[[학습법] 2022-2학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204856&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-10-11)
 
@@ -95,12 +104,3 @@
 
 * **[[국어국문학과 학생회] &#x27;우리가 모여 만들 하나의 글, 한글&#x27; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204717&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 인문대학교학팀 (~2022-10-06)
-
-* **[2022학년도 2학기 사회봉사장학생 최종 선발 명단](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204715&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 사회봉사센터 (~2022-10-06)
-
-* **[[대학일자리플러스센터] 10/17(월) 삼성그룹 면접 합격가이드](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204710&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-06)
-
-* **[교내 불법카메라 점검(총학생회, 경기남부경찰서 공동 점검)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204709&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2022-10-06)
