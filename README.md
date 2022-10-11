@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[Ajou International Day 2022 Booth/Performance Application](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204914&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 국제교류팀 (~2022-10-11)
+
+* **[[혁신공유단] 혁신공유단에서 미래자동차 관련 도서 및 노트북을 빌려드립니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204913&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신공유단 (~2022-10-11)
+
+* **[[비교과교육지원센터](1,2학년 대상)아주허브에서 10월 퀴즈 풀고 스타벅스 쿠폰 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204912&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2022-10-11)
+
 * **[[메이커스페이스] 3D프린터 운용기능사 실기 출력 무료지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204907&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-10-11)
 
@@ -94,13 +103,4 @@
  [기타] - 학술정보팀 (~2022-10-07)
 
 * **[[대학일자리플러스센터]대학일자리플러스센터 서비스 모아보기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204772&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-07)
-
-* **[[교외장학] 2023년 북한이탈청소년 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204771&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-10-07)
-
-* **[2022 아주 바이오 헬스사이언스 리서치페어 개최 (11.7(월) ~ 11.11(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204770&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 의과대학 교학팀 (~2022-10-07)
-
-* **[[대학일자리플러스센터] 10월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204760&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-10-07)
