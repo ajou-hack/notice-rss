@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] SK하이닉스의 &#x27;반도체인재양성&#x27;과정 Hy-Po(하이포) 청년참여자 모집 안내(~10/24)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204891&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-11)
+
 * **[[봉사활동] 아름학교 현장체험학습에 필요한 중증장애학생 지원 교육활동 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204889&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-10-11)
 
@@ -101,6 +104,3 @@
 
 * **[[차량관리실] 아주대학교 등교 버스 운행 및 배차 현황](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204723&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-10-06)
-
-* **[[일본 대기업 잡페어 안내] Connect Job 2023](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204718&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-06)
