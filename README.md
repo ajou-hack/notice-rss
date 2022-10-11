@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[봉사활동] 아름학교 현장체험학습에 필요한 중증장애학생 지원 교육활동 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204889&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-10-11)
+
 * **[[LINC 3.0] 2022 동계 현장실습 진행 일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204884&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2022-10-11)
 
@@ -101,6 +104,3 @@
 
 * **[[일본 대기업 잡페어 안내] Connect Job 2023](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204718&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-10-06)
-
-* **[[국어국문학과 학생회] &#x27;우리가 모여 만들 하나의 글, 한글&#x27; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204717&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 인문대학교학팀 (~2022-10-06)
