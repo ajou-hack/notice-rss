@@ -15,6 +15,24 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 2022-2학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204856&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-10-11)
+
+* **[[메이커스페이스] 감각적인 3D모델링을 위한 스케치업 기초교육수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204852&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-10-11)
+
+* **[[교육대학원] 아주대생을 위한 교육대학원 입학 설명회에 초대합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204850&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 교육대학원 (~2022-10-11)
+
+* **[[총동문회] 선배가 쏜다! 빤닭빤닭 중간고사 간식 이벤트 (추가)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204848&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 총동문회 (~2022-10-11)
+
+* **[[대학원 비즈니스애널리틱스학과] 2023학년도 전기 모집 입시설명회 개최 및 사전참여신청 진행(2차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204845&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 경영대학 (~2022-10-11)
+
+* **[[메이커스페이스] 파이썬 데이터 분석 입문 기초교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204841&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-10-11)
+
 * **[[시설팀] 2022학년도 동절기 난방시행계획 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204830&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2022-10-11)
 
@@ -86,21 +104,3 @@
 
 * **[교내 불법카메라 점검(총학생회, 경기남부경찰서 공동 점검)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204709&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2022-10-06)
-
-* **[[교외장학] 2023년도 STX장학재단 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204707&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-10-06)
-
-* **[[대학일자리플러스센터] 아주대와 함께하는 LIG넥스원 채용 설명회(10/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204706&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-06)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204700&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-10-06)
-
-* **[[총동문회] 선배가 쏜다! 빤닭빤닭 중간고사 간식 이벤트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204699&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 총동문회 (~2022-10-06)
-
-* **[[대학일자리플러스센터] 2022 한솔케미칼 메타버스 채용설명회·상담회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204697&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-06)
-
-* **[(1학년 외국인 유학생) 22-2학기 슬기로운 한국어 학술모임 모집(~10.21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204696&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 글로벌교양학부 (~2022-10-06)
