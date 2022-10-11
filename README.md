@@ -15,6 +15,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[메이커스페이스] 3D프린터 운용기능사 실기 출력 무료지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204907&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-10-11)
+
+* **[[메이커스페이스] 야, 너두 만들 수 있어!(석고트레이 과정-오후반/저녁반) 교육생 모집(10/13)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204906&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-10-11)
+
+* **[(1학년 외국인 유학생) 22-2학기 슬기로운 한국어 학술모임 모집(~10.21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204900&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 글로벌교양학부 (~2022-10-11)
+
+* **[[대학원 경영학과] 2023학년도 전기 모집 입시간담회 진행 및 사전참여신청 안내 (신청기간:~10/14일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204899&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 경영대학 (~2022-10-11)
+
 * **[[대학일자리플러스센터] SK하이닉스의 &#x27;반도체인재양성&#x27;과정 Hy-Po(하이포) 청년참여자 모집 안내(~10/24)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204891&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-10-11)
 
@@ -92,15 +104,3 @@
 
 * **[[대학일자리플러스센터] 10월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204760&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-10-07)
-
-* **[코로나극복장학(바르게장학)신청_2022.10.24.(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204756&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-10-07)
-
-* **[(~10.11까지)2023 ICT 학점연계 프로젝트 인턴십 대학 사업설명회 참여신청 수요조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204750&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW융합교육원 (~2022-10-07)
-
-* **[[한국산업기술평가관리원] 소부장넷 통계활용대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204739&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 경영대학교학팀 (~2022-10-06)
-
-* **[[차량관리실] 아주대학교 등교 버스 운행 및 배차 현황](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204723&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-10-06)
