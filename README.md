@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022년 상반기분 통영시 대학생 학자금 이자 지원 사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204946&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-10-12)
+
+* **[2022 스마트 수·과학실 참가자 모집 안내 (중학생 – 정보과학) (10.11 ~ 10.17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204943&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 과학영재교육원 (~2022-10-12)
+
 * **[[교외장학] 2022년 2학기 서울희망 대학 장학 장학생 추가 선발공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204925&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-10-12)
 
@@ -98,9 +104,3 @@
 
 * **[(완료)[비교과교육지원센터] 아주허브 서버 증설 완료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204784&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2022-10-07)
-
-* **[[봉사활동] (버드내노인복지관) 자원봉사자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204780&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-10-07)
-
-* **[2022년 영주시 대학생 학자금 대출이자 지원 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204779&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-10-07)
