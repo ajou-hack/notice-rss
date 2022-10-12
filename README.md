@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[재공지][교외장학] 2022-2학기 송화재단 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204959&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-10-12)
+
+* **[10/14(금), 일반대학원 비즈니스애널리틱스학과에서 2023학년도 전기 모집 입시설명회를 개최합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204951&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 경영대학 (~2022-10-12)
+
 * **[2022년 상반기분 통영시 대학생 학자금 이자 지원 사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204946&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-10-12)
 
@@ -98,9 +104,3 @@
 
 * **[[메이커스페이스] 3D프린터 장비이용 기초교육생 모집(10월 1회차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204813&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-10-09)
-
-* **[[국제교류팀] 22-동계 1차 해외단기파견 모집 (~10.13(목)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204795&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2022-10-07)
-
-* **[(완료)[비교과교육지원센터] 아주허브 서버 증설 완료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204784&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2022-10-07)
