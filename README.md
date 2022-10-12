@@ -15,7 +15,16 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[Ajou International Day 2022 Booth/Performance Application](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204914&amp;article.offset=0&amp;articleLimit=30)**
+* **[[교외장학] 2022년 2학기 서울희망 대학 장학 장학생 추가 선발공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204925&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-10-12)
+
+* **[[아주강좌] 제 476회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204924&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-10-12)
+
+* **[[Ajou International Day 2022] 자원봉사자 및 장기자랑 참가자 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204915&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 국제교류팀 (~2022-10-11)
+
+* **[[Ajou International Day 2022] Booth/Performance Participants Recruiting](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204914&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 국제교류팀 (~2022-10-11)
 
 * **[[혁신공유단] 혁신공유단에서 미래자동차 관련 도서 및 노트북을 빌려드립니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204913&amp;article.offset=0&amp;articleLimit=30)**
@@ -95,12 +104,3 @@
 
 * **[2022년 영주시 대학생 학자금 대출이자 지원 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204779&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-10-07)
-
-* **[[봉사활동] (대한민국교육봉사단) 고등학생 진로멘토링 대학생 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204777&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-10-07)
-
-* **[[중앙도서관] 메타버스 도서관 ver.2 오픈 기념 이벤트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204774&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-10-07)
-
-* **[[대학일자리플러스센터]대학일자리플러스센터 서비스 모아보기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204772&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-07)
