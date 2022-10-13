@@ -15,7 +15,10 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[[대학원 경영] 10/19일(수), 2023학년도 전기 모집 대학원 경영학과 입시간담회가 진행되오니 관심있는 학부생들의 많은 참여부탁드립니다!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205035&amp;article.offset=0&amp;articleLimit=30)**
+* **[[대학일자리플러스센터]청년과학기술인 일자리박람회(수도권_세종대) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205037&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-13)
+
+* **[[대학원 경영]10/19일(수), 2023학년도 전기 모집 대학원 경영학과 입시간담회가 진행되오니 관심있는 학생분들의 많은 참여부탁드립니다!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205035&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 경영대학 (~2022-10-13)
 
 * **[[대학원 분자과학기술학과] 2023학년도 전기 입시 일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205030&amp;article.offset=0&amp;articleLimit=30)**
@@ -101,6 +104,3 @@
 
 * **[[대학일자리플러스센터] SK하이닉스의 &#x27;반도체인재양성&#x27;과정 Hy-Po(하이포) 청년참여자 모집 안내(~10/24)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204891&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-10-11)
-
-* **[[봉사활동] 아름학교 현장체험학습에 필요한 중증장애학생 지원 교육활동 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204889&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-10-11)
