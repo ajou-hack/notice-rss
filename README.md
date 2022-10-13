@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학원 경영] 10/19일(수), 2023학년도 전기 모집 대학원 경영학과 입시간담회가 진행되오니 관심있는 학부생들의 많은 참여부탁드립니다!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205035&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 경영대학 (~2022-10-13)
+
+* **[[대학원 분자과학기술학과] 2023학년도 전기 입시 일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205030&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 분자과학기술학과 (~2022-10-13)
+
 * **[(재공지)[메이커스페이스] 감각적인 3D모델링을 위한 스케치업 기초교육수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205026&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-10-13)
 
@@ -98,9 +104,3 @@
 
 * **[[봉사활동] 아름학교 현장체험학습에 필요한 중증장애학생 지원 교육활동 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204889&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-10-11)
-
-* **[[LINC 3.0] 2022 동계 현장실습 진행 일정안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204884&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2022-10-11)
-
-* **[[국제교류팀] 22-동계 1차 해외단기파견 설명회 (10.12. (수) 15시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204871&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2022-10-11)
