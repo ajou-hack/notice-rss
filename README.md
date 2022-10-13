@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[혁신공유단] 2022학년도 충북대학교 동계계절학기 수강신청 안내(자율주행PG응용)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204993&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 혁신공유단 (~2022-10-13)
+
+* **[10/14(금), 대학원 비즈니스애널리틱스학과 입시설명회 진행 (맛있는 간식&amp;기프티콘 제공)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204991&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 경영대학 (~2022-10-13)
+
+* **[[교육대학원] 2023학년도 전기(정시) 교육대학원 석사학위과정(야간) 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204990&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 교육대학원 (~2022-10-13)
+
 * **[보안 패치 작업으로 인한 전산 서비스 일시 중단 안내(22.10.14 / 22:00~22:30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204983&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-10-13)
 
@@ -95,12 +104,3 @@
 
 * **[[메이커스페이스] 감각적인 3D모델링을 위한 스케치업 기초교육수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204852&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-10-11)
-
-* **[[교육대학원] 아주대생을 위한 교육대학원 입학 설명회에 초대합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204850&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 교육대학원 (~2022-10-11)
-
-* **[[총동문회] 선배가 쏜다! 빤닭빤닭 중간고사 간식 이벤트 (추가)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204848&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 총동문회 (~2022-10-11)
-
-* **[[대학원 비즈니스애널리틱스학과] 2023학년도 전기 모집 입시설명회 개최 및 사전참여신청 진행(2차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204845&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 경영대학 (~2022-10-11)
