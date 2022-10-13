@@ -15,6 +15,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[보안 패치 작업으로 인한 전산 서비스 일시 중단 안내(22.10.14 / 22:00~22:30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204983&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2022-10-13)
+
+* **[[대학원 인공지능학과] 2023학년도 전기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204982&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 소프트웨어융합대학 교학팀 (~2022-10-13)
+
+* **[[다산학부대학] 2022년 다산고전&amp;토론 페스티벌 대회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204979&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 다산학부대학 교학팀 (~2022-10-13)
+
+* **[[대학원 AI융합네트워크학과] 2023학년도 전기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204978&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 소프트웨어융합대학교학팀 (~2022-10-13)
+
+* **[[재공지] 코로나극복장학(바르게장학)신청_2022.10.24.(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204977&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-10-13)
+
 * **[[교육대학원] 아주대생을 위한 교육대학원 입학 설명회에 초대합니다! (재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204974&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 교육대학원 (~2022-10-12)
 
@@ -89,18 +104,3 @@
 
 * **[[대학원 비즈니스애널리틱스학과] 2023학년도 전기 모집 입시설명회 개최 및 사전참여신청 진행(2차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204845&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 경영대학 (~2022-10-11)
-
-* **[[메이커스페이스] 파이썬 데이터 분석 입문 기초교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204841&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-10-11)
-
-* **[[시설팀] 2022학년도 동절기 난방시행계획 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204830&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2022-10-11)
-
-* **[2022학년도 연구실 안전 공모전 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204826&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 안전관리센터 (~2022-10-11)
-
-* **[[봉사활동] (대사협) 43기 월드프렌즈코리아 청년봉사단 해외봉사 단원 모집( ~10/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204823&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-10-11)
-
-* **[(재공지)[비교과교육지원센터] 아주허브 홍보영상 제작 공모전(9/13~10/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204820&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2022-10-11)
