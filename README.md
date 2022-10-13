@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지)[메이커스페이스] 감각적인 3D모델링을 위한 스케치업 기초교육수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205026&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-10-13)
+
+* **[(재공지)[메이커스페이스] 파이썬 데이터 분석 입문 기초교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205025&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-10-13)
+
+* **[2023학년도 아주대학교 입학전형 면접진행스태프 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205023&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 입학팀 (~2022-10-13)
+
 * **[[혁신공유단] 2022학년도 충북대학교 동계계절학기 수강신청 안내(자율주행PG응용)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204993&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 혁신공유단 (~2022-10-13)
 
@@ -95,12 +104,3 @@
 
 * **[[국제교류팀] 22-동계 1차 해외단기파견 설명회 (10.12. (수) 15시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204871&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-10-11)
-
-* **[(학사과정)2022-동계 계절학기 국내대학 학점교류 신청 안내(22.10.11.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204870&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-10-11)
-
-* **[[학습법] 2022-2학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204856&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-10-11)
-
-* **[[메이커스페이스] 감각적인 3D모델링을 위한 스케치업 기초교육수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204852&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-10-11)
