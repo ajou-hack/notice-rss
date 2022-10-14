@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[다산학부대학] 2022-2 교양과목 중간고사 대학원생 감독자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205061&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-10-14)
+
+* **[[봉사활동] 2022 월드프렌즈코리아 KOICA-NGO봉사단 단원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205060&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-10-14)
+
 * **[[(주)한국무역정보통신] 신입채용 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205051&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 경영대학교학팀 (~2022-10-14)
 
@@ -98,9 +104,3 @@
 
 * **[[메이커스페이스] 야, 너두 만들 수 있어!(석고트레이 과정-오후반/저녁반) 교육생 모집(10/13)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204906&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-10-11)
-
-* **[(1학년 외국인 유학생) 22-2학기 슬기로운 한국어 학술모임 모집(~10.21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204900&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 글로벌교양학부 (~2022-10-11)
-
-* **[[대학원 경영학과] 2023학년도 전기 모집 입시간담회 진행 및 사전참여신청 안내 (신청기간:~10/14일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204899&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 경영대학 (~2022-10-11)
