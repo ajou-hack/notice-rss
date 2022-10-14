@@ -15,6 +15,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[연장안내][교외장학] 2022-2학기 송화재단 장학생 선발 안내 (~10/19까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205074&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-10-14)
+
+* **[[지식재산] 2022-2 지식재산기반 시제품 제작 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205073&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 소프트웨어융합대학교학팀 (~2022-10-14)
+
+* **[[지식재산] 2022-2 지식재산기반 특허 경진대회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205072&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 소프트웨어융합대학교학팀 (~2022-10-14)
+
+* **[[지식재산] 2022-2 지식재산 창업 및 사업화 발명아이디어 경진대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205071&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 소프트웨어융합대학교학팀 (~2022-10-14)
+
+* **[[지식재산] 2022-2 지식재산능력시험(IPAT) 응시관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205070&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 소프트웨어융합대학교학팀 (~2022-10-14)
+
 * **[[아주통일연구소] &#x27;한반도 비전 토크&#x27; 동아리 2022 신규회원 추가모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205069&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 아주통일연구소 (~2022-10-14)
 
@@ -89,18 +104,3 @@
 
 * **[2022 스마트 수·과학실 참가자 모집 안내 (중학생 – 정보과학) (10.11 ~ 10.17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204943&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 과학영재교육원 (~2022-10-12)
-
-* **[[교외장학] 2022년 2학기 서울희망 대학 장학 장학생 추가 선발공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204925&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-10-12)
-
-* **[[아주강좌] 제 476회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204924&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-10-12)
-
-* **[[Ajou International Day 2022] 자원봉사자 및 장기자랑 참가자 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204915&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 국제교류팀 (~2022-10-11)
-
-* **[[Ajou International Day 2022] Booth/Performance Participants Recruiting](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204914&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 국제교류팀 (~2022-10-11)
-
-* **[[혁신공유단] 혁신공유단에서 미래자동차 관련 도서 및 노트북을 빌려드립니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204913&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신공유단 (~2022-10-11)
