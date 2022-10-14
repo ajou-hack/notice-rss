@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[홍보] (창업중심대학 오픈이노베이션)한양대X교보생명 스타트업 파트너(AI, 빅데이터 분야) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205067&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-10-14)
+
 * **[[다산학부대학] 2022-2 교양과목 중간고사 대학원생 감독자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205061&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-10-14)
 
@@ -100,7 +103,4 @@
  [비교과] - 비교과교육지원센터 (~2022-10-11)
 
 * **[[메이커스페이스] 3D프린터 운용기능사 실기 출력 무료지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204907&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-10-11)
-
-* **[[메이커스페이스] 야, 너두 만들 수 있어!(석고트레이 과정-오후반/저녁반) 교육생 모집(10/13)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204906&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-10-11)
