@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[아주통일연구소] &#x27;한반도 비전 토크&#x27; 동아리 2022 신규회원 추가모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205069&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 아주통일연구소 (~2022-10-14)
+
+* **[[대학일자리플러스센터] 10월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205068&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-14)
+
 * **[[홍보] (창업중심대학 오픈이노베이션)한양대X교보생명 스타트업 파트너(AI, 빅데이터 분야) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205067&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-10-14)
 
@@ -98,9 +104,3 @@
 
 * **[[혁신공유단] 혁신공유단에서 미래자동차 관련 도서 및 노트북을 빌려드립니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204913&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 혁신공유단 (~2022-10-11)
-
-* **[[비교과교육지원센터](1,2학년 대상)아주허브에서 10월 퀴즈 풀고 스타벅스 쿠폰 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204912&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2022-10-11)
-
-* **[[메이커스페이스] 3D프린터 운용기능사 실기 출력 무료지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204907&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-10-11)
