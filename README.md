@@ -15,6 +15,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학원 경영] 10/19일(수), 대학원 경영학과 입시간담회 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205080&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 경영대학 (~2022-10-14)
+
+* **[[대학일자리플러스센터] 이미지 메이킹_퍼스널컬러 개별 진단과 이미지 컨설팅 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205079&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-14)
+
+* **[[학부] 2022-2학기 미등록자 최종 구제등록 안내(10.24. ~ 10.27. / 미등록시 제적처리)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205077&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 재무회계팀 (~2022-10-14)
+
+* **[[교외장학] 자립준비청년 2023년 대학생 교육비 지원사업 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205076&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-10-14)
+
 * **[[연장안내][교외장학] 2022-2학기 송화재단 장학생 선발 안내 (~10/19까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205074&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-10-14)
 
@@ -92,15 +104,3 @@
 
 * **[[교육대학원] 아주대생을 위한 교육대학원 입학 설명회에 초대합니다! (재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204974&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 교육대학원 (~2022-10-12)
-
-* **[[재공지][교외장학] 2022-2학기 송화재단 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204959&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-10-12)
-
-* **[10/14(금), 일반대학원 비즈니스애널리틱스학과에서 2023학년도 전기 모집 입시설명회를 개최합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204951&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 경영대학 (~2022-10-12)
-
-* **[2022년 상반기분 통영시 대학생 학자금 이자 지원 사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204946&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-10-12)
-
-* **[2022 스마트 수·과학실 참가자 모집 안내 (중학생 – 정보과학) (10.11 ~ 10.17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204943&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 과학영재교육원 (~2022-10-12)
