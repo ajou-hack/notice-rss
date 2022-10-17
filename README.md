@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205091&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-10-17)
+
+* **[[비교과교육지원센터] (1,2학년 대상)아주허브에서 퀴즈 풀고 스타벅스 쿠폰 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205086&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2022-10-17)
+
 * **[[대학원 경영] 10/19일(수), 대학원 경영학과 입시간담회 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205080&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 경영대학 (~2022-10-14)
 
@@ -98,9 +104,3 @@
 
 * **[[대학원 AI융합네트워크학과] 2023학년도 전기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204978&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 소프트웨어융합대학교학팀 (~2022-10-13)
-
-* **[[재공지] 코로나극복장학(바르게장학)신청_2022.10.24.(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204977&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-10-13)
-
-* **[[교육대학원] 아주대생을 위한 교육대학원 입학 설명회에 초대합니다! (재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204974&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 교육대학원 (~2022-10-12)
