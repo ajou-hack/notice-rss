@@ -15,6 +15,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[교외장학] 2023년도 두산연강재단 대학 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205140&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-10-17)
+
+* **[[다산학부대학] 2022 추계전국학술대회 진행 보조원 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205139&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 다산학부대학 교학팀 (~2022-10-17)
+
+* **[[학생상담소] &quot;내가 &#x27;AJOU-찐천재&#x27;가 될 상인가?&quot; - 집단상담 프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205138&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생상담소 (~2022-10-17)
+
+* **[[학생상담소] &#x27;그림으로 만나는 나&#x27; (그림검사를 통한 자기이해와 힐링워크샵) 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205135&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생상담소 (~2022-10-17)
+
 * **[[학부][수정 공지] 2022-2학기 미등록자 최종 구제등록 안내(10.24. ~ 10.27. / 미등록시 제적처리)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205132&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 재무회계팀 (~2022-10-17)
 
@@ -92,15 +104,3 @@
 
 * **[(마감)[다산학부대학] 2022-2 교양과목 중간고사 대학원생 감독자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205061&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-10-14)
-
-* **[[봉사활동] 2022 월드프렌즈코리아 KOICA-NGO봉사단 단원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205060&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-10-14)
-
-* **[[(주)한국무역정보통신] 신입채용 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205051&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 경영대학교학팀 (~2022-10-14)
-
-* **[[대학일자리플러스센터]청년과학기술인 일자리박람회(수도권_세종대) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205037&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-13)
-
-* **[[대학원 경영]10/19일(수), 2023학년도 전기 모집 대학원 경영학과 입시간담회가 진행되오니 관심있는 학생분들의 많은 참여부탁드립니다!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205035&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 경영대학 (~2022-10-13)
