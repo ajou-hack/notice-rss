@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(한국연구재단)2022학년도 1학기 혁신공유대학수업 표준공동교과목 만족도조사 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205117&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 혁신공유단 (~2022-10-17)
+
 * **[[공학교육혁신센터] 2022학년도 2학기 학생상담 안내 (12.29.까지)* 금학기 연장 없음*](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205111&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 공학교육혁신센터 (~2022-10-17)
 
@@ -101,6 +104,3 @@
 
 * **[[혁신공유단] 2022학년도 충북대학교 동계계절학기 수강신청 안내(자율주행PG응용)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204993&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 혁신공유단 (~2022-10-13)
-
-* **[10/14(금), 대학원 비즈니스애널리틱스학과 입시설명회 진행 (맛있는 간식&amp;기프티콘 제공)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204991&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 경영대학 (~2022-10-13)
