@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학부][수정 공지] 2022-2학기 미등록자 최종 구제등록 안내(10.24. ~ 10.27. / 미등록시 제적처리)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205132&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 재무회계팀 (~2022-10-17)
+
+* **[[다산학부대학] 2022-2 아주Debate 토론 대회 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205131&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 다산학부대학 교학팀 (~2022-10-17)
+
+* **[[메이커스페이스] 초보도 Pro처럼 능숙하게, 프리미어 프로 기초교육 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205130&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-10-17)
+
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205129&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-10-17)
 
@@ -33,7 +42,7 @@
 * **[[봉사활동] 한마음혈액원 교내 사랑의 헌혈캠페인 안내 (10/19)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205107&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2022-10-17)
 
-* **[(재공지)[다산학부대학] 2022-2 교양과목 중간고사 대학원생 감독자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205106&amp;article.offset=0&amp;articleLimit=30)**
+* **[(마감)(재공지)[다산학부대학] 2022-2 교양과목 중간고사 대학원생 감독자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205106&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-10-17)
 
 * **[[학습법] 2022-2학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집(기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205105&amp;article.offset=0&amp;articleLimit=30)**
@@ -53,9 +62,6 @@
 
 * **[[대학일자리플러스센터] 이미지 메이킹_퍼스널컬러 개별 진단과 이미지 컨설팅 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205079&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-10-14)
-
-* **[[학부] 2022-2학기 미등록자 최종 구제등록 안내(10.24. ~ 10.27. / 미등록시 제적처리)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205077&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 재무회계팀 (~2022-10-14)
 
 * **[[교외장학] 자립준비청년 2023년 대학생 교육비 지원사업 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205076&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-10-14)
@@ -84,7 +90,7 @@
 * **[[홍보] (창업중심대학 오픈이노베이션)한양대X교보생명 스타트업 파트너(AI, 빅데이터 분야) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205067&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-10-14)
 
-* **[[다산학부대학] 2022-2 교양과목 중간고사 대학원생 감독자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205061&amp;article.offset=0&amp;articleLimit=30)**
+* **[(마감)[다산학부대학] 2022-2 교양과목 중간고사 대학원생 감독자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205061&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-10-14)
 
 * **[[봉사활동] 2022 월드프렌즈코리아 KOICA-NGO봉사단 단원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205060&amp;article.offset=0&amp;articleLimit=30)**
@@ -98,9 +104,3 @@
 
 * **[[대학원 경영]10/19일(수), 2023학년도 전기 모집 대학원 경영학과 입시간담회가 진행되오니 관심있는 학생분들의 많은 참여부탁드립니다!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205035&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 경영대학 (~2022-10-13)
-
-* **[[대학원 분자과학기술학과] 2023학년도 전기 입시 일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205030&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 분자과학기술학과 (~2022-10-13)
-
-* **[(재공지)[메이커스페이스] 감각적인 3D모델링을 위한 스케치업 기초교육수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205026&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-10-13)
