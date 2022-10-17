@@ -15,6 +15,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[공학교육혁신센터] 2022학년도 2학기 학생상담 안내 (12.29.까지)* 금학기 연장 없음*](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205111&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 공학교육혁신센터 (~2022-10-17)
+
+* **[[봉사활동] 한마음혈액원 교내 사랑의 헌혈캠페인 안내 (10/19)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205107&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-10-17)
+
+* **[(재공지)[다산학부대학] 2022-2 교양과목 중간고사 대학원생 감독자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205106&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-10-17)
+
+* **[[학습법] 2022-2학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집(기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205105&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-10-17)
+
+* **[[학습법] 2022-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205104&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-10-17)
+
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205091&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-10-17)
 
@@ -89,18 +104,3 @@
 
 * **[10/14(금), 대학원 비즈니스애널리틱스학과 입시설명회 진행 (맛있는 간식&amp;기프티콘 제공)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204991&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 경영대학 (~2022-10-13)
-
-* **[[교육대학원] 2023학년도 전기(정시) 교육대학원 석사학위과정(야간) 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204990&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 교육대학원 (~2022-10-13)
-
-* **[보안 패치 작업으로 인한 전산 서비스 일시 중단 안내(22.10.14 / 22:00~22:30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204983&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2022-10-13)
-
-* **[[대학원 인공지능학과] 2023학년도 전기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204982&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 소프트웨어융합대학 교학팀 (~2022-10-13)
-
-* **[[다산학부대학] 2022년 다산고전&amp;토론 페스티벌 대회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204979&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 다산학부대학 교학팀 (~2022-10-13)
-
-* **[[대학원 AI융합네트워크학과] 2023학년도 전기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=204978&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 소프트웨어융합대학교학팀 (~2022-10-13)
