@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 10/27(목) 합격률을 높이는 면접이미지메이킹 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205174&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-18)
+
+* **[[교직원 대상 특강]대학생 진로코칭 교육 - &#x27;직업&#x27;이 아닌 &#x27;업직&#x27;을 찾아서](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205173&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-18)
+
 * **[[학습법] 2022-2학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205153&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-10-18)
 
@@ -98,9 +104,3 @@
 
 * **[[아주통일연구소] &#x27;한반도 비전 토크&#x27; 동아리 2022 신규회원 추가모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205069&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 아주통일연구소 (~2022-10-14)
-
-* **[[대학일자리플러스센터] 10월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205068&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-14)
-
-* **[[홍보] (창업중심대학 오픈이노베이션)한양대X교보생명 스타트업 파트너(AI, 빅데이터 분야) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205067&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-10-14)
