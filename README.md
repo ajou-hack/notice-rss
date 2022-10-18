@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[무료교육/수당지급] 인공지능(스마트공장) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205187&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2022-10-18)
+
 * **[[중앙도서관] 북(book)적 북(book)적 책 만들기 이벤트 안내 (11.01~11.14)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205183&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-10-18)
 
@@ -100,7 +103,4 @@
  [장학] - 학생지원팀 (~2022-10-14)
 
 * **[[지식재산] 2022-2 지식재산기반 시제품 제작 대상 선별회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205073&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 소프트웨어융합대학교학팀 (~2022-10-14)
-
-* **[[지식재산] 2022-2 지식재산기반 특허 경진대회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205072&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 소프트웨어융합대학교학팀 (~2022-10-14)
