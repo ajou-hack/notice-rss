@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 2022-2학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205153&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-10-18)
+
 * **[[교외장학] 2023년도 두산연강재단 대학 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205140&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-10-17)
 
@@ -81,7 +84,7 @@
 * **[[연장안내][교외장학] 2022-2학기 송화재단 장학생 선발 안내 (~10/19까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205074&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-10-14)
 
-* **[[지식재산] 2022-2 지식재산기반 시제품 제작 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205073&amp;article.offset=0&amp;articleLimit=30)**
+* **[[지식재산] 2022-2 지식재산기반 시제품 제작 대상 선별회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205073&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 소프트웨어융합대학교학팀 (~2022-10-14)
 
 * **[[지식재산] 2022-2 지식재산기반 특허 경진대회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205072&amp;article.offset=0&amp;articleLimit=30)**
@@ -101,6 +104,3 @@
 
 * **[[홍보] (창업중심대학 오픈이노베이션)한양대X교보생명 스타트업 파트너(AI, 빅데이터 분야) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205067&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-10-14)
-
-* **[(마감)[다산학부대학] 2022-2 교양과목 중간고사 대학원생 감독자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205061&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-10-14)
