@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[아주대학교 기업협업센터(ICC) 참여교원/참여기업 융복합 산학 교류회 개최(10.26 (목))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205179&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2022-10-18)
+
+* **[기숙사식당 운영 업체 선정 결과 및 오픈 일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205176&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-10-18)
+
 * **[[대학일자리플러스센터] 10/27(목) 합격률을 높이는 면접이미지메이킹 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205174&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-10-18)
 
@@ -98,9 +104,3 @@
 
 * **[[지식재산] 2022-2 지식재산 창업 및 사업화 발명아이디어 경진대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205071&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 소프트웨어융합대학교학팀 (~2022-10-14)
-
-* **[[지식재산] 2022-2 지식재산능력시험(IPAT) 응시관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205070&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 소프트웨어융합대학교학팀 (~2022-10-14)
-
-* **[[아주통일연구소] &#x27;한반도 비전 토크&#x27; 동아리 2022 신규회원 추가모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205069&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 아주통일연구소 (~2022-10-14)
