@@ -1,6 +1,6 @@
 # 최근 공지사항
 
-* **[📌 [공지] 교직원퇴직자, 학부 및 대학원 졸업자(제적생 포함) 구글드라이브(공유드라이브 포함) 정리 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202858&amp;article.offset=0&amp;articleLimit=30)**
+* **[📌 [공지] 학부 및 대학원생 / 교직원퇴직자, 학부 및 대학원 졸업자(제적생 포함) 구글드라이브(공유드라이브 포함) 정리 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202858&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-08-17)
 
 * **[📌 [공지] [학부학생필독!!] 전자출결시스템 사용 매뉴얼 (전자출석부 사용법)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192571&amp;article.offset=0&amp;articleLimit=30)**
@@ -14,6 +14,39 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[2022 CO-WEEK Academy 추가 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205213&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 혁신공유단 (~2022-10-19)
+
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205212&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-10-19)
+
+* **[비타민 데이](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205209&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 보건진료소 (~2022-10-19)
+
+* **[율곡관 지하 혁신공유라운지 중간고사기간 연장개방 안내(~11:30pm)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205207&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신공유팀 (~2022-10-19)
+
+* **[[재공지] 2023학년도 전기 &#x27;대학원의 날&#x27;에 여러분을 초대합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205206&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 대학원교학팀 (~2022-10-19)
+
+* **[[봉사활동] (당일재공지) 한마음혈액원 교내 사랑의 헌혈캠페인 안내 (10/19)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205205&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2022-10-19)
+
+* **[(재공지) [지식재산] 2022-2 지식재산기반 시제품 제작 대상 선별회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205203&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 소프트웨어융합대학교학팀 (~2022-10-19)
+
+* **[(재공지) [지식재산] 2022-2 지식재산기반 특허 경진대회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205202&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 소프트웨어융합대학교학팀 (~2022-10-19)
+
+* **[(재공지) [지식재산] 2022-2 지식재산 창업 및 사업화 발명아이디어 경진대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205199&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 소프트웨어융합대학교학팀 (~2022-10-19)
+
+* **[(재공지) [지식재산] 2022-2 지식재산능력시험(IPAT) 응시관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205198&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 소프트웨어융합대학교학팀 (~2022-10-19)
+
+* **[[대학일자리플러스센터] &lt;10/20 교내현장면접&gt;앰코테크놀로지코리아 추천채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205194&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-19)
 
 * **[[무료교육/수당지급] 인공지능(스마트공장) 전문인력양성 교육생모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205187&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2022-10-18)
@@ -71,36 +104,3 @@
 
 * **[[공학교육혁신센터] 2022학년도 2학기 학생상담 안내 (12.29.까지)* 금학기 연장 없음*](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205111&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 공학교육혁신센터 (~2022-10-17)
-
-* **[[봉사활동] 한마음혈액원 교내 사랑의 헌혈캠페인 안내 (10/19)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205107&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-10-17)
-
-* **[(마감)(재공지)[다산학부대학] 2022-2 교양과목 중간고사 대학원생 감독자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205106&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-10-17)
-
-* **[[학습법] 2022-2학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집(기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205105&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-10-17)
-
-* **[[학습법] 2022-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205104&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-10-17)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205091&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-10-17)
-
-* **[[비교과교육지원센터] (1,2학년 대상)아주허브에서 퀴즈 풀고 스타벅스 쿠폰 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205086&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2022-10-17)
-
-* **[[대학원 경영] 10/19일(수), 대학원 경영학과 입시간담회 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205080&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 경영대학 (~2022-10-14)
-
-* **[[대학일자리플러스센터] 이미지 메이킹_퍼스널컬러 개별 진단과 이미지 컨설팅 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205079&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-14)
-
-* **[[교외장학] 자립준비청년 2023년 대학생 교육비 지원사업 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205076&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-10-14)
-
-* **[[연장안내][교외장학] 2022-2학기 송화재단 장학생 선발 안내 (~10/19까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205074&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-10-14)
-
-* **[[지식재산] 2022-2 지식재산기반 시제품 제작 대상 선별회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205073&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 소프트웨어융합대학교학팀 (~2022-10-14)
