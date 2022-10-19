@@ -15,6 +15,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지)[비교과교육지원센터] 아주허브 홍보영상 제작 공모전(9/13~10/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205224&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2022-10-19)
+
+* **[비타민데이 종료](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205223&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 보건진료소 (~2022-10-19)
+
+* **[[메이커스페이스] 운영일자 변경안내 (2022.10.19-10.27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205219&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-10-19)
+
+* **[[대학일자리플러스센터] 유튜브 구독 이벤트! ㅣ 대학일자리플러스센터 유튜브 영상을 감상하면 치킨이?!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205216&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-19)
+
 * **[2022 CO-WEEK Academy 추가 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205213&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 혁신공유단 (~2022-10-19)
 
@@ -92,15 +104,3 @@
 
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205129&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-10-17)
-
-* **[[대학일자리플러스센터] 앰코테크놀로지코리아 학교 추천 전형 (10/20 교내 면접 진행)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205127&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-17)
-
-* **[[교외장학] 제 19기 순득장학재단 장학생 추천 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205125&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-10-17)
-
-* **[(한국연구재단)2022학년도 1학기 혁신공유대학수업 표준공동교과목 만족도조사 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205117&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 혁신공유단 (~2022-10-17)
-
-* **[[공학교육혁신센터] 2022학년도 2학기 학생상담 안내 (12.29.까지)* 금학기 연장 없음*](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205111&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 공학교육혁신센터 (~2022-10-17)
