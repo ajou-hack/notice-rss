@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[박물관] 특별기획전 전시 해설 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205235&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 박물관 (~2022-10-19)
+
+* **[(재공지)[다산학부대학] 2022-2 아주Debate 토론대회 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205234&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 다산학부대학 교학팀 (~2022-10-19)
+
+* **[[박물관] 제 45회 교양문화강좌 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205233&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 박물관 (~2022-10-19)
+
 * **[2022년 동계 국제학부 해외현장조사 모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205230&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제학부 (~2022-10-19)
 
@@ -95,12 +104,3 @@
 
 * **[[학생상담소] &quot;내가 &#x27;AJOU-찐천재&#x27;가 될 상인가?&quot; - 집단상담 프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205138&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생상담소 (~2022-10-17)
-
-* **[[학생상담소] &#x27;그림으로 만나는 나&#x27; (그림검사를 통한 자기이해와 힐링워크샵) 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205135&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생상담소 (~2022-10-17)
-
-* **[[학부][수정 공지] 2022-2학기 미등록자 최종 구제등록 안내(10.24. ~ 10.27. / 미등록시 제적처리)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205132&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 재무회계팀 (~2022-10-17)
-
-* **[[다산학부대학] 2022-2 아주Debate 토론 대회 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205131&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 다산학부대학 교학팀 (~2022-10-17)
