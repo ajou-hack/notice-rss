@@ -15,6 +15,24 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[LINC 3.0] AJOU-Stars 액셀러레이팅 창업교육(2차) 안내(10/27(목) 15시-17시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205279&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 산학사업팀(창업교육센터) (~2022-10-20)
+
+* **[2022 &#x27;찾아가는 맞춤형 세무상담&#x27; 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205276&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2022-10-20)
+
+* **[[지식재산] [신산업IP융합인재양성사업] 2022년 2학기 신산업분야 지식재산 교수교육 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205272&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 소프트웨어융합대학교학팀 (~2022-10-20)
+
+* **[[공학교육혁신센터] 2022 캡스톤 디자인 경진대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205271&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2022-10-20)
+
+* **[개인형 이동장치 안전수칙 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205264&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2022-10-20)
+
+* **[[교외장학] 2022년도 하반기 강화군 대학생 등록금 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205262&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-10-20)
+
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205256&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-10-19)
 
@@ -86,21 +104,3 @@
 
 * **[[중앙도서관] 북(book)적 북(book)적 책 만들기 이벤트 안내 (11.01~11.14)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205183&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-10-18)
-
-* **[아주대학교 기업협업센터(ICC) 참여교원/참여기업 융복합 산학 교류회 개최(10.26 (목))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205179&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2022-10-18)
-
-* **[기숙사식당 운영 업체 선정 결과 및 오픈 일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205176&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-10-18)
-
-* **[[대학일자리플러스센터] 10/27(목) 합격률을 높이는 면접이미지메이킹 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205174&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-18)
-
-* **[[교직원 대상 특강]대학생 진로코칭 교육 - &#x27;직업&#x27;이 아닌 &#x27;업직&#x27;을 찾아서](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205173&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-18)
-
-* **[[학습법] 2022-2학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205153&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-10-18)
-
-* **[[교외장학] 2023년도 두산연강재단 대학 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205140&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-10-17)
