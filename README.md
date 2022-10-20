@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 금주의 추천채용_넥센/삼화콘덴서공업/드림라인](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205323&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-20)
+
 * **[11월 파이썬 기초/심화 zoom집중교육 신청안내_미래자동차신기술아카데미](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205317&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신공유팀 (~2022-10-20)
 
@@ -30,7 +33,7 @@
 * **[[LINC 3.0] AJOU-Stars 액셀러레이팅 창업교육(2차) 안내(10/27(목) 15시-17시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205279&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀(창업교육센터) (~2022-10-20)
 
-* **[2022 &#x27;찾아가는 맞춤형 세무상담&#x27; 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205276&amp;article.offset=0&amp;articleLimit=30)**
+* **[[LINC 3.0] 2022 &#x27;찾아가는 맞춤형 세무상담&#x27; 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205276&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학사업팀 (~2022-10-20)
 
 * **[[지식재산] [신산업IP융합인재양성사업] 2022년 2학기 신산업분야 지식재산 교수교육 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205272&amp;article.offset=0&amp;articleLimit=30)**
@@ -45,7 +48,7 @@
 * **[[교외장학] 2022년도 하반기 강화군 대학생 등록금 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205262&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-10-20)
 
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205256&amp;article.offset=0&amp;articleLimit=30)**
+* **[[날짜수정] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205256&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-10-19)
 
 * **[[학생지원팀] 2022-2학기 토론학습실 운영시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205249&amp;article.offset=0&amp;articleLimit=30)**
@@ -100,7 +103,4 @@
  [비교과] - 소프트웨어융합대학교학팀 (~2022-10-19)
 
 * **[(재공지) [지식재산] 2022-2 지식재산기반 특허 경진대회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205202&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 소프트웨어융합대학교학팀 (~2022-10-19)
-
-* **[(재공지) [지식재산] 2022-2 지식재산 창업 및 사업화 발명아이디어 경진대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205199&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 소프트웨어융합대학교학팀 (~2022-10-19)
