@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학생상담소] 내가 &#x27;AJOU-찐천재&#x27;가 될 상인가? - 집단상담 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205370&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생상담소 (~2022-10-21)
+
+* **[Ajou International Day 2022 FAQ(KOR)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205369&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 국제교류팀 (~2022-10-21)
+
+* **[Ajou International Day 2022 FAQ(ENG)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205368&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 국제교류팀 (~2022-10-21)
+
 * **[[유학생 채용] ㈜ Hyundai Transys Inc 추천 채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205365&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-10-21)
 
@@ -95,12 +104,3 @@
 
 * **[(재공지)[다산학부대학] 2022-2 아주Debate 토론대회 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205234&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 다산학부대학 교학팀 (~2022-10-19)
-
-* **[[박물관] 제 45회 교양문화강좌 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205233&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 박물관 (~2022-10-19)
-
-* **[2022년 동계 국제학부 해외현장조사 모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205230&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제학부 (~2022-10-19)
-
-* **[[박물관] 제 29회 문화체험행사 안내 (선착순 모집)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205227&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 박물관 (~2022-10-19)
