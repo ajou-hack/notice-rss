@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205343&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-10-21)
+
+* **[(재공지)[다산학부대학] 2022년 다산고전&amp;토론 페스티벌 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205342&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 다산학부대학 교학팀 (~2022-10-21)
+
+* **[(재공지)[다산학부대학] 2022-2 아주Debate 토론대회 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205341&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 다산학부대학 교학팀 (~2022-10-21)
+
 * **[[대학일자리플러스센터] 휴학생 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205333&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-10-21)
 
@@ -95,12 +104,3 @@
 
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205212&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-10-19)
-
-* **[비타민 데이](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205209&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 보건진료소 (~2022-10-19)
-
-* **[율곡관 지하 혁신공유라운지 중간고사기간 연장개방 안내(~11:30pm)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205207&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신공유팀 (~2022-10-19)
-
-* **[[재공지] 2023학년도 전기 &#x27;대학원의 날&#x27;에 여러분을 초대합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205206&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 대학원교학팀 (~2022-10-19)
