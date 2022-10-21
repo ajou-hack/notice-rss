@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 영문 레쥬메&amp; 커버레터 첨삭 프로그램](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205360&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-21)
+
+* **[[대학일자리플러스센터] 월간자소서 11월호(기초 서류 작성법 특강 및 컨설팅)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205359&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-21)
+
+* **[[무료교육/수당지급] 스마트공장(인공지능)전문인력양성 교육생모집(마지막교육)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205358&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 기업지원센터 (~2022-10-21)
+
 * **[유학생 한국어 백일장 심사 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205353&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 글로벌교양학부 (~2022-10-21)
 
@@ -95,12 +104,3 @@
 
 * **[(재공지)[비교과교육지원센터] 아주허브 홍보영상 제작 공모전(9/13~10/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205224&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2022-10-19)
-
-* **[비타민데이 종료](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205223&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 보건진료소 (~2022-10-19)
-
-* **[[메이커스페이스] 운영일자 변경안내 (2022.10.19-10.27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205219&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-10-19)
-
-* **[[대학일자리플러스센터] 유튜브 구독 이벤트! ㅣ 대학일자리플러스센터 유튜브 영상을 감상하면 치킨이?!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205216&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-19)
