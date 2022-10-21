@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 휴학생 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205333&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-21)
+
+* **[(재공지)[LINC 3.0] 2022 동계 현장실습 재학생 사전 수요조사(~11/28까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205332&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2022-10-21)
+
+* **[[대학일자리플러스센터] 진로 JOBKey 로스쿨-변호사 선배 멘토링 초대](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205324&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-20)
+
 * **[[대학일자리플러스센터] 금주의 추천채용_넥센/삼화콘덴서공업/드림라인](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205323&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-10-20)
 
@@ -95,12 +104,3 @@
 
 * **[[재공지] 2023학년도 전기 &#x27;대학원의 날&#x27;에 여러분을 초대합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205206&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 대학원교학팀 (~2022-10-19)
-
-* **[[봉사활동] (당일재공지) 한마음혈액원 교내 사랑의 헌혈캠페인 안내 (10/19)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205205&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2022-10-19)
-
-* **[(재공지) [지식재산] 2022-2 지식재산기반 시제품 제작 대상 선별회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205203&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 소프트웨어융합대학교학팀 (~2022-10-19)
-
-* **[(재공지) [지식재산] 2022-2 지식재산기반 특허 경진대회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205202&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 소프트웨어융합대학교학팀 (~2022-10-19)
