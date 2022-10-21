@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[유학생 한국어 백일장 심사 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205353&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 글로벌교양학부 (~2022-10-21)
+
 * **[[대학일자리플러스센터] 10월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205351&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-10-21)
 
@@ -101,6 +104,3 @@
 
 * **[[대학일자리플러스센터] 유튜브 구독 이벤트! ㅣ 대학일자리플러스센터 유튜브 영상을 감상하면 치킨이?!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205216&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-10-19)
-
-* **[2022 CO-WEEK Academy 추가 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205213&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 혁신공유단 (~2022-10-19)
