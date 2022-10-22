@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 하반기 취업에 함께 성공하시겠어요?(취준생 컴피턴시 특강)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205372&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-21)
+
+* **[학교법인 대우학원 인사발령(제92호)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205371&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 총무팀 (~2022-10-21)
+
 * **[[학생상담소] 내가 &#x27;AJOU-찐천재&#x27;가 될 상인가? - 집단상담 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205370&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생상담소 (~2022-10-21)
 
@@ -98,9 +104,3 @@
 
 * **[[학생지원팀] 2022-2학기 토론학습실 운영시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205249&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2022-10-19)
-
-* **[[박물관] 특별기획전 전시 해설 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205235&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 박물관 (~2022-10-19)
-
-* **[(재공지)[다산학부대학] 2022-2 아주Debate 토론대회 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205234&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 다산학부대학 교학팀 (~2022-10-19)
