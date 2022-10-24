@@ -15,6 +15,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지)[SW융합교육원/SW중심대학] SW 활용 지식 동영상 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205414&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW융합교육원 (~2022-10-24)
+
+* **[[학습법] 히든 스피치 : 대면과 비대면에서의 발표 기술](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205413&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-10-24)
+
+* **[인조잔디구장(운동장) 예약안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205410&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 학생지원팀 (~2022-10-24)
+
+* **[[연장안내][교외장학] 2022-2학기 송화재단 장학생 선발 안내 (~10/26까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205408&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-10-24)
+
 * **[2022 아주 바이오 헬스사이언스 리서치페어 개최 (11.7(월) ~ 11.11(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205401&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 의과대학 교학팀 (~2022-10-24)
 
@@ -92,15 +104,3 @@
 
 * **[[대학일자리플러스센터] 휴학생 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205333&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-10-21)
-
-* **[(재공지)[LINC 3.0] 2022 동계 현장실습 재학생 사전 수요조사(~11/28까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205332&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2022-10-21)
-
-* **[[대학일자리플러스센터] 진로 JOBKey 로스쿨-변호사 선배 멘토링 초대](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205324&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-20)
-
-* **[[대학일자리플러스센터] 금주의 추천채용_넥센/삼화콘덴서공업/드림라인](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205323&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-20)
-
-* **[11월 파이썬 기초/심화 zoom집중교육 신청안내_미래자동차신기술아카데미](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205317&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 혁신공유팀 (~2022-10-20)
