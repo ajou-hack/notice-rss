@@ -15,6 +15,30 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[Ajou International Day 2022] Awards!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205449&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 국제교류팀 (~2022-10-24)
+
+* **[[Ajou International Day 2022] 자원봉사자 혜택 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205448&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 국제교류팀 (~2022-10-24)
+
+* **[[Ajou International Day 2022] IMPORTANT NOTICE](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205446&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 국제교류팀 (~2022-10-24)
+
+* **[[대학일자리플러스센터] 하반기 취업성공 핵심 역량 특강(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205445&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-24)
+
+* **[[대학일자리플러스센터] 면접 전략_이미지 메이킹_개별 진단과 이미지 컨설팅 참여자(2차) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205444&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-24)
+
+* **[3D프린터(SLA방식) 운용 기초교육(오후반) 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205443&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-10-24)
+
+* **[3D프린터(SLA방식) 운용 기초교육(오전반) 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205442&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-10-24)
+
+* **[[대학일자리플러스센터] 휴학생 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205431&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-24)
+
 * **[(재공지)[다산학부대학] 2022-2 아주Debate 토론대회 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205423&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 다산학부대학 교학팀 (~2022-10-24)
 
@@ -79,28 +103,4 @@
  [취업] - 대학일자리플러스센터 (~2022-10-24)
 
 * **[[대학일자리플러스센터] 하반기 취업에 함께 성공하시겠어요?(취준생 컴피턴시 특강)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205372&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-21)
-
-* **[학교법인 대우학원 인사발령(제92호)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205371&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 총무팀 (~2022-10-21)
-
-* **[[학생상담소] 내가 &#x27;AJOU-찐천재&#x27;가 될 상인가? - 집단상담 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205370&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생상담소 (~2022-10-21)
-
-* **[Ajou International Day 2022 FAQ(KOR)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205369&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 국제교류팀 (~2022-10-21)
-
-* **[Ajou International Day 2022 FAQ(ENG)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205368&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 국제교류팀 (~2022-10-21)
-
-* **[[유학생 채용] ㈜ Hyundai Transys Inc 추천 채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205365&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-21)
-
-* **[유학생 한국어 백일장 심사 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205361&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 글로벌교양학부 (~2022-10-21)
-
-* **[[대학일자리플러스센터] 영문 레쥬메&amp; 커버레터 첨삭 프로그램](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205360&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-21)
-
-* **[[대학일자리플러스센터] 월간자소서 11월호(기초 서류 작성법 특강 및 컨설팅)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205359&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-10-21)
