@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지)[박물관]제 45회 교양문화강좌 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205508&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 박물관 (~2022-10-25)
+
+* **[[무료 프로그램] 떨어져 사는 가족을 위한 문화예술 프로그램](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205507&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생상담소 (~2022-10-25)
+
+* **[[미래자동차 렉처시리즈] 11/9(수) 현직전문가 초청특강(퓨처 모빌리티 트렌드)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205500&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신공유팀 (~2022-10-25)
+
 * **[[학습법] 2022-2학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205495&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-10-25)
 
@@ -95,12 +104,3 @@
 
 * **[2022 아주 바이오 헬스사이언스 리서치페어 개최 (11.7(월) ~ 11.11(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205401&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 의과대학 교학팀 (~2022-10-24)
-
-* **[[기획팀]규정류 개정 공포(2022학년도 제9차 교무회의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205398&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2022-10-24)
-
-* **[(재공지) [지식재산] 2022-2 지식재산 창업 및 사업화 발명아이디어 경진대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205395&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 소프트웨어융합대학교학팀 (~2022-10-24)
-
-* **[(재공지) [지식재산] 2022-2 지식재산기반 특허 경진대회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205394&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 소프트웨어융합대학교학팀 (~2022-10-24)
