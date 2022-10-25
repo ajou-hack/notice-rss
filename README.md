@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 2022 겨울방학 토익사관학교 참여자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205521&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-25)
+
 * **[[수정][학부] 전공(복수,부,연계,심화전공) 신청 및 취소 기간 안내 (11.01.~11.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205519&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-10-25)
 
@@ -101,6 +104,3 @@
 
 * **[(재공지)[SW융합교육원/SW중심대학] SW 활용 지식 동영상 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205414&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW융합교육원 (~2022-10-24)
-
-* **[[학습법] 히든 스피치 : 대면과 비대면에서의 발표 기술](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205413&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-10-24)
