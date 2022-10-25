@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[수정][학부] 전공(복수,부,연계,심화전공) 신청 및 취소 기간 안내 (11.01.~11.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205519&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-10-25)
+
+* **[본교 통학버스(수원역, 광교중앙역) 운행시각 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205518&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-10-25)
+
+* **[2023학년도 아주대학교 입학전형 논술 진행스태프 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205516&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 입학팀 (~2022-10-25)
+
 * **[(재공지)[박물관]제 45회 교양문화강좌 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205508&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 박물관 (~2022-10-25)
 
@@ -95,12 +104,3 @@
 
 * **[[학습법] 히든 스피치 : 대면과 비대면에서의 발표 기술](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205413&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-10-24)
-
-* **[인조잔디구장(운동장) 예약안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205410&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 학생지원팀 (~2022-10-24)
-
-* **[[연장안내][교외장학] 2022-2학기 송화재단 장학생 선발 안내 (~10/26까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205408&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-10-24)
-
-* **[2022 아주 바이오 헬스사이언스 리서치페어 개최 (11.7(월) ~ 11.11(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205401&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 의과대학 교학팀 (~2022-10-24)
