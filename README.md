@@ -15,6 +15,24 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[교외장학] 세종인재평생교육진흥원 2022년 하반기 장학생 선발계획 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205480&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-10-25)
+
+* **[[비교과교육지원센터]아주허브 10월 퀴즈대회 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205479&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2022-10-25)
+
+* **[[대학일자리플러스센터] 11/03(목) 현직자가 알려주는 사례중심 면접전략 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205476&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-25)
+
+* **[2022학년도 2학기 파란학기제 중간교류회 온라인전시관 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205473&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2022-10-25)
+
+* **[[대학일자리플러스센터] 10/31(월)_채용공고분석 특강(3회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205469&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-25)
+
+* **[[AI in Future Medicine 2022] 심포지엄 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205460&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 의과대학 교학팀 (~2022-10-25)
+
 * **[[Ajou International Day 2022] Awards!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205449&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 국제교류팀 (~2022-10-24)
 
@@ -86,21 +104,3 @@
 
 * **[[모집] 2023학년도 전기 아주대학교 일반대학원 금융공학과 신입생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205390&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 경영대학교학팀 (~2022-10-24)
-
-* **[[대학일자리플러스센터] 2022 대학일자리플러스센터 청년정책 체감도 및 만족도 조사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205389&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-24)
-
-* **[(기간연장) [중앙도서관] 메타버스 도서관 ver.2 오픈 기념 이벤트 (~10.31까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205386&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-10-24)
-
-* **[[대학일자리플러스센터] 2022 동계 반도체 공정실습과정(패터닝-1차) - 신청기간(10/26 14시~28) 선착순모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205384&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-24)
-
-* **[[총무팀] 정기 해충방역 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205383&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-10-24)
-
-* **[[대학일자리플러스센터] 2022 NCS 반도체 심화과정 (동계-2차) - 신청기간(10/25 14시~28) 선착순모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205382&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-24)
-
-* **[[대학일자리플러스센터] 하반기 취업에 함께 성공하시겠어요?(취준생 컴피턴시 특강)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205372&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-21)
