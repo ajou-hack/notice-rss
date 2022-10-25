@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 2022-2학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205495&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-10-25)
+
+* **[[대학언론사] 학보사 수습기자 모집 안내(~10.28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205487&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2022-10-25)
+
 * **[[교외장학] 세종인재평생교육진흥원 2022년 하반기 장학생 선발계획 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205480&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-10-25)
 
@@ -98,9 +104,3 @@
 
 * **[(재공지) [지식재산] 2022-2 지식재산기반 특허 경진대회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205394&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 소프트웨어융합대학교학팀 (~2022-10-24)
-
-* **[(재공지) [지식재산] 2022-2 지식재산기반 시제품 제작 대상 선별회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205393&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 소프트웨어융합대학교학팀 (~2022-10-24)
-
-* **[[모집] 2023학년도 전기 아주대학교 일반대학원 금융공학과 신입생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205390&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 경영대학교학팀 (~2022-10-24)
