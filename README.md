@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[한국연구재단 설문조사 참여자 모집 신청하고 아메리카노 기프티콘 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205569&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2022-10-26)
+
 * **[[Ajou International Day 2022] 모집기한연장 (Application Deadline Extension - Booth &amp; Performance)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205568&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 국제교류팀 (~2022-10-26)
 
@@ -100,7 +103,4 @@
  [행사] - 국제교류팀 (~2022-10-24)
 
 * **[[Ajou International Day 2022] 자원봉사자 혜택 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205448&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 국제교류팀 (~2022-10-24)
-
-* **[[Ajou International Day 2022] IMPORTANT NOTICE](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205446&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 국제교류팀 (~2022-10-24)
