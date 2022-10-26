@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022년 대학의 장애학생지원센터 운영지원 사업 우수 콘텐츠 공모전(~10.31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205556&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2022-10-26)
+
+* **[[대학일자리플러스센터] 서울특별시와 IBK기업은행이 함께하는 참 좋은 일자리 박람회(11/15)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205555&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-26)
+
+* **[[교무팀] 출결(공결) 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205552&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-10-26)
+
 * **[[학습법] 2022-2학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집(기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205542&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-10-26)
 
@@ -95,12 +104,3 @@
 
 * **[[대학일자리플러스센터] 휴학생 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205431&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-10-24)
-
-* **[(재공지)[다산학부대학] 2022-2 아주Debate 토론대회 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205423&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 다산학부대학 교학팀 (~2022-10-24)
-
-* **[[대학일자리플러스센터] 원플러스원 통합연계상담 선착순 20명 모집중!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205421&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-24)
-
-* **[[아주통일연구소] 「뉴노멀 클래스 : 아주 신선한 통일」특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205419&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 아주통일연구소 (~2022-10-24)
