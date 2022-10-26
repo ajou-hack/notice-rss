@@ -15,6 +15,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 2022-2학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집(기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205542&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-10-26)
+
+* **[[학습법] 2022-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205541&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-10-26)
+
+* **[[법학전문대학원] 입시 면접 단기 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205540&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 법학전문대학원 교학팀 (~2022-10-26)
+
+* **[(재공지)[다산학부대학] 2022-2 아주Debate 토론대회 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205535&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 다산학부대학 교학팀 (~2022-10-26)
+
 * **[[대학일자리플러스센터] 2022 겨울방학 토익사관학교 참여자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205521&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-10-25)
 
@@ -92,15 +104,3 @@
 
 * **[[아주통일연구소] 「뉴노멀 클래스 : 아주 신선한 통일」특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205419&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 아주통일연구소 (~2022-10-24)
-
-* **[[혁신공유팀] 혁신공유라운지 사용불가 안내(11/9(수) 15:30 ~ 18:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205418&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 혁신공유팀 (~2022-10-24)
-
-* **[(재공지)2022학년도 연구실 안전 공모전 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205417&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 안전관리센터 (~2022-10-24)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205415&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-10-24)
-
-* **[(재공지)[SW융합교육원/SW중심대학] SW 활용 지식 동영상 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205414&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW융합교육원 (~2022-10-24)
