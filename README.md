@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지)아주허브 홍보영상 제작 공모전(9/13~10/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205560&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2022-10-26)
+
+* **[2022 산학협력 EXPO 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205559&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 산학사업팀 (~2022-10-26)
+
+* **[인공지능 마이크로전공 지원 신청 안내(11/01부터 11월 25일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205558&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 소프트웨어학과 (~2022-10-26)
+
 * **[2022년 대학의 장애학생지원센터 운영지원 사업 우수 콘텐츠 공모전(~10.31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205556&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2022-10-26)
 
@@ -94,13 +103,4 @@
  [취업] - 대학일자리플러스센터 (~2022-10-24)
 
 * **[[대학일자리플러스센터] 면접 전략_이미지 메이킹_개별 진단과 이미지 컨설팅 참여자(2차) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205444&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-24)
-
-* **[3D프린터(SLA방식) 운용 기초교육(오후반) 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205443&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-10-24)
-
-* **[3D프린터(SLA방식) 운용 기초교육(오전반) 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205442&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-10-24)
-
-* **[[대학일자리플러스센터] 휴학생 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205431&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-10-24)
