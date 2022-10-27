@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[아주강좌] 제 477회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205600&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-10-27)
+
+* **[[학생상담소] 더 나은 관계를 위한 심리특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205598&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생상담소 (~2022-10-27)
+
 * **[[해외취업_두바이] 휴맥스 모빌리티 사업개발 Project Manager 채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205594&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-10-27)
 
@@ -98,9 +104,3 @@
 
 * **[[미래자동차 렉처시리즈] 11/9(수) 현직전문가 초청특강(퓨처 모빌리티 트렌드)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205500&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신공유팀 (~2022-10-25)
-
-* **[[학습법] 2022-2학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205495&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-10-25)
-
-* **[[대학언론사] 학보사 수습기자 모집 안내(~10.28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205487&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2022-10-25)
