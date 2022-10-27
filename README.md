@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[메이커스페이스] 휴관안내(10/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205602&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-10-27)
+
+* **[[대학일자리플러스센터] 금주의 추천채용_키엔스코리아/아토텍코리아/조선내화](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205601&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-27)
+
 * **[[아주강좌] 제 477회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205600&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-10-27)
 
@@ -98,9 +104,3 @@
 
 * **[(재공지)[박물관]제 45회 교양문화강좌 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205508&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 박물관 (~2022-10-25)
-
-* **[[무료 프로그램] 떨어져 사는 가족을 위한 문화예술 프로그램](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205507&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생상담소 (~2022-10-25)
-
-* **[[미래자동차 렉처시리즈] 11/9(수) 현직전문가 초청특강(퓨처 모빌리티 트렌드)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205500&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 혁신공유팀 (~2022-10-25)
