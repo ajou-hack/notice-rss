@@ -15,6 +15,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지)[박물관] 제 29회 문화체험행사 안내 (선착순 모집)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205581&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 박물관 (~2022-10-27)
+
+* **[[NHN COMMERCE] 2022년 하반기 신입사원 공개 채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205580&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-27)
+
+* **[[대학일자리플러스센터] [한국무역협회] 2022 제5회 잡투게더 국내채용박람회(11/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205579&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-27)
+
+* **[[대학일자리플러스센터] 대학일자리플러스센터 설명회(참가자 전원 브리또 쿠폰 제공)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205573&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-26)
+
 * **[한국연구재단 설문조사 참여자 모집 신청하고 아메리카노 기프티콘 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205569&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2022-10-26)
 
@@ -92,15 +104,3 @@
 
 * **[2022학년도 2학기 파란학기제 중간교류회 온라인전시관 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205473&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2022-10-25)
-
-* **[[대학일자리플러스센터] 10/31(월)_채용공고분석 특강(3회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205469&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-25)
-
-* **[[AI in Future Medicine 2022] 심포지엄 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205460&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 의과대학 교학팀 (~2022-10-25)
-
-* **[[Ajou International Day 2022] Awards!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205449&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 국제교류팀 (~2022-10-24)
-
-* **[[Ajou International Day 2022] 자원봉사자 혜택 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205448&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 국제교류팀 (~2022-10-24)
