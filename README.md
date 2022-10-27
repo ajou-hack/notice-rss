@@ -15,6 +15,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[해외취업_두바이] 휴맥스 모빌리티 사업개발 Project Manager 채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205594&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-27)
+
+* **[[인문과학연구소] 데이터인문 연계전공 특강시리즈 2 및 설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205591&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 인문대학교학팀 (~2022-10-27)
+
+* **[제 1회 주산 법률 강좌 안내 (10/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205584&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 법학전문대학원 (~2022-10-27)
+
+* **[[대학일자리플러스센터] 원플러스원 통합연계상담 선착순 20명 모집중!(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205583&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-27)
+
 * **[(재공지)[박물관] 제 29회 문화체험행사 안내 (선착순 모집)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205581&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 박물관 (~2022-10-27)
 
@@ -92,15 +104,3 @@
 
 * **[[대학언론사] 학보사 수습기자 모집 안내(~10.28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205487&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2022-10-25)
-
-* **[[교외장학] 세종인재평생교육진흥원 2022년 하반기 장학생 선발계획 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205480&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-10-25)
-
-* **[[비교과교육지원센터]아주허브 10월 퀴즈대회 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205479&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2022-10-25)
-
-* **[[대학일자리플러스센터] 11/03(목) 현직자가 알려주는 사례중심 면접전략 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205476&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-25)
-
-* **[2022학년도 2학기 파란학기제 중간교류회 온라인전시관 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205473&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2022-10-25)
