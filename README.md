@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[Invitation to Evening Classic Concert (11/01)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205606&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 국제교류팀 (~2022-10-27)
+
+* **[[교외장학] 2022년 하반기 GYBM 글로벌 취업 지원 장학생 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205604&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-10-27)
+
 * **[[메이커스페이스] 휴관안내(10/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205602&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-10-27)
 
@@ -98,9 +104,3 @@
 
 * **[본교 통학버스(수원역, 광교중앙역) 운행시각 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205518&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-10-25)
-
-* **[2023학년도 아주대학교 입학전형 논술 진행스태프 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205516&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 입학팀 (~2022-10-25)
-
-* **[(재공지)[박물관]제 45회 교양문화강좌 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205508&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 박물관 (~2022-10-25)
