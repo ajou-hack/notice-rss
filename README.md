@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] (11월1일 14시부터 신청~)2022 동계 반도체 공정실습(패터닝-2차) 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205658&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-28)
+
+* **[설문조사 참여신청만 해도 스타벅스 기프티콘을 준다고?](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205657&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2022-10-28)
+
+* **[[대학일자리플러스센터] 경기도일자리재단 잡아바에서 AI역량검사 완벽하게 준비하자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205653&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-28)
+
 * **[[학생상담소] 내가 &#x27;AJOU-찐천재&#x27;가 될 상인가? - 집단상담 프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205647&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생상담소 (~2022-10-28)
 
@@ -95,12 +104,3 @@
 
 * **[(재공지)아주허브 홍보영상 제작 공모전(9/13~10/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205560&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2022-10-26)
-
-* **[2022 산학협력 EXPO 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205559&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 산학사업팀 (~2022-10-26)
-
-* **[인공지능 마이크로전공 지원 신청 안내(11/01부터 11월 25일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205558&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 소프트웨어학과 (~2022-10-26)
-
-* **[2022년 대학의 장애학생지원센터 운영지원 사업 우수 콘텐츠 공모전(~10.31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205556&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2022-10-26)
