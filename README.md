@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 휴학생 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205644&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-28)
+
+* **[제2회 대학혁신지원사업 프로그램 참여 후기 공모전 안내(~11/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205641&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2022-10-28)
+
 * **[[중앙도서관] 원문복사 서비스 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205633&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-10-28)
 
@@ -98,9 +104,3 @@
 
 * **[[대학일자리플러스센터] 서울특별시와 IBK기업은행이 함께하는 참 좋은 일자리 박람회(11/15)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205555&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-10-26)
-
-* **[[교무팀] 출결(공결) 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205552&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-10-26)
-
-* **[[학습법] 2022-2학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집(기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205542&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-10-26)
