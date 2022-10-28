@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학생상담소] 위기 심리상담 신청서 &quot;마음이 너무 힘들어 죽고 싶다는 생각이 자주 나요.&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205616&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생상담소 (~2022-10-28)
+
 * **[총학생회 &#x27;10월 monthly ajou&#x27; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205612&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2022-10-27)
 
@@ -101,6 +104,3 @@
 
 * **[[대학일자리플러스센터] 2022 겨울방학 토익사관학교 참여자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205521&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-10-25)
-
-* **[[수정][학부] 전공(복수,부,연계,심화전공) 신청 및 취소 기간 안내 (11.01.~11.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205519&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-10-25)
