@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[11월 파이썬 심화 zoom집중교육 신청안내_미래자동차신기술아카데미](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205627&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신공유팀 (~2022-10-28)
+
 * **[[학생상담소] 위기 심리상담 신청서 &quot;마음이 너무 힘들어 죽고 싶다는 생각이 자주 나요.&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205616&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생상담소 (~2022-10-28)
 
@@ -101,6 +104,3 @@
 
 * **[(재공지)[다산학부대학] 2022-2 아주Debate 토론대회 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205535&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 다산학부대학 교학팀 (~2022-10-26)
-
-* **[[대학일자리플러스센터] 2022 겨울방학 토익사관학교 참여자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205521&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-25)
