@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(학사)2022-동계 계절수업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205702&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-10-31)
+
+* **[(학사과정)2022-동계 계절학기 국내대학 학점교류 신청 안내(22.10.31.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205701&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-10-31)
+
+* **[2023학년도 과학영재교육원 신입생 선발에 따른 성호관 출입제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205698&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 과학영재교육원 (~2022-10-31)
+
 * **[2022 아주대학교 프로그래밍 경시대회 APC 오프라인 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205693&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW중심대학사업단 (~2022-10-31)
 
@@ -95,12 +104,3 @@
 
 * **[[교외장학] 2022년 하반기 GYBM 글로벌 취업 지원 장학생 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205604&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-10-27)
-
-* **[[메이커스페이스] 휴관안내(10/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205602&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-10-27)
-
-* **[[대학일자리플러스센터] 금주의 추천채용_키엔스코리아/아토텍코리아/조선내화](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205601&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-27)
-
-* **[[아주강좌] 제 477회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205600&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-10-27)
