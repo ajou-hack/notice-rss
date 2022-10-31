@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[중앙도서관]11월 이용 교육 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205715&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-10-31)
+
+* **[산학연협력 뉴스레터 제46호(2022.10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205714&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2022-10-31)
+
 * **[설문조사 신청하고 스타벅스 아메리카노 먹자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205710&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2022-10-31)
 
@@ -98,9 +104,3 @@
 
 * **[[학생상담소] 위기 심리상담 신청서 &quot;마음이 너무 힘들어 죽고 싶다는 생각이 자주 나요.&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205616&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생상담소 (~2022-10-28)
-
-* **[총학생회 &#x27;10월 monthly ajou&#x27; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205612&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2022-10-27)
-
-* **[Invitation to Evening Classic Concert (11/01)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205606&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 국제교류팀 (~2022-10-27)
