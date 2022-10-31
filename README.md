@@ -15,6 +15,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[2022 Ajou Bio-Health Science Research Fair] 2022년도 아주대학교 간호대학 학술대회(11/10/목)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205686&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 간호대학 교학팀 (~2022-10-31)
+
+* **[(접수기간연장) (재공지) [지식재산] 2022-2 지식재산기반 시제품 제작 대상 선별회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205683&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 소프트웨어융합대학교학팀 (~2022-10-31)
+
+* **[(재공지) [지식재산] 2022-2 지식재산기반 특허 경진대회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205681&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 소프트웨어융합대학교학팀 (~2022-10-31)
+
+* **[(재공지) [지식재산] 2022-2 지식재산 창업 및 사업화 발명아이디어 경진대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205680&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 소프트웨어융합대학교학팀 (~2022-10-31)
+
+* **[(재공지) [지식재산] 2022-2 지식재산능력시험(IPAT) 응시관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205679&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 소프트웨어융합대학교학팀 (~2022-10-31)
+
 * **[[학생지원팀] 제11기 글로벌 녹색성장 서포터즈 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205676&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2022-10-31)
 
@@ -89,18 +104,3 @@
 
 * **[[인문과학연구소] 데이터인문 연계전공 특강시리즈 2 및 설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205591&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 인문대학교학팀 (~2022-10-27)
-
-* **[제 1회 주산 법률 강좌 안내 (10/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205584&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 법학전문대학원 (~2022-10-27)
-
-* **[[대학일자리플러스센터] 원플러스원 통합연계상담 선착순 20명 모집중!(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205583&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-27)
-
-* **[(재공지)[박물관] 제 29회 문화체험행사 안내 (선착순 모집)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205581&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 박물관 (~2022-10-27)
-
-* **[[NHN COMMERCE] 2022년 하반기 신입사원 공개 채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205580&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-27)
-
-* **[[대학일자리플러스센터] [한국무역협회] 2022 제5회 잡투게더 국내채용박람회(11/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205579&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-27)
