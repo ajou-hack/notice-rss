@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022 아주대학교 프로그래밍 경시대회 APC 오프라인 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205693&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW중심대학사업단 (~2022-10-31)
+
+* **[[대학일자리플러스센터] 2022 A.C.E. STUDY(22-4기) 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205690&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-31)
+
+* **[(재공지)2022학년도 연구실 안전 공모전 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205689&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 안전관리센터 (~2022-10-31)
+
 * **[[2022 Ajou Bio-Health Science Research Fair] 2022년도 아주대학교 간호대학 학술대회(11/10/목)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205686&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 간호대학 교학팀 (~2022-10-31)
 
@@ -95,12 +104,3 @@
 
 * **[[아주강좌] 제 477회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205600&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-10-27)
-
-* **[[학생상담소] 더 나은 관계를 위한 심리특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205598&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생상담소 (~2022-10-27)
-
-* **[[해외취업_두바이] 휴맥스 모빌리티 사업개발 Project Manager 채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205594&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-27)
-
-* **[[인문과학연구소] 데이터인문 연계전공 특강시리즈 2 및 설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205591&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 인문대학교학팀 (~2022-10-27)
