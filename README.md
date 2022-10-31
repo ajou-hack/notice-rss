@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학생지원팀] 제11기 글로벌 녹색성장 서포터즈 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205676&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2022-10-31)
+
+* **[[국가근로][교사대생등대학생튜터링] 10월 국가근로/교사대생등대학생튜터링장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 10/31 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205671&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-10-31)
+
+* **[[Remind][학부] 전공(복수,부,연계,심화전공) 신청 및 취소 기간 안내 (11.01.~11.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205670&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-10-31)
+
 * **[[긴급] 이태원 압사 참사 아주대학교 구성원 피해상황 접수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205669&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2022-10-30)
 
@@ -95,12 +104,3 @@
 
 * **[[대학일자리플러스센터] [한국무역협회] 2022 제5회 잡투게더 국내채용박람회(11/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205579&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-10-27)
-
-* **[[대학일자리플러스센터] 대학일자리플러스센터 설명회(참가자 전원 브리또 쿠폰 제공)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205573&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-26)
-
-* **[한국연구재단 설문조사 참여자 모집 신청하고 아메리카노 기프티콘 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205569&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2022-10-26)
-
-* **[[Ajou International Day 2022] 모집기한연장 (Application Deadline Extension - Booth &amp; Performance)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205568&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 국제교류팀 (~2022-10-26)
