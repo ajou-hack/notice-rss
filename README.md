@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022 캡스톤 디자인 경진대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205752&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2022-11-01)
+
 * **[[학습법] 협업도구를 활용한 슬기로운 팀플 노하우](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205749&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-11-01)
 
@@ -101,6 +104,3 @@
 
 * **[[긴급] 이태원 압사 참사 아주대학교 구성원 피해상황 접수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205669&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2022-10-30)
-
-* **[[대학일자리플러스센터] 2022 청년과학기술인 일자리박람회 _아주대에서 즐기는법](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205661&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-28)
