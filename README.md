@@ -15,6 +15,39 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 협업도구를 활용한 슬기로운 팀플 노하우](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205749&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-11-01)
+
+* **[[중앙도서관] 22-동계방학 중앙도서관 면학장학생(휴학생) 모집(~11/18 am09:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205748&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-11-01)
+
+* **[[중앙도서관] 2022년 노벨 문학상 수상 작가 도서 전시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205747&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-11-01)
+
+* **[[인권센터 학생상담소] 재난상황에 따른 아주인 심리지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205746&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 인권센터 학생상담소 (~2022-11-01)
+
+* **[2022학년도 2학기 바르게장학(코로나극복장학) 신청 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205742&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-11-01)
+
+* **[[미래자동차 렉처시리즈] 11/9(수) 현직전문가 특강(퓨처 모빌리티 트렌드)_기프티콘증정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205738&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신공유팀 (~2022-11-01)
+
+* **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제49호(2022.11)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205733&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-11-01)
+
+* **[[비교과교육지원센터] 아주허브에서 11월 퀴즈 풀고 스타벅스 쿠폰 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205732&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2022-11-01)
+
+* **[[재안내][교외장학] 2023년도 두산연강재단 대학 장학생 선발 안내(~11/11까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205731&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-11-01)
+
+* **[2022 AJOU GLOBAL CHALLENGER 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205730&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 국제교류팀 (~2022-11-01)
+
+* **[[대학일자리플러스센터] 일자리박람회 BEST 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205717&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-10-31)
+
 * **[[중앙도서관]11월 이용 교육 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205715&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-10-31)
 
@@ -63,7 +96,7 @@
 * **[[국가근로][교사대생등대학생튜터링] 10월 국가근로/교사대생등대학생튜터링장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 10/31 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205671&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-10-31)
 
-* **[[Remind][학부] 전공(복수,부,연계,심화전공) 신청 및 취소 기간 안내 (11.01.~11.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205670&amp;article.offset=0&amp;articleLimit=30)**
+* **[[Remind][학부] 전공(복수,부,마이크로,연계,심화전공) 신청 및 취소 기간 안내 (11.01.~11.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205670&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-10-31)
 
 * **[[긴급] 이태원 압사 참사 아주대학교 구성원 피해상황 접수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205669&amp;article.offset=0&amp;articleLimit=30)**
@@ -71,36 +104,3 @@
 
 * **[[대학일자리플러스센터] 2022 청년과학기술인 일자리박람회 _아주대에서 즐기는법](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205661&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-10-28)
-
-* **[[대학일자리플러스센터] 2022 청년과학기술인 일자리박람회 _아주대 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205660&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-28)
-
-* **[[대학일자리플러스센터] (11월1일 14시부터 신청~)2022 동계 반도체 공정실습(패터닝-2차) 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205658&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-28)
-
-* **[설문조사 참여신청만 해도 스타벅스 기프티콘을 준다고?](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205657&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2022-10-28)
-
-* **[[학생상담소] 내가 &#x27;AJOU-찐천재&#x27;가 될 상인가? - 집단상담 프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205647&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생상담소 (~2022-10-28)
-
-* **[[대학일자리플러스센터] 휴학생 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205644&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-28)
-
-* **[제2회 대학혁신지원사업 프로그램 참여 후기 공모전 안내(~11/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205641&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2022-10-28)
-
-* **[[중앙도서관] 원문복사 서비스 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205633&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-10-28)
-
-* **[[대학일자리플러스센터] 10월 5주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205629&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-28)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205628&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-10-28)
-
-* **[11월 파이썬 심화 zoom집중교육 신청안내_미래자동차신기술아카데미](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205627&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 혁신공유팀 (~2022-10-28)
-
-* **[[학생상담소] 위기 심리상담 신청서 &quot;마음이 너무 힘들어 죽고 싶다는 생각이 자주 나요.&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205616&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생상담소 (~2022-10-28)
