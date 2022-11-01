@@ -15,6 +15,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022학년도 2학기 신입학장학 도서구입비, 어학지원금 신청_2022.11.14(월) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205767&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-11-01)
+
+* **[(학사과정)2022-동계 계절학기 국내대학 학점교류 신청 안내(22.11.01.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205758&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 학사 (~2022-11-01)
+
+* **[아주대학교병원 건강증진센터 특별할인 안내(교직원, 재학생, 동문)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205756&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-11-01)
+
+* **[산학연협력 뉴스레터 제46호(2022.10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205755&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2022-11-01)
+
+* **[[한국장학재단] 2022년 2학기 국가장학금 유형2 지급일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205754&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-11-01)
+
 * **[2022 캡스톤 디자인 경진대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205752&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2022-11-01)
 
@@ -54,9 +69,6 @@
 * **[[중앙도서관]11월 이용 교육 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205715&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-10-31)
 
-* **[산학연협력 뉴스레터 제46호(2022.10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205714&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2022-10-31)
-
 * **[설문조사 신청하고 스타벅스 아메리카노 먹자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205710&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2022-10-31)
 
@@ -92,15 +104,3 @@
 
 * **[(재공지) [지식재산] 2022-2 지식재산능력시험(IPAT) 응시관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205679&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 소프트웨어융합대학교학팀 (~2022-10-31)
-
-* **[[학생지원팀] 제11기 글로벌 녹색성장 서포터즈 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205676&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2022-10-31)
-
-* **[[국가근로][교사대생등대학생튜터링] 10월 국가근로/교사대생등대학생튜터링장학생 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(출근부 10/31 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205671&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-10-31)
-
-* **[[Remind][학부] 전공(복수,부,마이크로,연계,심화전공) 신청 및 취소 기간 안내 (11.01.~11.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205670&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-10-31)
-
-* **[[긴급] 이태원 압사 참사 아주대학교 구성원 피해상황 접수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205669&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2022-10-30)
