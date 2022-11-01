@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[Remind][학사]2023년 2월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.01.27(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205771&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-11-01)
+
 * **[2022학년도 2학기 신입학장학 도서구입비, 어학지원금 신청_2022.11.14(월) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205767&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-11-01)
 
@@ -100,7 +103,4 @@
  [비교과] - 소프트웨어융합대학교학팀 (~2022-10-31)
 
 * **[(재공지) [지식재산] 2022-2 지식재산 창업 및 사업화 발명아이디어 경진대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205680&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 소프트웨어융합대학교학팀 (~2022-10-31)
-
-* **[(재공지) [지식재산] 2022-2 지식재산능력시험(IPAT) 응시관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205679&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 소프트웨어융합대학교학팀 (~2022-10-31)
