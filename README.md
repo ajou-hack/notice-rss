@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지)[대학일자리플러스센터] 휴학생 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205794&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-11-01)
+
+* **[교촌치킨 땡기는 사람? 설문조사 참여신청만 해도 전원 아메리카노, 추첨으로 교촌치킨을 드려요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205785&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2022-11-01)
+
 * **[2022학년도 미래자동차 복수/부/마이크로전공 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205781&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 혁신공유단 (~2022-11-01)
 
@@ -98,9 +104,3 @@
 
 * **[[대학일자리플러스센터] 2022 A.C.E. STUDY(22-4기) 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205690&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-10-31)
-
-* **[(재공지)2022학년도 연구실 안전 공모전 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205689&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 안전관리센터 (~2022-10-31)
-
-* **[[2022 Ajou Bio-Health Science Research Fair] 2022년도 아주대학교 간호대학 학술대회(11/10/목)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205686&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 간호대학 교학팀 (~2022-10-31)
