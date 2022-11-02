@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022년 멀티미디어 강의실 점검결과(10월) 및 2022년 (11월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205825&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2022-11-02)
+
+* **[[대학일자리플러스센터] 이공계 취업아카데미(반도체/제약바이오/미래자동차 부문) 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205811&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-11-01)
+
 * **[(재공지)[대학일자리플러스센터] 휴학생 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205794&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-11-01)
 
@@ -98,9 +104,3 @@
 
 * **[2023학년도 과학영재교육원 신입생 선발에 따른 성호관 출입제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205698&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 과학영재교육원 (~2022-10-31)
-
-* **[2022 아주대학교 프로그래밍 경시대회 APC 오프라인 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205693&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW중심대학사업단 (~2022-10-31)
-
-* **[[대학일자리플러스센터] 2022 A.C.E. STUDY(22-4기) 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205690&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-31)
