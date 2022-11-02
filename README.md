@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지)2022학년도 연구실 안전 공모전 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205846&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 안전관리센터 (~2022-11-02)
+
 * **[[박물관] 제 46회 교양문화강좌 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205836&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 박물관 (~2022-11-02)
 
@@ -101,6 +104,3 @@
 
 * **[[중앙도서관]11월 이용 교육 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205715&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-10-31)
-
-* **[설문조사 신청하고 스타벅스 아메리카노 먹자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205710&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2022-10-31)
