@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[박물관] 제 46회 교양문화강좌 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205836&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 박물관 (~2022-11-02)
+
+* **[[학습법] 2022-2학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집(기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205834&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-11-02)
+
+* **[[학습법] 2022-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205833&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-11-02)
+
 * **[2022년 멀티미디어 강의실 점검결과(10월) 및 2022년 (11월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205825&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-11-02)
 
@@ -95,12 +104,3 @@
 
 * **[설문조사 신청하고 스타벅스 아메리카노 먹자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205710&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2022-10-31)
-
-* **[(학사)2022-동계 계절수업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205702&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-10-31)
-
-* **[(학사과정)2022-동계 계절학기 국내대학 학점교류 신청 안내(22.10.31.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205701&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-10-31)
-
-* **[2023학년도 과학영재교육원 신입생 선발에 따른 성호관 출입제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205698&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 과학영재교육원 (~2022-10-31)
