@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[인권센터] 법정필수교육 이수 기한이 얼마 남지 않았습니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205854&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 인권센터 (~2022-11-02)
+
+* **[[총동문회] 선배와 함께하는 Real Talk 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205853&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 총동문회 (~2022-11-02)
+
 * **[(재공지)2022학년도 연구실 안전 공모전 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205846&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 안전관리센터 (~2022-11-02)
 
@@ -98,9 +104,3 @@
 
 * **[2022 AJOU GLOBAL CHALLENGER 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205730&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 국제교류팀 (~2022-11-01)
-
-* **[[대학일자리플러스센터] 일자리박람회 BEST 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205717&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-10-31)
-
-* **[[중앙도서관]11월 이용 교육 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205715&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-10-31)
