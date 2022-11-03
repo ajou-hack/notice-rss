@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[Ajou International Day 2022 행사 포스터](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205908&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 국제교류팀 (~2022-11-03)
+
+* **[[학습법] 2022-2학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205903&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-11-03)
+
+* **[[대학일자리플러스센터] ★ 역대급 장학 혜택 ★ 2022 겨울방학 토익사관학교가 온다!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205902&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-11-03)
+
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205893&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-11-03)
 
@@ -95,12 +104,3 @@
 
 * **[[인권센터 학생상담소] 재난상황에 따른 아주인 심리지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205746&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 인권센터 학생상담소 (~2022-11-01)
-
-* **[2022학년도 2학기 바르게장학(코로나극복장학) 신청 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205742&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-11-01)
-
-* **[[미래자동차 렉처시리즈] 11/9(수) 현직전문가 특강(퓨처 모빌리티 트렌드)_기프티콘증정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205738&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 혁신공유팀 (~2022-11-01)
-
-* **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제49호(2022.11)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205733&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-11-01)
