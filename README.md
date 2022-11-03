@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[미래자동차 렉처시리즈] 기프티콘 증정 11/9(수) 현직전문가 특강(퓨처 모빌리티 트렌드)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205943&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신공유팀 (~2022-11-03)
+
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205941&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-11-03)
+
+* **[&quot;블록체인지 난제 해결 챌린지&quot; 아이디어 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205939&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - SW융합교육원 (~2022-11-03)
+
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205936&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-11-03)
 
@@ -95,12 +104,3 @@
 
 * **[산학연협력 뉴스레터 제46호(2022.10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205755&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학사업팀 (~2022-11-01)
-
-* **[[한국장학재단] 2022년 2학기 국가장학금 유형2 지급일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205754&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-11-01)
-
-* **[2022 캡스톤 디자인 경진대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205752&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2022-11-01)
-
-* **[[학습법] 협업도구를 활용한 슬기로운 팀플 노하우](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205749&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-11-01)
