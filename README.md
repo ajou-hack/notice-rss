@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205936&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-11-03)
+
+* **[[2022 동계] 현장실습 온라인설명회 개최 안내(11.16.(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205929&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2022-11-03)
+
 * **[(재공지)[LINC 3.0] 2022 동계 현장실습 재학생 사전 수요조사(~11/28까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205917&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2022-11-03)
 
@@ -98,9 +104,3 @@
 
 * **[[학습법] 협업도구를 활용한 슬기로운 팀플 노하우](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205749&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-11-01)
-
-* **[[중앙도서관] 22-동계방학 중앙도서관 면학장학생(휴학생) 모집(~11/18 am09:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205748&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-11-01)
-
-* **[[중앙도서관] 2022년 노벨 문학상 수상 작가 도서 전시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205747&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-11-01)
