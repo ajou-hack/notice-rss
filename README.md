@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205893&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-11-03)
+
+* **[비교과프로그램 인식 및 요구조사 설문조사 안내(11.01~11.31까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205866&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2022-11-02)
+
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205858&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-11-02)
 
@@ -98,9 +104,3 @@
 
 * **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제49호(2022.11)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205733&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-11-01)
-
-* **[[비교과교육지원센터] 아주허브에서 11월 퀴즈 풀고 스타벅스 쿠폰 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205732&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2022-11-01)
-
-* **[[재안내][교외장학] 2023년도 두산연강재단 대학 장학생 선발 안내(~11/11까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205731&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-11-01)
