@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022학년도 2학기 아경장학재단 장학증서 수여식 안내_11.7(월) 17:00 율곡관 영상회의실](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205995&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-11-04)
+
+* **[[대학일자리플러스센터] 현직자 직무특강_ON-Line Zoom](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205994&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센더 (~2022-11-04)
+
 * **[2022학년도 2학기 국가고시장학, 국가자격장학 신청_2022.11.18(금) 17:00 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205981&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-11-04)
 
@@ -98,9 +104,3 @@
 
 * **[[국제교류팀] 22-동계 2차 해외단기파견 학생 모집 (~11.06(일)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205779&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-11-01)
-
-* **[[37일중 6일 집체 31일 줌] 인공지능 양성과정 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205778&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2022-11-01)
-
-* **[[Remind][학사]2023년 2월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.01.27(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205771&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-11-01)
