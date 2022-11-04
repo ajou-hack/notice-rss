@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[비교과교육지원센터] 아주허브에서 11월 퀴즈 풀고 스타벅스 쿠폰 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206026&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2022-11-04)
+
+* **[(재공지)2022학년도 연구실 안전 공모전 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206023&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 안전관리센터 (~2022-11-04)
+
 * **[[재공지][근로]아주심리상담센터 근로장학생 모집(~11.16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206013&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 아주심리상담센터 (~2022-11-04)
 
@@ -90,17 +96,11 @@
 * **[(재공지)2022학년도 연구실 안전 공모전 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205846&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 안전관리센터 (~2022-11-02)
 
+* **[[근로]아주심리상담센터 근로장학생 모집(~11.16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205841&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 아주심리상담센터 (~2022-11-02)
+
 * **[[박물관] 제 46회 교양문화강좌 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205836&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 박물관 (~2022-11-02)
 
 * **[[학습법] 2022-2학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집(기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205834&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-11-02)
-
-* **[[학습법] 2022-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205833&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-11-02)
-
-* **[2022년 멀티미디어 강의실 점검결과(10월) 및 2022년 (11월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205825&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2022-11-02)
-
-* **[[대학일자리플러스센터] 이공계 취업아카데미(반도체/제약바이오/미래자동차 부문) 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205811&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-11-01)
