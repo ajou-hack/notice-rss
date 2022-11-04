@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022학년도 2학기 국가고시장학, 국가자격장학 신청_2022.11.18(금) 17:00 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205981&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-11-04)
+
+* **[[대학일자리플러스센터] 2022 청년과학기술인 일자리박람회 초대합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205958&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-11-03)
+
 * **[[대학일자리플러스센터] 11/10(목) &#x27;AI면접의 모든것&#x27; 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205955&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-11-03)
 
@@ -98,9 +104,3 @@
 
 * **[[Remind][학사]2023년 2월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.01.27(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205771&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-11-01)
-
-* **[2022학년도 2학기 신입학장학 도서구입비, 어학지원금 신청_2022.11.14(월) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205767&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-11-01)
-
-* **[(학사과정)2022-동계 계절학기 국내대학 학점교류 신청 안내(22.11.01.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205758&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 학사 (~2022-11-01)
