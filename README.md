@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022학년도 비교과프로그램 인식 및 요구조사 설문조사 안내 (11월 1일 ~ 11월 30일](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206119&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2022-11-07)
+
+* **[「주민등록증 모바일 확인서비스」민간플랫폼(PASS) 서비스 확대 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206114&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-11-07)
+
 * **[[중앙도서관] 중앙도서관 사진공모전 안내(11/7~11/25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206106&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-11-07)
 
@@ -98,9 +104,3 @@
 
 * **[Ajou International Day 2022 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205908&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 국제교류팀 (~2022-11-03)
-
-* **[[학습법] 2022-2학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205903&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-11-03)
-
-* **[[대학일자리플러스센터] ★ 역대급 장학 혜택 ★ 2022 겨울방학 토익사관학교가 온다!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205902&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-11-03)
