@@ -15,6 +15,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[메이커스페이스] 3D모델링 및 렌더링&amp;이미지편집 기초교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206152&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-11-07)
+
+* **[[메이커스페이스] 레이저 가공장비 이용 기초교육생 모집(11월 1회차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206151&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-11-07)
+
+* **[[메이커스페이스] 3D프린터 장비이용 기초교육생 모집(11월 1회차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206150&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-11-07)
+
+* **[(기간연장)SW 활용 지식 동영상 공모전 안내(~11.11)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206147&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW융합교육원/SW중심대학사업단 (~2022-11-07)
+
 * **[[유학생입학팀] 2022년 만족도 조사를 실시합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206145&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 유학생입학팀 (~2022-11-07)
 
@@ -92,15 +104,3 @@
 
 * **[[미래자동차 렉처시리즈] 기프티콘 증정 11/9(수) 현직전문가 특강(퓨처 모빌리티 트렌드)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205943&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신공유팀 (~2022-11-03)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205941&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-11-03)
-
-* **[&quot;블록체인지 난제 해결 챌린지&quot; 아이디어 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205939&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - SW융합교육원 (~2022-11-03)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205936&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-11-03)
-
-* **[[2022 동계] 현장실습 온라인설명회 개최 안내(11.16.(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205929&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2022-11-03)
