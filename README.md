@@ -15,6 +15,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[교내 흡연 가능구역 안내 및 지정구역 외 금연 협조 요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206101&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-11-07)
+
+* **[[대학일자리플러스센터] 11월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206098&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-11-07)
+
+* **[[한국장학재단] 2022학년도 2학기 인문100년 장학금 일시지원(한학기지원) 유형 선발 안내(~11/14, 12시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206097&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-11-07)
+
+* **[(재공지) [박물관] 제 46회 교양문화강좌 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206096&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 박물관 (~2022-11-07)
+
+* **[2022년 상반기분 통영시 대학생 학자금 이자 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206093&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2022-11-07)
+
 * **[[아주강좌] 제 479회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206083&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2022-11-07)
 
@@ -89,18 +104,3 @@
 
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205893&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-11-03)
-
-* **[비교과프로그램 인식 및 요구조사 설문조사 안내(11.01~11.31까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205866&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2022-11-02)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205858&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-11-02)
-
-* **[[인권센터] 법정필수교육 이수 기한이 얼마 남지 않았습니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205854&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 인권센터 (~2022-11-02)
-
-* **[[총동문회] 선배와 함께하는 Real Talk 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205853&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 총동문회 (~2022-11-02)
-
-* **[(재공지)2022학년도 연구실 안전 공모전 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205846&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 안전관리센터 (~2022-11-02)
