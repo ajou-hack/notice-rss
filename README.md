@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[유학생입학팀] 2022년 만족도 조사를 실시합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206145&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 유학생입학팀 (~2022-11-07)
+
 * **[제85회 한국어능력시험(TOPIK) 시행에 따른 성호관 출입 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206122&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교육센터운영팀 (~2022-11-07)
 
@@ -100,7 +103,4 @@
  [기타] - 종합지원센터 (~2022-11-03)
 
 * **[[2022 동계] 현장실습 온라인설명회 개최 안내(11.16.(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205929&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2022-11-03)
-
-* **[(재공지)[LINC 3.0] 2022 동계 현장실습 재학생 사전 수요조사(~11/28까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205917&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2022-11-03)
