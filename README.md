@@ -18,6 +18,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[중앙도서관] 2022년 상반기 도서대출 부문 우수이용자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206201&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-11-08)
+
+* **[[대학일자리플러스센터] 11/17(목) 취업포트폴리오 작성법](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206200&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-11-08)
+
+* **[[대학일자리플러스센터] 11/14(월)_채용공고분석 특강(4회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206197&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-11-08)
+
+* **[신,구학생회관 정전안내(11월 12일/토)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206196&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2022-11-08)
+
 * **[[대학일자리플러스센터] 현직자 5주 직무경험 &amp; 코멘토](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206193&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센더 (~2022-11-08)
 
@@ -95,15 +107,3 @@
 
 * **[[비교과교육지원센터] 아주허브에서 11월 퀴즈 풀고 스타벅스 쿠폰 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206026&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2022-11-04)
-
-* **[(재공지)2022학년도 연구실 안전 공모전 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206023&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 안전관리센터 (~2022-11-04)
-
-* **[[재공지][근로]아주심리상담센터 근로장학생 모집(~11.16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206013&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 아주심리상담센터 (~2022-11-04)
-
-* **[(학사과정)2022-동계 계절학기 국내대학 학점교류 신청 안내(22.11.04.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206010&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-11-04)
-
-* **[[학습법] 협업도구를 활용한 슬기로운 팀플 노하우 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206005&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-11-04)
