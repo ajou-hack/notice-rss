@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(모집)축구부 프런트 신입기수 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206172&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2022-11-08)
+
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206171&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-11-08)
+
+* **[[대학일자리플러스센터] 글로벌 인재 육성 프로젝트_GYBM 아세안 과정 모집 2차 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206153&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센더 (~2022-11-07)
+
 * **[[메이커스페이스] 3D모델링 및 렌더링&amp;이미지편집 기초교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206152&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-11-07)
 
@@ -95,12 +104,3 @@
 
 * **[[대학일자리플러스센터] 2022 청년과학기술인 일자리박람회 초대합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205958&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-11-03)
-
-* **[[대학일자리플러스센터] 11/10(목) &#x27;AI면접의 모든것&#x27; 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205955&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-11-03)
-
-* **[[중앙도서관] 전자저널과 서지관리프로그램 교육 참여하고 햄버거 쿠폰도 받으세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205948&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-11-03)
-
-* **[[미래자동차 렉처시리즈] 기프티콘 증정 11/9(수) 현직전문가 특강(퓨처 모빌리티 트렌드)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205943&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 혁신공유팀 (~2022-11-03)
