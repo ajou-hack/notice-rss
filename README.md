@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] 아주대학교 개교50주년 엠블럼/슬로건 활용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206180&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 홍보실 (~2022-11-08)
+
 * **[📌 [공지] 학부 및 대학원생 / 교직원퇴직자, 학부 및 대학원 졸업자(제적생 포함) 구글드라이브(공유드라이브 포함) 정리 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202858&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-08-17)
 
@@ -14,6 +17,12 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[Remind][학부] 전공(복수,부,마이크로,연계,심화전공) 신청 및 취소 기간 안내 (11.01.~11.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206181&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-11-08)
+
+* **[[법학전문대학원] 2023학년도 신입생 선발 면접전형에 따른 연암관 사용제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206179&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 법학전문대학원 교학팀 (~2022-11-08)
 
 * **[(재공지)[혁신공유팀] 혁신공유라운지 사용불가 안내(11/9(수) 15:30 ~ 18:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206173&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 혁신공유단 (~2022-11-08)
@@ -97,10 +106,4 @@
  [기타] - 학술정보팀 (~2022-11-04)
 
 * **[2022학년도 2학기 아경장학재단 장학증서 수여식 안내_11.7(월) 17:00 율곡관 영상회의실](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205995&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-11-04)
-
-* **[[대학일자리플러스센터] 현직자 직무특강_ON-Line Zoom](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205994&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센더 (~2022-11-04)
-
-* **[2022학년도 2학기 국가고시장학, 국가자격장학 신청_2022.11.18(금) 17:00 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205981&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-11-04)
