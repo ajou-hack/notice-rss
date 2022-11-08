@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[메이커스페이스] 야, 너두 만들 수 있어!(석고트레이 과정-오후반/저녁반) 교육생 모집 (11/10-12시까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206213&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-11-08)
+
+* **[[대학일자리플러스센터] 애널리스트에게 직접 산업별 이슈를 듣다. 튜토리얼위크 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206212&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-11-08)
+
 * **[[중앙도서관] 2022년 상반기 도서대출 부문 우수이용자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206201&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-11-08)
 
@@ -101,9 +107,3 @@
 
 * **[11월 파이썬 심화 zoom집중교육 신청안내_미래자동차신기술아카데미](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206079&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신공유팀 (~2022-11-07)
-
-* **[[중앙도서관] 메타버스 도서관 ver.2 이벤트 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206078&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-11-07)
-
-* **[[비교과교육지원센터] 아주허브에서 11월 퀴즈 풀고 스타벅스 쿠폰 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206026&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2022-11-04)
