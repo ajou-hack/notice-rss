@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(기한연장-숏폼)2022학년도 연구실 안전 공모전 개최 안내(~11/14)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206189&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 안전관리센터 (~2022-11-08)
+
 * **[[Remind][학부] 전공(복수,부,마이크로,연계,심화전공) 신청 및 취소 기간 안내 (11.01.~11.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206181&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-11-08)
 
@@ -104,6 +107,3 @@
 
 * **[[중앙도서관] 메타버스 도서관 ver.2 당첨자 발표 및 만족도 조사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206000&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-11-04)
-
-* **[2022학년도 2학기 아경장학재단 장학증서 수여식 안내_11.7(월) 17:00 율곡관 영상회의실](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205995&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-11-04)
