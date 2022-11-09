@@ -18,11 +18,23 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022-2학기 Christmas English cafe 스태프 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206254&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 인문대 교학팀 (~2022-11-09)
+
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206253&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-11-09)
+
+* **[[마감] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206250&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-11-09)
+
 * **[[대학일자리플러스센터] 하나금융TI 채용연계형 교육생 모집!(11/1~12/4 17시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206247&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-11-09)
 
 * **[(수정공지) 2022 AJOU GLOBAL CHALLENGER 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206233&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 국제교류팀 (~2022-11-09)
+
+* **[2022 아주대학교 소프트웨어학과 오픈랩 11월 14일(월) ~ 17일(목)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206230&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 소프트웨어학과 (~2022-11-09)
 
 * **[[중앙도서관] 22-동계방학 중앙도서관 면학장학생(휴학생) 모집(~11/18 am09:00)(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206229&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2022-11-09)
@@ -95,15 +107,3 @@
 
 * **[[유학생입학팀] 2022년 만족도 조사를 실시합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206145&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 유학생입학팀 (~2022-11-07)
-
-* **[제85회 한국어능력시험(TOPIK) 시행에 따른 성호관 출입 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206122&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교육센터운영팀 (~2022-11-07)
-
-* **[2022학년도 비교과프로그램 인식 및 요구조사 설문조사 안내 (11월 1일 ~ 11월 30일](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206119&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2022-11-07)
-
-* **[「주민등록증 모바일 확인서비스」민간플랫폼(PASS) 서비스 확대 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206114&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-11-07)
-
-* **[[중앙도서관] 중앙도서관 사진공모전 안내(11/7~11/25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206106&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-11-07)
