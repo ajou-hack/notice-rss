@@ -18,6 +18,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 2022-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206223&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-11-09)
+
+* **[[대학일자리플러스센터] 아주대와 함께하는 DIG 채용 설명회(11/14)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206221&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-11-09)
+
+* **[[ REMIND][LINC 3.0] AJOU-Stars 액셀러레이팅 창업교육(3차-자금조달) 안내(11/10(목) 14-16시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206220&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 산학사업팀(창업교육센터) (~2022-11-09)
+
+* **[[보건대학원] 2023학년도 전기모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206218&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 보건대학원교학팀 (~2022-11-08)
+
 * **[[메이커스페이스] 야, 너두 만들 수 있어!(석고트레이 과정-오후반/저녁반) 교육생 모집 (11/10-12시까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206213&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-11-08)
 
@@ -95,15 +107,3 @@
 
 * **[[한국장학재단] 2022학년도 2학기 인문100년 장학금 일시지원(한학기지원) 유형 선발 안내(~11/14, 12시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206097&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-11-07)
-
-* **[(재공지) [박물관] 제 46회 교양문화강좌 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206096&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 박물관 (~2022-11-07)
-
-* **[2022년 상반기분 통영시 대학생 학자금 이자 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206093&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2022-11-07)
-
-* **[[아주강좌] 제 479회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206083&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-11-07)
-
-* **[11월 파이썬 심화 zoom집중교육 신청안내_미래자동차신기술아카데미](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206079&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 혁신공유팀 (~2022-11-07)
