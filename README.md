@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[2학기 장학금 받자]제2회 대학혁신지원사업 프로그램 참여 후기 공모전 안내(~11/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206263&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2022-11-09)
+
 * **[(학사과정)2022-동계 계절학기 국내대학 학점교류 신청 안내(22.11.09.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206260&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-11-09)
 
@@ -103,7 +106,4 @@
  [기타] - 창업지원팀 (~2022-11-07)
 
 * **[[메이커스페이스] 레이저 가공장비 이용 기초교육생 모집(11월 1회차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206151&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-11-07)
-
-* **[[메이커스페이스] 3D프린터 장비이용 기초교육생 모집(11월 1회차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206150&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-11-07)
