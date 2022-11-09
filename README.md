@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(학사과정)2022-동계 계절학기 국내대학 학점교류 신청 안내(22.11.09.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206260&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-11-09)
+
+* **[[서울시립대] 2022 UOS 빅데이터 알고리즘 경진대회 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206256&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신공유단 (~2022-11-09)
+
 * **[2022-2학기 Christmas English cafe 스태프 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206254&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 인문대 교학팀 (~2022-11-09)
 
@@ -101,9 +107,3 @@
 
 * **[[메이커스페이스] 3D프린터 장비이용 기초교육생 모집(11월 1회차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206150&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-11-07)
-
-* **[(기간연장)SW 활용 지식 동영상 공모전 안내(~11.11)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206147&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW융합교육원/SW중심대학사업단 (~2022-11-07)
-
-* **[[유학생입학팀] 2022년 만족도 조사를 실시합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206145&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 유학생입학팀 (~2022-11-07)
