@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[교외장학] 전기공사공제조합장학회 2023년도 제18기 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206274&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-11-09)
+
 * **[[2학기 장학금 받자]제2회 대학혁신지원사업 프로그램 참여 후기 공모전 안내(~11/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206263&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2022-11-09)
 
@@ -27,7 +30,7 @@
 * **[[서울시립대] 2022 UOS 빅데이터 알고리즘 경진대회 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206256&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신공유단 (~2022-11-09)
 
-* **[2022-2학기 Christmas English cafe 스태프 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206254&amp;article.offset=0&amp;articleLimit=30)**
+* **[2022-2학기 Christmas English cafe 스태프 모집(~11.09(수) 23:59)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206254&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 인문대 교학팀 (~2022-11-09)
 
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206253&amp;article.offset=0&amp;articleLimit=30)**
@@ -103,7 +106,4 @@
  [취업] - 대학일자리플러스센더 (~2022-11-07)
 
 * **[[메이커스페이스] 3D모델링 및 렌더링&amp;이미지편집 기초교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206152&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-11-07)
-
-* **[[메이커스페이스] 레이저 가공장비 이용 기초교육생 모집(11월 1회차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206151&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-11-07)
