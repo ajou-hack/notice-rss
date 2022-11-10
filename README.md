@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 2022-2학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206283&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-11-10)
+
 * **[[미국/LA] MBC AMERICA 제작 마케팅팀 CG 제작 인턴 채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206281&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-11-10)
 
@@ -104,6 +107,3 @@
 
 * **[(재공지)[혁신공유팀] 혁신공유라운지 사용불가 안내(11/9(수) 15:30 ~ 18:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206173&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 혁신공유단 (~2022-11-08)
-
-* **[(모집)축구부 프런트 신입기수 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206172&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2022-11-08)
