@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022년 스마트 수·과학실 참가자 모집 안내 (중고등학생 대상 – 정보과학) ( ~ 11.20)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206300&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 과학영재교육원 (~2022-11-10)
+
 * **[[학습법] 2022-2학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206283&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-11-10)
 
@@ -104,6 +107,3 @@
 
 * **[[법학전문대학원] 2023학년도 신입생 선발 면접전형에 따른 연암관 사용제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206179&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 법학전문대학원 교학팀 (~2022-11-08)
-
-* **[(재공지)[혁신공유팀] 혁신공유라운지 사용불가 안내(11/9(수) 15:30 ~ 18:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206173&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 혁신공유단 (~2022-11-08)
