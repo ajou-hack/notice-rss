@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[사회과학대학] 2022학년도 공직진출설명회 개최 안내( 11.11 (금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206303&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 사회과학대학교학팀 (~2022-11-10)
+
+* **[[학생지원팀] 온라인 선거 개인정보제공동의 안내(~11.16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206301&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2022-11-10)
+
 * **[2022년 스마트 수·과학실 참가자 모집 안내 (중고등학생 대상 – 정보과학) ( ~ 11.20)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206300&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 과학영재교육원 (~2022-11-10)
 
@@ -101,9 +107,3 @@
 
 * **[(기한연장-숏폼)2022학년도 연구실 안전 공모전 개최 안내(~11/14)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206189&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 안전관리센터 (~2022-11-08)
-
-* **[[Remind][학부] 전공(복수,부,마이크로,연계,심화전공) 신청 및 취소 기간 안내 (11.01.~11.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206181&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-11-08)
-
-* **[[법학전문대학원] 2023학년도 신입생 선발 면접전형에 따른 연암관 사용제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206179&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 법학전문대학원 교학팀 (~2022-11-08)
