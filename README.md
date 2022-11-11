@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 11월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206316&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-11-11)
+
+* **[[대학일자리플러스센터] 현직자 직무특강_ON-Line Zoom(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206312&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-11-10)
+
 * **[[사회과학대학] 2022학년도 공직진출설명회 개최 안내( 11.11 (금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206303&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 사회과학대학교학팀 (~2022-11-10)
 
@@ -101,9 +107,3 @@
 
 * **[신,구학생회관 정전안내(11월 12일/토)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206196&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2022-11-08)
-
-* **[[대학일자리플러스센터] 현직자 5주 직무경험 &amp; 코멘토](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206193&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센더 (~2022-11-08)
-
-* **[(기한연장-숏폼)2022학년도 연구실 안전 공모전 개최 안내(~11/14)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206189&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 안전관리센터 (~2022-11-08)
