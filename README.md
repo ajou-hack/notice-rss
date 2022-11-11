@@ -18,13 +18,16 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022학년도 비교과프로그램 인식 및 요구조사 설문조사 안내 (11월 1일 ~ 11월 30일](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206342&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2022-11-11)
+
 * **[[LINC 3.0] AJOU-Stars 액셀러레이팅 1인 1특허 창출 프로그램안내(11/17(목)-18(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206333&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀(창업교육센터) (~2022-11-11)
 
 * **[[인권센터 학생상담소] 심리재난에 대한 긴급상담 온라인 접수 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206332&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 인권센터 학생상담소 (~2022-11-11)
 
-* **[[LINC 3.0] AJOU-Stars 엑셀러레이팅 2022 디지털 뉴딜 아이디어톤 - 창업아이디어 고도화 프로그램 (11/24(목) 10~17시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206329&amp;article.offset=0&amp;articleLimit=30)**
+* **[[LINC 3.0] AJOU-Stars 엑셀러레이팅 디지털 뉴딜 아이디어톤 - 창업아이디어 고도화 프로그램 (11/24(목) 10~17시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206329&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 창업교육센터 (~2022-11-11)
 
 * **[(재공지)[2022 동계] 현장실습 온라인설명회 및 자소서 특강 안내(★11.16.(수) 14시~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206325&amp;article.offset=0&amp;articleLimit=30)**
@@ -104,6 +107,3 @@
 
 * **[[보건대학원] 2023학년도 전기모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206218&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 보건대학원교학팀 (~2022-11-08)
-
-* **[[메이커스페이스] 야, 너두 만들 수 있어!(석고트레이 과정-오후반/저녁반) 교육생 모집 (11/10-12시까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206213&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-11-08)
