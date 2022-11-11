@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지)[2022 동계] 현장실습 온라인설명회 및 자소서 특강 안내(★11.16.(수) 14시~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206325&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2022-11-11)
+
 * **[[재공지][근로]아주심리상담센터 근로장학생 모집(~11.16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206319&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 아주심리상담센터 (~2022-11-11)
 
@@ -103,7 +106,4 @@
  [기타] - 학술정보팀 (~2022-11-08)
 
 * **[[대학일자리플러스센터] 11/17(목) 취업포트폴리오 작성법](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206200&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-11-08)
-
-* **[[대학일자리플러스센터] 11/14(월)_채용공고분석 특강(4회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206197&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-11-08)
