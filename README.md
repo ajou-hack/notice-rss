@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 애널리스트에게 직접 산업별 이슈를 듣다.(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206345&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-11-11)
+
+* **[[대학일자리플러스센터] 진로 ONE Day 캠프 참여자 모집(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206344&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-11-11)
+
 * **[2022학년도 비교과프로그램 인식 및 요구조사 설문조사 안내 (11월 1일 ~ 11월 30일](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206342&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2022-11-11)
 
@@ -101,9 +107,3 @@
 
 * **[[대학일자리플러스센터] 아주대와 함께하는 DIG 채용 설명회(11/14)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206221&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-11-09)
-
-* **[[ REMIND][LINC 3.0] AJOU-Stars 액셀러레이팅 창업교육(3차-자금조달) 안내(11/10(목) 14-16시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206220&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀(창업교육센터) (~2022-11-09)
-
-* **[[보건대학원] 2023학년도 전기모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206218&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 보건대학원교학팀 (~2022-11-08)
