@@ -18,6 +18,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학생상담소] &#x27;잘 하고 싶은데 지쳤나요?&#x27; 성장 마인드셋 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206454&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생상담소 (~2022-11-14)
+
+* **[[메이커스페이스]3D스캐너를 활용한 스캐닝 운용 기초교육 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206453&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-11-14)
+
+* **[[메이커스페이스]스마트폰을 활용한 제품사진 촬영·편집 기초교육 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206452&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-11-14)
+
 * **[2022학년도 선문대학교 동계 계절학기 수강신청 안내(미래자동차 공동교과목)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206445&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 혁신공유단 (~2022-11-14)
 
@@ -98,12 +107,3 @@
 
 * **[[미국/LA] MBC AMERICA 제작 마케팅팀 CG 제작 인턴 채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206281&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-11-10)
-
-* **[[대학일자리플러스센터] 진로 ONE Day 캠프 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206278&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-11-09)
-
-* **[[재공지]2022학년도 비교과프로그램 인식 및 요구조사 (~11/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206277&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2022-11-09)
-
-* **[[교외장학] 전기공사공제조합장학회 2023년도 제18기 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206274&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-11-09)
