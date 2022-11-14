@@ -6,17 +6,23 @@
 * **[📌 [공지] 학부 및 대학원생 / 교직원퇴직자, 학부 및 대학원 졸업자(제적생 포함) 구글드라이브(공유드라이브 포함) 정리 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202858&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-08-17)
 
-* **[📌 [공지] [학부학생필독!!] 전자출결시스템 사용 매뉴얼 (전자출석부 사용법)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=192571&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-03-15)
-
-* **[📌 [공지] [교무팀] 2022학년도 코로나19 확산에 따른 출석인정 안내(백신공결 등)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180913&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-02-16)
-
 * **[📌 [공지] [총무팀] 코로나19 확진자 교내 심층역학조사 URL 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180493&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-02-08)
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[2022-2학기 유한재단 장학생 최종 선발 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206411&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-11-14)
+
+* **[[재공지]2022학년도 2학기 국가고시장학, 국가자격장학 신청_2022.11.18(금) 17:00 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206409&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-11-14)
+
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206408&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-11-14)
+
+* **[[Remind][학부] 전공(복수,부,마이크로,연계,심화전공) 신청 및 취소 기간 안내 (11.01.~11.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206405&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-11-14)
 
 * **[[대학일자리플러스센터] 애널리스트에게 직접 산업별 이슈를 듣다.(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206345&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-11-11)
@@ -95,15 +101,3 @@
 
 * **[(수정공지) 2022 AJOU GLOBAL CHALLENGER 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206233&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 국제교류팀 (~2022-11-09)
-
-* **[2022 아주대학교 소프트웨어학과 오픈랩 11월 14일(월) ~ 17일(목)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206230&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 소프트웨어학과 (~2022-11-09)
-
-* **[[중앙도서관] 22-동계방학 중앙도서관 면학장학생(휴학생) 모집(~11/18 am09:00)(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206229&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-11-09)
-
-* **[[학습법] 2022-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206223&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-11-09)
-
-* **[[대학일자리플러스센터] 아주대와 함께하는 DIG 채용 설명회(11/14)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206221&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-11-09)
