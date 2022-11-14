@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[미래자동차 렉처시리즈] 11/30(수) AI전문가 특강(나의 첫 인공지능수업)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206432&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신공유팀 (~2022-11-14)
+
 * **[[서울대학교] 에너지 신사업 대학생 사진 공모전 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206431&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신공유단 (~2022-11-14)
 
@@ -104,6 +107,3 @@
 
 * **[[서울시립대] 2022 UOS 빅데이터 알고리즘 경진대회 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206256&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신공유단 (~2022-11-09)
-
-* **[2022-2학기 Christmas English cafe 스태프 모집(~11.09(수) 23:59)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206254&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 인문대 교학팀 (~2022-11-09)
