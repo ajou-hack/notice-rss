@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022학년도 선문대학교 동계 계절학기 수강신청 안내(미래자동차 공동교과목)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206445&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 혁신공유단 (~2022-11-14)
+
 * **[11/17(목) 미래자동차 연계전공 설명회(30분, 기념품 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206437&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 혁신공유팀 (~2022-11-14)
 
@@ -104,6 +107,3 @@
 
 * **[[교외장학] 전기공사공제조합장학회 2023년도 제18기 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206274&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-11-09)
-
-* **[[2학기 장학금 받자]제2회 대학혁신지원사업 프로그램 참여 후기 공모전 안내(~11/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206263&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2022-11-09)
