@@ -3,6 +3,12 @@
 * **[📌 [공지] 아주대학교 개교50주년 엠블럼/슬로건 활용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206180&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 홍보실 (~2022-11-08)
 
+* **[📌 [공지] (학사)2022-동계 계절수업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205702&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-10-31)
+
+* **[📌 [공지] [교무팀] 출석(출결, 공결) 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205552&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-10-26)
+
 * **[📌 [공지] 학부 및 대학원생 / 교직원퇴직자, 학부 및 대학원 졸업자(제적생 포함) 구글드라이브(공유드라이브 포함) 정리 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202858&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-08-17)
 
@@ -12,13 +18,22 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[공학교육혁신센터] 2022학년도 1학기 학생상담 안내(2022.6.14.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206423&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 공학교육혁신센터 (~2022-11-14)
+
+* **[[공학교육혁신센터] 2022 캡스톤 디자인 경진대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206422&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2022-11-14)
+
+* **[학생 주도성 측정도구 개발을 위한 설문조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206416&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-11-14)
+
 * **[2022-2학기 유한재단 장학생 최종 선발 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206411&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-11-14)
 
 * **[[재공지]2022학년도 2학기 국가고시장학, 국가자격장학 신청_2022.11.18(금) 17:00 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206409&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-11-14)
 
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206408&amp;article.offset=0&amp;articleLimit=30)**
+* **[[마감] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206408&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-11-14)
 
 * **[[Remind][학부] 전공(복수,부,마이크로,연계,심화전공) 신청 및 취소 기간 안내 (11.01.~11.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206405&amp;article.offset=0&amp;articleLimit=30)**
@@ -92,12 +107,3 @@
 
 * **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206253&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-11-09)
-
-* **[[마감] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206250&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-11-09)
-
-* **[[대학일자리플러스센터] 하나금융TI 채용연계형 교육생 모집!(11/1~12/4 17시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206247&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-11-09)
-
-* **[(수정공지) 2022 AJOU GLOBAL CHALLENGER 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206233&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 국제교류팀 (~2022-11-09)
