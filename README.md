@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[홍보][수원도시재단]메타버스와 메이커 교육 참가자 모집(~선착순 마감 시 까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206520&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-11-15)
+
 * **[(재공지)미래자동차 복수/부/마이크로전공 신청 안내(~11/25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206513&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 혁신공유단 (~2022-11-15)
 
@@ -104,6 +107,3 @@
 
 * **[[마감] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206408&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-11-14)
-
-* **[[Remind][학부] 전공(복수,부,마이크로,연계,심화전공) 신청 및 취소 기간 안내 (11.01.~11.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206405&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-11-14)
