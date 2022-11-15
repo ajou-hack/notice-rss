@@ -18,7 +18,25 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[[학생상담소] &#x27;잘 하고 싶은데 지쳤나요?&#x27; 성장 마인드셋 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206454&amp;article.offset=0&amp;articleLimit=30)**
+* **[토론학습실 임시휴관 안내(11/19~20 , 11/26~27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206471&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2022-11-15)
+
+* **[[학습법] 2022-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206469&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-11-15)
+
+* **[푸른나무재단 2023 UN 본회의 참가학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206468&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2022-11-15)
+
+* **[「교육부 청년자문단」공개모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206463&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2022-11-15)
+
+* **[[비교과교육지원센터] 아주허브 홍보영상 제작 공모전 수상팀 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206462&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2022-11-15)
+
+* **[2023학년도 대학수학능력시험 당일 소음방지 협조 요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206460&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-11-15)
+
+* **[[학생상담소] &#x27;잘하고 싶은데 지쳤나요?&#x27; 성장 마인드셋 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206454&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생상담소 (~2022-11-14)
 
 * **[[메이커스페이스]3D스캐너를 활용한 스캐닝 운용 기초교육 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206453&amp;article.offset=0&amp;articleLimit=30)**
@@ -89,21 +107,3 @@
 
 * **[[대학일자리플러스센터] 11월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206316&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-11-11)
-
-* **[[대학일자리플러스센터] 현직자 직무특강_ON-Line Zoom(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206312&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-11-10)
-
-* **[[사회과학대학] 2022학년도 공직진출설명회 개최 안내( 11.11 (금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206303&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 사회과학대학교학팀 (~2022-11-10)
-
-* **[[학생지원팀] 온라인 선거 개인정보제공동의 안내(~11.16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206301&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2022-11-10)
-
-* **[2022년 스마트 수·과학실 참가자 모집 안내 (중고등학생 대상 – 정보과학) ( ~ 11.20)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206300&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 과학영재교육원 (~2022-11-10)
-
-* **[[학습법] 2022-2학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206283&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-11-10)
-
-* **[[미국/LA] MBC AMERICA 제작 마케팅팀 CG 제작 인턴 채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206281&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-11-10)
