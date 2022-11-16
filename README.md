@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[아침든든아주] 재학생 여러분, 아침밥 굶지 마세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206547&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2022-11-16)
+
 * README.md 2022 AJOU GLOBAL CHALLENGER 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206544&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-11-16)
 
@@ -104,6 +107,3 @@
 
 * **[[메이커스페이스]스마트폰을 활용한 제품사진 촬영·편집 기초교육 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206452&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-11-14)
-
-* **[2022학년도 선문대학교 동계 계절학기 수강신청 안내(미래자동차 공동교과목)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206445&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 혁신공유단 (~2022-11-14)
