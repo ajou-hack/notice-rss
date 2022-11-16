@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[화학과 X 대학일자리플러스센터] 화학과 선배가 들려주는 진로이야기 &lt;화학과 진로시그널&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206576&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-11-16)
+
+* **[[메이커스페이스] 야, 너두 만들 수 있어!(석고트레이 과정-오후반/저녁반) 교육생 모집 (11/17-12시까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206575&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-11-16)
+
 * **[[대학일자리플러스센터] 아주대와 함께하는 한국NSK 채용 설명회(11/23)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206564&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-11-16)
 
@@ -84,7 +90,7 @@
 * **[[학사]2023-1학기 재학생/휴학생 통합 전과 신청 안내(11.21.~11.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206484&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-11-15)
 
-* **[2022-2학기 파란학기제 시상식 관련 근로장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206476&amp;article.offset=0&amp;articleLimit=30)**
+* **[[조기마감] 2022-2학기 파란학기제 시상식 관련 근로장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206476&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2022-11-15)
 
 * **[[LINC 3.0] 환경부 국립생물자원관 2023 동계 대학생 현장실습 참가자 모집(~11.25.(금) 15시까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206474&amp;article.offset=0&amp;articleLimit=30)**
@@ -101,9 +107,3 @@
 
 * **[「교육부 청년자문단」공개모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206463&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2022-11-15)
-
-* **[[비교과교육지원센터] 아주허브 홍보영상 제작 공모전 수상팀 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206462&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2022-11-15)
-
-* **[2023학년도 대학수학능력시험 당일 소음방지 협조 요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206460&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-11-15)
