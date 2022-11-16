@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[재공지][LINC 3.0] AJOU-Stars 액셀러레이팅 디지털 뉴딜 아이디어톤 - 창업아이디어 고도화 프로그램 (11/24(목) 10~17시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206559&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 산학사업팀(창업교육센터) (~2022-11-16)
+
+* **[혁신공유단 사무실 부재 안내 (11/17~18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206558&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신공유팀 (~2022-11-16)
+
 * **[[아침든든아주] 재학생 여러분, 아침밥 굶지 마세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206547&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2022-11-16)
 
@@ -101,9 +107,3 @@
 
 * **[[학생상담소] &#x27;잘하고 싶은데 지쳤나요?&#x27; 성장 마인드셋 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206454&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생상담소 (~2022-11-14)
-
-* **[[메이커스페이스]3D스캐너를 활용한 스캐닝 운용 기초교육 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206453&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-11-14)
-
-* **[[메이커스페이스]스마트폰을 활용한 제품사진 촬영·편집 기초교육 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206452&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-11-14)
