@@ -18,6 +18,24 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* README.md 2022 AJOU GLOBAL CHALLENGER 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206544&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2022-11-16)
+
+* **[[Remind][학사]2023년 2월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.01.27(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206542&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-11-16)
+
+* **[[지식재산] 2022-2 지식재산 창업 및 사업화 발명아이디어 경진대회 최종결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206540&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 지식재산융합인재양성사업 (~2022-11-16)
+
+* **[[지식재산] 2022-2 지식재산기반 특허 경진대회 최종 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206539&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 지식재산융합인재양성사업 (~2022-11-16)
+
+* **[[학습법] 2022-2학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206536&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-11-16)
+
+* **[2023학년도 1학기 인공지능융합학과[복수전공, 부전공] 6기 1차 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206534&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 소프트웨어융합대학교학팀 (~2022-11-16)
+
 * **[의료인공지능 학부 마이크로과정 및 대학원 과정 모집 공고 (2023년도 1학기)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206533&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 의과대학 교학팀 (~2022-11-16)
 
@@ -89,21 +107,3 @@
 
 * **[2022학년도 선문대학교 동계 계절학기 수강신청 안내(미래자동차 공동교과목)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206445&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 혁신공유단 (~2022-11-14)
-
-* **[11/17(목) 미래자동차 연계전공 설명회(30분, 기념품 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206437&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 혁신공유팀 (~2022-11-14)
-
-* **[[대학일자리플러스센터] 글로벌 인재 육성 프로젝트_GYBM 아세안 과정 모집 2차 설명회(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206436&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-11-14)
-
-* **[[미래자동차 렉처시리즈] 11/30(수) AI전문가 특강(나의 첫 인공지능수업)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206432&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 혁신공유팀 (~2022-11-14)
-
-* **[[서울대학교] 에너지 신사업 대학생 사진 공모전 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206431&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 혁신공유단 (~2022-11-14)
-
-* **[[공학교육혁신센터] 2022학년도 1학기 학생상담 안내(2022.6.14.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206423&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 공학교육혁신센터 (~2022-11-14)
-
-* **[[공학교육혁신센터] 2022 캡스톤 디자인 경진대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206422&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2022-11-14)
