@@ -18,6 +18,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[의료인공지능 학부 마이크로과정 및 대학원 과정 모집 공고 (2023년도 1학기)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206533&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 의과대학 교학팀 (~2022-11-16)
+
+* **[[대학일자리플러스센터] 아주대와 함께하는 프로텍(PROTEC)채용 설명회(11/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206531&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-11-16)
+
+* **[국제교육센터 제11기 아주글로벌버디(AJOU GLOBAL BUDDY) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206530&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 국제교육센터 (~2022-11-16)
+
+* **[[재공지][LINC 3.0] AJOU-Stars 액셀러레이팅 1인 1특허 창출 프로그램안내(11/17(목)-18(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206527&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 산학사업팀(창업교육센터) (~2022-11-16)
+
 * **[[홍보][수원도시재단]메타버스와 메이커 교육 참가자 모집(~선착순 마감 시 까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206520&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-11-15)
 
@@ -95,15 +107,3 @@
 
 * **[[공학교육혁신센터] 2022 캡스톤 디자인 경진대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206422&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2022-11-14)
-
-* **[학생 주도성 측정도구 개발을 위한 설문조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206416&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-11-14)
-
-* **[2022-2학기 유한재단 장학생 최종 선발 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206411&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-11-14)
-
-* **[[재공지]2022학년도 2학기 국가고시장학, 국가자격장학 신청_2022.11.18(금) 17:00 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206409&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-11-14)
-
-* **[[마감] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206408&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-11-14)
