@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[안전관리센터]2022학년도 연구실 안전 공모전 결과 공지 연기 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206616&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 안전관리센터 (~2022-11-17)
+
+* **[유학생 여러분들의 만족도조사 참여 부탁드립니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206614&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 유학생입학팀 (~2022-11-17)
+
 * **[11.18(금) 등교 및 하교 버스 도착 및 출발 장소 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206603&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-11-17)
 
@@ -101,9 +107,3 @@
 
 * **[[학사]2023-1학기 재학생/휴학생 통합 전과 신청 안내(11.21.~11.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206484&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-11-15)
-
-* **[[조기마감] 2022-2학기 파란학기제 시상식 관련 근로장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206476&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2022-11-15)
-
-* **[[LINC 3.0] 환경부 국립생물자원관 2023 동계 대학생 현장실습 참가자 모집(~11.25.(금) 15시까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206474&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2022-11-15)
