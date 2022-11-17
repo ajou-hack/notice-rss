@@ -6,7 +6,7 @@
 * **[📌 [공지] (학사)2022-동계 계절수업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205702&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-10-31)
 
-* **[📌 [공지] [교무팀] 출석(출결, 공결) 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205552&amp;article.offset=0&amp;articleLimit=30)**
+* **[📌 [공지] [교무팀] 출석(전자출결, 공결, 취업계, 코로나 등) 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205552&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-10-26)
 
 * **[📌 [공지] 학부 및 대학원생 / 교직원퇴직자, 학부 및 대학원 졸업자(제적생 포함) 구글드라이브(공유드라이브 포함) 정리 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202858&amp;article.offset=0&amp;articleLimit=30)**
@@ -17,6 +17,12 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[대학발전팀] 행사로 인한 혁신운영라운지 일시중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206580&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 대학발전팀 (~2022-11-17)
+
+* **[[대학일자리플러스센터] 현장실습 지원자를 위한 자소서 작성법 특강(오프라인)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206577&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-11-16)
 
 * **[[화학과 X 대학일자리플러스센터] 화학과 선배가 들려주는 진로이야기 &lt;화학과 진로시그널&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206576&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-11-16)
@@ -101,9 +107,3 @@
 
 * **[[학습법] 2022-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206469&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2022-11-15)
-
-* **[푸른나무재단 2023 UN 본회의 참가학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206468&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2022-11-15)
-
-* **[「교육부 청년자문단」공개모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206463&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2022-11-15)
