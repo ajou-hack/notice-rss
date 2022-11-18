@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[LINC 3.0] AJOU-Stars 액셀러레이팅 투자유치 역량강화 프로그램 (11/25(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206649&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 산학사업팀(창업교육센터) (~2022-11-18)
+
 * **[2023-1학기 파란학기제 설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206638&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2022-11-18)
 
@@ -104,6 +107,3 @@
 
 * **[국제교육센터 제11기 아주글로벌버디(AJOU GLOBAL BUDDY) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206530&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 국제교육센터 (~2022-11-16)
-
-* **[[재공지][LINC 3.0] AJOU-Stars 액셀러레이팅 1인 1특허 창출 프로그램안내(11/17(목)-18(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206527&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀(창업교육센터) (~2022-11-16)
