@@ -18,6 +18,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지)[메이커스페이스]스마트폰을 활용한 제품사진 촬영·편집 기초교육 수강생 모집(접수기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206630&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-11-18)
+
+* **[[교외장학] 2022년 2학기 선원가족 장학생 추가 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206624&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-11-18)
+
+* **[[교외장학] 한국고등교육재단 인재림 제 2기 장학생 선발](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206623&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-11-18)
+
+* **[[대학일자리플러스센터] KT 에이블 스쿨 3기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206617&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-11-17)
+
 * **[[안전관리센터]2022학년도 연구실 안전 공모전 결과 공지 연기 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206616&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 안전관리센터 (~2022-11-17)
 
@@ -95,15 +107,3 @@
 
 * **[[대학일자리플러스센터] 2022 광고/마케팅 현직자 동문과 함께하는 &#x27;선배만남의 날&quot; 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206505&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-11-15)
-
-* **[[교외장학] 한국고등교육재단 제2기 문우림 장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206492&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-11-15)
-
-* **[[아주강좌] 제 480회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206490&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2022-11-15)
-
-* **[[중앙도서관] 22-동계방학 중앙도서관 면학장학생(휴학생) 모집(~11/18 am09:00)(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206489&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-11-15)
-
-* **[[학사]2023-1학기 재학생/휴학생 통합 전과 신청 안내(11.21.~11.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206484&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-11-15)
