@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(학사과정)2022-동계 계절학기 국내대학 학점교류 신청 안내(22.11.18.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206657&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-11-18)
+
+* **[[메이커스페이스] 메이커스페이스 휴관 및 출력장비 사용제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206654&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-11-18)
+
 * **[[LINC 3.0] AJOU-Stars 액셀러레이팅 투자유치 역량강화 프로그램 (11/25(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206649&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀(창업교육센터) (~2022-11-18)
 
@@ -101,9 +107,3 @@
 
 * **[의료인공지능 학부 마이크로과정 및 대학원 과정 모집 공고 (2023년도 1학기)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206533&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 의과대학 교학팀 (~2022-11-16)
-
-* **[[대학일자리플러스센터] 아주대와 함께하는 프로텍(PROTEC)채용 설명회(11/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206531&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-11-16)
-
-* **[국제교육센터 제11기 아주글로벌버디(AJOU GLOBAL BUDDY) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206530&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 국제교육센터 (~2022-11-16)
