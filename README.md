@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학생상담소] &#x27;잘하고 싶은데 지쳤나요?&#x27; 성장 마인드셋 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206664&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생상담소 (~2022-11-18)
+
 * **[(학사과정)2022-동계 계절학기 국내대학 학점교류 신청 안내(22.11.18.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206657&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-11-18)
 
@@ -104,6 +107,3 @@
 
 * **[2023학년도 1학기 인공지능융합학과[복수전공, 부전공] 6기 1차 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206534&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 소프트웨어융합대학교학팀 (~2022-11-16)
-
-* **[의료인공지능 학부 마이크로과정 및 대학원 과정 모집 공고 (2023년도 1학기)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206533&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 의과대학 교학팀 (~2022-11-16)
