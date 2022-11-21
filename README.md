@@ -18,7 +18,10 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206710&amp;article.offset=0&amp;articleLimit=30)**
+* **[2022학년도 국민대학교 미래자동차 공동교과목 동계 계절학기 수강 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206711&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 혁신공유단 (~2022-11-21)
+
+* **[(마감) 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206710&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2022-11-21)
 
 * **[[아주강좌] 제 481회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206704&amp;article.offset=0&amp;articleLimit=30)**
@@ -104,6 +107,3 @@
 
 * **[[화학과 X 대학일자리플러스센터] 화학과 선배가 들려주는 진로이야기 &lt;화학과 진로시그널&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206576&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-11-16)
-
-* **[[메이커스페이스] 야, 너두 만들 수 있어!(석고트레이 과정-오후반/저녁반) 교육생 모집 (11/17-12시까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206575&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-11-16)
