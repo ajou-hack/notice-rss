@@ -18,6 +18,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[홍보] 외교부 - 2022년 하반기 국립외교원 국민외교아카데미 대학생 외교 연수과정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206699&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2022-11-21)
+
+* **[[미래자동차 렉처시리즈] 11/30(수) AI전문가 특강(나의 첫 인공지능수업)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206697&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신공유단 (~2022-11-21)
+
+* **[학생 주도성 측정도구 개발을 위한 설문조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206691&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-11-21)
+
+* **[[대학일자리플러스센터] 11월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206690&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-11-21)
+
 * **[IP CONFERENCE 지식재산 취창업/진로 상담 부스 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206689&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 지식재산융합인재양성사업 (~2022-11-21)
 
@@ -95,15 +107,3 @@
 
 * **[[재공지][LINC 3.0] AJOU-Stars 액셀러레이팅 디지털 뉴딜 아이디어톤 - 창업아이디어 고도화 프로그램 (11/24(목) 10~17시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206559&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀(창업교육센터) (~2022-11-16)
-
-* **[혁신공유단 사무실 부재 안내 (11/17~18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206558&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신공유팀 (~2022-11-16)
-
-* **[[아침든든아주] 재학생 여러분, 아침밥 굶지 마세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206547&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2022-11-16)
-
-* README.md 2022 AJOU GLOBAL CHALLENGER 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206544&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2022-11-16)
-
-* **[[Remind][학사]2023년 2월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.01.27(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206542&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-11-16)
