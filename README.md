@@ -18,6 +18,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재안내)2023학년도 1학기 인공지능융합학과[복수전공, 부전공] 6기 1차 모집 및 설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206716&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 소프트웨어융합대학교학팀 (~2022-11-21)
+
+* **[(재안내) 중앙도서관 사진공모전 안내(11/7~11/25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206715&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2022-11-21)
+
+* **[2022학년도 인하대학교 미래자동차 공동교과목 동계 계절학기 수강 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206714&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 혁신공유단 (~2022-11-21)
+
 * **[2022학년도 국민대학교 미래자동차 공동교과목 동계 계절학기 수강 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206711&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 혁신공유단 (~2022-11-21)
 
@@ -98,12 +107,3 @@
 
 * **[[수정][학사]2023-1학기 재학생/휴학생 통합 전과 신청 안내(11.21.~11.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206594&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-11-17)
-
-* **[[대학발전팀] 행사로 인한 혁신운영라운지 일시중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206580&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 대학발전팀 (~2022-11-17)
-
-* **[[대학일자리플러스센터] 현장실습 지원자를 위한 자소서 작성법 특강(오프라인)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206577&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-11-16)
-
-* **[[화학과 X 대학일자리플러스센터] 화학과 선배가 들려주는 진로이야기 &lt;화학과 진로시그널&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206576&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-11-16)
