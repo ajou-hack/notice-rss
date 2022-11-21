@@ -18,6 +18,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[IP CONFERENCE 지식재산 취창업/진로 상담 부스 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206689&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 지식재산융합인재양성사업 (~2022-11-21)
+
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206687&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2022-11-21)
+
+* **[[Remind][학사]2023-1학기 재학생/휴학생 통합 전과 신청 안내(11.21.~11.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206682&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-11-21)
+
+* **[[※재공지※_한국장학재단] 2022년 국가우수장학금(이공계) 재학중우수자(한학기지원) 유형 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206681&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-11-21)
+
+* **[[정정발표]2022학년도 연구실 안전 공모전 수상작 정정 발표 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206669&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 안전관리센터 (~2022-11-18)
+
 * **[[학생상담소] &#x27;잘하고 싶은데 지쳤나요?&#x27; 성장 마인드셋 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206664&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생상담소 (~2022-11-18)
 
@@ -32,9 +47,6 @@
 
 * **[2023-1학기 파란학기제 설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206638&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2022-11-18)
-
-* **[[안전관리센터]2022학년도 연구실 안전 공모전 수상작 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206636&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 안전관리센터 (~2022-11-18)
 
 * **[[재공지]2022학년도 비교과프로그램 인식 및 요구조사 설문조사 안내 (11월 1일 ~ 11월 30일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206633&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2022-11-18)
@@ -95,15 +107,3 @@
 
 * **[[Remind][학사]2023년 2월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.01.27(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206542&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-11-16)
-
-* **[[지식재산] 2022-2 지식재산 창업 및 사업화 발명아이디어 경진대회 최종결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206540&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 지식재산융합인재양성사업 (~2022-11-16)
-
-* **[[지식재산] 2022-2 지식재산기반 특허 경진대회 최종 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206539&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 지식재산융합인재양성사업 (~2022-11-16)
-
-* **[[학습법] 2022-2학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206536&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-11-16)
-
-* **[2023학년도 1학기 인공지능융합학과[복수전공, 부전공] 6기 1차 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206534&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 소프트웨어융합대학교학팀 (~2022-11-16)
