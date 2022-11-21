@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[아주강좌] 제 481회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206704&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2022-11-21)
+
 * **[[홍보] 외교부 - 2022년 하반기 국립외교원 국민외교아카데미 대학생 외교 연수과정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206699&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2022-11-21)
 
@@ -104,6 +107,3 @@
 
 * **[[대학일자리플러스센터] 아주대와 함께하는 한국NSK 채용 설명회(11/23)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206564&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-11-16)
-
-* **[[재공지][LINC 3.0] AJOU-Stars 액셀러레이팅 디지털 뉴딜 아이디어톤 - 창업아이디어 고도화 프로그램 (11/24(목) 10~17시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206559&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀(창업교육센터) (~2022-11-16)
