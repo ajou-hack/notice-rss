@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[메이커스페이스] 야, 너두 만들 수 있어!(석고오너먼트 과정-오후반/저녁반) 교육생 모집 (11/24-12시까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206774&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-11-22)
+
 * **[[대학일자리플러스센터] 월간자소서 12월호(기초 서류 작성법 특강 및 컨설팅)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206768&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-11-22)
 
@@ -104,6 +107,3 @@
 
 * **[[Remind][학사]2023-1학기 재학생/휴학생 통합 전과 신청 안내(11.21.~11.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206682&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-11-21)
-
-* **[[※재공지※_한국장학재단] 2022년 국가우수장학금(이공계) 재학중우수자(한학기지원) 유형 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206681&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-11-21)
