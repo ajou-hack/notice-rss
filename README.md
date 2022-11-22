@@ -18,6 +18,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[안전관리센터]2022학년도 연구실 안전 공모전 수상작(슬로건) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206737&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 안전관리센터 (~2022-11-22)
+
+* **[[기간연장] 대학혁신지원사업 프로그램 참여 후기 공모전(~11/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206734&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2022-11-22)
+
+* **[[교육대학원] 근로학생 모집(11.25(금) / 11.28(월))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206733&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교육대학원 (~2022-11-22)
+
+* **[☆이벤트☆ 2022 AJOU 가족회사 기업정보 업데이트하고 커피 쿠폰 받아가세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206728&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2022-11-22)
+
+* **[2022년 재난대응 안전한국훈련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206724&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 안전관리센터 (~2022-11-21)
+
 * **[☆오늘마감☆ 공모전 참여하고 장학금 받자!_대학혁신지원사업 프로그램 후기 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206719&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2022-11-21)
 
@@ -92,18 +107,3 @@
 
 * **[[교외장학] 2022년 2학기 선원가족 장학생 추가 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206624&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-11-18)
-
-* **[[교외장학] 한국고등교육재단 인재림 제 2기 장학생 선발](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206623&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-11-18)
-
-* **[[대학일자리플러스센터] KT 에이블 스쿨 3기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206617&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-11-17)
-
-* **[[안전관리센터]2022학년도 연구실 안전 공모전 결과 공지 연기 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206616&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 안전관리센터 (~2022-11-17)
-
-* **[유학생 여러분들의 만족도조사 참여 부탁드립니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206614&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 유학생입학팀 (~2022-11-17)
-
-* **[11.18(금) 등교 및 하교 버스 도착 및 출발 장소 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206603&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-11-17)
