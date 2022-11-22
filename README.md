@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 월간자소서 12월호(기초 서류 작성법 특강 및 컨설팅)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206768&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2022-11-22)
+
+* **[[2022 인권주간] 인권센터 인권상담소 인권특강에 초대합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206766&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 인권상담소 (~2022-11-22)
+
 * **[[홍보] 아주대학교 대학원 D.N.A.플러스융합학과 신설 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206759&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 대학원교학팀 (~2022-11-22)
 
@@ -101,9 +107,3 @@
 
 * **[[※재공지※_한국장학재단] 2022년 국가우수장학금(이공계) 재학중우수자(한학기지원) 유형 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206681&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-11-21)
-
-* **[[정정발표]2022학년도 연구실 안전 공모전 수상작 정정 발표 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206669&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 안전관리센터 (~2022-11-18)
-
-* **[[학생상담소] &#x27;잘하고 싶은데 지쳤나요?&#x27; 성장 마인드셋 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206664&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생상담소 (~2022-11-18)
