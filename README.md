@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[비교과교육지원센터]아주허브 11월 퀴즈대회 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206754&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2022-11-22)
+
+* **[(재공지)[LINC 3.0] AJOU-Stars 액셀러레이팅 투자유치 역량강화 프로그램 (11/25(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206751&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 산학사업팀(창업교육센터) (~2022-11-22)
+
 * **[[메이커스페이스] 포토샵(PS) 프로그램 기초교육 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206748&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2022-11-22)
 
@@ -39,7 +45,7 @@
 * **[[국가근로] 2023학년도 1학기(3~8월) 국가근로장학금 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206730&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-11-22)
 
-* **[☆이벤트☆ 2022 AJOU 가족회사 기업정보 업데이트하고 커피 쿠폰 받아가세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206728&amp;article.offset=0&amp;articleLimit=30)**
+* **[☆이벤트☆ 2022 AJOU 가족회사 기업정보 업데이트하고 커피 쿠폰 받아가세요!(~12/6까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206728&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학사업팀 (~2022-11-22)
 
 * **[2022년 재난대응 안전한국훈련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206724&amp;article.offset=0&amp;articleLimit=30)**
@@ -101,9 +107,3 @@
 
 * **[(학사과정)2022-동계 계절학기 국내대학 학점교류 신청 안내(22.11.18.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206657&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-11-18)
-
-* **[[메이커스페이스] 메이커스페이스 휴관 및 출력장비 사용제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206654&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-11-18)
-
-* **[[LINC 3.0] AJOU-Stars 액셀러레이팅 투자유치 역량강화 프로그램 (11/25(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206649&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀(창업교육센터) (~2022-11-18)
