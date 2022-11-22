@@ -18,20 +18,35 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[메이커스페이스] 포토샵(PS) 프로그램 기초교육 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206748&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-11-22)
+
+* **[[메이커스페이스] 솔리드웍스(Solidworks) 역설계 기초/응용교육 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206747&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2022-11-22)
+
+* **[[학습법] 2022-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206739&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2022-11-22)
+
 * **[[안전관리센터]2022학년도 연구실 안전 공모전 수상작(슬로건) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206737&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 안전관리센터 (~2022-11-22)
+
+* **[[국가근로] 2022학년도 2학기 동계방학(1~2월) 일반 교내·외 국가근로장학생 근로기간 및 근로중지 사전신고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206736&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-11-22)
 
 * **[[기간연장] 대학혁신지원사업 프로그램 참여 후기 공모전(~11/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206734&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2022-11-22)
 
-* **[[교육대학원] 근로학생 모집(11.25(금) / 11.28(월))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206733&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교육대학원 (~2022-11-22)
+* **[[국가근로] 2023학년도 1학기(3~8월) 국가근로장학금 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206730&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-11-22)
 
 * **[☆이벤트☆ 2022 AJOU 가족회사 기업정보 업데이트하고 커피 쿠폰 받아가세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206728&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학사업팀 (~2022-11-22)
 
 * **[2022년 재난대응 안전한국훈련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206724&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 안전관리센터 (~2022-11-21)
+
+* **[나라키움 대학생주택 2022년 겨울학기 입주자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206720&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2022-11-21)
 
 * **[☆오늘마감☆ 공모전 참여하고 장학금 받자!_대학혁신지원사업 프로그램 후기 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206719&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2022-11-21)
@@ -92,18 +107,3 @@
 
 * **[[LINC 3.0] AJOU-Stars 액셀러레이팅 투자유치 역량강화 프로그램 (11/25(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206649&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀(창업교육센터) (~2022-11-18)
-
-* **[2023-1학기 파란학기제 설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206638&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2022-11-18)
-
-* **[[재공지]2022학년도 비교과프로그램 인식 및 요구조사 설문조사 안내 (11월 1일 ~ 11월 30일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206633&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2022-11-18)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206631&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2022-11-18)
-
-* **[(재공지)[메이커스페이스]스마트폰을 활용한 제품사진 촬영·편집 기초교육 수강생 모집(접수기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206630&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2022-11-18)
-
-* **[[교외장학] 2022년 2학기 선원가족 장학생 추가 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=206624&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-11-18)
