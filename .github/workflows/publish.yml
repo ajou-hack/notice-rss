@@ -16,6 +16,8 @@ jobs:
           fetch-depth: 0
       - name: publish
         run: |
+          apt-get update
+          apt-get install build-essential
           git config --global user.name 'ajou-hack-bot'
           git config --global user.email 'bot@ajou-hack.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/ajou-hack/notice-rss
