@@ -12,6 +12,30 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[중앙도서관] 북큐레이션 도서 안내 - 벽돌책](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208288&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2023-01-02)
+
+* **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제51호(2023.01)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208285&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-01-02)
+
+* **[[경기도] 2023년 상반기 대학생 학자금 대출이자 지원](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208284&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-01-02)
+
+* **[[천안시] 2022 하반기 대학생 학자금 대출이자 지원](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208283&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-01-02)
+
+* **[2023년 경기도송파학사 입사생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208282&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-01-02)
+
+* **[2023년 경기도기숙사 입사생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208281&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-01-02)
+
+* **[[정보시스템팀] SSL 인증서 교체로 인한 전산 서비스 일시 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208280&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2023-01-02)
+
+* **[[중앙도서관] JCR(Journal Citation Reports) 이용 교육 참석 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208278&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2023-01-02)
+
 * **[2021년 학생인건비 지급비율 및 학생인건비 부당회수 비율 안내(수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208275&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학지원팀 (~2023-01-02)
 
@@ -77,27 +101,3 @@
 
 * **[2023년 상반기 ICT 학점연계 프로젝트 인턴십 (글로벌과정) 참여신청(~2023.01.05까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208155&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - SW중심대학사업단 (~2022-12-29)
-
-* **[[해외취업] 일본취업 온라인 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208154&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-12-29)
-
-* **[2023학년도 신입생 예비대학 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208153&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW융합교육원 (~2022-12-29)
-
-* **[2023학년도 신입생 예비대학 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208152&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW융합교육원 (~2022-12-29)
-
-* **[[대학일자리플러스센터]대학일자리플러스센터 서비스 모아보기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208151&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-12-29)
-
-* **[22년 하반기 경기도 청소년 교통비 지원 사업 신청 홍보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208150&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2022-12-29)
-
-* **[[학습법] 2022-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208136&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2022-12-29)
-
-* **[[Remind][학부][졸업]2023-1학기 학사학위취득유예 신청 안내(2022.12.30.~2023.01.24.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208127&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-12-29)
-
-* **[[Remind][학사] 2023-1학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208126&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-12-29)
