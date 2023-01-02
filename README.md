@@ -12,6 +12,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 2022 취업성공 후기 모집_여러분의 이야기를 기다립니다(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208295&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-01-02)
+
+* **[2023 AIAI Workshop 참가 신청 안내(~01.04 / 선착순 50명)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208290&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW융합교육원 (~2023-01-02)
+
 * **[[중앙도서관] 북큐레이션 도서 안내 - 벽돌책](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208288&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2023-01-02)
 
@@ -52,7 +58,7 @@
  [취업] - 대학일자리플러스센터 (~2023-01-02)
 
 * **[[국가근로] 2023년 국가근로장학금 시급단가 변경 적용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208257&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 학생지원팀 (~2023-01-02)
+ [장학] - 학생지원팀 (~2023-01-02)
 
 * **[2022년 멀티미디어 강의실 점검결과(12월) 및 2023년 (01월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208250&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2023-01-02)
@@ -95,9 +101,3 @@
 
 * **[[총무팀] 교내 일부 원두커피 자판기 철거 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208166&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2022-12-29)
-
-* **[[중앙도서관]동계방학중 중앙도서관 운영시간 안내(&#x27;22.12.30~.2.28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208157&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2022-12-29)
-
-* **[2023년 상반기 ICT 학점연계 프로젝트 인턴십 (글로벌과정) 참여신청(~2023.01.05까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208155&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - SW중심대학사업단 (~2022-12-29)
