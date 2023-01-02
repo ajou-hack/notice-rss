@@ -18,6 +18,8 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install build-essential libssl-dev pkg-config librust-openssl-sys-dev
+          echo $OPENSSL_DIR
+          echo $OPENSSLDIR
           git config --global user.name 'ajou-hack-bot'
           git config --global user.email 'bot@ajou-hack.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/ajou-hack/notice-rss
