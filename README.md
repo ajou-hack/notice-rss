@@ -12,6 +12,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[전공진입평가 미이수자 필독] 2023-1학기 전공진입평가 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208332&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-01-03)
+
+* **[[다산학부대학] 2023-1학기 1학년 1학기 이수 대상자 Co-BSM 자동수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208331&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-01-03)
+
 * **[[대학일자리플러스센터] 2023 이공계 취업 페스티벌 무료참가안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208323&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-01-03)
 
@@ -94,10 +100,4 @@
  [취업] - SW융합교육원 (~2022-12-30)
 
 * **[[대학일자리플러스센터] 동계방학 파이썬 기초 프로그램](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208210&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2022-12-30)
-
-* **[『아주 손쉬운 기부』오픈 세레모니 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208203&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 대학발전팀 (~2022-12-30)
-
-* **[[재공지][대학일자리플러스센터]8명 선착순 모집! EDISC 검사 프로그램-내게ON상담](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208201&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2022-12-30)
