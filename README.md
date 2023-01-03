@@ -3,6 +3,9 @@
 * **[📌 [공지] [당일공지] SSL 인증서 교체로 인한 전산 서비스 일시 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208344&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2023-01-03)
 
+* **[📌 [공지] [Remind][학사]2023년 2월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.01.27(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208274&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-01-02)
+
 * **[📌 [공지] (학사) 2022-2학기 성적 공고 및 이의신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=207751&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-12-16)
 
@@ -14,6 +17,12 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[총장레터 제4호](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208353&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총장비서실 (~2023-01-03)
+
+* **[[대학일자리플러스센터] 6시그마GB과정 신청 안내(1/9(월) 10시부터)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208351&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-01-03)
 
 * **[[대학일자리플러스센터] (1/9 10시부터 신청~~) 2022 NCS 반도체 공정심화과정 (동계-3차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208348&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-01-03)
@@ -75,9 +84,6 @@
 * **[2021년 학생인건비 지급비율 및 학생인건비 부당회수 비율 안내(수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208275&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학지원팀 (~2023-01-02)
 
-* **[[Remind][학사]2023년 2월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.01.27(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208274&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-01-02)
-
 * **[[학습법] 학습리더를 위한 데일카네기 리더십 워크숍 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208270&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-01-02)
 
@@ -101,6 +107,3 @@
 
 * **[!마감임박!2023년에 일년내내 장학금 받자![대학교육혁신원 서포터즈 2기 모집]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208231&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2022-12-30)
-
-* **[[학자금대출] 2023년 1학기 농촌출신대학생 학자금융자(무이자) 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208225&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2022-12-30)
