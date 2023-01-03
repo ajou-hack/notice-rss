@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] [당일공지] SSL 인증서 교체로 인한 전산 서비스 일시 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208344&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2023-01-03)
+
 * **[📌 [공지] (학사) 2022-2학기 성적 공고 및 이의신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=207751&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-12-16)
 
@@ -11,6 +14,12 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[대학일자리플러스센터] (1/9 10시부터 신청~~) 2022 NCS 반도체 공정심화과정 (동계-3차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208348&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-01-03)
+
+* **[[LINC 3.0] 한국지역대학연합(RUCK) 청년창업 재도전 캠프 신청 안내(~1/9(월)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208346&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 산학사업팀(창업교육센터) (~2023-01-03)
 
 * **[토론학습실 동계방학 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208336&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-01-03)
@@ -95,9 +104,3 @@
 
 * **[[학자금대출] 2023년 1학기 농촌출신대학생 학자금융자(무이자) 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208225&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2022-12-30)
-
-* **[[SW융합교육원] 겨울방학 스터디(대신러닝) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208215&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - SW융합교육원 (~2022-12-30)
-
-* **[[SW융합교육원] 소프트웨어융합대학 졸업생 현황 조사(기프티콘 1만원 상당 제공!)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208214&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - SW융합교육원 (~2022-12-30)
