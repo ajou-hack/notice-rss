@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2023학년도 신입생 예비대학 수강료 납부 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208413&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW융합교육원 (~2023-01-04)
+
+* **[(중앙도서관) 방학중 스마트 라운지 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208411&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2023-01-04)
+
+* **[[재무회계팀] 2022년 귀속 연말정산 일정 (사전)안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208410&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 재무회계팀 (~2023-01-04)
+
 * **[[대학일자리플러스센터] 파이널 직무별 면접 합격전략](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208401&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-01-04)
 
@@ -95,12 +104,3 @@
 
 * **[2022 금융권 취업준비 &quot;선배만남의 날&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208259&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-01-02)
-
-* **[2022 선배만남의 날 &quot;취준진담&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208258&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-01-02)
-
-* **[[국가근로] 2023년 국가근로장학금 시급단가 변경 적용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208257&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-01-02)
-
-* **[2022년 멀티미디어 강의실 점검결과(12월) 및 2023년 (01월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208250&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2023-01-02)
