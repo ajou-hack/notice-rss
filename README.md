@@ -1,8 +1,5 @@
 # 최근 공지사항
 
-* **[📌 [공지] [당일공지] SSL 인증서 교체로 인한 전산 서비스 일시 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208344&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2023-01-03)
-
 * **[📌 [공지] [Remind][학사]2023년 2월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.01.27(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208274&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-01-02)
 
@@ -18,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 2022-2학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208359&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-01-04)
+
 * **[총장레터 제4호](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208353&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총장비서실 (~2023-01-03)
 
@@ -29,6 +29,9 @@
 
 * **[[LINC 3.0] 한국지역대학연합(RUCK) 청년창업 재도전 캠프 신청 안내(~1/9(월)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208346&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀(창업교육센터) (~2023-01-03)
+
+* **[[당일공지] SSL 인증서 교체로 인한 전산 서비스 일시 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208344&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2023-01-03)
 
 * **[토론학습실 동계방학 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208336&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-01-03)
@@ -101,9 +104,3 @@
 
 * **[[대학일자리플러스센터] 12월 5주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208244&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-01-02)
-
-* **[2023-1학기 파란학기 신청학생 명단 공지(신청학생 필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208232&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2022-12-30)
-
-* **[!마감임박!2023년에 일년내내 장학금 받자![대학교육혁신원 서포터즈 2기 모집]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208231&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2022-12-30)
