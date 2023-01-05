@@ -15,6 +15,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학자금대출] 2023학년도 1학기 한국장학재단 학자금대출 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208439&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-01-05)
+
+* **[[교외장학] 2023학년도 삼송장학회 장학생 선발_1.20(금) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208438&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-01-05)
+
+* **[[LINC 3.0] 유튜브 꿈나무 모여라! 채널링크3.0 링크컴퍼니 출연 학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208437&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2023-01-05)
+
+* **[(재안내)[다산학부대학] 2022-2학기 체육수업(수영) 보조금 지급 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208436&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-01-05)
+
 * **[[교외장학] 2023년도 쌍용곰두리장학생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208421&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-01-05)
 
@@ -92,15 +104,3 @@
 
 * **[2023년 경기도송파학사 입사생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208282&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-01-02)
-
-* **[2023년 경기도기숙사 입사생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208281&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-01-02)
-
-* **[[정보시스템팀] SSL 인증서 교체로 인한 전산 서비스 일시 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208280&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2023-01-02)
-
-* **[[중앙도서관] JCR(Journal Citation Reports) 이용 교육 참석 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208278&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2023-01-02)
-
-* **[2021년 학생인건비 지급비율 및 학생인건비 부당회수 비율 안내(수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208275&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학지원팀 (~2023-01-02)
