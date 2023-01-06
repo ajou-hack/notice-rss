@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[교외장학] 2023학년도 1학기 에프앤씨 장학 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208488&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-01-06)
+
+* **[[교외장학] 2023학년도 1학기 김수정장학 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208484&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-01-06)
+
 * **[[교외장학] 2023학년도 1학기 해성문화재단 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208481&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-01-06)
 
@@ -27,7 +33,7 @@
 * **[[당일 재공지] 중앙도서관 JCR(Journal Citation Reports) 이용 교육 참석 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208476&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2023-01-06)
 
-* **[[봉사활동] ⌜결식아동돕기 사랑의 쌀 배달⌟ 1월 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208475&amp;article.offset=0&amp;articleLimit=30)**
+* **[[봉사활동] ⌜결식아동돕기 사랑의 쌀 배달⌟ 1월 자원봉사자 모집 [마감]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208475&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-01-06)
 
 * **[(학사과정)2023-1학기 국내대학 학점교류 신청 안내(23.01.06.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208474&amp;article.offset=0&amp;articleLimit=30)**
@@ -98,9 +104,3 @@
 
 * **[[대학일자리플러스센터] (1/9 10시부터 신청~~) 2022 NCS 반도체 공정심화과정 (동계-3차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208348&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-01-03)
-
-* **[[LINC 3.0] 한국지역대학연합(RUCK) 청년창업 재도전 캠프 신청 안내(~1/9(월)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208346&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀(창업교육센터) (~2023-01-03)
-
-* **[[당일공지] SSL 인증서 교체로 인한 전산 서비스 일시 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208344&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2023-01-03)
