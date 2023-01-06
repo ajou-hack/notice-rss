@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[교외장학] 2023학년도 1학기 해성문화재단 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208481&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-01-06)
+
+* **[제2회 전국 장애/비장애 대학생 창업경진대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208480&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 인권센터 장애학생지원실 (~2023-01-06)
+
 * **[산학연협력 뉴스레터 제47호(2022.12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208478&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학사업팀 (~2023-01-06)
 
@@ -98,9 +104,3 @@
 
 * **[[당일공지] SSL 인증서 교체로 인한 전산 서비스 일시 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208344&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2023-01-03)
-
-* **[토론학습실 동계방학 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208336&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-01-03)
-
-* **[[전공진입평가 미이수자 필독] 2023-1학기 전공진입평가 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208332&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-01-03)
