@@ -15,7 +15,19 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208452&amp;article.offset=0&amp;articleLimit=30)**
+* **[[다산학부대학] 2023-1학기 1학년 1학기 이수 대상자 Co-BSM 자동수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208470&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-01-06)
+
+* **[[사회봉사센터] 사회봉사활동 등록절차 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208466&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-01-06)
+
+* **[[대학일자리플러스센터] 1월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208465&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-01-06)
+
+* **[[재안내][교외장학] 2022-2, 2023-1학기 목암과학장학재단 장학생 접수_1.6(금) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208464&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-01-06)
+
+* **[[마감] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208452&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2023-01-05)
 
 * **[[생활관]2023학년도 1학기 생활관(기숙사) 입사 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208451&amp;article.offset=0&amp;articleLimit=30)**
@@ -92,15 +104,3 @@
 
 * **[[인권센터 성평등상담소] 제3회 성평등 콘텐츠 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208305&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 인권센터 성평등상담소 (~2023-01-03)
-
-* **[[메이커스페이스] 동계방학 중 메이커스페이스 운영시간 안내(01.02~02.03)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208297&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-01-02)
-
-* **[[대학일자리플러스센터] 2022 취업성공 후기 모집_여러분의 이야기를 기다립니다(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208295&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-01-02)
-
-* **[2023 AIAI Workshop 참가 신청 안내(~01.04 / 선착순 50명)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208290&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW융합교육원 (~2023-01-02)
-
-* **[[중앙도서관] 북큐레이션 도서 안내 - 벽돌책](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208288&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2023-01-02)
