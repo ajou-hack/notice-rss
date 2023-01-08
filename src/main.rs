@@ -25,7 +25,7 @@ fn fetch_html(base_url: &str, limit: u8, offset: u8) -> String {
         .danger_accept_invalid_certs(true)
         .build()
         .unwrap()
-        .get(&url)
+        .get(url)
         .header("User-Agent", "Mozilla/5.0")
         .send()
         .unwrap();
@@ -36,16 +36,16 @@ fn fetch_html(base_url: &str, limit: u8, offset: u8) -> String {
 }
 
 fn parse_text(row: &ElementRef, selector: &Selector) -> String {
-    row.select(&selector)
+    row.select(selector)
         .flat_map(|datum| datum.text().collect::<Vec<_>>())
-        .map(|datum| datum.trim().replace("\n", "").replace("\t", ""))
+        .map(|datum| datum.trim().replace(['\n', '\t'], ""))
         .filter(|datum| !datum.is_empty())
         .collect::<Vec<_>>()
         .join(" ")
 }
 
 fn parse_attr(row: &ElementRef, selector: &Selector) -> String {
-    row.select(&selector)
+    row.select(selector)
         .flat_map(|datum| datum.value().attr("href"))
         .collect::<Vec<_>>()
         .first()
@@ -159,7 +159,7 @@ fn write_last_index(last_index: i32) {
     let current_exe = env::current_exe().unwrap();
     let current_dir = current_exe.parent().unwrap();
     let path = format!("{}/last_index", current_dir.display());
-    let mut file = File::create(&path).unwrap();
+    let mut file = File::create(path).unwrap();
     file.write_all(last_index.to_string().as_bytes()).unwrap();
 }
 
