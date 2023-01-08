@@ -143,8 +143,8 @@ fn compose_md(notices: &[Notice]) -> String {
     format!(r"{}\n\n{}", header, items)
 }
 
-fn compose_commit_message(notices: &[Notice], last_index: i32) -> String {
-    let header = format!("dist: {}", last_index);
+fn compose_commit_message(notices: &[Notice], new_count: i32) -> String {
+    let header = format!("dist: {} new notice(s)", new_count);
 
     let items = notices
         .iter()
@@ -188,7 +188,7 @@ fn main() {
         match mode.as_str() {
             "xml" => println!("{}", compose_xml(&notices)),
             "md" => println!("{}", compose_md(&notices)),
-            "cm" => println!("{}", compose_commit_message(&notices, last_index)),
+            "cm" => println!("{}", compose_commit_message(&notices, latest_index - last_index)),
             _ => eprintln!("unknown mode '{}'", mode),
         }
 
