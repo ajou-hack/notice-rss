@@ -12,6 +12,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[인권센터 성평등상담소] 제3회 성평등 콘텐츠 공모전(기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209437&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 인권센터 성평등상담소 (~2023-01-09)
+
 * **[(재공지/연장) [LINC 3.0] 한국지역대학연합(RUCK) 청년창업 재도전 캠프 신청 안내(~1/10(화)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209431&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀(창업교육센터) (~2023-01-09)
 
@@ -98,6 +101,3 @@
 
 * **[(재안내)[다산학부대학] 2022-2학기 체육수업(수영) 보조금 지급 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208436&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-01-05)
-
-* **[[교외장학] 2023년도 쌍용곰두리장학생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208421&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-01-05)
