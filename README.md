@@ -12,6 +12,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 휴학생 면학장학생 모집(수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209447&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-01-09)
+
 * **[[LINC 3.0] 2023-1학기 현장실습 학생 참여 신청 안내 (01.16~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209444&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2023-01-09)
 
@@ -98,6 +101,3 @@
 
 * **[[Remind][학부]2023-1학기 시간제등록생 신청 기간 안내(01.06.~01.13.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208440&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-01-05)
-
-* **[[학자금대출] 2023학년도 1학기 한국장학재단 학자금대출 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208439&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-01-05)
