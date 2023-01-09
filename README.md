@@ -12,6 +12,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학원비즈니스애널리틱스학과] 2023학년도 전기 대학원 수시2차 입학전형 및 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209440&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 경영대학교학팀 (~2023-01-09)
+
+* **[[학습법] 2022-2학기 온라인 학습법 특강 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209439&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-01-09)
+
 * **[[인권센터 성평등상담소] 제3회 성평등 콘텐츠 공모전(기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209437&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 인권센터 성평등상담소 (~2023-01-09)
 
@@ -95,9 +101,3 @@
 
 * **[[교외장학] 2023학년도 삼송장학회 장학생 선발_1.20(금) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208438&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-01-05)
-
-* **[[LINC 3.0] 유튜브 꿈나무 모여라! 채널링크3.0 링크컴퍼니 출연 학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208437&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2023-01-05)
-
-* **[(재안내)[다산학부대학] 2022-2학기 체육수업(수영) 보조금 지급 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208436&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-01-05)
