@@ -12,6 +12,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2023년 한국장학재단 창업지원형 기숙사 입주생 모집 신청기간 연장 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209501&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-01-10)
+
 * **[[중앙도서관] 중앙도서관 리모델링 설문조사 진행(~1.31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209473&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 중앙도서관 학술정보팀 (~2023-01-09)
 
@@ -98,6 +101,3 @@
 
 * **[[생활관]2023학년도 1학기 생활관(기숙사) 입사 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208451&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 생활관 (~2023-01-05)
-
-* **[[대학일자리플러스센터] 금주의 추천채용_메리앤비/위니아에이드/어보브반도체](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208450&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-01-05)
