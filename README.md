@@ -9,6 +9,9 @@
 * **[📌 [공지] 구글드라이브(이메일, 공유드라이브 포함) 정리 안내 - 학부 및 대학원생 / 교직원퇴직자, 학부 및 대학원 졸업자(제적생 포함)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=202858&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2022-08-17)
 
+* **[📌 [공지] [총무팀] 코로나19 확진자 교내 심층역학조사 URL 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180493&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2022-02-08)
+
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
