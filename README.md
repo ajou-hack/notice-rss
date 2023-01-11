@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(학사과정)2023-1학기 국내대학 학점교류 신청 안내(23.01.11.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209569&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-01-11)
+
+* **[[봉사활동] 서울올림픽파크텔 청소년운영위원회 제12기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209567&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-01-11)
+
 * **[[대학원 의생명과학과] 2023년 전기 대학원 의생명과학과 신입생 모집 (수시 2차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209565&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 의과대학 교학팀 (~2023-01-11)
 
@@ -98,9 +104,3 @@
 
 * **[(학사과정)2023-1학기 국내대학 학점교류 신청 안내(23.01.06.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208474&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-01-06)
-
-* **[[다산학부대학] 2023-1학기 1학년 1학기 이수 대상자 Co-BSM 자동수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208470&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-01-06)
-
-* **[[사회봉사센터] 사회봉사활동 등록절차 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208466&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-01-06)
