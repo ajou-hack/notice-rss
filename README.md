@@ -3,6 +3,9 @@
 * **[📌 [공지] [Remind][학사]2023년 2월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.01.27(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208274&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-01-02)
 
+* **[📌 [공지] (1/9 수정)(학사) 2022-2학기 성적 공고 및 이의신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=207751&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-12-16)
+
 * **[📌 [공지] [교무팀] 출석(전자출결, 공결, 취업계, 코로나 등) 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205552&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-10-26)
 
@@ -14,6 +17,18 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[2023년 한국장학재단 대학생 연합생활관 신규 입주생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209581&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-01-11)
+
+* **[[재안내][교외장학] 2023학년도 한국지도자육성장학재단 선발 공고_1.13(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209580&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-01-11)
+
+* **[[재안내][교외장학] 2023학년도 정수장학회 신규장학생 선발_1.13(금) 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209579&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-01-11)
+
+* **[2022년 하반기 군산시 대학생 학자금대출 이자지원 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209578&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-01-11)
 
 * **[[대학일자리플러스센터] 휴학생 면학장학생 모집(재공고)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209576&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 대학일자리플러스센터 (~2023-01-11)
@@ -92,15 +107,3 @@
 
 * **[[교외장학] 2023학년도 1학기 에프앤씨 장학 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208488&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-01-06)
-
-* **[[교외장학] 2023학년도 1학기 김수정장학 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208484&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-01-06)
-
-* **[[교외장학] 2023학년도 1학기 해성문화재단 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208481&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-01-06)
-
-* **[제2회 전국 장애/비장애 대학생 창업경진대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208480&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 인권센터 장애학생지원실 (~2023-01-06)
-
-* **[산학연협력 뉴스레터 제47호(2022.12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208478&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2023-01-06)
