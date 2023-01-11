@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 휴학생 면학장학생 모집(재공고)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209576&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 대학일자리플러스센터 (~2023-01-11)
+
 * **[[대학일자리플러스센터] 동국제약 채용연계 과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209571&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-01-11)
 
@@ -101,6 +104,3 @@
 
 * **[산학연협력 뉴스레터 제47호(2022.12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208478&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학사업팀 (~2023-01-06)
-
-* **[[당일 재공지] 중앙도서관 JCR(Journal Citation Reports) 이용 교육 참석 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208476&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2023-01-06)
