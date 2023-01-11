@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학원 의생명과학과] 2023년 전기 대학원 의생명과학과 신입생 모집 (수시 2차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209565&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 의과대학 교학팀 (~2023-01-11)
+
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209554&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2023-01-11)
+
 * **[[교무팀] 학부 학위수여식 및 입학식 단기 아르바이트 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209521&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 교무팀 (~2023-01-10)
 
@@ -98,9 +104,3 @@
 
 * **[[사회봉사센터] 사회봉사활동 등록절차 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208466&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-01-06)
-
-* **[[대학일자리플러스센터] 1월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208465&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-01-06)
-
-* **[[재안내][교외장학] 2022-2, 2023-1학기 목암과학장학재단 장학생 접수_1.6(금) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208464&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-01-06)
