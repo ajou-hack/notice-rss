@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 2022 선배만남의 날 (취준진담, 금융권 취업준비) 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209610&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-01-12)
+
+* **[[대학일자리플러스센터] 이차전지 인력양성 교육프로그램( 온라인)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209608&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-01-12)
+
 * **[도서관-율곡관 갓길 차량 주차금지 및 혜강관 지하주차장 이용 가능 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209597&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2023-01-12)
 
@@ -101,9 +107,3 @@
 
 * **[[Remind][학사] 2023-1학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209419&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-01-09)
-
-* **[[교무팀] 2022학년도 학생에세이 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209416&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-01-09)
-
-* **[[대학혁신지원사업] 대학교육혁신원 12월 뉴스레터 vol.7](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208493&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2023-01-06)
