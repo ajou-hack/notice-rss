@@ -1,10 +1,13 @@
 # 최근 공지사항
 
+* **[📌 [공지] 2022-동계 계절수업 수업평가, 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209651&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-01-13)
+
 * **[📌 [공지] [Remind][학사]2023년 2월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.01.27(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208274&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-01-02)
 
-* **[📌 [공지] (1/9 수정)(학사) 2022-2학기 성적 공고 및 이의신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=207751&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-12-16)
+* **[📌 [공지] (학사)2022-동계 계절수업 등록(환불) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=207103&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2022-11-30)
 
 * **[📌 [공지] [교무팀] 출석(전자출결, 공결, 취업계, 코로나 등) 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205552&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-10-26)
@@ -17,6 +20,9 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[학부] 2023-1학기 재입학 확정 및 학사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209650&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-01-13)
 
 * **[(당일공지) 2023-1학기 1학년 1학기 이수 대상자 Co-BSM 자동수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209640&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-01-13)
@@ -104,6 +110,3 @@
 
 * **[[인권센터 성평등상담소] 제3회 성평등 콘텐츠 공모전(기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209437&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 인권센터 성평등상담소 (~2023-01-09)
-
-* **[(재공지/연장) [LINC 3.0] 한국지역대학연합(RUCK) 청년창업 재도전 캠프 신청 안내(~1/10(화)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209431&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀(창업교육센터) (~2023-01-09)
