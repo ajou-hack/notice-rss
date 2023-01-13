@@ -18,6 +18,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(당일공지) 2023-1학기 1학년 1학기 이수 대상자 Co-BSM 자동수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209640&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-01-13)
+
+* **[[대학일자리플러스센터] 1월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209639&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-01-13)
+
+* **[[교무팀] 2022학년도 학생에세이 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209637&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-01-13)
+
+* **[[교무팀] 학생설계전공 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209636&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-01-13)
+
 * **[[세미콘코리아 2023] 국제 반도체인재양성 무료 멘토링 프로그램 Meet the Experts](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209629&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-01-12)
 
@@ -95,15 +107,3 @@
 
 * **[(재공지/연장) [LINC 3.0] 한국지역대학연합(RUCK) 청년창업 재도전 캠프 신청 안내(~1/10(화)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209431&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀(창업교육센터) (~2023-01-09)
-
-* **[COSS-폭스바겐그룹코리아 미래자동차 SW 인재양성 글로벌 프로그램 온라인 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209426&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신공유단 (~2023-01-09)
-
-* **[율곡관 지하 혁신공유라운지 사용 불가 안내(1/11, 09:00~16:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209425&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신공유단 (~2023-01-09)
-
-* **[[연장안내][교외장학] 2022-2, 2023-1학기 목암과학장학재단 장학생 접수_1.12(목) 16:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209423&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-01-09)
-
-* **[[마감] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209421&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2023-01-09)
