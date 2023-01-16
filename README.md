@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 외투기업 취업전략 Applying 실전코칭 (온라인)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209676&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-01-16)
+
+* **[[LINC 3.0]「반도체 Multiversity」 공정실습 Boot Camp 교육](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209675&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 산학사업팀 (~2023-01-16)
+
 * **[[연장공고][교외장학] 2023학년도 정수장학회 신규장학생 선발(인문계열,자연계열)_1.17(화) 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209664&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-01-13)
 
@@ -104,9 +110,3 @@
 
 * **[[대학일자리플러스센터] 휴학생 면학장학생 모집(수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209447&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-01-09)
-
-* **[[LINC 3.0] 2023-1학기 현장실습 학생 참여 신청 안내 (01.16~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209444&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2023-01-09)
-
-* **[[대학원비즈니스애널리틱스학과] 2023학년도 전기 대학원 수시2차 입학전형 및 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209440&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 경영대학교학팀 (~2023-01-09)
