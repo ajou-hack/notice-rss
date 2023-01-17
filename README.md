@@ -21,6 +21,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2022학년도 학습 지원 프로그램 만족도 조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209746&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-01-17)
+
+* **[[교외장학] 2023년 동암장학회 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209744&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-01-17)
+
+* **[[다산학부대학] 2023-1학기 아주인성 공통반, 고급영어 과목 재수강 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209740&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-01-17)
+
 * **[[2023학년도 신입생 필독] 2023학년도 신입생 대상 배치고사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209719&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-01-16)
 
@@ -101,12 +110,3 @@
 
 * **[(학사과정)2023-1학기 국내대학 학점교류 신청 안내(23.01.11.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209569&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-01-11)
-
-* **[[봉사활동] 서울올림픽파크텔 청소년운영위원회 제12기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209567&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-01-11)
-
-* **[[대학원 의생명과학과] 2023년 전기 대학원 의생명과학과 신입생 모집 (수시 2차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209565&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 의과대학 교학팀 (~2023-01-11)
-
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209554&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2023-01-11)
