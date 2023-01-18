@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] [당일공지] 데이터베이스 점검으로 인한 전산서비스 일시 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209785&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 정보시스템팀 (~2023-01-18)
+
 * **[📌 [공지] 2022-동계 계절수업 수업평가, 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209651&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-01-13)
 
@@ -20,6 +23,15 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[학부]2023-1학기 학사과정 학과별 개설과목 현황 안내(수시 업데이트 예정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209790&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-01-18)
+
+* **[[학부]2023-1학기 수업운영 안내 (대면수업원칙)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209786&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-01-18)
+
+* **[[메이커스페이스] 휴관안내(1/18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209782&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-01-18)
 
 * **[(학사과정)2023-1학기 국내대학 학점교류 신청 안내(23.01.17.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209759&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-01-17)
@@ -45,7 +57,7 @@
 * **[(유학생) 22-겨울학기 슬기로운 한국어 학술모임 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209688&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 글로벌교양학부 (~2023-01-16)
 
-* **[(당일공지)[전공진입평가 미이수자 필독] 2023-1학기 전공진입평가 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209681&amp;article.offset=0&amp;articleLimit=30)**
+* **[[전공진입평가 미이수자 필독] 2023-1학기 전공진입평가 수강신청(마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209681&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-01-16)
 
 * **[[대학일자리플러스센터] 외투기업 취업전략 Applying 실전코칭 (온라인)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209676&amp;article.offset=0&amp;articleLimit=30)**
@@ -101,12 +113,3 @@
 
 * **[2022년 하반기 군산시 대학생 학자금대출 이자지원 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209578&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-01-11)
-
-* **[[대학일자리플러스센터] 휴학생 면학장학생 모집(재공고)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209576&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 대학일자리플러스센터 (~2023-01-11)
-
-* **[[대학일자리플러스센터] 동국제약 채용연계 과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209571&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-01-11)
-
-* **[[해외취업]2023 유럽(독일, 덴마크)로보틱스 인턴십](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209570&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-01-11)
