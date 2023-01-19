@@ -1,8 +1,5 @@
 # 최근 공지사항
 
-* **[📌 [공지] [당일공지] 데이터베이스 점검으로 인한 전산서비스 일시 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209785&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 정보시스템팀 (~2023-01-18)
-
 * **[📌 [공지] 2022-동계 계절수업 수업평가, 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209651&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-01-13)
 
@@ -23,6 +20,15 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[교무팀] 학생설계전공 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209828&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-01-18)
+
+* **[[교무팀] 2022학년도 학생에세이 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209827&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-01-18)
+
+* **[[학부] 학위수여식 및 입학식 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209826&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-01-18)
 
 * **[2023학년도 1학기 인공지능융합학과[복수전공, 부전공] 6기 2차 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209799&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 소프트웨어융합대학교학팀 (~2023-01-18)
@@ -53,6 +59,9 @@
 
 * **[[학부]2023-1학기 수업운영 안내 (대면수업원칙)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209786&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-01-18)
+
+* **[[당일공지] 데이터베이스 점검으로 인한 전산서비스 일시 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209785&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 정보시스템팀 (~2023-01-18)
 
 * **[[메이커스페이스] 휴관안내(1/18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209782&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-01-18)
@@ -101,15 +110,3 @@
 
 * **[(당일공지) 2023-1학기 1학년 1학기 이수 대상자 Co-BSM 자동수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209640&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-01-13)
-
-* **[[대학일자리플러스센터] 1월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209639&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-01-13)
-
-* **[[교무팀] 2022학년도 학생에세이 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209637&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-01-13)
-
-* **[[교무팀] 학생설계전공 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209636&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-01-13)
-
-* **[[세미콘코리아 2023] 국제 반도체인재양성 무료 멘토링 프로그램 Meet the Experts](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209629&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-01-12)
