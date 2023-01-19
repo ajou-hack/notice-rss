@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[한국형 온라인 공개강좌(K-MOOC) 글로벌 우수강좌 구독 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209838&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 교수학습개발센터 (~2023-01-19)
+
 * **[[교무팀] 학생설계전공 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209828&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-01-18)
 
@@ -107,6 +110,3 @@
 
 * **[[학부] 2023-1학기 재입학 확정 및 학사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209650&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-01-13)
-
-* **[(당일공지) 2023-1학기 1학년 1학기 이수 대상자 Co-BSM 자동수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209640&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-01-13)
