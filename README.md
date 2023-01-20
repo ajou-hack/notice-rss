@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[기초과학연구소]2023년 자율운영 중점연구소 1단계 3차년도 세부과제 공모안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209900&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기초과학연구소 (~2023-01-20)
+
 * **[[재공지_대학일자리플러스센터] 외투기업 취업전략 Applying 실전코칭 (온라인)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209895&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-01-20)
 
@@ -107,6 +110,3 @@
 
 * **[[입시홍보] 2023-1 일반대학원 D.N.A.플러스융합학과 신입생모집(수시2차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209716&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 대학원교학팀 (~2023-01-16)
-
-* **[[학부] 2023-1학기 전과 확정 알림 및 학사안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209706&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-01-16)
