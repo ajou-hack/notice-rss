@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[재공지_대학일자리플러스센터] 외투기업 취업전략 Applying 실전코칭 (온라인)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209895&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-01-20)
+
+* **[[Remind][학부][졸업]2023-1학기 학사학위취득유예 신청 안내(2022.12.30.~2023.01.24.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209892&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-01-20)
+
 * **[[대학일자리플러스센터] 6시그마GB과정(2차) 신청 안내(1/30(월) 10시부터)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209889&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-01-20)
 
@@ -104,9 +110,3 @@
 
 * **[[학부] 2023-1학기 전과 확정 알림 및 학사안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209706&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-01-16)
-
-* **[(유학생) 22-겨울학기 슬기로운 한국어 학술모임 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209688&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 글로벌교양학부 (~2023-01-16)
-
-* **[[전공진입평가 미이수자 필독] 2023-1학기 전공진입평가 수강신청(마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209681&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-01-16)
