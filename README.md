@@ -21,6 +21,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 6시그마GB과정(2차) 신청 안내(1/30(월) 10시부터)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209889&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-01-20)
+
+* **[제86회 한국어능력시험(TOPIK) 시행에 따른 성호관 출입 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209885&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교육센터운영팀 (~2023-01-20)
+
+* **[설 연휴 기간 안전수칙 준수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209883&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 안전관리센터 (~2023-01-20)
+
+* **[2023-1학기 강의페어링 수강신청 안내(예비 수강신청 기간 내 신청 불가)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209877&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산융복합교육센터 (~2023-01-20)
+
 * **[[대학일자리플러스센터] 1월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209866&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-01-20)
 
@@ -98,15 +110,3 @@
 
 * **[[전공진입평가 미이수자 필독] 2023-1학기 전공진입평가 수강신청(마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209681&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-01-16)
-
-* **[[대학일자리플러스센터] 외투기업 취업전략 Applying 실전코칭 (온라인)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209676&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-01-16)
-
-* **[[LINC 3.0]「반도체 Multiversity」 공정실습 Boot Camp 교육](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209675&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀 (~2023-01-16)
-
-* **[[연장공고][교외장학] 2023학년도 정수장학회 신규장학생 선발(인문계열,자연계열)_1.17(화) 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209664&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-01-13)
-
-* **[[대학일자리플러스센터] 금주의 추천채용_엔켐/세아제강,세아제강지주](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209655&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-01-13)
