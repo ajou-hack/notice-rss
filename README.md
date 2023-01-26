@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[다산학부대학] 2023-1학기 교직과목(학부생반) 강의시간 및 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209967&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-01-26)
+
+* **[[입학팀] 정시 약학과 면접실시에 따른 시설이용 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209964&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 입학팀 (~2023-01-26)
+
 * **[[학습법] 2022-2학기 수업 참여 사례 공모전 수상작 선정 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209958&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-01-26)
 
@@ -104,9 +110,3 @@
 
 * **[[학부]2023-1학기 학사과정 학과별 개설과목 현황 안내(수시 업데이트 예정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209790&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-01-18)
-
-* **[[학부]2023-1학기 수업운영 안내 (대면수업원칙)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209786&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-01-18)
-
-* **[[당일공지] 데이터베이스 점검으로 인한 전산서비스 일시 중단 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209785&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 정보시스템팀 (~2023-01-18)
