@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 금주의 추천채용_한국하우톤/앰코테크놀로지코리아](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209994&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-01-26)
+
+* **[(학사과정)2023-1학기 국내대학 학점교류 신청 안내(23.01.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209990&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-01-26)
+
 * **[[CTL] 대면 설문조사 참가 모집. 스타벅스(세트) 쿠폰 제공](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209975&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-01-26)
 
@@ -100,10 +106,4 @@
  [장학] - 학생지원팀 (~2023-01-18)
 
 * **[[재안내][교외장학] 2023학년도 삼송장학회 장학생 선발_1.20(금) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209793&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-01-18)
-
-* **[[학부]2023-1학기 예비수강신청 안내(01/26(목)~01/28(토))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209792&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-01-18)
-
-* **[[연장공고][교외장학] 2023학년도 정수장학회 신규장학생 선발(인문계열,자연계열)_1.20(금) 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209791&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-01-18)
