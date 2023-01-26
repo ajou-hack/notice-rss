@@ -6,9 +6,6 @@
 * **[📌 [공지] [Remind][학사]2023년 2월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.01.27(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208274&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-01-02)
 
-* **[📌 [공지] (학사)2022-동계 계절수업 등록(환불) 안내(1/25환불예정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=207103&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2022-11-30)
-
 * **[📌 [공지] [교무팀] 출석(전자출결, 공결, 취업계, 코로나 등) 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205552&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-10-26)
 
@@ -20,6 +17,9 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[CTL] 대면 설문조사 참가 모집. 스타벅스(세트) 쿠폰 제공](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209975&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-01-26)
 
 * **[[다산학부대학] 2023-1학기 교직과목(학부생반) 강의시간 및 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209967&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-01-26)
@@ -107,6 +107,3 @@
 
 * **[[연장공고][교외장학] 2023학년도 정수장학회 신규장학생 선발(인문계열,자연계열)_1.20(금) 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209791&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-01-18)
-
-* **[[학부]2023-1학기 학사과정 학과별 개설과목 현황 안내(수시 업데이트 예정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209790&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-01-18)
