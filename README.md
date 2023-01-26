@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[성평등상담소] 제3회 성평등 콘텐츠 공모전 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209996&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 성평등상담소 (~2023-01-26)
+
 * **[[대학일자리플러스센터] 금주의 추천채용_한국하우톤/앰코테크놀로지코리아](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209994&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-01-26)
 
@@ -103,7 +106,4 @@
  [취업] - 대학일자리플러스센터 (~2023-01-18)
 
 * **[[재안내][교외장학] 2023학년도 1학기 해성문화재단 장학생 선발 공고_1.20(금) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209794&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-01-18)
-
-* **[[재안내][교외장학] 2023학년도 삼송장학회 장학생 선발_1.20(금) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209793&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-01-18)
