@@ -1,6 +1,6 @@
 # 최근 공지사항
 
-* **[📌 [공지] 2022-동계 계절수업 수업평가, 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209651&amp;article.offset=0&amp;articleLimit=30)**
+* **[📌 [공지] (성적표 반영 완료)2022-동계 계절수업 수업평가, 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209651&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-01-13)
 
 * **[📌 [공지] [Remind][학사]2023년 2월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.01.27(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208274&amp;article.offset=0&amp;articleLimit=30)**
@@ -17,6 +17,9 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[대학일자리플러스센터] 외국계 반도체 장비 엔지니어 취업전략](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210044&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-01-27)
 
 * **[[대학혁신지원사업] 성과 공유 포럼 &quot;교육 혁신을 위한 도전과 과제&quot; 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210037&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 대학교육혁신원 (~2023-01-27)
@@ -104,6 +107,3 @@
 
 * **[한국형 온라인 공개강좌(K-MOOC) 글로벌 우수강좌 구독 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209838&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 교수학습개발센터 (~2023-01-19)
-
-* **[[교무팀] 학생설계전공 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209828&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-01-18)
