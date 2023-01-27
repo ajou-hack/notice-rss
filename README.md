@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학혁신지원사업] 성과 공유 포럼 &quot;교육 혁신을 위한 도전과 과제&quot; 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210037&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 대학교육혁신원 (~2023-01-27)
+
 * **[2023 아주대학교 수시 합격생 대상 온라인 어학 설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210035&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교육센터운영팀 (~2023-01-27)
 
@@ -103,7 +106,4 @@
  [비교과] - 교수학습개발센터 (~2023-01-19)
 
 * **[[교무팀] 학생설계전공 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209828&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-01-18)
-
-* **[[교무팀] 2022학년도 학생에세이 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209827&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-01-18)
