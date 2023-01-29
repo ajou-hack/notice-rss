@@ -3,9 +3,6 @@
 * **[📌 [공지] (성적표 반영 완료)2022-동계 계절수업 수업평가, 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209651&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-01-13)
 
-* **[📌 [공지] [Remind][학사]2023년 2월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.01.27(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=208274&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-01-02)
-
 * **[📌 [공지] [교무팀] 출석(전자출결, 공결, 취업계, 코로나 등) 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205552&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-10-26)
 
