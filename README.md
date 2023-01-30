@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[연구성과분석솔루션, SciVal 이용 교육 참석 안내(연구자 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210103&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2023-01-30)
+
+* **[[교외장학] 재단법인 플라톤 아카데미 인문 지혜 장학생 판플러스 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210102&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-01-30)
+
+* **[[학습법] 2022-2학기 온라인 학습법 특강 우수 수강자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210101&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-01-30)
+
 * **[[시간변경] 2023 아주대학교 수시 합격생 대상 온라인 어학 설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210082&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교육센터운영팀 (~2023-01-30)
 
@@ -95,12 +104,3 @@
 
 * **[[기초과학연구소]2023년 자율운영 중점연구소 1단계 3차년도 세부과제 공모안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209900&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기초과학연구소 (~2023-01-20)
-
-* **[[재공지_대학일자리플러스센터] 외투기업 취업전략 Applying 실전코칭 (온라인)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209895&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-01-20)
-
-* **[[Remind][학부][졸업]2023-1학기 학사학위취득유예 신청 안내(2022.12.30.~2023.01.24.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209892&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-01-20)
-
-* **[[대학일자리플러스센터] 6시그마GB과정(2차) 신청 안내(1/30(월) 10시부터)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209889&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-01-20)
