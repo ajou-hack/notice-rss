@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[시간변경] 2023 아주대학교 수시 합격생 대상 온라인 어학 설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210082&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교육센터운영팀 (~2023-01-30)
+
+* **[[국가근로][교사대생등대학생튜터링] 1월 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210073&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-01-30)
+
 * **[[기간연장][교외장학] (2023년 신입생 대상) 용운장학생 선발안내_2.17(금) 마감](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210067&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-01-30)
 
@@ -98,9 +104,3 @@
 
 * **[[대학일자리플러스센터] 6시그마GB과정(2차) 신청 안내(1/30(월) 10시부터)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209889&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-01-20)
-
-* **[제86회 한국어능력시험(TOPIK) 시행에 따른 성호관 출입 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209885&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교육센터운영팀 (~2023-01-20)
-
-* **[설 연휴 기간 안전수칙 준수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209883&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 안전관리센터 (~2023-01-20)
