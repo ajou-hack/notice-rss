@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[기간연장][교외장학] (2023년 신입생 대상) 용운장학생 선발안내_2.17(금) 마감](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210067&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-01-30)
+
+* **[(재공지)[LINC 3.0] 2023-1학기 현장실습 학생 참여 신청 안내 (01.16~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210066&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2023-01-30)
+
+* **[[총무팀] 정기 해충방역 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210064&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2023-01-30)
+
 * **[[대학일자리플러스센터] 외국계 반도체 장비 엔지니어 취업전략](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210044&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-01-27)
 
@@ -75,7 +84,7 @@
 * **[[대학일자리플러스센터] 2023 공공기관 채용정보박람회(2/1~2)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209913&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-01-25)
 
-* **[[혁신공유단] 혁신공유단 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209911&amp;article.offset=0&amp;articleLimit=30)**
+* **[[혁신공유단] [마감] 혁신공유단 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209911&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 혁신공유단 (~2023-01-25)
 
 * **[[기초과학연구소]2023년 자율운영 중점연구소 1단계 3차년도 세부과제 공모안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209900&amp;article.offset=0&amp;articleLimit=30)**
@@ -95,12 +104,3 @@
 
 * **[설 연휴 기간 안전수칙 준수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209883&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 안전관리센터 (~2023-01-20)
-
-* **[2023-1학기 강의페어링 수강신청 안내(예비 수강신청 기간 내 신청 불가)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209877&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산융복합교육센터 (~2023-01-20)
-
-* **[[대학일자리플러스센터] 1월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209866&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-01-20)
-
-* **[한국형 온라인 공개강좌(K-MOOC) 글로벌 우수강좌 구독 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209838&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 교수학습개발센터 (~2023-01-19)
