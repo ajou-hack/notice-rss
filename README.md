@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[【실내 마스크 조정 관련 안내 사항(1.30.부터)】](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210107&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 보건진료소 (~2023-01-30)
+
 * **[연구성과분석솔루션, SciVal 이용 교육 참석 안내(연구자 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210103&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2023-01-30)
 
@@ -101,6 +104,3 @@
 
 * **[[혁신공유단] [마감] 혁신공유단 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209911&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 혁신공유단 (~2023-01-25)
-
-* **[[기초과학연구소]2023년 자율운영 중점연구소 1단계 3차년도 세부과제 공모안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209900&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기초과학연구소 (~2023-01-20)
