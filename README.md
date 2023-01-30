@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 2023학년도 대학일자리플러스센터 운영 설문조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210114&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-01-30)
+
 * **[[글로벌교양학부] 2023-1학기 학부 신입학 유학생 생활멘토 모집 안내 (~2/20)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210113&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 글로벌교양학부 (~2023-01-30)
 
@@ -101,6 +104,3 @@
 
 * **[2023년 상반기 ICT 학점연계 프로젝트 인턴십 (국내과정) 학생 참여신청 사전안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209916&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW중심대학사업단 (~2023-01-25)
-
-* **[[대학일자리플러스센터] 2023 공공기관 채용정보박람회(2/1~2)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209913&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-01-25)
