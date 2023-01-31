@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[교외장학] 2023년도 신라문화장학재단 신규장학생 공개선발 안내_학생 재단 직접 제출](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210138&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-01-31)
+
 * **[2022년 경기도형 대학생 취업브리지 사업 학기제 현장실습 참여자 모집 안내(~2.10까지 신청)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210128&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2023-01-31)
 
@@ -101,6 +104,3 @@
 
 * **[[대학일자리플러스센터] 신산업 온라인 공동직무설명회 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209939&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-01-25)
-
-* **[[2023학년도 신입생 필독] 2023학년도 신입생 대상 배치고사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209918&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-01-25)
