@@ -1,8 +1,5 @@
 # 최근 공지사항
 
-* **[📌 [공지] (성적표 반영 완료)2022-동계 계절수업 수업평가, 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209651&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-01-13)
-
 * **[📌 [공지] [교무팀] 출석(전자출결, 공결, 취업계, 코로나 등) 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205552&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-10-26)
 
@@ -14,6 +11,9 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[중앙도서관] 2023년 2월 졸업예정자 도서반납 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210151&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2023-01-31)
 
 * **[2023년 1학기 나라키움 대학생주택 정기모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210143&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-01-31)
@@ -101,6 +101,3 @@
 
 * **[[입학팀] 정시 약학과 면접실시에 따른 시설이용 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209964&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 입학팀 (~2023-01-26)
-
-* **[[학습법] 2022-2학기 수업 참여 사례 공모전 수상작 선정 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209958&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-01-26)
