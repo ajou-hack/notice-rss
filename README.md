@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2023년 1학기 나라키움 대학생주택 정기모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210143&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-01-31)
+
+* **[청년월세 한시 특별지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210142&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-01-31)
+
 * **[[교외장학] 2023년도 신라문화장학재단 신규장학생 공개선발 안내_학생 재단 직접 제출](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210138&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-01-31)
 
@@ -98,9 +104,3 @@
 
 * **[[학습법] 2022-2학기 수업 참여 사례 공모전 수상작 선정 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209958&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-01-26)
-
-* **[[기획팀]아주대학교 학칙 및 규정류 개정 공포(2022-제13차 교무회의, 제88차 대학평의원회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209945&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2023-01-25)
-
-* **[[대학일자리플러스센터] 신산업 온라인 공동직무설명회 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209939&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-01-25)
