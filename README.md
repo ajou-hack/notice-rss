@@ -12,6 +12,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[법학도서관] 2023학년도 1학기 법학도서관 면학장학생(휴학생) 모집(~2/20 am 10:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210204&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2023-02-01)
+
+* **[[인문대학] 데이터인문연계전공 개설 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210203&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 인문대학교학팀 (~2023-02-01)
+
+* **[[학습법] 학습리더를 위한 데일카네기 리더십 워크숍 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210201&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-02-01)
+
+* **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제52호(2023.02)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210200&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-02-01)
+
+* **[[재공지] [종합지원센터] 2022학년도 2학기 사물함 정리 및 이용기간 만료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210198&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2023-02-01)
+
 * **[[Remind][학사] 2023-1학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210189&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-02-01)
 
@@ -86,18 +101,3 @@
 
 * **[[대학혁신지원사업] 성과 공유 포럼 &quot;교육 혁신을 위한 도전과 과제&quot; 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210037&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 대학교육혁신원 (~2023-01-27)
-
-* **[2023 아주대학교 수시 합격생 대상 온라인 어학 설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210035&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교육센터운영팀 (~2023-01-27)
-
-* **[[한국장학재단] 2023년 제14기 사회리더 대학생 멘토링 멘티 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210034&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-01-27)
-
-* **[나라키움 대학생주택 2022년 겨울학기 입주자 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210033&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-01-27)
-
-* **[2022년 하반기 인천시 대학(원)생 학자금대출 이자 지원](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210018&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-01-27)
-
-* **[[LINC 3.0] 한전 전력연구원 2023년 상반기 대학생 현장실습 학생 모집 안내(서류접수~2월 2일 13시까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210004&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2023-01-26)
