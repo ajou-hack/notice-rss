@@ -12,6 +12,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[인문대학] 인간·사회·규범 연계전공 개설 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210213&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 인문대학교학팀 (~2023-02-01)
+
+* **[[2023학년도 신입생 대상] 2023학년도 자동수강신청 및 희망교과목 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210212&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-02-01)
+
 * **[[법학도서관] 2023학년도 1학기 법학도서관 면학장학생(휴학생) 모집(~2/20 am 10:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210204&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2023-02-01)
 
@@ -95,9 +101,3 @@
 
 * **[[총무팀] 정기 해충방역 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210064&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2023-01-30)
-
-* **[[대학일자리플러스센터] 외국계 반도체 장비 엔지니어 취업전략](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210044&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-01-27)
-
-* **[[대학혁신지원사업] 성과 공유 포럼 &quot;교육 혁신을 위한 도전과 과제&quot; 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210037&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 대학교육혁신원 (~2023-01-27)
