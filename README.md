@@ -12,6 +12,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[Remind][학사] 2023-1학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210189&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-02-01)
+
+* **[(학사과정)2023-1학기 국내대학 학점교류 신청 안내(23.02.01.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210180&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-02-01)
+
+* **[2023년 멀티미디어 강의실 점검결과(01월) 및 2023년 (02월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210176&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2023-02-01)
+
 * **[학생지원팀 업무분장 변경 안내 (2023.02.01. 부)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210166&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 학생지원팀 (~2023-02-01)
 
@@ -92,12 +101,3 @@
 
 * **[[LINC 3.0] 한전 전력연구원 2023년 상반기 대학생 현장실습 학생 모집 안내(서류접수~2월 2일 13시까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210004&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2023-01-26)
-
-* **[[대학일자리플러스센터] &#x27;교내 추천채용&#x27; 똑똑하게 활용하기](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210000&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-01-26)
-
-* **[[성평등상담소] 제3회 성평등 콘텐츠 공모전 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209996&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 성평등상담소 (~2023-01-26)
-
-* **[[대학일자리플러스센터] 금주의 추천채용_한국하우톤/앰코테크놀로지코리아](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=209994&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-01-26)
