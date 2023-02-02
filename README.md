@@ -12,6 +12,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[교외장학] 2023년도 제주삼다수재단 장학생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210245&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-02-02)
+
+* **[[대학혁신지원사업] 성과 공유 포럼 &quot;교육 혁신을 위한 도전과 과제&quot; 개최 안내(2/3)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210241&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2023-02-02)
+
 * **[[SW융합교육원] 2023-1 코딩 트레이너 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210238&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - SW융합교육원 (~2023-02-02)
 
@@ -95,9 +101,3 @@
 
 * **[[교외장학] 재단법인 플라톤 아카데미 인문 지혜 장학생 판플러스 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210102&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-01-30)
-
-* **[[학습법] 2022-2학기 온라인 학습법 특강 우수 수강자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210101&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-01-30)
-
-* **[[시간변경] 2023 아주대학교 수시 합격생 대상 온라인 어학 설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210082&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교육센터운영팀 (~2023-01-30)
