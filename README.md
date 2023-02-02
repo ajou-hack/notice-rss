@@ -12,10 +12,13 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[SW융합교육원] 2023-1 코딩 트레이너 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210238&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - SW융합교육원 (~2023-02-02)
+
 * **[2023학년도 1학기 미래자동차 공동교과목 학점교류 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210237&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 혁신공유단 (~2023-02-02)
 
-* **[[봉사활동] ⌜결식아동돕기 사랑의 쌀 배달⌟ 2월 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210232&amp;article.offset=0&amp;articleLimit=30)**
+* **[[봉사활동] ⌜결식아동돕기 사랑의 쌀 배달⌟ 2월 자원봉사자 모집 [마감]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210232&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-02-02)
 
 * **[(재공지/연장)[LINC 3.0] 한전 전력연구원 2023년 상반기 현장실습 학생 모집 (서류접수~2월 5일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210227&amp;article.offset=0&amp;articleLimit=30)**
@@ -98,6 +101,3 @@
 
 * **[[시간변경] 2023 아주대학교 수시 합격생 대상 온라인 어학 설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210082&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교육센터운영팀 (~2023-01-30)
-
-* **[[국가근로][교사대생등대학생튜터링] 1월 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210073&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-01-30)
