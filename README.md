@@ -12,6 +12,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지/연장)[LINC 3.0] 한전 전력연구원 2023년 상반기 현장실습 학생 모집 (서류접수~2월 5일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210227&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2023-02-02)
+
 * **[[인문대학] 인간·사회·규범 연계전공 개설 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210213&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 인문대학교학팀 (~2023-02-01)
 
@@ -98,6 +101,3 @@
 
 * **[(재공지)[LINC 3.0] 2023-1학기 현장실습 학생 참여 신청 안내 (01.16~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210066&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2023-01-30)
-
-* **[[총무팀] 정기 해충방역 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210064&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2023-01-30)
