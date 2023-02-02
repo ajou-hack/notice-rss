@@ -12,6 +12,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 2022 동계방학 반도체 공정실습 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210253&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-02-02)
+
 * **[[교외장학] 2023년도 제주삼다수재단 장학생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210245&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-02-02)
 
@@ -98,6 +101,3 @@
 
 * **[연구성과분석솔루션, SciVal 이용 교육 참석 안내(연구자 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210103&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2023-01-30)
-
-* **[[교외장학] 재단법인 플라톤 아카데미 인문 지혜 장학생 판플러스 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210102&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-01-30)
