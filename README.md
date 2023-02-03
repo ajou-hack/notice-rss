@@ -12,6 +12,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학부] 2023-1학기 학부 등록금 분할납부 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210273&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 재무회계팀 (~2023-02-03)
+
+* **[[기획팀]아주대학교 학칙 개정(안) 사전 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210259&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2023-02-02)
+
 * **[[나라키움 영등포복합청사] 행복주택 입주자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210256&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-02-02)
 
@@ -95,9 +101,3 @@
 
 * **[2022년 경기도형 대학생 취업브리지 사업 학기제 현장실습 참여자 모집 안내(~2.10까지 신청)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210128&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2023-01-31)
-
-* **[[대학일자리플러스센터] 2023학년도 대학일자리플러스센터 운영 설문조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210114&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-01-30)
-
-* **[[글로벌교양학부] 2023-1학기 학부 신입학 유학생 생활멘토 모집 안내 (~2/20)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210113&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 글로벌교양학부 (~2023-01-30)
