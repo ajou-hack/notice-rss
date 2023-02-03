@@ -15,9 +15,6 @@
 * **[[학부]2023-1학기 수강신청 안내(02/13(월)~02/17(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210276&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-02-03)
 
-* **[[학부] 2023-1학기 학부 등록금 분할납부 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210273&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 재무회계팀 (~2023-02-03)
-
 * **[[기획팀]아주대학교 학칙 개정(안) 사전 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210259&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 기획팀 (~2023-02-02)
 
@@ -101,3 +98,6 @@
 
 * **[[교외장학] 2023년도 신라문화장학재단 신규장학생 공개선발 안내_학생 재단 직접 제출](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210138&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-01-31)
+
+* **[2022년 경기도형 대학생 취업브리지 사업 학기제 현장실습 참여자 모집 안내(~2.10까지 신청)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210128&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2023-01-31)
