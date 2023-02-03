@@ -12,6 +12,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[LINC 3.0] 2023학년도 창업동아리 모집 안내(~2/15 16시까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210305&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀(창업교육센터) (~2023-02-03)
+
+* **[[홍보] MBN Y FORUM 2023](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210304&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 홍보실 (~2023-02-03)
+
 * **[2023년 상반기 ICT 학점연계 프로젝트 인턴십(국내과정) 참여신청 안내(~02.08)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210294&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW중심대학사업단 (~2023-02-03)
 
@@ -95,9 +101,3 @@
 
 * **[[중앙도서관] 23-1학기 면학장학생 모집(~2/15 am10:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210162&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2023-02-01)
-
-* **[[학부] 2023-1학기 등록 안내(02.20.~02.24.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210157&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 재무회계팀 (~2023-01-31)
-
-* **[[중앙도서관] 2023년 2월 졸업예정자 도서반납 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210151&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2023-01-31)
