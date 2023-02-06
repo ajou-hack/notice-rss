@@ -12,6 +12,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[교육대학원] 학위수여식 및 입학식 진행 보조 면학장학생 모집(~2/9까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210334&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 교육대학원 (~2023-02-06)
+
 * **[[중앙도서관]&#x27;23-1학기 면학장학생(휴학생) 모집(~2/20 am09:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210318&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2023-02-06)
 
@@ -98,6 +101,3 @@
 
 * **[2023년 멀티미디어 강의실 점검결과(01월) 및 2023년 (02월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210176&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2023-02-01)
-
-* **[학생지원팀 업무분장 변경 안내 (2023.02.01. 부)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210166&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 학생지원팀 (~2023-02-01)
