@@ -12,6 +12,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[Remind][학부] 2023-1학기 등록 안내(02.20.~02.24.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210364&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 재무회계팀 (~2023-02-06)
+
+* **[[예비군연대] 23년 전반기 예비군연대 전입신고 및 훈련일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210362&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 예비군연대 (~2023-02-06)
+
 * **[[홍보] KT&amp;G 상상유니브 &#x27;상상프렌즈 16기 모집&#x27; 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210356&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 홍보실 (~2023-02-06)
 
@@ -95,9 +101,3 @@
 
 * **[[법학도서관] 2023학년도 1학기 법학도서관 면학장학생(휴학생) 모집(~2/20 am 10:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210204&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2023-02-01)
-
-* **[[인문대학] 데이터인문연계전공 개설 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210203&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 인문대학교학팀 (~2023-02-01)
-
-* **[[학습법] 학습리더를 위한 데일카네기 리더십 워크숍 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210201&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-02-01)
