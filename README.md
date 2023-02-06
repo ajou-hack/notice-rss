@@ -12,6 +12,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[홍보] KT&amp;G 상상유니브 &#x27;상상프렌즈 16기 모집&#x27; 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210356&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 홍보실 (~2023-02-06)
+
+* **[율곡관 혁신공유라운지 사용불가 안내(2/9(목) 12:00~15:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210351&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 홍보실 (~2023-02-06)
+
 * **[[다산학부대학] 2023학년도 AWAC 튜터 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210349&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 다산학부대학 교학팀 (~2023-02-06)
 
@@ -21,7 +27,7 @@
 * **[2023학년도 1학기 장학선발 결과 발표_2.16(목) 09:00](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210345&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-02-06)
 
-* **[[교육대학원] 학위수여식 및 입학식 진행 보조 면학장학생 모집(~2/9까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210334&amp;article.offset=0&amp;articleLimit=30)**
+* **[[교육대학원] 면학장학생 모집 (학위수여식 및 입학식 진행 보조)(~2/9까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210334&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 교육대학원 (~2023-02-06)
 
 * **[[중앙도서관]&#x27;23-1학기 면학장학생(휴학생) 모집(~2/20 am09:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210318&amp;article.offset=0&amp;articleLimit=30)**
@@ -95,9 +101,3 @@
 
 * **[[학습법] 학습리더를 위한 데일카네기 리더십 워크숍 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210201&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-02-01)
-
-* **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제52호(2023.02)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210200&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-02-01)
-
-* **[[재공지] [종합지원센터] 2022학년도 2학기 사물함 정리 및 이용기간 만료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210198&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2023-02-01)
