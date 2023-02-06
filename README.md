@@ -12,6 +12,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[다산학부대학] 2023학년도 AWAC 튜터 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210349&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 다산학부대학 교학팀 (~2023-02-06)
+
+* **[면학장학생 모집 공고(오전/오후, 국가근로와 별개)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210347&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2023-02-06)
+
+* **[2023학년도 1학기 장학선발 결과 발표_2.16(목) 09:00](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210345&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-02-06)
+
 * **[[교육대학원] 학위수여식 및 입학식 진행 보조 면학장학생 모집(~2/9까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210334&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 교육대학원 (~2023-02-06)
 
@@ -92,12 +101,3 @@
 
 * **[[재공지] [종합지원센터] 2022학년도 2학기 사물함 정리 및 이용기간 만료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210198&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2023-02-01)
-
-* **[[Remind][학사] 2023-1학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210189&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-02-01)
-
-* **[(학사과정)2023-1학기 국내대학 학점교류 신청 안내(23.02.01.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210180&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-02-01)
-
-* **[2023년 멀티미디어 강의실 점검결과(01월) 및 2023년 (02월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210176&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2023-02-01)
