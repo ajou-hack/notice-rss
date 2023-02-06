@@ -12,6 +12,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2023년도 방송미디어 산업체 현장교육 교육생 모집 안내(~2.10까지 신청)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210371&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2023-02-06)
+
+* **[[융복합 의료제품 촉진지원센터] 학생연구원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210370&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 약학대학 교학팀 (~2023-02-06)
+
+* **[(접수)아주북통 &#x27;교수님과 함께하는 독서클럽&#x27; 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210369&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학술정보팀 (~2023-02-06)
+
 * **[[Remind][학부] 2023-1학기 등록 안내(02.20.~02.24.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210364&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 재무회계팀 (~2023-02-06)
 
@@ -33,7 +42,7 @@
 * **[2023학년도 1학기 장학선발 결과 발표_2.16(목) 09:00](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210345&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-02-06)
 
-* **[[교육대학원] 면학장학생 모집 (학위수여식 및 입학식 진행 보조)(~2/9까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210334&amp;article.offset=0&amp;articleLimit=30)**
+* **[(마감) [교육대학원] 면학장학생 모집 (학위수여식 및 입학식 진행 보조)(~2/9까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210334&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 교육대학원 (~2023-02-06)
 
 * **[[중앙도서관]&#x27;23-1학기 면학장학생(휴학생) 모집(~2/20 am09:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210318&amp;article.offset=0&amp;articleLimit=30)**
@@ -92,12 +101,3 @@
 
 * **[(재공지/연장)[LINC 3.0] 한전 전력연구원 2023년 상반기 현장실습 학생 모집 (서류접수~2월 5일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210227&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2023-02-02)
-
-* **[[인문대학] 인간·사회·규범 연계전공 개설 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210213&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 인문대학교학팀 (~2023-02-01)
-
-* **[[2023학년도 신입생 대상] 2023학년도 자동수강신청 및 희망교과목 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210212&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-02-01)
-
-* **[[법학도서관] 2023학년도 1학기 법학도서관 면학장학생(휴학생) 모집(~2/20 am 10:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210204&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2023-02-01)
