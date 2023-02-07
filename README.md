@@ -12,6 +12,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[총무팀] 행사로 인한 혁신공유라운지 사용불가 안내(02/17(금) 09:00~12:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210390&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2023-02-07)
+
+* **[[국가근로] 2023학년도 1학기 국가근로장학 희망근로지 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210387&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-02-07)
+
+* **[국제교육센터에서 함께 면학할 성실한 면학장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210386&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 국제교육센터 (~2023-02-07)
+
 * **[(재공지) 2023-1학기 강의페어링 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210383&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산융복합교육센터 (~2023-02-07)
 
@@ -92,12 +101,3 @@
 
 * **[[대학혁신지원사업] 성과 공유 포럼 &quot;교육 혁신을 위한 도전과 과제&quot; 개최 안내(2/3)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210241&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2023-02-02)
-
-* **[[SW융합교육원] 2023-1 코딩 트레이너 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210238&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - SW융합교육원 (~2023-02-02)
-
-* **[2023학년도 1학기 미래자동차 공동교과목 학점교류 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210237&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 혁신공유단 (~2023-02-02)
-
-* **[[봉사활동] ⌜결식아동돕기 사랑의 쌀 배달⌟ 2월 자원봉사자 모집 [마감]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210232&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-02-02)
