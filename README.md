@@ -12,6 +12,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 학습리더를 위한 데일카네기 리더십 워크숍 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210393&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-02-07)
+
 * **[[총무팀] 행사로 인한 혁신공유라운지 사용불가 안내(02/17(금) 09:00~12:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210390&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2023-02-07)
 
@@ -98,6 +101,3 @@
 
 * **[[교외장학] 2023년도 제주삼다수재단 장학생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210245&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-02-02)
-
-* **[[대학혁신지원사업] 성과 공유 포럼 &quot;교육 혁신을 위한 도전과 과제&quot; 개최 안내(2/3)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210241&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2023-02-02)
