@@ -12,6 +12,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지) 2023-1학기 강의페어링 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210383&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산융복합교육센터 (~2023-02-07)
+
 * **[2023년도 방송미디어 산업체 현장교육 교육생 모집 안내(~2.10까지 신청)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210371&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2023-02-06)
 
@@ -98,6 +101,3 @@
 
 * **[[봉사활동] ⌜결식아동돕기 사랑의 쌀 배달⌟ 2월 자원봉사자 모집 [마감]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210232&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-02-02)
-
-* **[(재공지/연장)[LINC 3.0] 한전 전력연구원 2023년 상반기 현장실습 학생 모집 (서류접수~2월 5일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210227&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2023-02-02)
