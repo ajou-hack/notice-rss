@@ -12,6 +12,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[교무팀] 3월~5월 근로 면학장학생 모집(휴학생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210400&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 교무팀 (~2023-02-07)
+
 * **[[국제학부] 사무실 이전 공지(율곡관251호 → 율곡관360호)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210399&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 국제학부 (~2023-02-07)
 
@@ -97,7 +100,4 @@
  [장학] - 학생지원팀 (~2023-02-02)
 
 * **[[대학일자리플러스센터] 금주의 추천채용_일진전기/오텍캐리어/대성산업](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210254&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-02-02)
-
-* **[[대학일자리플러스센터] 2022 동계방학 반도체 공정실습 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210253&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-02-02)
