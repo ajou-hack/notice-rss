@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[홍보실] 교내 영상 촬영 진행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210511&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 홍보실 (~2023-02-08)
+
+* **[[송지현] 변리사/기술고시 준비반 신입현생 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210507&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공과대학교학팀 (~2023-02-08)
+
 * **[[대학일자리플러스센터] 금주의 추천채용_파수/한국요꼬가와/스테코](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210455&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-02-08)
 
@@ -98,9 +104,3 @@
 
 * **[[LINC 3.0] 2023학년도 창업동아리 모집 안내(~2/15 16시까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210305&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학사업팀(창업교육센터) (~2023-02-03)
-
-* **[[홍보] MBN Y FORUM 2023](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210304&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 홍보실 (~2023-02-03)
-
-* **[2023년 상반기 ICT 학점연계 프로젝트 인턴십(국내과정) 참여신청 안내(~02.08)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210294&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW중심대학사업단 (~2023-02-03)
