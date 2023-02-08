@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] [학부] 2022학년도 전기 학부 학위수여식 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210409&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-02-07)
+
 * **[📌 [공지] [교무팀] 출석(전자출결, 공결, 취업계, 코로나 등) 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205552&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-10-26)
 
@@ -11,6 +14,12 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[LINC 3.0 사업단 사무실 이전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210420&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2023-02-08)
+
+* **[2023-1학기 외국인 유학생 대상 한국어 튜터 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210417&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 글로벌교양학부 (~2023-02-08)
 
 * **[[메이커스페이스]2023년 운영일 및 사용가능 장비 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210408&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-02-07)
@@ -95,9 +104,3 @@
 
 * **[[학부] 2023-1학기 학부 등록금 분할납부 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210284&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 재무회계팀 (~2023-02-03)
-
-* **[[학부]2023-1학기 수강신청 안내(02/13(월)~02/17(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210276&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-02-03)
-
-* **[[기획팀]아주대학교 학칙 개정(안) 사전 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210259&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2023-02-02)
