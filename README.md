@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[종합지원센터] 2022년도 2학기 사물함 회수 물품 확인 및 수령 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210546&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2023-02-09)
+
 * **[[학자금대출][학부] 2023학년도 1학기 한국장학재단 학자금대출 특별승인제도(구 특별추천) 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210540&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-02-09)
 
@@ -100,7 +103,4 @@
  [기타] - 예비군연대 (~2023-02-06)
 
 * **[[홍보] KT&amp;G 상상유니브 &#x27;상상프렌즈 16기 모집&#x27; 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210356&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 홍보실 (~2023-02-06)
-
-* **[율곡관 혁신공유라운지 사용불가 안내(2/9(목) 12:00~15:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210351&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 홍보실 (~2023-02-06)
