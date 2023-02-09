@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[비이공계열 학생을 위한 &#x27;바이오·헬스케어 마이크로전공&#x27; 이수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210554&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 산학사업팀 (~2023-02-09)
+
 * **[[대학일자리플러스센터] 2022-2차 비교과 프로그램 마일리지 당첨자 발표!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210549&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-02-09)
 
@@ -101,6 +104,3 @@
 
 * **[[Remind][학부] 2023-1학기 등록 안내(02.20.~02.24.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210364&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 재무회계팀 (~2023-02-06)
-
-* **[[예비군연대] 23년 전반기 예비군연대 전입신고 및 훈련일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210362&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 예비군연대 (~2023-02-06)
