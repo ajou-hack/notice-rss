@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[국제학부]2023-1학기 해외현장연구 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210537&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 국제학부 (~2023-02-09)
+
+* **[무선인터넷(WIFI) 일시 중지안내(02.11/토)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210534&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2023-02-09)
+
+* **[(재공지) 2023-1학기 강의페어링 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210531&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산융복합교육센터 (~2023-02-09)
+
 * **[[중앙도서관] 23-1학기 면학장학생 모집(~2/15 am10:00)(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210522&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2023-02-09)
 
@@ -72,9 +81,6 @@
 * **[국제교육센터에서 함께 면학할 성실한 면학장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210386&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 국제교육센터 (~2023-02-07)
 
-* **[(재공지) 2023-1학기 강의페어링 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210383&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산융복합교육센터 (~2023-02-07)
-
 * **[2023년도 방송미디어 산업체 현장교육 교육생 모집 안내(~2.10까지 신청)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210371&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2023-02-06)
 
@@ -98,9 +104,3 @@
 
 * **[[다산학부대학] 2023학년도 AWAC 튜터 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210349&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 다산학부대학 교학팀 (~2023-02-06)
-
-* **[면학장학생 모집 공고(오전/오후, 국가근로와 별개)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210347&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2023-02-06)
-
-* **[2023학년도 1학기 장학선발 결과 발표_2.16(목) 09:00](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210345&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-02-06)
