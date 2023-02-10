@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[글로벌미래교육원] 2023년 봄학기 일반과정 개설 - 수강생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210590&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 글로벌미래교육원 (~2023-02-10)
+
+* **[[입학팀] 혁신공유라운지 사용불가 안내 &lt; 2월 13일 월요일 오전 9시 30분 ~ 12시&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210589&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 입학팀 (~2023-02-10)
+
 * **[[다산학부대학] 2023-1학기 고급영어 과목 재수강 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210586&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-02-10)
 
@@ -98,9 +104,3 @@
 
 * **[[교무팀] 3월~5월 근로 면학장학생 모집(휴학생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210400&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 교무팀 (~2023-02-07)
-
-* **[[국제학부] 사무실 이전 공지(율곡관251호 → 율곡관360호)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210399&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 국제학부 (~2023-02-07)
-
-* **[[학습법] 학습리더를 위한 데일카네기 리더십 워크숍 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210393&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-02-07)
