@@ -15,6 +15,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[다산학부대학] 2023학년도 AWAC 튜터 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210562&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 다산학부대학 교학팀 (~2023-02-10)
+
+* **[[홍보실] 율곡관 혁신공유라운지 사용불가 안내(2/13(월) 15:00~16:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210561&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 홍보실 (~2023-02-10)
+
+* **[[교외장학] 2023년 유한재단 장학생 선발 안내_2023.02.15(수) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210559&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-02-09)
+
+* **[[교외장학] 2023학년도 1학기 한국도레이과학진흥재단 장학 장학생 선발 안내_2.15(수) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210558&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-02-09)
+
 * **[비이공계열 학생을 위한 &#x27;바이오·헬스케어 마이크로전공&#x27; 이수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210554&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 산학사업팀 (~2023-02-09)
 
@@ -92,15 +104,3 @@
 
 * **[국제교육센터에서 함께 면학할 성실한 면학장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210386&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 국제교육센터 (~2023-02-07)
-
-* **[2023년도 방송미디어 산업체 현장교육 교육생 모집 안내(~2.10까지 신청)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210371&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2023-02-06)
-
-* **[[융복합 의료제품 촉진지원센터] 학생연구원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210370&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 약학대학 교학팀 (~2023-02-06)
-
-* **[(접수)아주북통 &#x27;교수님과 함께하는 독서클럽&#x27; 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210369&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학술정보팀 (~2023-02-06)
-
-* **[[Remind][학부] 2023-1학기 등록 안내(02.20.~02.24.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210364&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 재무회계팀 (~2023-02-06)
