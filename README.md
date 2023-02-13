@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] [학부]2022학년도 전기(2023년 2월 22일)졸업확정자(학사학위취득자), 학사학위취득유예자, 졸업연기 승인자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210614&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-02-13)
+
 * **[📌 [공지] [학부] 2022학년도 전기 학부 학위수여식 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210409&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-02-07)
 
@@ -15,11 +18,17 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[[중앙도서관]&#x27;23-1학기 면학장학생(휴학생) 모집(~2/20 am09:00)(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210617&amp;article.offset=0&amp;articleLimit=30)**
+* **[♥장애학생 지원인력 모집(학습, 이동 등)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210671&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 인권센터 장애학생지원실 (~2023-02-13)
+
+* **[[대학일자리플러스센터] 홍보대사 JOB-A+(잡아 플러스) 절찬리에 모집중!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210670&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-02-13)
+
+* **[[중앙도서관] 서버 이전으로 인한 전산 서비스 일시 중단 안내 / 2023.2.14(화) 18:00 ~ 15(수) 09:00](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210627&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2023-02-13)
 
-* **[[학부]2022학년도 전기(2023년 2월 22일)졸업확정자(학사학위취득자), 학사학위취득유예자, 졸업연기 승인자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210614&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-02-13)
+* **[[중앙도서관]&#x27;23-1학기 면학장학생(휴학생) 모집(~2/20 am09:00)(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210617&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2023-02-13)
 
 * **[[지식재산] &quot;동문 선배 변리사에게 듣는 변리사 합격의 길&quot; 설명회(간담회) 진행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210604&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 지식재산융합인재양성사업 (~2023-02-13)
@@ -98,9 +107,3 @@
 
 * **[[Remind][학사] 2023-1학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210423&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-02-08)
-
-* **[LINC 3.0 사업단 사무실 이전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210420&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2023-02-08)
-
-* **[2023-1학기 외국인 유학생 대상 한국어 튜터 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210417&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 글로벌교양학부 (~2023-02-08)
