@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[융복합 의료제품 촉진지원센터] 학생연구원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210687&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 약학대학 교학팀 (~2023-02-13)
+
 * **[[다산학부대학] 2023학년도 AWAC 튜터 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210683&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 다산학부대학 교학팀 (~2023-02-13)
 
@@ -104,6 +107,3 @@
 
 * **[[홍보실] 교내 영상 촬영 진행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210511&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 홍보실 (~2023-02-08)
-
-* **[[송지현] 변리사/기술고시 준비반 신입현생 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210507&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공과대학교학팀 (~2023-02-08)
