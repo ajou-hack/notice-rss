@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[튀르키예-시리아 대지진 구호 성금 모금](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210737&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-02-14)
+
 * **[[SW융합교육원] 2023-1 코딩 트레이너 모집 재공고(수업시간표 변경)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210723&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - SW융합교육원 (~2023-02-14)
 
@@ -104,6 +107,3 @@
 
 * **[[종합지원센터] 2022년도 2학기 사물함 회수 물품 확인 및 수령 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210546&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2023-02-09)
-
-* **[[학자금대출][학부] 2023학년도 1학기 한국장학재단 학자금대출 특별승인제도(구 특별추천) 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210540&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-02-09)
