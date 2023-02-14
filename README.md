@@ -18,6 +18,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[창업지원팀] 2023 실험실 특화형 창업선도대학 사업참여 참여의향 수요조사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210716&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-02-14)
+
+* **[[대학일자리플러스센터] AJOU취업훈련소 면접대비반2기 B반(금) 오전반](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210710&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-02-14)
+
+* **[[대학일자리플러스센터]AJOU취업훈련소 면접대비반2기 A반(목) 오후반](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210709&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-02-14)
+
 * **[[대학일자리플러스센터] 2023년 금융권-합격을 부르는 자소서 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210698&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-02-13)
 
@@ -98,12 +107,3 @@
 
 * **[무선인터넷(WIFI) 일시 중지안내(02.11/토)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210534&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2023-02-09)
-
-* **[(재공지) 2023-1학기 강의페어링 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210531&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산융복합교육센터 (~2023-02-09)
-
-* **[[중앙도서관] 23-1학기 면학장학생 모집(~2/15 am10:00)(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210522&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2023-02-09)
-
-* **[[국가근로] 2월 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210521&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-02-09)
