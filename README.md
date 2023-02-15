@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[국제교육센터 제12기 아주글로벌버디(AJOU GLOBAL BUDDY) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210757&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 국제교육센터 (~2023-02-15)
+
 * **[LINC 3.0 서포터즈 5기 모집 공고(~02.26까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210746&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀 (~2023-02-14)
 
@@ -104,6 +107,3 @@
 
 * **[비이공계열 학생을 위한 &#x27;바이오·헬스케어 마이크로전공&#x27; 이수 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210554&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 산학사업팀 (~2023-02-09)
-
-* **[[대학일자리플러스센터] 2022-2차 비교과 프로그램 마일리지 당첨자 발표!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210549&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-02-09)
