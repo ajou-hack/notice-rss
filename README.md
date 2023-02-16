@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 금주의 추천채용_(주)유진테크/대성산업(주)/(주)신흥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210837&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-02-16)
+
+* **[[다산학부대학] 2023-1학기 교양과목 및 영역별교양 본수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210835&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-02-16)
+
 * **[[다산학부대학] 2023학년도 AWAC 튜터 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210829&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 다산학부대학 교학팀 (~2023-02-16)
 
@@ -104,9 +110,3 @@
 
 * **[♥장애학생 지원인력 모집(학습, 이동 등)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210671&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 인권센터 장애학생지원실 (~2023-02-13)
-
-* **[[대학일자리플러스센터] 홍보대사 JOB-A+(잡아 플러스) 절찬리에 모집중!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210670&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-02-13)
-
-* **[[중앙도서관] 서버 이전으로 인한 전산 서비스 일시 중단 안내 / 2023.2.14(화) 18:00 ~ 15(수) 09:00](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210627&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2023-02-13)
