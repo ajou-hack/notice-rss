@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[봉사활동] 2023 경기국제하프마라콘대회 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210826&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-02-16)
+
+* **[(학부) 2023학년도 신입생 입학식 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210823&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-02-16)
+
 * **[[긴급] 2023-1학기 국가장학금 고지서 확인 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210813&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-02-16)
 
@@ -72,10 +78,10 @@
 * **[[창업지원팀] 2023 실험실 특화형 창업선도대학 사업참여 참여의향 수요조사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210716&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-02-14)
 
-* **[[대학일자리플러스센터] AJOU취업훈련소 면접대비반2기 B반(금) 오전반](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210710&amp;article.offset=0&amp;articleLimit=30)**
+* **[[대학일자리플러스센터]재공지 예정_ AJOU취업훈련소 면접대비반2기 B반(금) 오전반](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210710&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-02-14)
 
-* **[[대학일자리플러스센터]AJOU취업훈련소 면접대비반2기 A반(목) 오후반](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210709&amp;article.offset=0&amp;articleLimit=30)**
+* **[[대학일자리플러스센터]재공지 예정_AJOU취업훈련소 면접대비반2기 A반(목) 오후반](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210709&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-02-14)
 
 * **[[대학일자리플러스센터] 2023년 금융권-합격을 부르는 자소서 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210698&amp;article.offset=0&amp;articleLimit=30)**
@@ -104,9 +110,3 @@
 
 * **[[중앙도서관]&#x27;23-1학기 면학장학생(휴학생) 모집(~2/20 am09:00)(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210617&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2023-02-13)
-
-* **[[지식재산] &quot;동문 선배 변리사에게 듣는 변리사 합격의 길&quot; 설명회(간담회) 진행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210604&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 지식재산융합인재양성사업 (~2023-02-13)
-
-* **[[지식재산] 2023년도 1학기 교과 및 비교과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210603&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 지식재산융합인재양성사업 (~2023-02-13)
