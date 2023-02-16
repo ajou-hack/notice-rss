@@ -6,6 +6,9 @@
 * **[📌 [공지] [학부] 2022학년도 전기 학부 학위수여식 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210409&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-02-07)
 
+* **[📌 [공지] [Remind][학부] 2023-1학기 등록 안내(02.20.~02.24.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210364&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 재무회계팀 (~2023-02-06)
+
 * **[📌 [공지] [교무팀] 출석(전자출결, 공결, 취업계, 코로나 등) 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205552&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-10-26)
 
