@@ -21,6 +21,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지)[대학일자리플러스센터] 홍보대사 JOB-A+(잡아 플러스) 14기 절찬리에 모집중!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210883&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-02-17)
+
+* **[[다산학부대학] 2023학년도 AWAC 튜터 모집 안내(~2/19(일)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210882&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 다산학부대학 교학팀 (~2023-02-17)
+
+* **[[대학일자리플러스센터] SK하이닉스 자소서 작성법 특강 및 1:1 컨설팅](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210880&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-02-17)
+
 * **[[학부]2023학년도 신입학생(2/28(화))·편입학생(2/27(월)) 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210867&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-02-17)
 
@@ -101,12 +110,3 @@
 
 * **[[Remind 한국장학재단] 2023년 제14기 사회리더 대학생 멘토링 멘티 모집(~2.21까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210719&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-02-14)
-
-* **[[창업지원팀] 2023 실험실 특화형 창업선도대학 사업참여 참여의향 수요조사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210716&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-02-14)
-
-* **[[대학일자리플러스센터]재공지 예정_ AJOU취업훈련소 면접대비반2기 B반(금) 오전반](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210710&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-02-14)
-
-* **[[대학일자리플러스센터]재공지 예정_AJOU취업훈련소 면접대비반2기 A반(목) 오후반](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210709&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-02-14)
