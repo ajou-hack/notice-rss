@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학부]2023학년도 신입학생(2/28(화))·편입학생(2/27(월)) 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210867&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-02-17)
+
 * **[♥2023-1 장애학생 지원인력 합격자 발표(1차)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210858&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 인권센터 장애학생지원실 (~2023-02-17)
 
@@ -107,6 +110,3 @@
 
 * **[[대학일자리플러스센터]재공지 예정_AJOU취업훈련소 면접대비반2기 A반(목) 오후반](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210709&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-02-14)
-
-* **[[대학일자리플러스센터] 2023년 금융권-합격을 부르는 자소서 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210698&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-02-13)
