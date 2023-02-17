@@ -21,6 +21,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[♥2023-1 장애학생 지원인력 합격자 발표(1차)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210858&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 인권센터 장애학생지원실 (~2023-02-17)
+
+* **[2022학년도 2학기 아주복지장학 선발안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210857&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-02-17)
+
+* **[[대학일자리플러스센터] 재공지_AJOU 취업훈련소 면접대비반 2기 B반(금/오후)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210856&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-02-17)
+
+* **[[대학일자리플러스센터] 재공지_AJOU 취업훈련소 면접대비반 2기 A반(금/오전)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210855&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-02-17)
+
 * **[[박물관] 박물관 서포터즈 길라잡이 2기 모집 공고 (~3/3)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210846&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 박물관 (~2023-02-17)
 
@@ -98,15 +110,3 @@
 
 * **[[대학일자리플러스센터] 2023년 금융권-합격을 부르는 자소서 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210698&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-02-13)
-
-* **[[융복합 의료제품 촉진지원센터] 학생연구원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210687&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 약학대학 교학팀 (~2023-02-13)
-
-* **[[다산학부대학] 2023학년도 AWAC 튜터 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210683&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 다산학부대학 교학팀 (~2023-02-13)
-
-* **[[경영대학](모집중) 2023-1학기 수업 TA(Teaching Assistant) 모집 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210677&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 경영대학 (~2023-02-13)
-
-* **[[SW융합교육원] 2023년도 교원 대상 SW기초교육 특강 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210674&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW융합교육원/SW중심대학사업단 (~2023-02-13)
