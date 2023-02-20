@@ -24,6 +24,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학부] 2023학년도 신입생 학생증 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210926&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 종합지원센터 (~2023-02-20)
+
+* **[[메이커스페이스] 3D프린터 장비이용 기초교육생 모집(2월 1회차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210925&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-02-20)
+
+* **[[재공지] [종합지원센터] 2023학년도 1학기 사물함 신청안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210921&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 종합지원센터 (~2023-02-20)
+
+* **[★기한연장 [창업지원팀] 2023 실험실 특화형 창업선도대학 사업참여 참여의향 수요조사 안내(~2/24)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210919&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-02-20)
+
 * **[[교외장학] 2023년 1학기 농림축산식품부 청년창업농육성장학생 추가모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210903&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-02-20)
 
@@ -101,15 +113,3 @@
 
 * **[2023학년도 1학기 정기주차권 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210777&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2023-02-15)
-
-* **[[교수학습개발센터] 2022-2학기 수업 참여 사례 공모전 수상작 모음집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210758&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-02-15)
-
-* **[국제교육센터 제12기 아주글로벌버디(AJOU GLOBAL BUDDY) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210757&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 국제교육센터 (~2023-02-15)
-
-* **[LINC 3.0 서포터즈 5기 모집 공고(~02.26까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210746&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀 (~2023-02-14)
-
-* **[튀르키예-시리아 대지진 구호 성금 모금](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210737&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-02-14)
