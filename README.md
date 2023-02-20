@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] (학부) 2023학년도 신입생 입학식 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210823&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-02-16)
+
 * **[📌 [공지] [학부]2022학년도 전기(2023년 2월 22일)졸업확정자(학사학위취득자), 학사학위취득유예자, 졸업연기 승인자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210614&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-02-13)
 
@@ -20,6 +23,12 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[2023 아주대학교 신입생 대상 온라인 어학 설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210895&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교육센터운영팀 (~2023-02-20)
+
+* **[[Remind][학자금대출] 2023학년도 1학기 한국장학재단 학자금대출 신청 및 실행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210892&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-02-20)
 
 * **[(재공지)[대학일자리플러스센터] 홍보대사 JOB-A+(잡아 플러스) 14기 절찬리에 모집중!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210883&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-02-17)
@@ -59,9 +68,6 @@
 
 * **[[봉사활동] 2023 경기국제하프마라콘대회 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210826&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-02-16)
-
-* **[(학부) 2023학년도 신입생 입학식 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210823&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-02-16)
 
 * **[[긴급] 2023-1학기 국가장학금 고지서 확인 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210813&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-02-16)
@@ -107,6 +113,3 @@
 
 * **[[SW융합교육원] 2023-1 코딩 트레이너 모집 재공고(수업시간표 변경)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210723&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - SW융합교육원 (~2023-02-14)
-
-* **[[Remind 한국장학재단] 2023년 제14기 사회리더 대학생 멘토링 멘티 모집(~2.21까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210719&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-02-14)
