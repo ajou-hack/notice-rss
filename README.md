@@ -24,6 +24,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학부]2023-1학기 수강정정 안내(3/2(목)~3/8(수), 토/일 제외)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210965&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-02-21)
+
+* **[[대학일자리플러스센터] 2023 대한민국 채용박람회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210953&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-02-20)
+
 * **[[봉사활동] 제15기 대한민국 바로알림단 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210934&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-02-20)
 
@@ -107,9 +113,3 @@
 
 * **[[경기대] AI.SW 창업아이디어 캠프 참가팀 모집 공고(~02.17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210784&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW융합교육원 (~2023-02-15)
-
-* **[(재공지)[대학일자리플러스센터] 홍보대사 JOB-A+(잡아 플러스) 14기 절찬리에 모집중!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210780&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-02-15)
-
-* **[2023학년도 1학기 수학1 1대4 튜터링 Tutor 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210778&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-02-15)
