@@ -24,6 +24,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[졸업식, 입학식 본교 버스 운행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211012&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2023-02-22)
+
+* **[[봉사활동] 2023년 국립청소년인터넷드림마을 4~5기 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211010&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-02-22)
+
+* **[[신청기간 정정] 2023학년도 1학기 정기주차권 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211009&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2023-02-22)
+
+* **[[국제교류팀] 2023년 하계 해외단기파견 프로그램 참가자 모집 (~02.27까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211002&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 국제교류팀 (~2023-02-21)
+
 * **[수업 저작권 관련 유의사항 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210997&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-02-21)
 
@@ -101,15 +113,3 @@
 
 * **[[다산학부대학] 2023-1학기 교양과목 및 영역별교양 본수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210835&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-02-16)
-
-* **[[다산학부대학] 2023학년도 AWAC 튜터 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210829&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 다산학부대학 교학팀 (~2023-02-16)
-
-* **[[봉사활동] 2023 경기국제하프마라콘대회 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210826&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-02-16)
-
-* **[[긴급] 2023-1학기 국가장학금 고지서 확인 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210813&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-02-16)
-
-* **[[대학일자리플러스센터] 무료 &lt;2023 이공계 자소서 긴급점검&gt; 행사-렛유인](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210812&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-02-16)
