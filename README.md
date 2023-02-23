@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[중앙도서관] 서버 보안 업데이트 작업으로 인한 전산 서비스 일시 중단 안내(2/24 18:00~21:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211067&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2023-02-23)
+
 * **[2023-1학기 유한재단 장학생 최종 선발 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211056&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-02-23)
 
@@ -107,6 +110,3 @@
 
 * **[2022학년도 2학기 아주복지장학 선발안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210857&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-02-17)
-
-* **[[대학일자리플러스센터] 재공지_AJOU 취업훈련소 면접대비반 2기 B반(금/오후)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210856&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-02-17)
