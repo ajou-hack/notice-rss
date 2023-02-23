@@ -3,9 +3,6 @@
 * **[📌 [공지] (학부) 2023학년도 신입생 입학식 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210823&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-02-16)
 
-* **[📌 [공지] [학부]2022학년도 전기(2023년 2월 22일)졸업확정자(학사학위취득자), 학사학위취득유예자, 졸업연기 승인자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210614&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-02-13)
-
 * **[📌 [공지] [학부] 2022학년도 전기 학부 학위수여식 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210409&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-02-07)
 
@@ -23,6 +20,9 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[2023-1학기 유한재단 장학생 최종 선발 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211056&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-02-23)
 
 * **[[혁신공유대학사업] 혁신공유단 서포터즈 2기 모집(★24일 마감 ★)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211042&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신공유단 (~2023-02-22)
@@ -109,7 +109,4 @@
  [장학] - 학생지원팀 (~2023-02-17)
 
 * **[[대학일자리플러스센터] 재공지_AJOU 취업훈련소 면접대비반 2기 B반(금/오후)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210856&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-02-17)
-
-* **[[대학일자리플러스센터] 재공지_AJOU 취업훈련소 면접대비반 2기 A반(금/오전)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210855&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-02-17)
