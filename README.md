@@ -1,11 +1,5 @@
 # 최근 공지사항
 
-* **[📌 [공지] (학부) 2023학년도 신입생 입학식 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210823&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-02-16)
-
-* **[📌 [공지] [학부] 2022학년도 전기 학부 학위수여식 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210409&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-02-07)
-
 * **[📌 [공지] [Remind][학부] 2023-1학기 등록 안내(02.20.~02.24.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210364&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 재무회계팀 (~2023-02-06)
 
@@ -20,6 +14,12 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[다산학부대학] 2023-1학기 다산서원 14기(고전형 자기개발장학) 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211089&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 다산학부대학 교학팀 (~2023-02-24)
+
+* **[아주대학교 캐릭터 학생 선호도 조사 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211085&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 홍보실 (~2023-02-23)
 
 * **[[교외장학] 2023년 성보장학회 장학생 선발 안내_2023.02.28(화) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211082&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-02-23)
@@ -104,9 +104,3 @@
 
 * **[[Remind][학자금대출] 2023학년도 1학기 한국장학재단 학자금대출 신청 및 실행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210892&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-02-20)
-
-* **[(재공지)[대학일자리플러스센터] 홍보대사 JOB-A+(잡아 플러스) 14기 절찬리에 모집중!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210883&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-02-17)
-
-* **[[다산학부대학] 2023학년도 AWAC 튜터 모집 안내(~2/19(일)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210882&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 다산학부대학 교학팀 (~2023-02-17)
