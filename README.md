@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[국민은행 학생증 (체크카드) 발급 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211102&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2023-02-24)
+
 * **[[국제교류팀] 2023년 하계 1차 해외단기파견 프로그램 온라인 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211095&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 국제교류팀 (~2023-02-24)
 
@@ -101,6 +104,3 @@
 
 * **[[교외장학] 2023년 1학기 농림축산식품부 청년창업농육성장학생 추가모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210903&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-02-20)
-
-* **[2023 아주대학교 신입생 대상 온라인 어학 설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210895&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교육센터운영팀 (~2023-02-20)
