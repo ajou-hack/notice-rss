@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[교외장학] 2023년도 재능키움 장학생 선발 안내_충청남도인재육성재단](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211119&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-02-24)
+
+* **[[교외장학] 2023년도 보금자리 장학생 선발 안내 _ 충청남도인재육성재단](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211118&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-02-24)
+
+* **[[교외장학] 2023년도 멘토링활동 장학생 선발 안내_충청남도인재육성재단](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211117&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-02-24)
+
 * **[[다산학부대학] 2023-1학기 아주인성 공통반 및 신입생반 수강 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211113&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-02-24)
 
@@ -30,7 +39,7 @@
 * **[아주대학교 캐릭터 학생 선호도 조사 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211085&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 홍보실 (~2023-02-23)
 
-* **[[교외장학] 2023년 성보장학회 장학생 선발 안내_2023.02.28(화) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211082&amp;article.offset=0&amp;articleLimit=30)**
+* **[[수정][교외장학] 2023년 성보장학회 장학생 선발 안내_2023.02.28(화) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211082&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-02-23)
 
 * **[통학버스 운행 노선 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211080&amp;article.offset=0&amp;articleLimit=30)**
@@ -95,12 +104,3 @@
 
 * **[[학부] 2023학년도 신입생 학생증 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210926&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 종합지원센터 (~2023-02-20)
-
-* **[[메이커스페이스] 3D프린터 장비이용 기초교육생 모집(2월 1회차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210925&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-02-20)
-
-* **[[재공지] [종합지원센터] 2023학년도 1학기 사물함 신청안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210921&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 종합지원센터 (~2023-02-20)
-
-* **[★기한연장 [창업지원팀] 2023 실험실 특화형 창업선도대학 사업참여 참여의향 수요조사 안내(~2/24)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210919&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-02-20)
