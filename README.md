@@ -1,8 +1,5 @@
 # 최근 공지사항
 
-* **[📌 [공지] [Remind][학부] 2023-1학기 등록 안내(02.20.~02.24.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210364&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 재무회계팀 (~2023-02-06)
-
 * **[📌 [공지] [교무팀] 출석(전자출결, 공결, 취업계, 코로나 등) 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205552&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-10-26)
 
@@ -14,6 +11,15 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[규정류 개정 공포(제360차 이사회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211125&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2023-02-25)
+
+* **[[기획팀]아주대학교 학칙 개정(안) 사전 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211124&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2023-02-24)
+
+* **[[대학일자리+센터] 센터 홈페이지 이용 불가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211123&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-02-24)
 
 * **[[교외장학] 교육봉사 장학 프로그램 올투게더 4기 대학생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211120&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-02-24)
@@ -54,7 +60,7 @@
 * **[[대학일자리플러스센터] 금주의 추천채용_이카운트/WTC Seoul/아주IB투자](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211077&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-02-23)
 
-* **[[중앙도서관] 서버 보안 업데이트 작업으로 인한 전산 서비스 일시 중단 안내(2/24 18:00~21:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211067&amp;article.offset=0&amp;articleLimit=30)**
+* **[(작업완료)[중앙도서관] 서버 보안 업데이트 작업으로 인한 전산 서비스 일시 중단 안내(2/24 18:00~21:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211067&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2023-02-23)
 
 * **[2023-1학기 유한재단 장학생 최종 선발 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211056&amp;article.offset=0&amp;articleLimit=30)**
@@ -95,12 +101,3 @@
 
 * **[[대학일자리플러스센터] 2023학년도 편입생 진로-취업캠프 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210967&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-02-21)
-
-* **[[학부]2023-1학기 수강정정 안내(3/2(목)~3/8(수), 토/일 제외)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210965&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-02-21)
-
-* **[[대학일자리플러스센터] 2023 대한민국 채용박람회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210953&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-02-20)
-
-* **[[봉사활동] 제15기 대한민국 바로알림단 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210934&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-02-20)
