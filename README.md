@@ -12,6 +12,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[Remind][학사] 2023-1학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211143&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-02-27)
+
+* **[[다산학부대학] 2023-1학기 수학1 반 변경 신청 안내(2/27(월)~3/6(월) 17:00까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211138&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-02-27)
+
 * **[규정류 개정 공포(제360차 이사회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211125&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 기획팀 (~2023-02-25)
 
@@ -95,9 +101,3 @@
 
 * **[[한국장학재단] 제14시 사회리더 대학생 멘토링 멘티모집 (기간연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210995&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-02-21)
-
-* **[[공지] 2023학년도 경영대학교학팀 근로학생(면학장학생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210983&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 경영대학교학팀 (~2023-02-21)
-
-* **[[대학일자리플러스센터] 2023학년도 편입생 진로-취업캠프 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210967&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-02-21)
