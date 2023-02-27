@@ -12,6 +12,24 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[교외장학] 우아한 사장님 자녀 장학금 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211153&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-02-27)
+
+* **[[메이커스페이스] 레이저 가공장비 이용 기초교육생 모집(2월 1회차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211152&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-02-27)
+
+* **[[학부/학사과정]2023년 8월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.07.28.(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211149&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-02-27)
+
+* **[[대학언론사] 교육방송국 수습 국원 모집 안내(~3.8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211147&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생지원팀 (~2023-02-27)
+
+* **[[학부/학사과정]2022학년도 후기(2023년 8월) 조기졸업 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211146&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-02-27)
+
+* **[[Remind][학부] 2023-1학기 등록 안내(03.02.~03.03.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211145&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 재무회계팀 (~2023-02-27)
+
 * **[[Remind][학사] 2023-1학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211143&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-02-27)
 
@@ -83,21 +101,3 @@
 
 * **[졸업식, 입학식 본교 버스 운행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211012&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2023-02-22)
-
-* **[[봉사활동] 2023년 국립청소년인터넷드림마을 4~5기 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211010&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-02-22)
-
-* **[[신청기간 정정] 2023학년도 1학기 정기주차권 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211009&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2023-02-22)
-
-* **[[국제교류팀] 2023년 하계 해외단기파견 프로그램 참가자 모집 (~02.27까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211002&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 국제교류팀 (~2023-02-21)
-
-* **[수업 저작권 관련 유의사항 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210997&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-02-21)
-
-* **[[총무팀] 기숙사식당(가칭) 오픈 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210996&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2023-02-21)
-
-* **[[한국장학재단] 제14시 사회리더 대학생 멘토링 멘티모집 (기간연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=210995&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-02-21)
