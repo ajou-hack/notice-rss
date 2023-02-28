@@ -12,6 +12,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 2023 상반기 서류 특강 1탄. 삼성그룹 자소서 문항분석 및 작성전략](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211208&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-02-28)
+
 * **[[교외장학] 2023년 하림장학재단 장학생(생활비장학) 선발_3.8(수) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211205&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-02-28)
 
@@ -98,6 +101,3 @@
 
 * **[(재공지) LINC 3.0 서포터즈 5기 모집 공고(~02.26까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211079&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀 (~2023-02-23)
-
-* **[[대학일자리플러스센터] 금주의 추천채용_이카운트/WTC Seoul/아주IB투자](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211077&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-02-23)
