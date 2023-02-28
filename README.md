@@ -12,10 +12,16 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[교외장학] 2023년 하림장학재단 장학생(생활비장학) 선발_3.8(수) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211205&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-02-28)
+
+* **[[다산학부대학] 2023-1학기 아주인성 수강신청 처리 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211200&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-02-28)
+
 * **[[다산학부대학] 2023-1학기 아주인성 공통반 및 신입생반 수강 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211177&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-02-27)
 
-* **[[교육대학원] 근로학생(면학장학생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211161&amp;article.offset=0&amp;articleLimit=30)**
+* **[(마감)[교육대학원] 근로학생(면학장학생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211161&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 교육대학원 (~2023-02-27)
 
 * **[[봉사활동] (재공지) 2023학년도 1학기 십시일밥 봉사자 추가 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211159&amp;article.offset=0&amp;articleLimit=30)**
@@ -95,9 +101,3 @@
 
 * **[[대학일자리플러스센터] 금주의 추천채용_이카운트/WTC Seoul/아주IB투자](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211077&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-02-23)
-
-* **[(작업완료)[중앙도서관] 서버 보안 업데이트 작업으로 인한 전산 서비스 일시 중단 안내(2/24 18:00~21:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211067&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2023-02-23)
-
-* **[2023-1학기 유한재단 장학생 최종 선발 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211056&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-02-23)
