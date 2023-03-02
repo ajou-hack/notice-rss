@@ -12,6 +12,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[아주대학교 캐릭터 학생 선호도 조사 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211293&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 홍보실 (~2023-03-02)
+
+* **[[경영대학](추가모집)2023-1학기 수업 TA(Teaching Assistant) 모집 신청 안내(~3/3일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211282&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 경영대학 (~2023-03-02)
+
+* **[[대학일자리플러스센터] 아주대와 함께하는 삼성디스플레이 채용 설명회 및 상담회 (3/7~8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211270&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-02)
+
 * **[[SW융합교육원] 2023-1 코딩 트레이너 추가 모집(1명)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211268&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - SW융합교육원 (~2023-03-02)
 
@@ -92,12 +101,3 @@
 
 * **[[학부/학사과정]2023년 8월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.07.28.(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211149&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-02-27)
-
-* **[[대학언론사] 교육방송국 수습 국원 모집 안내(~3.8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211147&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생지원팀 (~2023-02-27)
-
-* **[[학부/학사과정]2022학년도 후기(2023년 8월) 조기졸업 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211146&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-02-27)
-
-* **[[Remind][학부] 2023-1학기 등록 안내(03.02.~03.03.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211145&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 재무회계팀 (~2023-02-27)
