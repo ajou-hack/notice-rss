@@ -12,6 +12,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학부] 포탈/학생증 사진변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211310&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-03-02)
+
+* **[[근로]아주심리상담센터에서 함께 면학할 성실한 면학장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211306&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 아주심리상담센터 (~2023-03-02)
+
 * **[아주대학교 캐릭터 학생 선호도 조사 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211293&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 홍보실 (~2023-03-02)
 
@@ -95,9 +101,3 @@
 
 * **[[교외장학] 우아한 사장님 자녀 장학금 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211153&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-02-27)
-
-* **[[메이커스페이스] 레이저 가공장비 이용 기초교육생 모집(2월 1회차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211152&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-02-27)
-
-* **[[학부/학사과정]2023년 8월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.07.28.(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211149&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-02-27)
