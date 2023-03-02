@@ -12,6 +12,39 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[SW융합교육원] 2023-1 코딩 트레이너 추가 모집(1명)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211268&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - SW융합교육원 (~2023-03-02)
+
+* **[2023학년도 1학기 수학1 1대4 튜터링 튜티(Tutee) 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211266&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-03-02)
+
+* **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제53호(2023.03)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211265&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-02)
+
+* **[[인문대학] 인간·사회·규범 연계전공 개설 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211264&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 인문대학교학팀 (~2023-03-02)
+
+* **[[인문대학] 데이터인문연계전공 개설 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211263&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 인문대학교학팀 (~2023-03-02)
+
+* **[[대학일자리플러스센터] 아주대와 함께하는 기아 AutoLand 화성 채용 설명회(3/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211262&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-02)
+
+* **[2023년 멀티미디어 강의실 점검결과(02월) 및 2023년 (03월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211261&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2023-03-02)
+
+* **[[대학일자리플러스센터] 아주대와 함께하는 현대엔지니어링 채용 설명회(3/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211260&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-02)
+
+* **[[다산학부대학] 2023-1학기 다산서원 14기(고전형 자기개발장학) 모집 안내(~3/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211259&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 다산학부대학 교학팀 (~2023-03-02)
+
+* **[[대학일자리플러스센터] 2월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211253&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-02)
+
+* **[[대학일자리플러스센터] 2월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211251&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-02)
+
 * **[[대학일자리+센터] 2023년 채용트렌드와 준비전략 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211237&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-02-28)
 
@@ -68,36 +101,3 @@
 
 * **[[Remind][학부] 2023-1학기 등록 안내(03.02.~03.03.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211145&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 재무회계팀 (~2023-02-27)
-
-* **[[Remind][학사] 2023-1학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211143&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-02-27)
-
-* **[[다산학부대학] 2023-1학기 수학1 반 변경 신청 안내(2/27(월)~3/6(월) 17:00까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211138&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-02-27)
-
-* **[규정류 개정 공포(제360차 이사회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211125&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2023-02-25)
-
-* **[[기획팀]아주대학교 학칙 개정(안) 사전 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211124&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2023-02-24)
-
-* **[[대학일자리+센터] 센터 홈페이지 이용 불가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211123&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-02-24)
-
-* **[[교외장학] 교육봉사 장학 프로그램 올투게더 4기 대학생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211120&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-02-24)
-
-* **[[교외장학] 2023년도 재능키움 장학생 선발 안내_충청남도인재육성재단](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211119&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-02-24)
-
-* **[[교외장학] 2023년도 보금자리 장학생 선발 안내 _ 충청남도인재육성재단](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211118&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-02-24)
-
-* **[[교외장학] 2023년도 멘토링활동 장학생 선발 안내_충청남도인재육성재단](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211117&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-02-24)
-
-* **[[다산학부대학] 2023-1학기 아주인성 공통반 및 신입생반 수강 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211113&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-02-24)
-
-* **[국민은행 학생증 (체크카드) 발급 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211102&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2023-02-24)
