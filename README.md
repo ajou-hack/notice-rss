@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[지식재산] 2023학년도 APEC(미국 지식재산 교육)과정(서류 ~3/12) , 글로벌 지식재산 현지 체험 과정(서류 ~3/18) 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211413&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 지식재산융합인재양성사업 (~2023-03-03)
+
+* **[[대학혁신지원사업] 대학교육혁신원 서포터즈 2기 추가모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211410&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2023-03-03)
+
 * **[[인권센터 학생상담소] &#x27;안녕! 나 정서인데 우리 친해질래?&#x27; (정서조절을 위한 인식과 표현) 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211403&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 인권센터 학생상담소 (~2023-03-03)
 
@@ -26,9 +32,6 @@
 
 * **[[대학일자리플러스센터] 3월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211380&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-03-03)
-
-* **[[지식재산] 2023학년도 APEC(미국 지식재산 교육) 과정 참가자 모집 안내(서류 3/12 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211378&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 지식재산융합인재양성사업 (~2023-03-03)
 
 * **[[창업지원단]2023 실험실 창업탐색(AI-Lab) 프로그램 예비창업자 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211373&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 창업지원팀 (~2023-03-03)
@@ -101,6 +104,3 @@
 
 * **[[대학일자리+센터] 2023년 채용트렌드와 준비전략 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211237&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-02-28)
-
-* **[[인권센터 학생상담소] &#x27;안녕! 나 정서인데 우리 친해질래?&#x27; (정서조절을 위한 인식과 표현) 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211227&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 인권센터 학생상담소 (~2023-02-28)
