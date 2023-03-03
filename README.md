@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] 대학생 무료 흉부촬영(경기도 지원, 대한결핵협회 주관)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211258&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 보건진료소 (~2023-03-02)
+
 * **[📌 [공지] [교무팀] 출석(전자출결, 공결, 취업계, 코로나 등) 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205552&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-10-26)
 
@@ -11,6 +14,21 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[대학일자리플러스센터] 3월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211380&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-03)
+
+* **[[지식재산] 2023학년도 APEC(미국 지식재산 교육) 과정 참가자 모집 안내(서류 3/12 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211378&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 지식재산융합인재양성사업 (~2023-03-03)
+
+* **[[창업지원단]2023 실험실 창업탐색(AI-Lab) 프로그램 예비창업자 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211373&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 창업지원팀 (~2023-03-03)
+
+* **[[SW융합교육원] 2023 Spring AI Night 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211353&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - SW융합교육원 (~2023-03-03)
+
+* **[[다산학부대학]2023-1학기 BSM 및 공업수학A 수강정정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211343&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-03-02)
 
 * **[[입학팀] 입학홍보대사 G.A.i.A. 20기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211339&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학팀 (~2023-03-02)
@@ -86,18 +104,3 @@
 
 * **[(수정) 2023-1학기 강의페어링 설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211215&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 다산융복합교육센터 (~2023-02-28)
-
-* **[(접수)아주북통 13기에 활동할 학생을 모집합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211213&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학술정보팀 (~2023-02-28)
-
-* **[[대학일자리플러스센터] 2023 상반기 서류 특강 1탄. 삼성그룹 자소서 문항분석 및 작성전략](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211208&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-02-28)
-
-* **[[교외장학] 2023년 하림장학재단 장학생(생활비장학) 선발_3.8(수) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211205&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-02-28)
-
-* **[[다산학부대학] 2023-1학기 아주인성 수강신청 처리 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211200&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-02-28)
-
-* **[[다산학부대학] 2023-1학기 아주인성 공통반 및 신입생반 수강 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211177&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-02-27)
