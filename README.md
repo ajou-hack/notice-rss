@@ -1,8 +1,5 @@
 # 최근 공지사항
 
-* **[📌 [공지] 대학생 무료 흉부촬영(경기도 지원, 대한결핵협회 주관)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211258&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 보건진료소 (~2023-03-02)
-
 * **[📌 [공지] [교무팀] 출석(전자출결, 공결, 취업계, 코로나 등) 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205552&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-10-26)
 
@@ -14,6 +11,12 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[2023-1 동아리박람회(문화제) 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211453&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-03-05)
+
+* **[[대학일자리+센터] 아주대 캠퍼스리크루팅 소식](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211436&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-03)
 
 * **[[대학일자리플러스센터] 아주대와 함께하는 삼성에스원 채용 상담회(3/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211423&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-03-03)
@@ -69,9 +72,6 @@
 * **[[근로]아주심리상담센터에서 함께 면학할 성실한 면학장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211306&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 아주심리상담센터 (~2023-03-02)
 
-* **[아주대학교 캐릭터 학생 선호도 조사 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211293&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 홍보실 (~2023-03-02)
-
 * **[[대학일자리플러스센터] 아주대와 함께하는 삼성디스플레이 채용 설명회 및 상담회 (3/7~8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211270&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-03-02)
 
@@ -101,6 +101,3 @@
 
 * **[[다산학부대학] 2023-1학기 다산서원 14기(고전형 자기개발장학) 모집 안내(~3/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211259&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 다산학부대학 교학팀 (~2023-03-02)
-
-* **[[대학일자리플러스센터] 2월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211253&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-02)
