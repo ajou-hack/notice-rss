@@ -12,6 +12,24 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 아주대와 함께하는 한화토탈에너지스 채용 설명회 및 상담회(3/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211485&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-06)
+
+* **[[대학일자리플러스센터] 2023 상반기 삼성 기회균등 특별채용 지원자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211481&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-06)
+
+* **[2023학년도 학생단체(동아리, 소학회) 등록 안내(소학회담당자 3월9일 안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211479&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-03-06)
+
+* **[보건진료소 파견 의사 진료 재개](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211476&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 보건진료소 (~2023-03-06)
+
+* **[[기획팀]학칙 개정 공포(2022 동계 제2차 임시교무회의, 제2차 대학평의원회 서면결의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211473&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2023-03-06)
+
+* **[[융복합 의료제품 촉진지원센터] 학생연구원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211472&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 약학대학 교학팀 (~2023-03-06)
+
 * **[2023-1 동아리박람회(문화제) 개최 (첨부파일참조)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211470&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-03-06)
 
@@ -83,21 +101,3 @@
 
 * **[[학부] 포탈/학생증 사진변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211310&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-03-02)
-
-* **[[근로]아주심리상담센터에서 함께 면학할 성실한 면학장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211306&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 아주심리상담센터 (~2023-03-02)
-
-* **[[대학일자리플러스센터] 아주대와 함께하는 삼성디스플레이 채용 설명회 및 상담회 (3/7~8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211270&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-02)
-
-* **[[SW융합교육원] 2023-1 코딩 트레이너 추가 모집(1명)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211268&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - SW융합교육원 (~2023-03-02)
-
-* **[2023학년도 1학기 수학1 1대4 튜터링 튜티(Tutee) 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211266&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-03-02)
-
-* **[[대학일자리플러스센터] 대학일자리플러스센터 뉴스레터 제53호(2023.03)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211265&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-02)
-
-* **[[인문대학] 인간·사회·규범 연계전공 개설 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211264&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 인문대학교학팀 (~2023-03-02)
