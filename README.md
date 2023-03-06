@@ -12,6 +12,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 아주대와 함께하는 삼성전자 생산기술연구소 채용 상담회 (3/9)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211488&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-06)
+
 * **[[대학일자리플러스센터] 아주대와 함께하는 한화토탈에너지스 채용 설명회 및 상담회(3/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211485&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-03-06)
 
@@ -98,6 +101,3 @@
 
 * **[[공학교육혁신센터] 2023학년도 1학기 공학인증 학생상담 안내 (6.12.까지)* 금학기 연장 없음*](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211321&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 공학교육혁신센터 (~2023-03-02)
-
-* **[[학부] 포탈/학생증 사진변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211310&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-03-02)
