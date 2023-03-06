@@ -12,6 +12,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 2023-1학기 학습공동체(III) 공부가치 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211505&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-03-06)
+
+* **[[학습법] 2023-1학기 학습공동체(II) ASAP 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211504&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-03-06)
+
+* **[[학습법] 2023-1학기 학습공동체(I) 스터디그룹 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211503&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-03-06)
+
 * **[2022년 하반기분 통영시 대학생 학자금 이자 지원 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211500&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-03-06)
 
@@ -92,12 +101,3 @@
 
 * **[[창업지원단]2023 실험실 창업탐색(AI-Lab) 프로그램 예비창업자 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211373&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 창업지원팀 (~2023-03-03)
-
-* **[[SW융합교육원] 2023 Spring AI Night 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211353&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - SW융합교육원 (~2023-03-03)
-
-* **[[다산학부대학]2023-1학기 BSM 및 공업수학A 수강정정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211343&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-03-02)
-
-* **[[입학팀] 입학홍보대사 G.A.i.A. 20기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211339&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 입학팀 (~2023-03-02)
