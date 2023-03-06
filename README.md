@@ -12,6 +12,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] [삼성디스플레이] &#x27;23.상 공채/인턴 온라인 리크루팅 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211525&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-06)
+
+* **[[대학일자리플러스센터] 삼성전자 DS부문 LED사업팀 3급 신입채용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211524&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-06)
+
+* **[[아주통일연구소] &#x27;한반도 비전 토크&#x27; 동아리 2023 신규회원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211517&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 아주통일연구소 (~2023-03-06)
+
 * **[[교외장학] 2023년 세계시민포럼 가현 장학생(이주배경 청소년 장학사업) 선발_3.20(월) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211512&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-03-06)
 
@@ -92,12 +101,3 @@
 
 * **[[대학혁신지원사업] 대학교육혁신원 서포터즈 2기 추가모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211410&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2023-03-03)
-
-* **[[인권센터 학생상담소] &#x27;안녕! 나 정서인데 우리 친해질래?&#x27; (정서조절을 위한 인식과 표현) 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211403&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 인권센터 학생상담소 (~2023-03-03)
-
-* **[사당역 경기버스라운지 관련 아이디어 공모 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211390&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-03-03)
-
-* **[[교외장학] (재)용인시장학재단 2023년 장학금 및 교육비 지원자 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211389&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-03)
