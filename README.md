@@ -12,8 +12,23 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[2023-1 동아리박람회(문화제) 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211453&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-03-05)
+* **[2023-1 동아리박람회(문화제) 개최 (첨부파일참조)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211470&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-03-06)
+
+* **[2023학년도 1학기 사회봉사장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211469&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 사회봉사센터 (~2023-03-06)
+
+* **[[대학일자리플러스센터] &#x27;23년(상) 삼성전자 DS부문 AVP사업팀 공채 비대면 LIVE 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211467&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-06)
+
+* **[[학부] 2023학년도 1학기 취득학점포기 안내 (성적포기) (3/29~31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211462&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-03-06)
+
+* **[[지식재산] 2023-1 지식재산기반 발명 아이디어, 특허 경진대회 및 지식재산능력시험(IPAT) 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211461&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 지식재산융합인재양성사업 (~2023-03-06)
+
+* **[[비교과교육지원센터] 유시찬 멘토가 알려주는 청춘 설계법 신청 안내(3.6(월)~3.19(일))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211458&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-03-06)
 
 * **[[대학일자리+센터] 아주대 캠퍼스리크루팅 소식](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211436&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-03-03)
@@ -86,18 +101,3 @@
 
 * **[[인문대학] 인간·사회·규범 연계전공 개설 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211264&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 인문대학교학팀 (~2023-03-02)
-
-* **[[인문대학] 데이터인문연계전공 개설 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211263&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 인문대학교학팀 (~2023-03-02)
-
-* **[[대학일자리플러스센터] 아주대와 함께하는 기아 AutoLand 화성 채용 상담회(3/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211262&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-02)
-
-* **[2023년 멀티미디어 강의실 점검결과(02월) 및 2023년 (03월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211261&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2023-03-02)
-
-* **[[대학일자리플러스센터] 아주대와 함께하는 현대엔지니어링 채용 설명회(3/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211260&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-02)
-
-* **[[다산학부대학] 2023-1학기 다산서원 14기(고전형 자기개발장학) 모집 안내(~3/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211259&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 다산학부대학 교학팀 (~2023-03-02)
