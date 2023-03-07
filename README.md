@@ -12,6 +12,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[인문과학연구소] 시각화 시스템 사용자 실험 참여집단 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211574&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 인문과학연구소 (~2023-03-07)
+
 * **[[대학혁신지원사업] 대학교육혁신원 서포터즈 2기 추가모집합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211560&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2023-03-07)
 
@@ -98,6 +101,3 @@
 
 * **[[융복합 의료제품 촉진지원센터] 학생연구원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211472&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 약학대학 교학팀 (~2023-03-06)
-
-* **[2023-1 동아리박람회(문화제) 개최 (첨부파일참조)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211470&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-03-06)
