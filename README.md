@@ -12,6 +12,24 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학혁신지원사업] 대학교육혁신원 서포터즈 2기 추가모집합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211560&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2023-03-07)
+
+* **[[지식재산] 2023학년도 APEC(미국 지식재산 교육)과정(서류 ~3/12) , 글로벌 지식재산 현지 체험 과정(서류 ~3/18) 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211559&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 지식재산융합인재양성사업 (~2023-03-07)
+
+* **[[지식재산] 2023-1 지식재산기반 발명 아이디어, 특허 경진대회 및 지식재산능력시험(IPAT) 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211558&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 지식재산융합인재양성사업 (~2023-03-07)
+
+* **[[교외장학] 2023학년도 1학기 아주대학교 총동문회 동문장학생 선발공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211551&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-03-07)
+
+* **[[학생지원팀] 학생자치공간 출입 권한 등록 절차 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211549&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-03-07)
+
+* **[[중앙도서관]3월 이용교육 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211548&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2023-03-07)
+
 * **[[Remind][학부/학사과정]2022학년도 후기(2023년 8월) 조기졸업 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211542&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-03-07)
 
@@ -83,21 +101,3 @@
 
 * **[2023-1 동아리박람회(문화제) 개최 (첨부파일참조)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211470&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-03-06)
-
-* **[2023학년도 1학기 사회봉사장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211469&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 사회봉사센터 (~2023-03-06)
-
-* **[[대학일자리플러스센터] &#x27;23년(상) 삼성전자 DS부문 AVP사업팀 공채 비대면 LIVE 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211467&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-06)
-
-* **[[학부] 2023학년도 1학기 취득학점포기 안내 (성적포기) (3/29~31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211462&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-03-06)
-
-* **[[지식재산] 2023-1 지식재산기반 발명 아이디어, 특허 경진대회 및 지식재산능력시험(IPAT) 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211461&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 지식재산융합인재양성사업 (~2023-03-06)
-
-* **[[비교과교육지원센터] 유시찬 멘토가 알려주는 청춘 설계법 신청 안내(3.6(월)~3.19(일))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211458&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-03-06)
-
-* **[[대학일자리+센터] 아주대 캠퍼스리크루팅 소식](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211436&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-03)
