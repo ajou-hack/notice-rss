@@ -12,6 +12,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[한국장학재단] 2023년 대통령과학장학금 국내 신규장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211611&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-03-07)
+
+* **[[한국장학재단] 2023년 1학기 중소기업 취업연계 장학금(희망사다리 Ⅰ유형) 신청 안내(~2023. 03. 31. (금) 18:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211606&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-03-07)
+
+* **[[한국장학재단] 2023년 1학기 고졸 후학습자 장학금(희망사다리 Ⅱ유형) 신규 장학생 신청 안내(~2023. 03. 31.(금) 18:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211604&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-03-07)
+
+* **[[대학일자리플러스센터] 공인어학성적 제출 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211602&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-07)
+
 * **[[학생 대상]AI와 함께 하는 영어 트레이닝 프로그램 신청(~3/14)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211596&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-03-07)
 
@@ -89,15 +101,3 @@
 
 * **[[대학일자리플러스센터] 아주대와 함께하는 한화토탈에너지스 채용 설명회 및 상담회(3/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211485&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-03-06)
-
-* **[[대학일자리플러스센터] 2023 상반기 삼성 기회균등 특별채용 지원자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211481&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-06)
-
-* **[2023학년도 학생단체(동아리, 소학회) 등록 안내(소학회담당자 3월9일 안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211479&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-03-06)
-
-* **[보건진료소 파견 의사 진료 재개](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211476&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 보건진료소 (~2023-03-06)
-
-* **[[기획팀]학칙 개정 공포(2022 동계 제2차 임시교무회의, 제2차 대학평의원회 서면결의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211473&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2023-03-06)
