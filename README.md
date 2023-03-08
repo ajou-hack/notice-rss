@@ -12,6 +12,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[제 2회 주산 법률 강좌 안내(3/9)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211664&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 법학전문대학원 (~2023-03-08)
+
 * **[[혁신공유단] 혁신공유라운지 사용불가 안내 (3/17금 14시~16시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211656&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 혁신공유팀 (~2023-03-08)
 
@@ -98,6 +101,3 @@
 
 * **[[대학일자리플러스센터] 삼성전자 DS부문 LED사업팀 3급 신입채용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211524&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-03-06)
-
-* **[[아주통일연구소] &#x27;한반도 비전 토크&#x27; 동아리 2023 신규회원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211517&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 아주통일연구소 (~2023-03-06)
