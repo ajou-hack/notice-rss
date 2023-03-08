@@ -12,6 +12,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[교외장학]『춘천시민장학복지재단』 2023년도 상반기 장학생 선발공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211648&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-03-08)
+
 * **[[대학일자리플러스센터] 아주대와 함께하는 ‘23년 상반기 HD현대그룹 건설기계3사 (현대제뉴인, 현대건설기계, 현대두산인프라코어) 신입사원 채용설명회 및 상담 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211645&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-03-08)
 
@@ -98,6 +101,3 @@
 
 * **[[교외장학] 2023년 세계시민포럼 가현 장학생(이주배경 청소년 장학사업) 선발_3.20(월) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211512&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-03-06)
-
-* **[[봉사활동] 2023학년도 1학기 어린이 도서관 관리 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211511&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-03-06)
