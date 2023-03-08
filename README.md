@@ -12,6 +12,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[봉사활동] 3/14 &#x27;생명을 살리는 자원봉사자&#x27; 단체헌혈 및 헌혈증 기부 캠페인 지원 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211637&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-03-08)
+
+* **[[봉사활동] 3/14 아주대학교 단체 헌혈 &#x27;사랑의 헌혈캠페인&#x27; 안내 (한마음 혈액원)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211635&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-03-08)
+
+* **[[봉사활동] 2023학년도 1학기 어린이 도서관 관리 자원봉사자 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211634&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-03-08)
+
+* **[[아주강좌] 제 484회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211631&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-03-08)
+
+* **[[대학일자리+센터] 취업성공 후기 모집_여러분의 이야기를 기다립니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211619&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-07)
+
 * **[[다산학부대학] 2023-1학기 교양과목 수강정원 증원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211614&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-03-07)
 
@@ -86,18 +101,3 @@
 
 * **[[학습법] 2023-1학기 학습공동체(I) 스터디그룹 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211503&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-03-06)
-
-* **[2022년 하반기분 통영시 대학생 학자금 이자 지원 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211500&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-06)
-
-* **[[학군단] 2023년 학군사관 후보생 64, 65기 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211494&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생군사교육단 (~2023-03-06)
-
-* **[[메이커스페이스] 3D프린터 장비운용 기초교육생 모집(3월 1회차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211492&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-03-06)
-
-* **[(유학생) 23-1학기 슬기로운 한국어 학술모임 모집(~3/10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211490&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 글로벌교양학부 (~2023-03-06)
-
-* **[[대학일자리플러스센터] 아주대와 함께하는 삼성전자 생산기술연구소 채용 상담회 (3/9)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211488&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-06)
