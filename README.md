@@ -12,6 +12,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[입학팀] 아주대학교 전공기부단 10기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211671&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 입학팀 (~2023-03-08)
+
+* **[(재공지) 유시찬 멘토가 알려주는 청춘 설계법 신청(3.6(월)~3.19(일))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211668&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-03-08)
+
+* **[(캡스톤, D-PBL 수강생)기업, 지역사회가 제시한 &#x27;현장문제 해결 프로젝트&#x27; 활용 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211665&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2023-03-08)
+
 * **[제 2회 주산 법률 강좌 안내(3/9)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211664&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 법학전문대학원 (~2023-03-08)
 
@@ -92,12 +101,3 @@
 
 * **[[다산학부대학] 2023-1학기 교양과목 수강인원 증원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211539&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-03-07)
-
-* **[♥2023-1학기 장애학생 교육지원인력(재학생) 모집(2차)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211530&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 인권센터 장애학생지원실 (~2023-03-06)
-
-* **[[대학일자리플러스센터] [삼성디스플레이] &#x27;23.상 공채/인턴 온라인 리크루팅 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211525&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-06)
-
-* **[[대학일자리플러스센터] 삼성전자 DS부문 LED사업팀 3급 신입채용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211524&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-06)
