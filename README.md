@@ -12,6 +12,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 아주대와 함께하는 ‘23년 상반기 HD현대그룹 건설기계3사 (현대제뉴인, 현대건설기계, 현대두산인프라코어) 신입사원 채용설명회 및 상담 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211645&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-08)
+
+* **[[캠페인] 소아암 환아 돕기 헌혈증 기부 캠페인 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211644&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-03-08)
+
+* **[[대청교] 2023학년도 1학기 대학생 청소년교육지원 장학 선발자 활동기관 등록 및 숙지사항 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211643&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-03-08)
+
 * **[[봉사활동] 3/14 &#x27;생명을 살리는 자원봉사자&#x27; 단체헌혈 및 헌혈증 기부 캠페인 지원 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211637&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-03-08)
 
@@ -92,12 +101,3 @@
 
 * **[[봉사활동] 2023학년도 1학기 어린이 도서관 관리 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211511&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-03-06)
-
-* **[[학습법] 2023-1학기 학습공동체(III) 공부가치 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211505&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-03-06)
-
-* **[[학습법] 2023-1학기 학습공동체(II) ASAP 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211504&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-03-06)
-
-* **[[학습법] 2023-1학기 학습공동체(I) 스터디그룹 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211503&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-03-06)
