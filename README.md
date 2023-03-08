@@ -12,6 +12,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[♥장애학생 학습지원인력 모집(재학생 1명)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211689&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 인권센터 장애학생지원실 (~2023-03-08)
+
+* **[[비교과교육지원센터] 아주허브에서 3월 퀴즈 풀고 스타벅스 쿠폰 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211687&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-03-08)
+
 * **[[한국장학재단] 2023년 1학기 국가장학금 2차 신청 안내(~2023. 3. 15. (수) 18시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211680&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-03-08)
 
@@ -95,9 +101,3 @@
 
 * **[[지식재산] 2023-1 지식재산기반 발명 아이디어, 특허 경진대회 및 지식재산능력시험(IPAT) 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211558&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 지식재산융합인재양성사업 (~2023-03-07)
-
-* **[[교외장학] 2023학년도 1학기 아주대학교 총동문회 동문장학생 선발공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211551&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-07)
-
-* **[[학생지원팀] 학생자치공간 출입 권한 등록 절차 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211549&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-03-07)
