@@ -12,6 +12,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[혁신공유단] 혁신공유라운지 사용불가 안내 (3/17금 14시~16시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211656&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 혁신공유팀 (~2023-03-08)
+
 * **[[교외장학]『춘천시민장학복지재단』 2023년도 상반기 장학생 선발공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211648&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-03-08)
 
@@ -98,6 +101,3 @@
 
 * **[[아주통일연구소] &#x27;한반도 비전 토크&#x27; 동아리 2023 신규회원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211517&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 아주통일연구소 (~2023-03-06)
-
-* **[[교외장학] 2023년 세계시민포럼 가현 장학생(이주배경 청소년 장학사업) 선발_3.20(월) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211512&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-06)
