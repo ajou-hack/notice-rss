@@ -12,6 +12,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[중앙도서관] 2023학년도 1학기 자료구입신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211729&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2023-03-09)
+
+* **[[봉사활동] (영어/수학 추가모집)2023-1 영통구청 「함께 이루는 꿈! 온(溫)택트 학습 멘토링」대학생 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211728&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-03-09)
+
+* **[면학장학생 모집 공고(1명, 국가근로와 다름)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211723&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2023-03-09)
+
 * **[[중앙도서관] 스마트 라운지 이용 안내(2023학년도 1학기)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211721&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2023-03-09)
 
@@ -22,7 +31,7 @@
  [기타] - 교육평가인증센터 (~2023-03-09)
 
 * **[♥장애학생 학습지원인력 모집(재학생 1명)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211689&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 인권센터 장애학생지원실 (~2023-03-08)
+ [기타] - 장애학생지원실 (~2023-03-08)
 
 * **[[한국장학재단] 2023년 1학기 국가장학금 2차 신청 안내(~2023. 3. 15. (수) 18시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211680&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-03-08)
@@ -34,7 +43,7 @@
  [취업] - 대학일자리플러스센터 (~2023-03-08)
 
 * **[2023-1 장애학생 지원인력 합격자 발표(2차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211675&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 인권센터 장애학생지원실 (~2023-03-08)
+ [기타] - 장애학생지원실 (~2023-03-08)
 
 * **[[입학팀] 아주대학교 전공기부단 10기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211671&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학팀 (~2023-03-08)
@@ -54,7 +63,7 @@
 * **[[교외장학]『춘천시민장학복지재단』 2023년도 상반기 장학생 선발공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211648&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-03-08)
 
-* **[[대학일자리플러스센터] 아주대와 함께하는 ‘23년 상반기 HD현대그룹 건설기계3사 (현대제뉴인, 현대건설기계, 현대두산인프라코어) 신입사원 채용설명회 및 상담 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211645&amp;article.offset=0&amp;articleLimit=30)**
+* **[[대학일자리플러스센터] 아주대와 함께하는 ‘23년 상반기 HD현대그룹 건설기계3사 (현대제뉴인, 현대건설기계, 현대두산인프라코어) 신입사원 채용공고 및 상담회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211645&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-03-08)
 
 * **[[캠페인] 소아암 환아 돕기 헌혈증 기부 캠페인 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211644&amp;article.offset=0&amp;articleLimit=30)**
@@ -92,12 +101,3 @@
 
 * **[[대학일자리플러스센터] 공인어학성적 제출 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211602&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-03-07)
-
-* **[[학생 대상]AI와 함께 하는 영어 트레이닝 프로그램 신청(~3/14)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211596&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-03-07)
-
-* **[[인문과학연구소] 시각화 시스템 사용자 실험 참여집단 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211574&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 인문과학연구소 (~2023-03-07)
-
-* **[[대학혁신지원사업] 대학교육혁신원 서포터즈 2기 추가모집합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211560&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2023-03-07)
