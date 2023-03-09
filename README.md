@@ -12,11 +12,14 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 아주대와 함께하는 삼성전자 DX부문 네트워크사업부 채용 설명회 및 상담회 (3/10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211708&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-09)
+
+* **[[교육평가인증센터] 2023년 신입생 및 재학생 역량진단](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211699&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교육평가인증센터 (~2023-03-09)
+
 * **[♥장애학생 학습지원인력 모집(재학생 1명)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211689&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 인권센터 장애학생지원실 (~2023-03-08)
-
-* **[[비교과교육지원센터] 아주허브에서 3월 퀴즈 풀고 스타벅스 쿠폰 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211687&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-03-08)
 
 * **[[한국장학재단] 2023년 1학기 국가장학금 2차 신청 안내(~2023. 3. 15. (수) 18시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211680&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-03-08)
@@ -33,7 +36,7 @@
 * **[[입학팀] 아주대학교 전공기부단 10기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211671&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학팀 (~2023-03-08)
 
-* **[(재공지) 유시찬 멘토가 알려주는 청춘 설계법 신청(3.6(월)~3.19(일))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211668&amp;article.offset=0&amp;articleLimit=30)**
+* **[(재공지) 유시찬 멘토가 알려주는 청춘 설계법 신청 (3.6(월)~3.19(일))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211668&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-03-08)
 
 * **[(캡스톤, D-PBL 수강생)기업, 지역사회가 제시한 &#x27;현장문제 해결 프로젝트&#x27; 활용 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211665&amp;article.offset=0&amp;articleLimit=30)**
@@ -97,7 +100,4 @@
  [기타] - 대학교육혁신원 (~2023-03-07)
 
 * **[[지식재산] 2023학년도 APEC(미국 지식재산 교육)과정(서류 ~3/12) , 글로벌 지식재산 현지 체험 과정(서류 ~3/18) 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211559&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 지식재산융합인재양성사업 (~2023-03-07)
-
-* **[[지식재산] 2023-1 지식재산기반 발명 아이디어, 특허 경진대회 및 지식재산능력시험(IPAT) 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211558&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 지식재산융합인재양성사업 (~2023-03-07)
