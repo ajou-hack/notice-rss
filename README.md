@@ -12,6 +12,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[중앙도서관] 스마트 라운지 이용 안내(2023학년도 1학기)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211721&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2023-03-09)
+
 * **[[대학일자리플러스센터] 아주대와 함께하는 삼성전자 DX부문 네트워크사업부 채용 설명회 및 상담회 (3/10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211708&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-03-09)
 
@@ -98,6 +101,3 @@
 
 * **[[대학혁신지원사업] 대학교육혁신원 서포터즈 2기 추가모집합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211560&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2023-03-07)
-
-* **[[지식재산] 2023학년도 APEC(미국 지식재산 교육)과정(서류 ~3/12) , 글로벌 지식재산 현지 체험 과정(서류 ~3/18) 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211559&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 지식재산융합인재양성사업 (~2023-03-07)
