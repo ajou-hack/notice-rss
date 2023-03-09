@@ -12,6 +12,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[인권센터 학생상담소] 위기 심리상담 신청서 &quot;마음이 너무 힘들어 죽고 싶다는 생각이 자주 나요.&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211754&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 인권센터 학생상담소 (~2023-03-09)
+
+* **[[SW중심대학] 2023 상반기 현장실습 수기공모전 개최 안내 (~03.26까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211752&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW융합교육원 (~2023-03-09)
+
+* **[중앙도서관 리모델링 설문조사 참여 이벤트 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211741&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2023-03-09)
+
 * **[[학부]2023-1학기 수강포기(수강철회) 안내(3/27(월) 9시~3/29(수) 23시59분)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211733&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-03-09)
 
@@ -92,12 +101,3 @@
 
 * **[[다산학부대학] 2023-1학기 교양과목 수강정원 증원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211614&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-03-07)
-
-* **[[한국장학재단] 2023년 대통령과학장학금 국내 신규장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211611&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-07)
-
-* **[[한국장학재단] 2023년 1학기 중소기업 취업연계 장학금(희망사다리 Ⅰ유형) 신청 안내(~2023. 03. 31. (금) 18:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211606&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-07)
-
-* **[[한국장학재단] 2023년 1학기 고졸 후학습자 장학금(희망사다리 Ⅱ유형) 신규 장학생 신청 안내(~2023. 03. 31.(금) 18:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211604&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-07)
