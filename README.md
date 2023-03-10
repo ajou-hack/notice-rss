@@ -12,6 +12,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[SW융합교육원] IT인재 전문가와 함께하는 진로특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211820&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - SW융합교육원 (~2023-03-10)
+
+* **[[비교과교육지원센터] 아주허브에서 퀴즈 풀고 스타벅스 쿠폰 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211818&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-03-10)
+
 * **[성호관 라운지 오픈에 따른 안경점 정상운영 및 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211811&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2023-03-10)
 
@@ -95,9 +101,3 @@
 
 * **[[혁신공유단] 혁신공유라운지 사용불가 안내 (3/17금 14시~16시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211656&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 혁신공유팀 (~2023-03-08)
-
-* **[[교외장학]『춘천시민장학복지재단』 2023년도 상반기 장학생 선발공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211648&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-08)
-
-* **[[대학일자리플러스센터] 아주대와 함께하는 ‘23년 상반기 HD현대그룹 건설기계3사 (현대제뉴인, 현대건설기계, 현대두산인프라코어) 신입사원 채용공고 및 상담회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211645&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-08)
