@@ -12,6 +12,24 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[입실공고] 2023학년도 1학기 고시반(아현재) 입실 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211781&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 사회과학대학 교학팀 (~2023-03-10)
+
+* **[[입실공고]2023학년도 1학기 고시반(청람재) 입실 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211780&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 사회과학대학 교학팀 (~2023-03-10)
+
+* **[[봉사활동] 3/14 단체 헌혈 운영 지원 봉사자 추가모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211779&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-03-10)
+
+* **[[국제교류팀] 영상 편집 및 제작 단기 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211770&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 국제교류팀 (~2023-03-09)
+
+* **[[2023 수원시청년지원센터 홍보 서포터즈] 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211766&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-03-09)
+
+* **[[교외장학] 일주재단 31기 국내학사 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211765&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-03-09)
+
 * **[[인권센터 학생상담소] 위기 심리상담 신청서 &quot;마음이 너무 힘들어 죽고 싶다는 생각이 자주 나요.&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211754&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 인권센터 학생상담소 (~2023-03-09)
 
@@ -83,21 +101,3 @@
 
 * **[[대청교] 2023학년도 1학기 대학생 청소년교육지원 장학 선발자 활동기관 등록 및 숙지사항 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211643&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-03-08)
-
-* **[[봉사활동] 3/14 &#x27;생명을 살리는 자원봉사자&#x27; 단체헌혈 및 헌혈증 기부 캠페인 지원 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211637&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-03-08)
-
-* **[[봉사활동] 3/14 아주대학교 단체 헌혈 &#x27;사랑의 헌혈캠페인&#x27; 안내 (한마음 혈액원)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211635&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-03-08)
-
-* **[[봉사활동] 2023학년도 1학기 어린이 도서관 관리 자원봉사자 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211634&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-03-08)
-
-* **[[아주강좌] 제 484회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211631&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-03-08)
-
-* **[[대학일자리+센터] 취업성공 후기 모집_여러분의 이야기를 기다립니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211619&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-07)
-
-* **[[다산학부대학] 2023-1학기 교양과목 수강정원 증원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211614&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-03-07)
