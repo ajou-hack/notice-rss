@@ -12,6 +12,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 3월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211786&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-10)
+
 * **[[입실공고] 2023학년도 1학기 고시반(아현재) 입실 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211781&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 사회과학대학 교학팀 (~2023-03-10)
 
@@ -98,6 +101,3 @@
 
 * **[[캠페인] 소아암 환아 돕기 헌혈증 기부 캠페인 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211644&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-03-08)
-
-* **[[대청교] 2023학년도 1학기 대학생 청소년교육지원 장학 선발자 활동기관 등록 및 숙지사항 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211643&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-08)
