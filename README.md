@@ -12,6 +12,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[성호관 라운지 오픈에 따른 안경점 정상운영 및 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211811&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2023-03-10)
+
 * **[[대학일자리플러스센터] 3월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211786&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-03-10)
 
@@ -98,6 +101,3 @@
 
 * **[[대학일자리플러스센터] 아주대와 함께하는 ‘23년 상반기 HD현대그룹 건설기계3사 (현대제뉴인, 현대건설기계, 현대두산인프라코어) 신입사원 채용공고 및 상담회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211645&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-03-08)
-
-* **[[캠페인] 소아암 환아 돕기 헌혈증 기부 캠페인 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211644&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-03-08)
