@@ -12,6 +12,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 휴학생 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211903&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 대학일자리플러스센터 (~2023-03-13)
+
+* **[아주대학교 셔틀버스 운행 시각 조정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211901&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2023-03-13)
+
 * **[[비교과교육지원센터]AJOU 신나는 대학생활 브이로그 공모전 신청 안내(3.13(월)~4.7(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211898&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-03-13)
 
@@ -95,9 +101,3 @@
 
 * **[[중앙도서관] 2023학년도 1학기 자료구입신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211729&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2023-03-09)
-
-* **[[봉사활동] (영어/수학 추가모집)2023-1 영통구청 「함께 이루는 꿈! 온(溫)택트 학습 멘토링」대학생 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211728&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-03-09)
-
-* **[면학장학생 모집 공고(1명, 국가근로와 다름)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211723&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2023-03-09)
