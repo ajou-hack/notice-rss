@@ -12,6 +12,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[종합지원센터에서 함께 면학할 성실한 면학장학생 한분을 모집합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211868&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 종합지원센터 (~2023-03-13)
+
+* **[[학습법] 2023-1학기 학습공동체(III) 공부가치 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211854&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-03-13)
+
+* **[[학습법] 2023-1학기 학습공동체(II) ASAP 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211853&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-03-13)
+
+* **[2023 LG전자 마음하나 노트북 지원 사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211852&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2023-03-13)
+
+* **[[학습법] 2023-1학기 학습공동체(I) 스터디그룹 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211851&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-03-13)
+
 * **[[장학] (재공지) 2023학년도 1학기 사회봉사장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211839&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 사회봉사센터 (~2023-03-13)
 
@@ -86,18 +101,3 @@
 
 * **[[교육평가인증센터] 2023년 신입생 및 재학생 역량진단](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211699&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교육평가인증센터 (~2023-03-09)
-
-* **[♥장애학생 학습지원인력 모집(재학생 1명)♥](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211689&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2023-03-08)
-
-* **[[한국장학재단] 2023년 1학기 국가장학금 2차 신청 안내(~2023. 3. 15. (수) 18시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211680&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-08)
-
-* **[동아리연합회 신입국원 모집 안내(~3.12)(첨부참조)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211678&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-03-08)
-
-* **[[대학일자리플러스센터] 아주대학교는 코멘토 제휴대학! 코멘토 이용방법 보고가세요~](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211677&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-08)
-
-* **[2023-1 장애학생 지원인력 합격자 발표(2차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211675&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2023-03-08)
