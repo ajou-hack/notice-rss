@@ -12,6 +12,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 2023-1학기 학생 강사 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211876&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-03-13)
+
+* **[[교외장학] 2023년 1학기 성남시 다자녀가구 대학생 등록금 지원 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211874&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-03-13)
+
 * **[종합지원센터에서 함께 면학할 성실한 면학장학생 한분을 모집합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211868&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 종합지원센터 (~2023-03-13)
 
@@ -95,9 +101,3 @@
 
 * **[[중앙도서관] 스마트 라운지 이용 안내(2023학년도 1학기)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211721&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2023-03-09)
-
-* **[[대학일자리플러스센터] 아주대와 함께하는 삼성전자 DX부문 네트워크사업부 채용 설명회 및 상담회 (3/10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211708&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-09)
-
-* **[[교육평가인증센터] 2023년 신입생 및 재학생 역량진단](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211699&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교육평가인증센터 (~2023-03-09)
