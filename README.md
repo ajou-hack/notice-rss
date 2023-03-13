@@ -12,6 +12,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[장학] (재공지) 2023학년도 1학기 사회봉사장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211839&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 사회봉사센터 (~2023-03-13)
+
+* **[연암관-홍재관 갓길 주차불가 및 불법주차 단속 강화 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211835&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2023-03-13)
+
+* **[[대학일자리플러스센터] 2023년 상반기 삼성증권 신입사원 채용홍보 및 메타버스 채용설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211832&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-13)
+
+* **[[Remind][학부] 2023-1학기 등록 안내(03.20.~03.24.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211830&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 재무회계팀 (~2023-03-13)
+
 * **[[대학일자리+센터] 아는만큼 보이는 캠리 활용법](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211826&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-03-10)
 
@@ -89,15 +101,3 @@
 
 * **[2023-1 장애학생 지원인력 합격자 발표(2차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211675&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 장애학생지원실 (~2023-03-08)
-
-* **[[입학팀] 아주대학교 전공기부단 10기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211671&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 입학팀 (~2023-03-08)
-
-* **[(재공지) 유시찬 멘토가 알려주는 청춘 설계법 신청 (3.6(월)~3.19(일))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211668&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-03-08)
-
-* **[(캡스톤, D-PBL 수강생)기업, 지역사회가 제시한 &#x27;현장문제 해결 프로젝트&#x27; 활용 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211665&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2023-03-08)
-
-* **[제 2회 주산 법률 강좌 안내(3/9)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211664&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 법학전문대학원 (~2023-03-08)
