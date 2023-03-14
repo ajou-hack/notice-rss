@@ -12,10 +12,13 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[재공고][근로]아주심리상담센터에서 함께 면학할 성실한 면학장학생을 모집합니다.(~3/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211958&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 아주심리상담센터 (~2023-03-14)
+
 * **[[산업공학과] 글로벌 CEO 특강 안내 (3월 21일. 4시 30분)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211924&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산업공학과 (~2023-03-14)
 
-* **[[국제교류팀] 혁신공유라운지 영상 촬영 안내 &lt;3월 22일(수) 오후 3시 30분~4시 30분&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211923&amp;article.offset=0&amp;articleLimit=30)**
+* **[[국제교류팀] 혁신공유라운지 영상 촬영 안내 &lt;3월 22일(수) 오후2시~3시&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211923&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2023-03-14)
 
 * **[2023년 하반기 ICT 학점연계 프로젝트 인턴십 (글로벌과정) 참여신청(~2023.04.02까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211921&amp;article.offset=0&amp;articleLimit=30)**
@@ -98,6 +101,3 @@
 
 * **[[국제교류팀] 영상 편집 및 제작 단기 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211770&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 국제교류팀 (~2023-03-09)
-
-* **[[2023 수원시청년지원센터 홍보 서포터즈] 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211766&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-03-09)
