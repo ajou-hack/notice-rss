@@ -12,6 +12,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[개교 50주년 기념 주간] ai Festival 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211971&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 대학발전팀 (~2023-03-14)
+
 * **[[재공고][근로]아주심리상담센터에서 함께 면학할 성실한 면학장학생을 모집합니다.(~3/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211958&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 아주심리상담센터 (~2023-03-14)
 
@@ -98,6 +101,3 @@
 
 * **[[봉사활동] 3/14 단체 헌혈 운영 지원 봉사자 추가모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211779&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-03-10)
-
-* **[[국제교류팀] 영상 편집 및 제작 단기 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211770&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 국제교류팀 (~2023-03-09)
