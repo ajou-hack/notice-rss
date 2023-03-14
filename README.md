@@ -12,6 +12,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[산업공학과] 글로벌 CEO 특강 안내 (3월 21일. 4시 30분)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211924&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산업공학과 (~2023-03-14)
+
+* **[[국제교류팀] 혁신공유라운지 영상 촬영 안내 &lt;3월 22일(수) 오후 3시 30분~4시 30분&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211923&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2023-03-14)
+
+* **[2023년 하반기 ICT 학점연계 프로젝트 인턴십 (글로벌과정) 참여신청(~2023.04.02까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211921&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW중심대학사업단 (~2023-03-14)
+
+* **[[대학일자리플러스센터] 아주대와 함께하는 LIG넥스원 채용상담회(3/16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211919&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-14)
+
+* **[[봉사활동](당일 재공지) 교내 헌혈버스 방문 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211918&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-03-14)
+
 * **[[인권센터 학생상담소] &#x27;안녕! 나 정서인데 우리 친해질래?&#x27; (정서조절을 위한 인식과 표현) 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211912&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 인권센터 학생상담소 (~2023-03-13)
 
@@ -86,18 +101,3 @@
 
 * **[[2023 수원시청년지원센터 홍보 서포터즈] 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211766&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-03-09)
-
-* **[[교외장학] 일주재단 31기 국내학사 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211765&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-09)
-
-* **[[인권센터 학생상담소] 위기 심리상담 신청서 &quot;마음이 너무 힘들어 죽고 싶다는 생각이 자주 나요.&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211754&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 인권센터 학생상담소 (~2023-03-09)
-
-* **[[SW중심대학] 2023 상반기 현장실습 수기공모전 개최 안내 (~03.26까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211752&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW융합교육원 (~2023-03-09)
-
-* **[중앙도서관 리모델링 설문조사 참여 이벤트 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211741&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2023-03-09)
-
-* **[[학부]2023-1학기 수강포기(수강철회) 안내(3/27(월) 9시~3/29(수) 23시59분)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211733&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-03-09)
