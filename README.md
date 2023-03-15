@@ -12,6 +12,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[Remind][학부/학사과정]2023년 8월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.07.28.(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212002&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-03-15)
+
+* **[[Remind][학부/학사과정]2022학년도 후기(2023년 8월) 조기졸업 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212001&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-03-15)
+
+* **[[학습법] 조별 과제는 구글 하나로 마스터하자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211998&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-03-15)
+
+* **[[학습법] 학습 성공의 시작, 코넬노트 작성법 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211997&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-03-15)
+
 * **[[아주강좌] 제 485회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211985&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-03-15)
 
@@ -89,15 +101,3 @@
 
 * **[[SW융합교육원] IT인재 전문가와 함께하는 진로특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211820&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - SW융합교육원 (~2023-03-10)
-
-* **[[비교과교육지원센터] 아주허브에서 퀴즈 풀고 스타벅스 쿠폰 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211818&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-03-10)
-
-* **[성호관 라운지 오픈에 따른 안경점 정상운영 및 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211811&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2023-03-10)
-
-* **[[대학일자리플러스센터] 3월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211786&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-10)
-
-* **[[입실공고] 2023학년도 1학기 고시반(아현재) 입실 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211781&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 사회과학대학 교학팀 (~2023-03-10)
