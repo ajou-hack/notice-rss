@@ -12,6 +12,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[공과대학] 2023-1학기 자기개발 해외연수 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212033&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 공과대학교학팀 (~2023-03-15)
+
+* **[[온마음알리미] 2023 톡톡 열린상담실_수원시행복정신건강복지센터](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212030&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 인권센터 학생상담소 (~2023-03-15)
+
+* **[2023년 대한민국 청년정책 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212029&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-03-15)
+
 * **[[대학일자리플러스센터] 2023 상반기 서류 특강 2탄. 대기업 자소서 문항분석 및 작성 전략](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212026&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-03-15)
 
@@ -92,12 +101,3 @@
 
 * **[[장학] (재공지) 2023학년도 1학기 사회봉사장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211839&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 사회봉사센터 (~2023-03-13)
-
-* **[연암관-홍재관 갓길 주차불가 및 불법주차 단속 강화 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211835&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2023-03-13)
-
-* **[[대학일자리플러스센터] 2023년 상반기 삼성증권 신입사원 채용홍보 및 메타버스 채용설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211832&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-13)
-
-* **[[Remind][학부] 2023-1학기 등록 안내(03.20.~03.24.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211830&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 재무회계팀 (~2023-03-13)
