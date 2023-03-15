@@ -12,6 +12,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 2023 상반기 서류 특강 2탄. 대기업 자소서 문항분석 및 작성 전략](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212026&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-15)
+
 * **[[SW융합교육원] AJOU MOCA-MOOC &quot;컴퓨터 과학적 사고-Python&quot; 오픈](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212023&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW융합교육원 (~2023-03-15)
 
@@ -98,6 +101,3 @@
 
 * **[[Remind][학부] 2023-1학기 등록 안내(03.20.~03.24.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211830&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 재무회계팀 (~2023-03-13)
-
-* **[[대학일자리+센터] 아는만큼 보이는 캠리 활용법](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211826&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-10)
