@@ -12,6 +12,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[SW융합교육원] AJOU MOCA-MOOC &quot;컴퓨터 과학적 사고-Python&quot; 오픈](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212023&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW융합교육원 (~2023-03-15)
+
 * **[[Remind][학부/학사과정]2023년 8월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.07.28.(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212002&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-03-15)
 
@@ -69,7 +72,7 @@
 * **[[교외장학] 2023년 1학기 성남시 다자녀가구 대학생 등록금 지원 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211874&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-03-13)
 
-* **[종합지원센터에서 함께 면학할 성실한 면학장학생 한분을 모집합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211868&amp;article.offset=0&amp;articleLimit=30)**
+* **[(마감)종합지원센터에서 함께 면학할 성실한 면학장학생 한분을 모집합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211868&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 종합지원센터 (~2023-03-13)
 
 * **[[학습법] 2023-1학기 학습공동체(III) 공부가치 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211854&amp;article.offset=0&amp;articleLimit=30)**
@@ -98,6 +101,3 @@
 
 * **[[대학일자리+센터] 아는만큼 보이는 캠리 활용법](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211826&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-03-10)
-
-* **[[SW융합교육원] IT인재 전문가와 함께하는 진로특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211820&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - SW융합교육원 (~2023-03-10)
