@@ -12,6 +12,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[혁신공유단] 혁신공유라운지 사용불가 안내 (3/17금 14시~16시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212070&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 혁신공유팀 (~2023-03-16)
+
+* **[[홍보] 2023 경기도 노인일자리 서포터즈단 6기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212069&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 홍보실 (~2023-03-16)
+
+* **[[학습법] 2023학년도 단과대학별 신입생을 위한 선배 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212067&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-03-16)
+
+* **[[학습법] 2023학년도 신입생을 위한 학습 전략 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212066&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-03-16)
+
+* **[[학습법] 2023-1학기 온라인 학습법 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212065&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-03-16)
+
 * **[(재공지) 아주허브에서 퀴즈 풀고 스타벅스 쿠폰 받자!(~3/25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212048&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-03-16)
 
@@ -86,18 +101,3 @@
 
 * **[아주대학교 셔틀버스 운행 시각 조정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211901&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2023-03-13)
-
-* **[[비교과교육지원센터]AJOU 신나는 대학생활 브이로그 공모전 신청 안내(3.13(월)~4.7(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211898&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-03-13)
-
-* **[[학습법] 2023-1학기 학생 강사 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211876&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-03-13)
-
-* **[[교외장학] 2023년 1학기 성남시 다자녀가구 대학생 등록금 지원 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211874&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-13)
-
-* **[(마감)종합지원센터에서 함께 면학할 성실한 면학장학생 한분을 모집합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211868&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 종합지원센터 (~2023-03-13)
-
-* **[[학습법] 2023-1학기 학습공동체(III) 공부가치 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211854&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-03-13)
