@@ -12,6 +12,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[Remind][학부]2023-1학기 수강포기(수강철회) 안내(3/27(월) 9시~3/29(수) 23시59분)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212105&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-03-16)
+
 * **[성호관 라운지 24시간 개방 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212102&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2023-03-16)
 
@@ -98,6 +101,3 @@
 
 * **[[산업공학과] 글로벌 CEO 특강 안내 (3월 21일. 4시 30분)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211924&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산업공학과 (~2023-03-14)
-
-* **[[국제교류팀] 혁신공유라운지 영상 촬영 안내 &lt;3월 22일(수) 오후2시~3시&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211923&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2023-03-14)
