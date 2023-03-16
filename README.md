@@ -12,6 +12,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지) 아주허브에서 퀴즈 풀고 스타벅스 쿠폰 받자!(~3/25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212048&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-03-16)
+
+* **[2023년도 2차 [나라키움 영등포복합청사] 행복주택 입주자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212043&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-03-16)
+
+* **[[REMIND][창업지원단]2023 실험실 창업탐색(AI-Lab) 프로그램 예비창업자 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212040&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 창업지원팀 (~2023-03-16)
+
+* **[2023년 경기도 공공디자인 공모전 홍보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212036&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-03-15)
+
 * **[[공과대학] 2023-1학기 자기개발 해외연수 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212033&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 공과대학교학팀 (~2023-03-15)
 
@@ -89,15 +101,3 @@
 
 * **[[학습법] 2023-1학기 학습공동체(III) 공부가치 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211854&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-03-13)
-
-* **[[학습법] 2023-1학기 학습공동체(II) ASAP 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211853&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-03-13)
-
-* **[2023 LG전자 마음하나 노트북 지원 사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211852&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2023-03-13)
-
-* **[[학습법] 2023-1학기 학습공동체(I) 스터디그룹 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211851&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-03-13)
-
-* **[[장학] (재공지) 2023학년도 1학기 사회봉사장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211839&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 사회봉사센터 (~2023-03-13)
