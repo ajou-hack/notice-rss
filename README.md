@@ -12,10 +12,16 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[성호관 라운지 24시간 개방 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212102&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2023-03-16)
+
+* **[[학생지원팀] 2023-1학기 토론학습실 운영시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212099&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-03-16)
+
 * **[2023년 수원시 청년 월세 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212096&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-03-16)
 
-* **[&#x27;안녕! 나 정서인데, 우리 친해질래?&#x27; (정서조절을 위한 인식과 표현) 특강 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212090&amp;article.offset=0&amp;articleLimit=30)**
+* **[★간식&amp;선물제공☆ &#x27;안녕! 나 정서인데, 우리 친해질래?&#x27; (정서조절을 위한 인식과 표현) 특강 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212090&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 인권센터 학생상담소 (~2023-03-16)
 
 * **[[중앙도서관] 북큐레이션 도서 안내 - 시작](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212079&amp;article.offset=0&amp;articleLimit=30)**
@@ -95,9 +101,3 @@
 
 * **[[국제교류팀] 혁신공유라운지 영상 촬영 안내 &lt;3월 22일(수) 오후2시~3시&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211923&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2023-03-14)
-
-* **[2023년 하반기 ICT 학점연계 프로젝트 인턴십 (글로벌과정) 참여신청(~2023.04.02까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211921&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW중심대학사업단 (~2023-03-14)
-
-* **[[대학일자리플러스센터] 아주대와 함께하는 LIG넥스원 채용상담회(3/16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211919&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-14)
