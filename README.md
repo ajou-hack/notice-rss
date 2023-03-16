@@ -12,6 +12,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2023년 수원시 청년 월세 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212096&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-03-16)
+
+* **[&#x27;안녕! 나 정서인데, 우리 친해질래?&#x27; (정서조절을 위한 인식과 표현) 특강 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212090&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 인권센터 학생상담소 (~2023-03-16)
+
+* **[[중앙도서관] 북큐레이션 도서 안내 - 시작](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212079&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2023-03-16)
+
 * **[[교외장학] 코오롱 무지개디딤돌멘토링 8기_대학생 봉사단 추가모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212074&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-03-16)
 
@@ -54,9 +63,6 @@
 * **[2023년 대한민국 청년정책 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212029&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-03-15)
 
-* **[[대학일자리플러스센터] 2023 상반기 서류 특강 2탄. 대기업 자소서 문항분석 및 작성 전략](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212026&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-15)
-
 * **[[SW융합교육원] AJOU MOCA-MOOC &quot;컴퓨터 과학적 사고-Python&quot; 오픈](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212023&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW융합교육원 (~2023-03-15)
 
@@ -95,9 +101,3 @@
 
 * **[[대학일자리플러스센터] 아주대와 함께하는 LIG넥스원 채용상담회(3/16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211919&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-03-14)
-
-* **[[봉사활동](당일 재공지) 교내 헌혈버스 방문 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211918&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-03-14)
-
-* **[[인권센터 학생상담소] &#x27;안녕! 나 정서인데 우리 친해질래?&#x27; (정서조절을 위한 인식과 표현) 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211912&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 인권센터 학생상담소 (~2023-03-13)
