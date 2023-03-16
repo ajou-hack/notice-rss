@@ -12,6 +12,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[본교 연구실 화재사고 사례 전파 (2023.03.14.화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212073&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 안전관리센터 (~2023-03-16)
+
 * **[[혁신공유단] 혁신공유라운지 사용불가 안내 (3/17금 14시~16시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212070&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 혁신공유팀 (~2023-03-16)
 
@@ -98,6 +101,3 @@
 
 * **[[대학일자리플러스센터] 휴학생 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211903&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 대학일자리플러스센터 (~2023-03-13)
-
-* **[아주대학교 셔틀버스 운행 시각 조정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211901&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2023-03-13)
