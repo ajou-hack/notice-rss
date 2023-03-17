@@ -12,6 +12,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[Remind][학사] 2023-1학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212143&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-03-17)
+
+* **[[일자리+센터] 3월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212139&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-17)
+
 * **[(재공지) 유시찬 멘토가 알려주는 청춘 설계법 신청 (3.6(월)~3.19(일))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212135&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-03-17)
 
@@ -33,7 +39,7 @@
 * **[[지식재산] 2023-1 지식재산기반 발명 아이디어, 특허 경진대회 및 지식재산능력시험(IPAT) 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212124&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 지식재산융합인재양성사업 (~2023-03-17)
 
-* **[[대학일자리플러스센터] 아주대와 함께하는 LG마그나 채용상담회 (3/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212117&amp;article.offset=0&amp;articleLimit=30)**
+* **[[일자리+센터] 아주대와 함께하는 LG마그나 채용상담회 (3/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212117&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-03-17)
 
 * **[[Remind][학부]2023-1학기 수강포기(수강철회) 안내(3/27(월) 9시~3/29(수) 23시59분)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212105&amp;article.offset=0&amp;articleLimit=30)**
@@ -95,9 +101,3 @@
 
 * **[2023년 대한민국 청년정책 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212029&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-03-15)
-
-* **[[SW융합교육원] AJOU MOCA-MOOC &quot;컴퓨터 과학적 사고-Python&quot; 오픈](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212023&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW융합교육원 (~2023-03-15)
-
-* **[[Remind][학부/학사과정]2023년 8월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.07.28.(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212002&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-03-15)
