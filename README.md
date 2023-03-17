@@ -12,6 +12,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[교무팀] 2023-2 학생설계전공 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212147&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-03-17)
+
 * **[[Remind][학사] 2023-1학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212143&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-03-17)
 
@@ -98,6 +101,3 @@
 
 * **[[온마음알리미] 2023 톡톡 열린상담실_수원시행복정신건강복지센터](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212030&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 인권센터 학생상담소 (~2023-03-15)
-
-* **[2023년 대한민국 청년정책 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212029&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-03-15)
