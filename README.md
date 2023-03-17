@@ -12,6 +12,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[일자리+센터] [Apple Retail] 아주대학교 대상 온라인 채용설명회(3/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212160&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-17)
+
 * **[사회봉사센터 뉴스레터 제 1호 &quot;사랑의 쌀배달 봉사활동이 궁금해?&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212153&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-03-17)
 
@@ -98,6 +101,3 @@
 
 * **[2023년 경기도 공공디자인 공모전 홍보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212036&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-03-15)
-
-* **[[공과대학] 2023-1학기 자기개발 해외연수 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212033&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 공과대학교학팀 (~2023-03-15)
