@@ -12,6 +12,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[산업공학과] 글로벌 CEO 특강 안내 (3월 21일. 4시 30분)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212125&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산업공학과 (~2023-03-17)
+
+* **[[지식재산] 2023-1 지식재산기반 발명 아이디어, 특허 경진대회 및 지식재산능력시험(IPAT) 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212124&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 지식재산융합인재양성사업 (~2023-03-17)
+
+* **[[대학일자리플러스센터] 아주대와 함께하는 LG마그나 채용상담회 (3/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212117&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-17)
+
 * **[[Remind][학부]2023-1학기 수강포기(수강철회) 안내(3/27(월) 9시~3/29(수) 23시59분)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212105&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-03-16)
 
@@ -92,12 +101,3 @@
 
 * **[(재공지) 유시찬 멘토가 알려주는 청춘 설계법 신청 (3.6(월)~3.19(일))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211978&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-03-14)
-
-* **[[개교 50주년 기념 주간] ai Festival 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211971&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 대학발전팀 (~2023-03-14)
-
-* **[[재공고][근로]아주심리상담센터에서 함께 면학할 성실한 면학장학생을 모집합니다.(~3/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211958&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 아주심리상담센터 (~2023-03-14)
-
-* **[[산업공학과] 글로벌 CEO 특강 안내 (3월 21일. 4시 30분)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211924&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산업공학과 (~2023-03-14)
