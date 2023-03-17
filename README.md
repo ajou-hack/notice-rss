@@ -12,6 +12,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지) 유시찬 멘토가 알려주는 청춘 설계법 신청 (3.6(월)~3.19(일))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212135&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-03-17)
+
+* **[[학습법] 2023-1학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212132&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-03-17)
+
+* **[[학습법] 2023-1학기 학습공동체(III) 공부가치 모집 안내(오늘 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212131&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-03-17)
+
+* **[[학습법] 2023-1학기 학습공동체(II) ASAP 모집 안내(오늘 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212130&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-03-17)
+
+* **[[학습법] 2023-1학기 학습공동체(I) 스터디그룹 모집 안내(오늘 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212129&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-03-17)
+
 * **[[산업공학과] 글로벌 CEO 특강 안내 (3월 21일. 4시 30분)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212125&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산업공학과 (~2023-03-17)
 
@@ -86,18 +101,3 @@
 
 * **[[Remind][학부/학사과정]2023년 8월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.07.28.(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212002&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-03-15)
-
-* **[[Remind][학부/학사과정]2022학년도 후기(2023년 8월) 조기졸업 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212001&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-03-15)
-
-* **[[학습법] 조별 과제는 구글 하나로 마스터하자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211998&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-03-15)
-
-* **[[학습법] 학습 성공의 시작, 코넬노트 작성법 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211997&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-03-15)
-
-* **[[아주강좌] 제 485회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211985&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-03-15)
-
-* **[(재공지) 유시찬 멘토가 알려주는 청춘 설계법 신청 (3.6(월)~3.19(일))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211978&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-03-14)
