@@ -12,6 +12,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지)[SW중심대학] 2023 상반기 현장실습 수기공모전 개최 안내 (~03.26까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212162&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW융합교육원 (~2023-03-17)
+
 * **[[일자리+센터] [Apple Retail] 아주대학교 대상 온라인 채용설명회(3/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212160&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-03-17)
 
@@ -98,6 +101,3 @@
 
 * **[[REMIND][창업지원단]2023 실험실 창업탐색(AI-Lab) 프로그램 예비창업자 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212040&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 창업지원팀 (~2023-03-16)
-
-* **[2023년 경기도 공공디자인 공모전 홍보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212036&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-03-15)
