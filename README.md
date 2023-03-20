@@ -12,6 +12,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[Remind][학자금대출] 2023학년도 1학기 한국장학재단 학자금대출 신청 및 실행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212186&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-03-20)
+
+* **[[교내장학] 2023학년도 1학기 가족장학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212184&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-03-20)
+
 * **[(재공지)[SW중심대학] 2023 상반기 현장실습 수기공모전 개최 안내 (~03.26까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212162&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW융합교육원 (~2023-03-17)
 
@@ -95,9 +101,3 @@
 
 * **[(재공지) 아주허브에서 퀴즈 풀고 스타벅스 쿠폰 받자!(~3/25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212048&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-03-16)
-
-* **[2023년도 2차 [나라키움 영등포복합청사] 행복주택 입주자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212043&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-16)
-
-* **[[REMIND][창업지원단]2023 실험실 창업탐색(AI-Lab) 프로그램 예비창업자 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212040&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 창업지원팀 (~2023-03-16)
