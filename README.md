@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지)아주허브에서 3월 퀴즈 풀고 스타벅스 쿠폰 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212254&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-03-20)
+
 * **[[교외장학] 2023년도 재단법인 논산시장학회 학업장려 장학생 선발 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212246&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-03-20)
 
@@ -104,6 +107,3 @@
 
 * **[★간식&amp;선물제공☆ &#x27;안녕! 나 정서인데, 우리 친해질래?&#x27; (정서조절을 위한 인식과 표현) 특강 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212090&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 인권센터 학생상담소 (~2023-03-16)
-
-* **[[중앙도서관] 북큐레이션 도서 안내 - 시작](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212079&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2023-03-16)
