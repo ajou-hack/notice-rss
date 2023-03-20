@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[교외장학] 2023년도 재단법인 논산시장학회 학업장려 장학생 선발 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212246&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-03-20)
+
+* **[축구 운동장(인조잔디구장)예약 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212243&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-03-20)
+
 * **[[산업공학과] 글로벌 CEO 특강 안내 (3월 21일. 4시 30분)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212240&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산업공학과 (~2023-03-20)
 
@@ -101,9 +107,3 @@
 
 * **[[중앙도서관] 북큐레이션 도서 안내 - 시작](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212079&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2023-03-16)
-
-* **[[교외장학] 코오롱 무지개디딤돌멘토링 8기_대학생 봉사단 추가모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212074&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-16)
-
-* **[본교 연구실 화재사고 사례 전파 (2023.03.14.화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212073&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 안전관리센터 (~2023-03-16)
