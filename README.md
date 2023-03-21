@@ -1,6 +1,6 @@
 # 최근 공지사항
 
-* **[📌 [공지] 2023학년도 교내 예방접종 시행 &lt;2023 Vaccination Schedule and Information&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212238&amp;article.offset=0&amp;articleLimit=30)**
+* **[📌 [공지] 2023학년도 교내 예방접종 시행자궁경부암(가다실), A형간염, B형간염) &lt;2023 Vaccination Schedule and Information&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212238&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 보건진료소 (~2023-03-20)
 
 * **[📌 [공지] [Remind][학부]2023-1학기 수강포기(수강철회) 안내(3/27(월) 9시~3/29(수) 23시59분)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212105&amp;article.offset=0&amp;articleLimit=30)**
@@ -17,6 +17,9 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[2023 황당규제 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212311&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-03-21)
 
 * **[[봉사활동](추가모집) 어린이 도서관 관리 봉사자 모집 (새빛초등학교)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212300&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-03-21)
@@ -104,6 +107,3 @@
 
 * **[[일자리+센터] [Apple Retail] 아주대학교 대상 온라인 채용설명회(3/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212160&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-03-17)
-
-* **[사회봉사센터 뉴스레터 제 1호 &quot;사랑의 쌀배달 봉사활동이 궁금해?&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212153&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-03-17)
