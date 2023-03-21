@@ -18,6 +18,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[봉사활동](추가모집) 어린이 도서관 관리 봉사자 모집 (새빛초등학교)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212300&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-03-21)
+
+* **[[한국장학재단] 2023년 우수학생 국가장학사업(인문100년) 학생 사전 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212296&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-03-21)
+
+* **[[인문과학연구소] 월례발표회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212294&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 인문과학연구소 (~2023-03-21)
+
+* **[[인문과학연구소] 세미나 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212293&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 인문과학연구소 (~2023-03-21)
+
 * **[2023년도 한·일 학술문화 및 청소년교류 대학생단 방일연수 참가자 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212281&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - 국제교류팀 (~2023-03-21)
 
@@ -95,15 +107,3 @@
 
 * **[사회봉사센터 뉴스레터 제 1호 &quot;사랑의 쌀배달 봉사활동이 궁금해?&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212153&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-03-17)
-
-* **[[교무팀] 2023-2 학생설계전공 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212147&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-03-17)
-
-* **[[Remind][학사] 2023-1학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212143&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-03-17)
-
-* **[[일자리+센터] 3월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212139&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-17)
-
-* **[(재공지) 유시찬 멘토가 알려주는 청춘 설계법 신청 (3.6(월)~3.19(일))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212135&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-03-17)
