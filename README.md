@@ -18,6 +18,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[봉사활동] (고 1 영어 추가모집 )2023-1 영통구청 「함께 이루는 꿈! 온(溫)택트 학습 멘토링」대학생 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212262&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-03-21)
+
+* **[2023년 1차 청년 매입임대 입주자모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212261&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-03-21)
+
+* **[[교외장학]2023년 1학기 안산시 대학생 본인부담 등록금 반값지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212260&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-03-21)
+
+* **[23년도 제1차 동물실험기초/보수교육 -2023년 3월 31일(금) 오프라인교육](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212257&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 실험동물연구센터 (~2023-03-21)
+
 * **[(재공지)아주허브에서 3월 퀴즈 풀고 스타벅스 쿠폰 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212254&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-03-20)
 
@@ -95,15 +107,3 @@
 
 * **[[일자리+센터] 아주대와 함께하는 LG마그나 채용상담회 (3/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212117&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-03-17)
-
-* **[성호관 라운지 24시간 개방 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212102&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2023-03-16)
-
-* **[[학생지원팀] 2023-1학기 토론학습실 운영시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212099&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-03-16)
-
-* **[2023년 수원시 청년 월세 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212096&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-16)
-
-* **[★간식&amp;선물제공☆ &#x27;안녕! 나 정서인데, 우리 친해질래?&#x27; (정서조절을 위한 인식과 표현) 특강 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212090&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 인권센터 학생상담소 (~2023-03-16)
