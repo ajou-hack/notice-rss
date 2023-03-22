@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[REMIND][창업지원단]2023 실험실 창업탐색(AI-Lab) 프로그램 예비창업자 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212326&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 창업지원팀 (~2023-03-22)
+
+* **[[아주강좌] 제 486회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212324&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-03-22)
+
 * **[2023 황당규제 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212311&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-03-21)
 
@@ -101,9 +107,3 @@
 
 * **[[교내장학] 2023학년도 1학기 가족장학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212184&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-03-20)
-
-* **[(재공지)[SW중심대학] 2023 상반기 현장실습 수기공모전 개최 안내 (~03.26까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212162&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW융합교육원 (~2023-03-17)
-
-* **[[일자리+센터] [Apple Retail] 아주대학교 대상 온라인 채용설명회(3/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212160&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-17)
