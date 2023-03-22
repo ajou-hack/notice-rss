@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[지식재산] IP 금융성과 &#x27;지식재산 금융 6조원 돌파!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212330&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 지식재산융합인재양성사업 (~2023-03-22)
+
+* **[[일자리+센터]대학일자리플러스센터 신학기 뽑기 이벤트 가보자고~!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212329&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-22)
+
 * **[[REMIND][창업지원단]2023 실험실 창업탐색(AI-Lab) 프로그램 예비창업자 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212326&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 창업지원팀 (~2023-03-22)
 
@@ -101,9 +107,3 @@
 
 * **[[온마음알리미] 행복-멘토링 자원봉사_수원시여성문화공간휴](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212198&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 인권센터 학생상담소 (~2023-03-20)
-
-* **[[Remind][학자금대출] 2023학년도 1학기 한국장학재단 학자금대출 신청 및 실행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212186&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-20)
-
-* **[[교내장학] 2023학년도 1학기 가족장학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212184&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-20)
