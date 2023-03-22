@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2023 대학축구 최초! Ajou Football 시즌권 얼리버드 신청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212339&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-03-22)
+
 * **[[지식재산] IP 금융성과 &#x27;지식재산 금융 6조원 돌파!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212330&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 지식재산융합인재양성사업 (~2023-03-22)
 
@@ -104,6 +107,3 @@
 
 * **[[연장공고]유시찬 멘토가 알려주는 청춘 설계법 신청 (~03.22)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212199&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-03-20)
-
-* **[[온마음알리미] 행복-멘토링 자원봉사_수원시여성문화공간휴](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212198&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 인권센터 학생상담소 (~2023-03-20)
