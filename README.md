@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2023학년도 1학기 십시일밥 수혜자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212347&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-03-22)
+
+* **[[재공지] 입학홍보대사 G.A.i.A. 20기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212343&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 입학팀 (~2023-03-22)
+
 * **[2023 대학축구 최초! Ajou Football 시즌권 얼리버드 신청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212339&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-03-22)
 
@@ -101,9 +107,3 @@
 
 * **[2023학년도 1학기 총학생회비 추가 납부(개별 납부) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212214&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-03-20)
-
-* **[[지식재산] D2B 2023 DESIGN FAIR 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212207&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 지식재산융합인재양성사업 (~2023-03-20)
-
-* **[[연장공고]유시찬 멘토가 알려주는 청춘 설계법 신청 (~03.22)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212199&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-03-20)
