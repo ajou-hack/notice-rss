@@ -18,6 +18,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 2023학년도 단과대학별 신입생을 위한 선배 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212412&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-03-23)
+
+* **[[학습법] 2023학년도 신입생을 위한 학습 전략 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212411&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-03-23)
+
+* **[[학습법] 2023-1학기 온라인 학습법 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212409&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-03-23)
+
+* **[학부모님께 드리는 총장레터](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212404&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총장비서실 (~2023-03-23)
+
 * **[[학부]2023-1학기 수업피드백 참여 안내(3/23~4/12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212393&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-03-22)
 
@@ -95,15 +107,3 @@
 
 * **[[교외장학] 2023년도 재단법인 논산시장학회 학업장려 장학생 선발 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212246&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-03-20)
-
-* **[축구 운동장(인조잔디구장)예약 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212243&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-03-20)
-
-* **[[산업공학과] 글로벌 CEO 특강 안내 (3월 21일. 4시 30분)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212240&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산업공학과 (~2023-03-20)
-
-* **[교내 복사실 업체 변경 및 이용가능 서비스 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212239&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2023-03-20)
-
-* **[[메이커스페이스] 3D프린터 장비운용 기초교육생 모집(03.21.화_3회차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212219&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-03-20)
