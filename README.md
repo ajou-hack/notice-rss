@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[일자리+센터] 금주의 추천채용_진인프라/이랜드월드패션/이나인페이](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212447&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-23)
+
 * **[2023년 대학생 교육기부 [함성소리] 동아리 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212426&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-03-23)
 
@@ -104,6 +107,3 @@
 
 * **[[교외장학]2023년 1학기 안산시 대학생 본인부담 등록금 반값지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212260&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-03-21)
-
-* **[23년도 제1차 동물실험기초/보수교육 -2023년 3월 31일(금) 오프라인교육](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212257&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 실험동물연구센터 (~2023-03-21)
