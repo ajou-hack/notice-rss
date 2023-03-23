@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학일자리플러스센터] 2023 상반기 공기업 직무적성검사(NCS) 대비 프로그램 참여자 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212416&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-23)
+
+* **[[대학일자리플러스센터] 2023 상반기 대기업 직무적성 대비 프로그램 참여자 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212415&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-23)
+
 * **[[학습법] 2023학년도 단과대학별 신입생을 위한 선배 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212412&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-03-23)
 
@@ -101,9 +107,3 @@
 
 * **[23년도 제1차 동물실험기초/보수교육 -2023년 3월 31일(금) 오프라인교육](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212257&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 실험동물연구센터 (~2023-03-21)
-
-* **[(재공지)아주허브에서 3월 퀴즈 풀고 스타벅스 쿠폰 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212254&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-03-20)
-
-* **[[교외장학] 2023년도 재단법인 논산시장학회 학업장려 장학생 선발 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212246&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-20)
