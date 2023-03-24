@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(~03.26까지) [SW중심대학] 2023 상반기 현장실습 수기공모전 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212582&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW융합교육원 (~2023-03-24)
+
 * **[★ 제3회 혁신공유대학 메타버스 콘테스트 개최 안내 ★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212573&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 혁신공유단 (~2023-03-24)
 
@@ -104,6 +107,3 @@
 
 * **[[한국장학재단] 2023년 우수학생 국가장학사업(인문100년) 학생 사전 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212296&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-03-21)
-
-* **[[인문과학연구소] 월례발표회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212294&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 인문과학연구소 (~2023-03-21)
