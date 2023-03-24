@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[★ 제3회 혁신공유대학 메타버스 콘테스트 개최 안내 ★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212573&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신공유단 (~2023-03-24)
+
+* **[★기한연장 [창업지원팀]2023 실험실 창업탐색(AI-Lab) 프로그램 예비창업자 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212572&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 창업지원팀 (~2023-03-24)
+
 * **[[성평등상담소] 2023년 온라인 법정필수교육 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212477&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 인권센터 성평등상담소 (~2023-03-24)
 
@@ -101,9 +107,3 @@
 
 * **[[인문과학연구소] 월례발표회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212294&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 인문과학연구소 (~2023-03-21)
-
-* **[[인문과학연구소] 세미나 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212293&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 인문과학연구소 (~2023-03-21)
-
-* **[2023년도 한·일 학술문화 및 청소년교류 대학생단 방일연수 참가자 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212281&amp;article.offset=0&amp;articleLimit=30)**
- [학술] - 국제교류팀 (~2023-03-21)
