@@ -18,6 +18,24 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[성평등상담소] 2023년 온라인 법정필수교육 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212477&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 인권센터 성평등상담소 (~2023-03-24)
+
+* **[★ Ajou International Conference 개최 안내 ★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212476&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 국제교류팀 (~2023-03-24)
+
+* **[[학습법] 2023-1학기 학생 강사 모집 안내(오늘 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212472&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-03-24)
+
+* **[[Remind][학부/학사과정]2023년 8월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.07.28.(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212470&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-03-24)
+
+* **[[Remind][학부/학사과정]2022학년도 후기(2023년 8월) 조기졸업 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212469&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-03-24)
+
+* **[[봉사활동] 비문해, 저학력 성인 학습자 멘토링 자원봉사자 모집 (1080토요프로그램)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212466&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-03-24)
+
 * **[(Remind) 축구 운동장(인조잔디구장)예약 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212463&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-03-24)
 
@@ -89,21 +107,3 @@
 
 * **[2023년도 한·일 학술문화 및 청소년교류 대학생단 방일연수 참가자 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212281&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - 국제교류팀 (~2023-03-21)
-
-* **[[지식재산] 2023 지식재산 데이터 활용 창업 경진대회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212280&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 지식재산융합인재양성사업 (~2023-03-21)
-
-* **[(재공지)AJOU 신나는 대학생활 브이로그 공모전 (1,2학년 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212278&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-03-21)
-
-* **[[학습법] 2023-1학기 학생 강사 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212275&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-03-21)
-
-* **[[학습법] 조별 과제는 구글 하나로 마스터하자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212274&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-03-21)
-
-* **[[학습법] 학습 성공의 시작, 코넬노트 작성법 특강 / 1차 신청 오늘 마감](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212273&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-03-21)
-
-* **[[교외장학] 제29기 미래에셋 해외교환 장학생 선발 안내 _2023.4.27(목)~5.3(수) 17시 온라인 지원접수](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212271&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-21)
