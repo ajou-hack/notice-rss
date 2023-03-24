@@ -18,6 +18,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(Remind) 축구 운동장(인조잔디구장)예약 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212463&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-03-24)
+
+* **[[온마음알리미] 성인마음건강강좌_수원시행복정신건강복지센터](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212461&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 인권센터 학생상담소 (~2023-03-24)
+
+* **[2023-1학기 파란학기제 Extreme/기업제안 초청강연 참석 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212455&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2023-03-24)
+
 * **[[일자리+센터] 금주의 추천채용_진인프라/이랜드월드패션/이나인페이](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212447&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-03-23)
 
@@ -97,13 +106,4 @@
  [기타] - 교수학습개발센터 (~2023-03-21)
 
 * **[[교외장학] 제29기 미래에셋 해외교환 장학생 선발 안내 _2023.4.27(목)~5.3(수) 17시 온라인 지원접수](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212271&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-21)
-
-* **[(마감) [봉사활동] (고 1 영어 추가모집 )2023-1 영통구청 「함께 이루는 꿈! 온(溫)택트 학습 멘토링」대학생 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212262&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-03-21)
-
-* **[2023년 1차 청년 매입임대 입주자모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212261&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-21)
-
-* **[[교외장학]2023년 1학기 안산시 대학생 본인부담 등록금 반값지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212260&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-03-21)
