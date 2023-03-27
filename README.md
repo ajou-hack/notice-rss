@@ -18,10 +18,22 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 엑셀시리즈3 - 엑셀 활용 데이터 분석 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212614&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-03-27)
+
+* **[[학습법] 엑셀시리즈1 - 엑셀 수식, 함수 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212613&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-03-27)
+
+* **[[학습법] 엑셀시리즈1 - 엑셀 기초 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212612&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-03-27)
+
+* **[[재안내][교내장학] 2023학년도 1학기 가족장학 신청 안내_3.31(금) 17시까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212608&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-03-27)
+
 * **[[지식재산] 2023-1 지식재산기반 발명 아이디어, 특허 경진대회 및 지식재산능력시험(IPAT) 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212598&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 지식재산융합인재양성사업 (~2023-03-27)
 
-* **[[일자리+센터] 아주대와 함께하는 에코프로비엠 채용설명회 (3/29)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212597&amp;article.offset=0&amp;articleLimit=30)**
+* **[[일자리+센터] (수정)아주대와 함께하는 에코프로비엠 채용설명회 (3/29)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212597&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-03-27)
 
 * **[(~03.26까지) [SW중심대학] 2023 상반기 현장실습 수기공모전 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212582&amp;article.offset=0&amp;articleLimit=30)**
@@ -95,15 +107,3 @@
 
 * **[[지식재산] IP 금융성과 &#x27;지식재산 금융 6조원 돌파!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212330&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 지식재산융합인재양성사업 (~2023-03-22)
-
-* **[[일자리+센터]대학일자리플러스센터 신학기 뽑기 이벤트 가보자고~!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212329&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-22)
-
-* **[[REMIND][창업지원단]2023 실험실 창업탐색(AI-Lab) 프로그램 예비창업자 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212326&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 창업지원팀 (~2023-03-22)
-
-* **[[아주강좌] 제 486회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212324&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-03-22)
-
-* **[2023 황당규제 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212311&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-03-21)
