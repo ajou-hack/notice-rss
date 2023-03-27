@@ -18,10 +18,16 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[기획팀]아주대학교 학칙 개정(안) 사전 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212618&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2023-03-27)
+
+* **[[일자리+센터] 3월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212617&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-27)
+
 * **[[학습법] 엑셀시리즈3 - 엑셀 활용 데이터 분석 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212614&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-03-27)
 
-* **[[학습법] 엑셀시리즈1 - 엑셀 수식, 함수 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212613&amp;article.offset=0&amp;articleLimit=30)**
+* **[[학습법] 엑셀시리즈2 - 엑셀 수식, 함수 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212613&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-03-27)
 
 * **[[학습법] 엑셀시리즈1 - 엑셀 기초 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212612&amp;article.offset=0&amp;articleLimit=30)**
@@ -101,9 +107,3 @@
 
 * **[[재공지] 입학홍보대사 G.A.i.A. 20기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212343&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학팀 (~2023-03-22)
-
-* **[2023 대학축구 최초! Ajou Football 시즌권 얼리버드 신청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212339&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-03-22)
-
-* **[[지식재산] IP 금융성과 &#x27;지식재산 금융 6조원 돌파!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212330&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 지식재산융합인재양성사업 (~2023-03-22)
