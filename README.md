@@ -18,6 +18,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학자금대출] 2023학년도 1학기 구제등록기간 한국장학재단 학자금대출 실행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212649&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-03-27)
+
+* **[[비교과교육지원센터] 아주허브 3월 퀴즈대회 정답 발표 및 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212648&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-03-27)
+
+* **[[학부] 2023-1학기 미등록자 구제등록 안내(04.04. ~ 04.06.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212647&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 재무회계팀 (~2023-03-27)
+
 * **[☆(재공지)AJOU 신나는 대학생활 브이로그 공모전 (1,2학년 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212639&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-03-27)
 
@@ -98,12 +107,3 @@
 
 * **[2023-1학기 파란학기제 Extreme/기업제안 초청강연 참석 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212455&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2023-03-24)
-
-* **[[일자리+센터] 금주의 추천채용_진인프라/이랜드월드패션/이나인페이](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212447&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-23)
-
-* **[2023년 대학생 교육기부 [함성소리] 동아리 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212426&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-03-23)
-
-* **[[재공지] 2023학년도 1학기 총학생회비 추가 납부(개별 납부) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212425&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-03-23)
