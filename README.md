@@ -18,6 +18,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[무선인터넷(WIFI) 일시 중지안내(03.29/수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212631&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2023-03-27)
+
+* **[[미래자동차 렉처시리즈] 모빌리티 트렌드로 살펴본 미래자동차 특강(4/5(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212626&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신공유단 (~2023-03-27)
+
+* **[☆간식&amp;선물제공★ &#x27;안녕! 나 정서인데, 우리 친해질래?&#x27; (정서조절을 위한 인식과 표현) 특강 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212624&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 인권센터 학생상담소 (~2023-03-27)
+
+* **[[교외장학] 『현대차 정몽구 스칼러십』 2023 온드림 미래산업 인재 학부/대학원 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212622&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-03-27)
+
 * **[2023년 하계 국제학부 해외현장체험 모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212620&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 국제학부 (~2023-03-27)
 
@@ -95,15 +107,3 @@
 
 * **[[학습법] 2023학년도 신입생을 위한 학습 전략 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212411&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-03-23)
-
-* **[[학습법] 2023-1학기 온라인 학습법 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212409&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-03-23)
-
-* **[학부모님께 드리는 총장레터](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212404&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총장비서실 (~2023-03-23)
-
-* **[[학부]2023-1학기 수업피드백 참여 안내(3/23~4/12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212393&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-03-22)
-
-* **[2023학년도 1학기 십시일밥 수혜자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212347&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-03-22)
