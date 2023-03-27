@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[지식재산] 2023-1 지식재산기반 발명 아이디어, 특허 경진대회 및 지식재산능력시험(IPAT) 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212598&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 지식재산융합인재양성사업 (~2023-03-27)
+
+* **[[일자리+센터] 아주대와 함께하는 에코프로비엠 채용설명회 (3/29)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212597&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-27)
+
 * **[(~03.26까지) [SW중심대학] 2023 상반기 현장실습 수기공모전 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212582&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW융합교육원 (~2023-03-24)
 
@@ -101,9 +107,3 @@
 
 * **[2023 황당규제 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212311&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-03-21)
-
-* **[[봉사활동](추가모집) 어린이 도서관 관리 봉사자 모집 (새빛초등학교)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212300&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-03-21)
-
-* **[[한국장학재단] 2023년 우수학생 국가장학사업(인문100년) 학생 사전 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212296&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-21)
