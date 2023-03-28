@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[일자리+센터] 컨설턴트 1:1 상담 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212672&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-28)
+
+* **[[홍보] (KOTRA) 글로벌 디지털 무역인력 deXters 양성사업 2기 교육생 모집(~4/05(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212669&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-03-28)
+
 * **[[학자금대출] 2023학년도 1학기 구제등록기간 한국장학재단 학자금대출 실행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212649&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-03-27)
 
@@ -101,9 +107,3 @@
 
 * **[(Remind) 축구 운동장(인조잔디구장)예약 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212463&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-03-24)
-
-* **[[온마음알리미] 성인마음건강강좌_수원시행복정신건강복지센터](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212461&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 인권센터 학생상담소 (~2023-03-24)
-
-* **[2023-1학기 파란학기제 Extreme/기업제안 초청강연 참석 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212455&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2023-03-24)
