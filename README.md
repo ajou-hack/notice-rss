@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[경기도자원봉사센터] 사회문제해결 자원봉사 아이디어 해커톤](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212676&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-03-28)
+
+* **[[지식재산] 2023 시험일정 및 지식재산 자격증 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212674&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 지식재산융합인재양성사업 (~2023-03-28)
+
 * **[[일자리+센터] 컨설턴트 1:1 상담 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212672&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-03-28)
 
@@ -101,9 +107,3 @@
 
 * **[[Remind][학부/학사과정]2022학년도 후기(2023년 8월) 조기졸업 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212469&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-03-24)
-
-* **[[봉사활동] 비문해, 저학력 성인 학습자 멘토링 자원봉사자 모집 (1080토요프로그램)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212466&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-03-24)
-
-* **[(Remind) 축구 운동장(인조잔디구장)예약 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212463&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-03-24)
