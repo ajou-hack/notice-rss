@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[가온마당 행사용 전원공사 안내(체육관 뒤편~가온마당)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212690&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2023-03-28)
+
+* **[[아주대학교 축구부 응원하고, 아이패드도 받고!] 3월 31일 금요일 오후 3시 경기장으로 모여라!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212689&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-03-28)
+
 * **[[학습법] 2023-1학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212678&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-03-28)
 
@@ -101,9 +107,3 @@
 
 * **[★ Ajou International Conference 개최 안내 ★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212476&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 국제교류팀 (~2023-03-24)
-
-* **[[학습법] 2023-1학기 학생 강사 모집 안내(오늘 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212472&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-03-24)
-
-* **[[Remind][학부/학사과정]2023년 8월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.07.28.(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212470&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-03-24)
