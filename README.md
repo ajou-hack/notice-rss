@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[Remind][학사] 2023-1학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212711&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-03-28)
+
+* **[[학습법] 2023-1학기 학습공동체 선정 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212708&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-03-28)
+
 * **[가온마당 행사용 전원공사 안내(체육관 뒤편~가온마당)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212690&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2023-03-28)
 
@@ -101,9 +107,3 @@
 
 * **[★기한연장 [창업지원팀]2023 실험실 창업탐색(AI-Lab) 프로그램 예비창업자 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212572&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 창업지원팀 (~2023-03-24)
-
-* **[[성평등상담소] 2023년 온라인 법정필수교육 수강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212477&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 인권센터 성평등상담소 (~2023-03-24)
-
-* **[★ Ajou International Conference 개최 안내 ★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212476&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 국제교류팀 (~2023-03-24)
