@@ -18,6 +18,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[봉사활동] 광명시 청소년 수련관 진로동아리 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212771&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-03-29)
+
+* **[(유학생) 23-1학기 슬기로운 한국어 학술모임 2차 모집(~4/10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212769&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 글로벌교양학부 (~2023-03-29)
+
+* **[율곡관 내 조형물 설치 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212767&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학발전팀 (~2023-03-29)
+
+* **[[나라키움 대학생주택] 2023년 1학기 입주자 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212766&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-03-29)
+
 * **[[LINC 3.0] 2023 제18회 현장실습 수기•영상 공모전 참여 안내(4/3 ~ 4/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212753&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2023-03-29)
 
@@ -95,15 +107,3 @@
 
 * **[[학부] 2023-1학기 미등록자 구제등록 안내(04.04. ~ 04.06.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212647&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 재무회계팀 (~2023-03-27)
-
-* **[☆(재공지)AJOU 신나는 대학생활 브이로그 공모전 (1,2학년 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212639&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-03-27)
-
-* **[(재공지) [학군단] 2023년 학군사관 후보생 64, 65기 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212634&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생군사교육단 (~2023-03-27)
-
-* **[무선인터넷(WIFI) 일시 중지안내(03.29/수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212631&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2023-03-27)
-
-* **[[미래자동차 렉처시리즈] 모빌리티 트렌드로 살펴본 미래자동차 특강(4/5(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212626&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 혁신공유단 (~2023-03-27)
