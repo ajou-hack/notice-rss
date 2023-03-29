@@ -18,10 +18,31 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[아주강좌] 제 487회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212745&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-03-29)
+
+* **[[봉사활동] 4/5 헌혈홍보, 헌혈증 기부 캠페인 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212741&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-03-29)
+
+* **[[학습법] 2023-1학기 온라인 학습법 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212740&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-03-29)
+
+* **[[재공지]2023년 하반기 ICT 학점연계 프로젝트 인턴십 (글로벌과정) 참여신청(~2023.04.02까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212739&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW중심대학사업단 (~2023-03-29)
+
+* **[[봉사활동] 4/5 교내 헌혈버스 방문 안내 (대한적십자사)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212738&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-03-29)
+
+* **[[모집] 아주를 빛낼 콘텐츠 크리에이터를 찾습니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212737&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 홍보실 (~2023-03-29)
+
+* **[(세종인재평생교육진흥원) 2023년 상반기 학자금 대출이자 지원](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212736&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-03-29)
+
 * **[[교외장학] (재)인천인재평생교육진흥원 2023년도 상반기 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212728&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-03-29)
 
-* **[[아주대 혁신공유단] 현대모비스 연구소(용인) 견학프로그램 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212725&amp;article.offset=0&amp;articleLimit=30)**
+* **[[아주대 혁신공유단] 현대모비스 연구소(용인) 견학프로그램 신청 안내(이공계대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212725&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신공유단 (~2023-03-29)
 
 * **[[Remind][학부/학사과정]2023년 8월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.07.28.(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212723&amp;article.offset=0&amp;articleLimit=30)**
@@ -85,25 +106,4 @@
  [비교과] - 인권센터 학생상담소 (~2023-03-27)
 
 * **[[교외장학] 『현대차 정몽구 스칼러십』 2023 온드림 미래산업 인재 학부/대학원 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212622&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-27)
-
-* **[2023년 하계 국제학부 해외현장체험 모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212620&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 국제학부 (~2023-03-27)
-
-* **[[기획팀]아주대학교 학칙 개정(안) 사전 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212618&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2023-03-27)
-
-* **[[일자리+센터] 3월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212617&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-27)
-
-* **[[학습법] 엑셀시리즈3 - 엑셀 활용 데이터 분석 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212614&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-03-27)
-
-* **[[학습법] 엑셀시리즈2 - 엑셀 수식, 함수 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212613&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-03-27)
-
-* **[[학습법] 엑셀시리즈1 - 엑셀 기초 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212612&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-03-27)
-
-* **[[재안내][교내장학] 2023학년도 1학기 가족장학 신청 안내_3.31(금) 17시까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212608&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-03-27)
