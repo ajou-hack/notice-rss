@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[LINC 3.0] 2023 제18회 현장실습 수기•영상 공모전 참여 안내(4/3 ~ 4/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212753&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2023-03-29)
+
+* **[캠퍼스 차선 및 주차장 도색 안내문](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212752&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2023-03-29)
+
 * **[[아주강좌] 제 487회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212745&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-03-29)
 
@@ -101,9 +107,3 @@
 
 * **[[미래자동차 렉처시리즈] 모빌리티 트렌드로 살펴본 미래자동차 특강(4/5(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212626&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신공유단 (~2023-03-27)
-
-* **[☆간식&amp;선물제공★ &#x27;안녕! 나 정서인데, 우리 친해질래?&#x27; (정서조절을 위한 인식과 표현) 특강 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212624&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 인권센터 학생상담소 (~2023-03-27)
-
-* **[[교외장학] 『현대차 정몽구 스칼러십』 2023 온드림 미래산업 인재 학부/대학원 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212622&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-27)
