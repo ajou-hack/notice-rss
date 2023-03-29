@@ -18,6 +18,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[교외장학] (재)인천인재평생교육진흥원 2023년도 상반기 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212728&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-03-29)
+
+* **[[아주대 혁신공유단] 현대모비스 연구소(용인) 견학프로그램 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212725&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신공유단 (~2023-03-29)
+
+* **[[Remind][학부/학사과정]2023년 8월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.07.28.(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212723&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-03-29)
+
+* **[[Remind][학부/학사과정]2022학년도 후기(2023년 8월) 조기졸업 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212722&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-03-29)
+
+* **[★금일 마감 [창업지원팀]2023 실험실 창업탐색(AI-Lab) 프로그램 예비창업자 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212718&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 창업지원팀 (~2023-03-29)
+
 * **[[Remind][학사] 2023-1학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212711&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-03-28)
 
@@ -92,18 +107,3 @@
 
 * **[[재안내][교내장학] 2023학년도 1학기 가족장학 신청 안내_3.31(금) 17시까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212608&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-03-27)
-
-* **[[지식재산] 2023-1 지식재산기반 발명 아이디어, 특허 경진대회 및 지식재산능력시험(IPAT) 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212598&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 지식재산융합인재양성사업 (~2023-03-27)
-
-* **[[일자리+센터] (수정)아주대와 함께하는 에코프로비엠 채용설명회 (3/29)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212597&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-27)
-
-* **[(~03.26까지) [SW중심대학] 2023 상반기 현장실습 수기공모전 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212582&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW융합교육원 (~2023-03-24)
-
-* **[★ 제3회 혁신공유대학 메타버스 콘테스트 개최 안내 ★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212573&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신공유단 (~2023-03-24)
-
-* **[★기한연장 [창업지원팀]2023 실험실 창업탐색(AI-Lab) 프로그램 예비창업자 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212572&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 창업지원팀 (~2023-03-24)
