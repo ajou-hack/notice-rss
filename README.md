@@ -3,9 +3,6 @@
 * **[📌 [공지] 2023학년도 교내 예방접종 시행자궁경부암(가다실), A형간염, B형간염) &lt;2023 Vaccination Schedule and Information&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212238&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 보건진료소 (~2023-03-20)
 
-* **[📌 [공지] [Remind][학부]2023-1학기 수강포기(수강철회) 안내(3/27(월) 9시~3/29(수) 23시59분)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212105&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-03-16)
-
 * **[📌 [공지] [교무팀] 출석(전자출결, 공결, 취업계, 코로나 등) 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205552&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-10-26)
 
@@ -17,6 +14,12 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[온마음알리미] 경기도 청년마인드케어(진료비 지원 사업)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212785&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 인권센터 학생상담소 (~2023-03-30)
+
+* **[2023학년도 후기 대학원 의생명과학과 신입생 모집 (정시) 4.18~5.2](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212783&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 의과대학 교학팀 (~2023-03-30)
 
 * **[[봉사활동] 광명시 청소년 수련관 진로동아리 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212771&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-03-29)
@@ -101,9 +104,3 @@
 
 * **[[학자금대출] 2023학년도 1학기 구제등록기간 한국장학재단 학자금대출 실행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212649&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-03-27)
-
-* **[[비교과교육지원센터] 아주허브 3월 퀴즈대회 정답 발표 및 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212648&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-03-27)
-
-* **[[학부] 2023-1학기 미등록자 구제등록 안내(04.04. ~ 04.06.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212647&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 재무회계팀 (~2023-03-27)
