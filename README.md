@@ -18,6 +18,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[개교 50주년 기념식] 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212896&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 대학발전팀 (~2023-03-31)
+
+* **[[기획팀]규정류 개정 공포(2023-제1차 교무회의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212895&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2023-03-31)
+
+* **[[성평등상담소] 2023년 법정필수교육 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212892&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 인권센터 성평등상담소 (~2023-03-31)
+
+* **[2023-1학기 장애학생 교육지원인력(도우미) 3차 모집(재학생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212891&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 장애학생지원실 (~2023-03-31)
+
+* **[23년 아주대학교 예비군훈련 일정 및 인터넷 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212890&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 예비군연대 (~2023-03-31)
+
 * **[[일자리+센터] 금주의 추천채용_주식회사대덕/강남제비스코/에이테크솔루션](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212881&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-03-31)
 
@@ -92,18 +107,3 @@
 
 * **[[재공지]2023년 하반기 ICT 학점연계 프로젝트 인턴십 (글로벌과정) 참여신청(~2023.04.02까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212739&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW중심대학사업단 (~2023-03-29)
-
-* **[[봉사활동] 4/5 교내 헌혈버스 방문 안내 (대한적십자사)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212738&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-03-29)
-
-* **[[모집] 아주를 빛낼 콘텐츠 크리에이터를 찾습니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212737&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 홍보실 (~2023-03-29)
-
-* **[(세종인재평생교육진흥원) 2023년 상반기 학자금 대출이자 지원](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212736&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-29)
-
-* **[[교외장학] (재)인천인재평생교육진흥원 2023년도 상반기 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212728&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-29)
-
-* **[[아주대 혁신공유단] 현대모비스 연구소(용인) 견학프로그램 신청 안내(이공계대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212725&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 혁신공유단 (~2023-03-29)
