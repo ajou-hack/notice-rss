@@ -3,7 +3,7 @@
 * **[📌 [공지] 2023학년도 교내 예방접종 시행자궁경부암(가다실), A형간염, B형간염) &lt;2023 Vaccination Schedule and Information&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212238&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 보건진료소 (~2023-03-20)
 
-* **[📌 [공지] (내일까지)[학부] 2023학년도 1학기 취득학점포기 안내 (성적포기) (3/29~31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211462&amp;article.offset=0&amp;articleLimit=30)**
+* **[📌 [공지] (오늘까지)[학부] 2023학년도 1학기 취득학점포기 안내 (성적포기) (3/29~31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=211462&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-03-06)
 
 * **[📌 [공지] [교무팀] 출석(전자출결, 공결, 취업계, 코로나 등) 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205552&amp;article.offset=0&amp;articleLimit=30)**
@@ -17,6 +17,24 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[일자리+센터] 금주의 추천채용_주식회사대덕/강남제비스코/에이테크솔루션](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212881&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-31)
+
+* **[[학습법] 2023-1학기 학생 강사 모집 안내(기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212877&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-03-31)
+
+* **[[홍보] 2023 희망서포터즈 5기 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212869&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 홍보실 (~2023-03-31)
+
+* **[[학습법] 2023학년도 단과대학별 신입생을 위한 선배 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212860&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-03-31)
+
+* **[[학습법] 2023학년도 신입생을 위한 학습 전략 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212858&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-03-31)
+
+* **[아주인이라면 파란학기는 알고가야지?!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212856&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2023-03-31)
 
 * **[[LINC 3.0] 2023 하계 현장실습 재학생 사전 수요조사(4/6~5/16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212850&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2023-03-31)
@@ -89,21 +107,3 @@
 
 * **[[아주대 혁신공유단] 현대모비스 연구소(용인) 견학프로그램 신청 안내(이공계대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212725&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신공유단 (~2023-03-29)
-
-* **[[Remind][학부/학사과정]2023년 8월 졸업예정자 어학졸업인증제 성적 제출 안내(~2023.07.28.(금)까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212723&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-03-29)
-
-* **[[Remind][학부/학사과정]2022학년도 후기(2023년 8월) 조기졸업 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212722&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-03-29)
-
-* **[★금일 마감 [창업지원팀]2023 실험실 창업탐색(AI-Lab) 프로그램 예비창업자 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212718&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 창업지원팀 (~2023-03-29)
-
-* **[[Remind][학사] 2023-1학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212711&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-03-28)
-
-* **[[학습법] 2023-1학기 학습공동체 선정 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212708&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-03-28)
-
-* **[가온마당 행사용 전원공사 안내(체육관 뒤편~가온마당)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212690&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2023-03-28)
