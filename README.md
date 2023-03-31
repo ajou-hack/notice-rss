@@ -1,8 +1,5 @@
 # 최근 공지사항
 
-* **[📌 [공지] [긴급] 무선 네트워크 장애 및 복구 완료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212801&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2023-03-30)
-
 * **[📌 [공지] 2023학년도 교내 예방접종 시행자궁경부암(가다실), A형간염, B형간염) &lt;2023 Vaccination Schedule and Information&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212238&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 보건진료소 (~2023-03-20)
 
@@ -20,6 +17,24 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[[LINC 3.0] 2023 하계 현장실습 재학생 사전 수요조사(4/6~5/16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212850&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2023-03-31)
+
+* **[[대청교] 3월 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212848&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-03-31)
+
+* **[[국가근로] 3월 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212847&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-03-31)
+
+* **[[일자리+센터] 아주대와 함께하는 YIKC 채용상담회 (4/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212846&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-03-31)
+
+* **[[시설팀] 2023학년도 하절기 냉방시설 운영계획 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212845&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2023-03-31)
+
+* **[[긴급] 무선 네트워크 장애 및 복구 완료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212801&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2023-03-30)
 
 * **[[교무팀] 학사일정 안내 (4.12 개교기념일 정상수업, 대체공휴일 관련)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212795&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-03-30)
@@ -92,21 +107,3 @@
 
 * **[가온마당 행사용 전원공사 안내(체육관 뒤편~가온마당)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212690&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2023-03-28)
-
-* **[[아주대학교 축구부 응원하고, 아이패드도 받고!] 3월 31일 금요일 오후 3시 경기장으로 모여라!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212689&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-03-28)
-
-* **[[학습법] 2023-1학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212678&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-03-28)
-
-* **[[경기도자원봉사센터] 사회문제해결 자원봉사 아이디어 해커톤](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212676&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-03-28)
-
-* **[[지식재산] 2023 시험일정 및 지식재산 자격증 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212674&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 지식재산융합인재양성사업 (~2023-03-28)
-
-* **[[일자리+센터] 컨설턴트 1:1 상담 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212672&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-28)
-
-* **[[홍보] (KOTRA) 글로벌 디지털 무역인력 deXters 양성사업 2기 교육생 모집(~4/05(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212669&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-03-28)
