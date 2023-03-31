@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[비교과교육지원센터] 아주대와 함께하는 문화산책 (4월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212899&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-03-31)
+
+* **[(재공지)AJOU 신나는 대학생활 브이로그 공모전 (1,2학년 재학생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212898&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-03-31)
+
 * **[[개교 50주년 기념식] 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212896&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 대학발전팀 (~2023-03-31)
 
@@ -101,9 +107,3 @@
 
 * **[[봉사활동] 4/5 헌혈홍보, 헌혈증 기부 캠페인 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212741&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-03-29)
-
-* **[[학습법] 2023-1학기 온라인 학습법 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212740&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-03-29)
-
-* **[[재공지]2023년 하반기 ICT 학점연계 프로젝트 인턴십 (글로벌과정) 참여신청(~2023.04.02까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212739&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW중심대학사업단 (~2023-03-29)
