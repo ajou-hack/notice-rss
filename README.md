@@ -9,6 +9,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[대학원 인공지능학과] 2023학년도 후기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212931&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 소프트웨어융합대학 교학팀 (~2023-04-03)
+
+* **[[일자리+센터] 3월 5주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212929&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-04-03)
+
+* **[[공지] 23년 아주대학교 예비군훈련 인터넷 신청관련 오류 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212926&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 예비군연대 (~2023-04-03)
+
+* **[[일자리+센터] 대학일자리플러스센터 뉴스레터 제54호(2023.04)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212925&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-04-03)
+
 * **[[메이커스페이스] 3D프린터 장비운용 기초교육생 모집(4월 1회차_&#x27;23.04.04)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212914&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-03-31)
 
@@ -86,15 +98,3 @@
 
 * **[율곡관 내 조형물 설치 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212767&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학발전팀 (~2023-03-29)
-
-* **[[나라키움 대학생주택] 2023년 1학기 입주자 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212766&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-29)
-
-* **[[LINC 3.0] 2023 제18회 현장실습 수기•영상 공모전 참여 안내(4/3 ~ 4/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212753&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2023-03-29)
-
-* **[캠퍼스 차선 및 주차장 도색 안내문](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212752&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2023-03-29)
-
-* **[[아주강좌] 제 487회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212745&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-03-29)
