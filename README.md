@@ -9,6 +9,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2023년 멀티미디어 강의실 점검결과(03월) 및 2023년 (04월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212945&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2023-04-03)
+
+* **[[재공고] 23년 아주대학교 예비군훈련 일정 및 훈련일자 변경 신청 재안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212943&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 예비군연대 (~2023-04-03)
+
+* **[[봉사활동](추가모집) 4/5 헌혈홍보, 헌혈증 기부 캠페인 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212941&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-04-03)
+
+* **[2023-1학기 장애학생 교육지원인력(도우미) 3차 모집(재학생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212940&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 장애학생지원실 (~2023-04-03)
+
+* **[2023학년도 1학기 사회봉사장학 최종 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212934&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 사회봉사센터 (~2023-04-03)
+
 * **[[대학원 인공지능학과] 2023학년도 후기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212931&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 소프트웨어융합대학 교학팀 (~2023-04-03)
 
@@ -83,18 +98,3 @@
 
 * **[[교무팀] 학사일정 안내 (4.12 개교기념일 정상수업, 대체공휴일 관련)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212795&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-03-30)
-
-* **[[온마음알리미] 경기도 청년마인드케어(진료비 지원 사업)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212785&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 인권센터 학생상담소 (~2023-03-30)
-
-* **[2023학년도 후기 대학원 의생명과학과 신입생 모집 (정시) 4.18~5.2](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212783&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 의과대학 교학팀 (~2023-03-30)
-
-* **[[봉사활동] 광명시 청소년 수련관 진로동아리 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212771&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-03-29)
-
-* **[(유학생) 23-1학기 슬기로운 한국어 학술모임 2차 모집(~4/10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212769&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 글로벌교양학부 (~2023-03-29)
-
-* **[율곡관 내 조형물 설치 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212767&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학발전팀 (~2023-03-29)
