@@ -9,6 +9,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[&#x27;2023 아주 건제한 슈퍼루키-대만사절단&#x27; 참가 모집(4.4~4.11. 18시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212979&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 대학교육혁신원운영팀 (~2023-04-03)
+
+* **[교원인사발령 제34호(보직 임면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212977&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 교원팀 (~2023-04-03)
+
 * **[[일자리+센터] 아주대와 함께하는 대우건설 채용상담회 (4/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212966&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-04-03)
 
@@ -92,9 +98,3 @@
 
 * **[[LINC 3.0] 2023 하계 현장실습 재학생 사전 수요조사(4/6~5/16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212850&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2023-03-31)
-
-* **[[대청교] 3월 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212848&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-31)
-
-* **[[국가근로] 3월 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212847&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-03-31)
