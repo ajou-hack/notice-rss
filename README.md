@@ -9,6 +9,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[율곡관 혁신공유라운지 1학기 중간고사 대비 연장개방 안내(4/12수~4/25화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212954&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신공유팀 (~2023-04-03)
+
 * **[2023년 멀티미디어 강의실 점검결과(03월) 및 2023년 (04월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212945&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2023-04-03)
 
@@ -95,6 +98,3 @@
 
 * **[[긴급] 무선 네트워크 장애 및 복구 완료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212801&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2023-03-30)
-
-* **[[교무팀] 학사일정 안내 (4.12 개교기념일 정상수업, 대체공휴일 관련)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212795&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-03-30)
