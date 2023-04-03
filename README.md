@@ -9,6 +9,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[일자리+센터] 아주대와 함께하는 대우건설 채용상담회 (4/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212966&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-04-03)
+
+* **[2023년 경기도 학자금대출 장기연체자 신용회복 지원](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212965&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-04-03)
+
+* **[[아침든든 아주_Good Morning Ajou!]_식비 부담은 덜고, 든든함은 더하고!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212963&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-04-03)
+
 * **[율곡관 혁신공유라운지 1학기 중간고사 대비 연장개방 안내(4/12수~4/25화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212954&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 혁신공유팀 (~2023-04-03)
 
@@ -89,12 +98,3 @@
 
 * **[[국가근로] 3월 온라인 출근부 입력 마감일 및 장학금 지급 예정일 안내(필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212847&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-03-31)
-
-* **[[일자리+센터] 아주대와 함께하는 YIKC 채용상담회 (4/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212846&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-31)
-
-* **[[시설팀] 2023학년도 하절기 냉방시설 운영계획 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212845&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2023-03-31)
-
-* **[[긴급] 무선 네트워크 장애 및 복구 완료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212801&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2023-03-30)
