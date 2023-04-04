@@ -9,7 +9,16 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[&#x27;2023 아주 건제한 슈퍼루키-대만사절단&#x27; 참가 모집(4.4~4.11. 18시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212979&amp;article.offset=0&amp;articleLimit=30)**
+* **[개교 50주년 기념 홈페이지 오픈 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212992&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학발전팀 (~2023-04-04)
+
+* **[2023-2학기 파란학기제 교수제안 프로그램 공모(~5/2)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212991&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2023-04-04)
+
+* README.md [학자금대출] 2023학년도 1학기 구제등록기간 한국장학재단 학자금대출 실행 안내(04.04~06.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212984&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-04-04)
+
+* **[&#x27;2023 아주 건제한 슈퍼루키-대만사절단&#x27; 참가 모집(4/4~4/11 18시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212979&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 대학교육혁신원운영팀 (~2023-04-03)
 
 * **[교원인사발령 제34호(보직 임면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212977&amp;article.offset=0&amp;articleLimit=30)**
@@ -89,12 +98,3 @@
 
 * **[[학습법] 2023학년도 단과대학별 신입생을 위한 선배 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212860&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-03-31)
-
-* **[[학습법] 2023학년도 신입생을 위한 학습 전략 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212858&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-03-31)
-
-* **[아주인이라면 파란학기는 알고가야지?!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212856&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2023-03-31)
-
-* **[[LINC 3.0] 2023 하계 현장실습 재학생 사전 수요조사(4/6~5/16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212850&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2023-03-31)
