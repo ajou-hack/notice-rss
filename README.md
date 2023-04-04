@@ -9,6 +9,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[봉사활동](추가모집) 4/5 헌혈홍보, 헌혈증 기부 캠페인 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212995&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-04-04)
+
+* **[[중앙도서관] 랩탑 키오스크 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212994&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2023-04-04)
+
 * **[개교 50주년 기념 홈페이지 오픈 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212992&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학발전팀 (~2023-04-04)
 
@@ -41,9 +47,6 @@
 
 * **[[재공고] 23년 아주대학교 예비군훈련 일정 및 훈련일자 변경 신청 재안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212943&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 예비군연대 (~2023-04-03)
-
-* **[[봉사활동](추가모집) 4/5 헌혈홍보, 헌혈증 기부 캠페인 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212941&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-04-03)
 
 * **[2023-1학기 장애학생 교육지원인력(도우미) 3차 모집(재학생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212940&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 장애학생지원실 (~2023-04-03)
@@ -95,6 +98,3 @@
 
 * **[[홍보] 2023 희망서포터즈 5기 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212869&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 홍보실 (~2023-03-31)
-
-* **[[학습법] 2023학년도 단과대학별 신입생을 위한 선배 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212860&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-03-31)
