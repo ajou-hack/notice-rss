@@ -9,6 +9,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[아주대학교 50년사 편찬 기념 보고회에 초대합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213039&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학술정보팀 (~2023-04-04)
+
 * **[[LINC 3.0] 2023 산학공동기술개발과제 수요조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213005&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - 산학사업팀 (~2023-04-04)
 
@@ -95,6 +98,3 @@
 
 * **[23년 아주대학교 예비군훈련 일정 및 인터넷 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212890&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 예비군연대 (~2023-03-31)
-
-* **[[일자리+센터] 금주의 추천채용_주식회사대덕/강남제비스코/에이테크솔루션](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212881&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-03-31)
