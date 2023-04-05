@@ -9,6 +9,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[인권센터 학생상담소] 찾아가는 상담실 - 피크닉세트 받고 힐링하러 가자!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213100&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 인권센터 학생상담소 (~2023-04-05)
+
+* **[2022년도 학생인건비 지급비율 및 부당회수 비율 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213096&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학지원팀 (~2023-04-05)
+
 * **[[공학대학원교학팀] 혁신공유라운지 사용불가 안내 &lt;4/11 화요일 16시~21시&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213091&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학대학원교학팀 (~2023-04-05)
 
@@ -24,7 +30,7 @@
 * **[[봉사활동] 아동참여위원회 위원 모집 (대학생 멘토 포함)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213066&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-04-05)
 
-* **[[공고] 23년 예비군훈련 훈련시간 차감(원격교육, 헌혈) 변경사항 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213065&amp;article.offset=0&amp;articleLimit=30)**
+* **[[공지] 23년 예비군훈련 훈련시간 차감(원격교육, 헌혈) 변경사항 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213065&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 예비군연대 (~2023-04-05)
 
 * **[[당일재공지] 렉처시리즈 모빌리티 트렌드로 살펴본 미래자동차 ★기프티콘증정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213055&amp;article.offset=0&amp;articleLimit=30)**
@@ -92,9 +98,3 @@
 
 * **[[대학원 인공지능학과] 2023학년도 후기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212931&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 소프트웨어융합대학 교학팀 (~2023-04-03)
-
-* **[[일자리+센터] 3월 5주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212929&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-04-03)
-
-* **[[공지] 23년 아주대학교 예비군훈련 인터넷 신청관련 오류 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212926&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 예비군연대 (~2023-04-03)
