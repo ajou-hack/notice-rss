@@ -9,6 +9,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[당일재공지] 렉처시리즈 모빌리티 트렌드로 살펴본 미래자동차 ★기프티콘증정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213055&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신공유단 (~2023-04-05)
+
+* **[[봉사활동](당일 재공지) 교내 헌혈버스 방문 안내 (대한적십자사)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213050&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-04-05)
+
+* **[(당일 재공지) [학군단] 2023년 학군사관 후보생 64, 65기 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213048&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생군사교육단 (~2023-04-05)
+
 * **[아주대학교 50년사 편찬 기념 보고회에 초대합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213039&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학술정보팀 (~2023-04-04)
 
@@ -89,12 +98,3 @@
 
 * **[[기획팀]규정류 개정 공포(2023-제1차 교무회의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212895&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 기획팀 (~2023-03-31)
-
-* **[[성평등상담소] 2023년 법정필수교육 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212892&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 인권센터 성평등상담소 (~2023-03-31)
-
-* **[2023-1학기 장애학생 교육지원인력(도우미) 3차 모집(재학생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212891&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 장애학생지원실 (~2023-03-31)
-
-* **[23년 아주대학교 예비군훈련 일정 및 인터넷 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212890&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 예비군연대 (~2023-03-31)
