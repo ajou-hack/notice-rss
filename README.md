@@ -9,6 +9,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[LINC 3.0] 2023 특화분야 연계 『산학협력협의체 운영 지원사업』 공고(~4.19(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213086&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2023-04-05)
+
+* **[(재공지)아주대와 함께하는 문화산책](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213085&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-04-05)
+
 * **[[아주강좌] 제 488회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213078&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-04-05)
 
@@ -92,9 +98,3 @@
 
 * **[[일자리+센터] 대학일자리플러스센터 뉴스레터 제54호(2023.04)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212925&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-04-03)
-
-* **[[메이커스페이스] 3D프린터 장비운용 기초교육생 모집(4월 1회차_&#x27;23.04.04)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212914&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-03-31)
-
-* **[[비교과교육지원센터] 아주대와 함께하는 문화산책 (4월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212899&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-03-31)
