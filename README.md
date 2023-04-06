@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] [정보시스템팀] 학내 무선인터넷 장애 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213126&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 정보시스템팀 (~2023-04-06)
+
 * **[📌 [공지] [교무팀] 출석(전자출결, 공결, 취업계, 코로나 등) 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205552&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-10-26)
 
@@ -8,6 +11,9 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[교원인사발령 제31호(중복배속)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213119&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 교원팀 (~2023-04-06)
 
 * **[[학습법] 2023-1학기 학생 강사 모집 안내(기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213112&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-04-06)
@@ -95,6 +101,3 @@
 
 * **[[재공고] 23년 아주대학교 예비군훈련 일정 및 훈련일자 변경 신청 재안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212943&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 예비군연대 (~2023-04-03)
-
-* **[2023-1학기 장애학생 교육지원인력(도우미) 3차 모집(재학생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212940&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 장애학생지원실 (~2023-04-03)
