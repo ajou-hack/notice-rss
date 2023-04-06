@@ -12,6 +12,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[다산학부대학] 2023-1 교양과목 중간고사 대학원생 감독자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213144&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-04-06)
+
 * **[(재공지)2023년 하계 국제학부 해외현장체험 모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213135&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 국제학부 (~2023-04-06)
 
@@ -98,6 +101,3 @@
 
 * **[[아침든든 아주_Good Morning Ajou!]_식비 부담은 덜고, 든든함은 더하고!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212963&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-04-03)
-
-* **[율곡관 혁신공유라운지 1학기 중간고사 대비 연장개방 안내(4/12수~4/25화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212954&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신공유팀 (~2023-04-03)
