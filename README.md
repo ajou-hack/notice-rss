@@ -9,6 +9,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 2023-1학기 학생 강사 모집 안내(기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213112&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-04-06)
+
+* **[(Remind) 축구 운동장(인조잔디구장)예약 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213102&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-04-05)
+
 * **[[인권센터 학생상담소] 찾아가는 상담실 - 피크닉세트 받고 힐링하러 가자!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213100&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 인권센터 학생상담소 (~2023-04-05)
 
@@ -92,9 +98,3 @@
 
 * **[2023-1학기 장애학생 교육지원인력(도우미) 3차 모집(재학생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212940&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 장애학생지원실 (~2023-04-03)
-
-* **[2023학년도 1학기 사회봉사장학 최종 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212934&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 사회봉사센터 (~2023-04-03)
-
-* **[[대학원 인공지능학과] 2023학년도 후기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212931&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 소프트웨어융합대학 교학팀 (~2023-04-03)
