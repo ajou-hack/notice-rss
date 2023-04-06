@@ -1,6 +1,6 @@
 # 최근 공지사항
 
-* **[📌 [공지] [정보시스템팀] 학내 무선인터넷 장애 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213126&amp;article.offset=0&amp;articleLimit=30)**
+* **[📌 [공지] [정보시스템팀] 학내 무선인터넷 복구 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213126&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 정보시스템팀 (~2023-04-06)
 
 * **[📌 [공지] [교무팀] 출석(전자출결, 공결, 취업계, 코로나 등) 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205552&amp;article.offset=0&amp;articleLimit=30)**
@@ -11,6 +11,12 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
+
+* **[(재공지)2023년 하계 국제학부 해외현장체험 모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213135&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 국제학부 (~2023-04-06)
+
+* **[[일자리+센터] (재공지)아주대와 함께하는 YIKC 채용상담회 (4/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213127&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-04-06)
 
 * **[교원인사발령 제31호(중복배속)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213119&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 교원팀 (~2023-04-06)
@@ -95,9 +101,3 @@
 
 * **[율곡관 혁신공유라운지 1학기 중간고사 대비 연장개방 안내(4/12수~4/25화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212954&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 혁신공유팀 (~2023-04-03)
-
-* **[2023년 멀티미디어 강의실 점검결과(03월) 및 2023년 (04월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212945&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2023-04-03)
-
-* **[[재공고] 23년 아주대학교 예비군훈련 일정 및 훈련일자 변경 신청 재안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212943&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 예비군연대 (~2023-04-03)
