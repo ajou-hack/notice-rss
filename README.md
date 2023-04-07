@@ -1,8 +1,5 @@
 # 최근 공지사항
 
-* **[📌 [공지] [정보시스템팀] 학내 무선인터넷 복구 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213126&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 정보시스템팀 (~2023-04-06)
-
 * **[📌 [공지] [교무팀] 출석(전자출결, 공결, 취업계, 코로나 등) 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205552&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-10-26)
 
@@ -12,6 +9,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[일자리+센터] 4월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213159&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-04-07)
+
+* **[[교외장학] (재)세종인재평생교육진흥원 2023년 상반기 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213153&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-04-06)
+
+* **[[개교 50주년 기념식] 행사신청 마감 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213150&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 대학발전팀 (~2023-04-06)
+
 * **[[다산학부대학] 2023-1 교양과목 중간고사 대학원생 감독자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213144&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-04-06)
 
@@ -20,6 +26,9 @@
 
 * **[[일자리+센터] (재공지)아주대와 함께하는 YIKC 채용상담회 (4/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213127&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-04-06)
+
+* **[[정보시스템팀] 학내 무선인터넷 복구 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213126&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 정보시스템팀 (~2023-04-06)
 
 * **[교원인사발령 제31호(중복배속)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213119&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 교원팀 (~2023-04-06)
@@ -89,15 +98,3 @@
 
 * **[&#x27;2023 아주 건제한 슈퍼루키-대만사절단&#x27; 참가 모집(4/4~4/11 18시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212979&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 대학교육혁신원운영팀 (~2023-04-03)
-
-* **[교원인사발령 제34호(보직 임면)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212977&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 교원팀 (~2023-04-03)
-
-* **[[일자리+센터] 아주대와 함께하는 대우건설 채용상담회 (4/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212966&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-04-03)
-
-* **[2023년 경기도 학자금대출 장기연체자 신용회복 지원](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212965&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-04-03)
-
-* **[[아침든든 아주_Good Morning Ajou!]_식비 부담은 덜고, 든든함은 더하고!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212963&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-04-03)
