@@ -9,6 +9,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[일자리+센터]꽃가루를 잡아+ 이벤트! ㅣ이벤트 장인 일자리센터가 돌아왔다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213192&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-04-07)
+
+* **[[교외장학] 롯데장학재단 5기 취업준비생 장학금 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213188&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-04-07)
+
 * **[[학습법] 엑셀시리즈3 - 엑셀 활용 데이터 분석 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213179&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-04-07)
 
@@ -92,9 +98,3 @@
 
 * **[아주대학교 50년사 편찬 기념 보고회에 초대합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213039&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학술정보팀 (~2023-04-04)
-
-* **[[LINC 3.0] 2023 산학공동기술개발과제 수요조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213005&amp;article.offset=0&amp;articleLimit=30)**
- [학술] - 산학사업팀 (~2023-04-04)
-
-* **[[학부_재공지]2023-1학기 수업피드백 참여 안내(~4/12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213000&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교수학습개발센터 (~2023-04-04)
