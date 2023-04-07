@@ -9,6 +9,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[일자리+센터] 졸업(예정)자 대상 추천채용 인재풀 등록](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213207&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-04-07)
+
 * **[[홍보] 안전보건공단 기자단, 안단테 12기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213201&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 홍보실 (~2023-04-07)
 
@@ -95,6 +98,3 @@
 
 * **[[당일재공지] 렉처시리즈 모빌리티 트렌드로 살펴본 미래자동차 ★기프티콘증정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213055&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신공유단 (~2023-04-05)
-
-* **[[봉사활동](당일 재공지) 교내 헌혈버스 방문 안내 (대한적십자사)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213050&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-04-05)
