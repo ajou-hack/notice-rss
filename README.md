@@ -9,6 +9,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학습법] 엑셀시리즈3 - 엑셀 활용 데이터 분석 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213179&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-04-07)
+
+* **[[학습법] 엑셀시리즈2 - 엑셀 수식, 함수 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213178&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-04-07)
+
+* **[[LINC 3.0] (전액무료) 인공지능 기반 스마트 시티 능력인증 사전교육2 (DSAC M2 자격 과정) 참가자 모집(선착순 30명)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213177&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 산학사업팀 (~2023-04-07)
+
+* **[[학습법] 엑셀시리즈1 - 엑셀 기초 특강(오늘 신청 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213176&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-04-07)
+
 * **[[한국장학재단] 2023년 국가우수장학금(이공계) 신규장학생 대학추천 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213169&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-04-07)
 
@@ -86,15 +98,3 @@
 
 * **[[학부_재공지]2023-1학기 수업피드백 참여 안내(~4/12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213000&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교수학습개발센터 (~2023-04-04)
-
-* **[[봉사활동](추가모집) 4/5 헌혈홍보, 헌혈증 기부 캠페인 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212995&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-04-04)
-
-* **[[중앙도서관] 랩탑 키오스크 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212994&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2023-04-04)
-
-* **[개교 50주년 기념 홈페이지 오픈 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212992&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학발전팀 (~2023-04-04)
-
-* **[2023-2학기 파란학기제 교수제안 프로그램 공모(~5/2)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212991&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2023-04-04)
