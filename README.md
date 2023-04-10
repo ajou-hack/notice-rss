@@ -12,6 +12,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(23.04.14)[개교 50주년 기념]&#x27;아주의 미래, 켐-바이오-메디신 혁신 신약 심포지움&#x27; 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213272&amp;article.offset=0&amp;articleLimit=30)**
+ [학술] - 분자과학기술학과 (~2023-04-10)
+
 * **[[학습법] 2023-1학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213268&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-04-10)
 
@@ -98,6 +101,3 @@
 
 * **[[개교 50주년 기념식] 행사신청 마감 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213150&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 대학발전팀 (~2023-04-06)
-
-* **[[다산학부대학] 2023-1 교양과목 중간고사 대학원생 감독자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213144&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-04-06)
