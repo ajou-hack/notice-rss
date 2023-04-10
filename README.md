@@ -12,6 +12,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2023 기후위기 적응대책 시민 제안 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213288&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-04-10)
+
+* **[[교외장학] 제9회 DB 글로벌 자산배분(GAPS) 투자대회 참가 안내 _ 장학혜택 제공](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213286&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-04-10)
+
 * **[[국제교류팀] 2023년 하계 해외단기파견 프로그램 참가자 모집 마감안내(~4/10까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213279&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 국제교류팀 (~2023-04-10)
 
@@ -95,9 +101,3 @@
 
 * **[[학습법] 엑셀시리즈1 - 엑셀 기초 특강(오늘 신청 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213176&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-04-07)
-
-* **[[한국장학재단] 2023년 국가우수장학금(이공계) 신규장학생 대학추천 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213169&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-04-07)
-
-* **[[개교 50주년 기념식] 행사신청 조기 마감 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213165&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 대학발전팀 (~2023-04-07)
