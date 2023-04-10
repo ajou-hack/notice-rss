@@ -12,6 +12,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[무선인터넷(WIFI) 일시 중지안내(04.10/월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213267&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2023-04-10)
+
+* **[[학습법] 2023-1학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213265&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-04-10)
+
+* **[아주대학교 50년사 출판 기념 보고회 참석 신청 조기 마감 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213261&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학술정보팀 (~2023-04-10)
+
 * **[[인권센터 성평등상담소] 제50주년 벚꽃축제 성평등상담소 이벤트 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213254&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 인권센터 성평등상담소 (~2023-04-10)
 
@@ -92,12 +101,3 @@
 
 * **[(재공지)2023년 하계 국제학부 해외현장체험 모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213135&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 국제학부 (~2023-04-06)
-
-* **[[일자리+센터] (재공지)아주대와 함께하는 YIKC 채용상담회 (4/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213127&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-04-06)
-
-* **[[정보시스템팀] 학내 무선인터넷 복구 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213126&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 정보시스템팀 (~2023-04-06)
-
-* **[교원인사발령 제31호(중복배속)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213119&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 교원팀 (~2023-04-06)
