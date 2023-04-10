@@ -12,6 +12,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[국제교류팀] 2023년 하계 해외단기파견 프로그램 참가자 모집 마감안내(~4/10까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213279&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 국제교류팀 (~2023-04-10)
+
+* **[[재공지] 제3회 혁신융합대학 메타버스 콘테스트 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213278&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신공유단 (~2023-04-10)
+
+* **[교원인사발령 제33호 (특별임용교원 신규임용 및 재계약임용)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213274&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 교원팀 (~2023-04-10)
+
 * **[(23.04.14)[개교 50주년 기념]&#x27;아주의 미래, 켐-바이오-메디신 혁신 신약 심포지움&#x27; 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213272&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - 분자과학기술학과 (~2023-04-10)
 
@@ -92,12 +101,3 @@
 
 * **[[개교 50주년 기념식] 행사신청 조기 마감 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213165&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 대학발전팀 (~2023-04-07)
-
-* **[[일자리+센터] 4월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213159&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-04-07)
-
-* **[[교외장학] (재)세종인재평생교육진흥원 2023년 상반기 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213153&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-04-06)
-
-* **[[개교 50주년 기념식] 행사신청 마감 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213150&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 대학발전팀 (~2023-04-06)
