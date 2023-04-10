@@ -9,6 +9,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[SW중심대학]IT인재 전문가와 함께하는 진로특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213230&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - SW융합교육원 (~2023-04-10)
+
+* **[[학군단] ROTC 모집기간 연장 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213226&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생군사교육단 (~2023-04-10)
+
+* **[개교 50주년 기념식 및 Ajou International Conference 개최에 따른 양해 부탁 말씀](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213224&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 국제교류팀 (~2023-04-09)
+
+* **[[일자리+센터] 진로-취업-현장실습 &#x27;상담해 봄 부스&#x27; 운영](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213223&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-04-09)
+
 * **[제87회 한국어능력시험(TOPIK) 시행에 따른 성호관 출입 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213217&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교육센터운영팀 (~2023-04-08)
 
@@ -86,15 +98,3 @@
 
 * **[2022년도 학생인건비 지급비율 및 부당회수 비율 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213096&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학지원팀 (~2023-04-05)
-
-* **[[공학대학원교학팀] 혁신공유라운지 사용불가 안내 &lt;4/11 화요일 16시~21시&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213091&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학대학원교학팀 (~2023-04-05)
-
-* **[[LINC 3.0] 2023 특화분야 연계 『산학협력협의체 운영 지원사업』 공고(~4.19(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213086&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2023-04-05)
-
-* **[(재공지)아주대와 함께하는 문화산책](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213085&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-04-05)
-
-* **[[아주강좌] 제 488회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213078&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-04-05)
