@@ -9,6 +9,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[교내예방접종(매 회 당일 수납 후 접종)-3월 27일~31일 사이에 접수한 경우에만 가능](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213240&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 보건진료소 (~2023-04-10)
+
+* **[[2023.04.17.월] 의료인공지능 콜로키움 - GPT in BioMedicine](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213237&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 의과대학 교학팀 (~2023-04-10)
+
 * **[[SW중심대학]IT인재 전문가와 함께하는 진로특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213230&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - SW융합교육원 (~2023-04-10)
 
@@ -92,9 +98,3 @@
 
 * **[(Remind) 축구 운동장(인조잔디구장)예약 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213102&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-04-05)
-
-* **[[인권센터 학생상담소] 찾아가는 상담실 - 피크닉세트 받고 힐링하러 가자!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213100&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 인권센터 학생상담소 (~2023-04-05)
-
-* **[2022년도 학생인건비 지급비율 및 부당회수 비율 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213096&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학지원팀 (~2023-04-05)
