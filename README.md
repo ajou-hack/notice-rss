@@ -12,6 +12,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[개교 50주년 기념식 행사에 따른 주차장 통제 및 개인차량 이용자제 협조 요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213306&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 총무팀 (~2023-04-11)
+
+* **[[미래자동차 렉처시리즈] (기프티콘 증정!) 자율주행 자동차와 안전성 평가기술](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213304&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신공유단 (~2023-04-11)
+
+* **[[재공지] [인권센터 학생상담소] 찾아가는 상담실 - 피크닉세트 받고 힐링하러 가자!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213303&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 인권센터 학생상담소 (~2023-04-11)
+
 * **[2023 기후위기 적응대책 시민 제안 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213288&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-04-10)
 
@@ -91,13 +100,4 @@
  [장학] - 학생지원팀 (~2023-04-07)
 
 * **[[학습법] 엑셀시리즈3 - 엑셀 활용 데이터 분석 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213179&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-04-07)
-
-* **[[학습법] 엑셀시리즈2 - 엑셀 수식, 함수 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213178&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-04-07)
-
-* **[[LINC 3.0] (전액무료) 인공지능 기반 스마트 시티 능력인증 사전교육2 (DSAC M2 자격 과정) 참가자 모집(선착순 30명)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213177&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀 (~2023-04-07)
-
-* **[[학습법] 엑셀시리즈1 - 엑셀 기초 특강(오늘 신청 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213176&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-04-07)
