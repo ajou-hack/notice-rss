@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] 교내예방접종(매 회 당일 수납 후 접종)-3월 27일~31일 사이에 접수한 경우에만 가능](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213240&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 보건진료소 (~2023-04-10)
+
 * **[📌 [공지] [Remind][학사] 2023-1학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212711&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-03-28)
 
@@ -18,7 +21,7 @@
 * **[[미래자동차 렉처시리즈] (기프티콘 증정!) 자율주행 자동차와 안전성 평가기술](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213304&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신공유단 (~2023-04-11)
 
-* **[[재공지] [인권센터 학생상담소] 찾아가는 상담실 - 피크닉세트 받고 힐링하러 가자!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213303&amp;article.offset=0&amp;articleLimit=30)**
+* **[[마감] [인권센터 학생상담소] 찾아가는 상담실 - 피크닉세트 받고 힐링하러 가자!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213303&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 인권센터 학생상담소 (~2023-04-11)
 
 * **[2023 기후위기 적응대책 시민 제안 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213288&amp;article.offset=0&amp;articleLimit=30)**
@@ -56,9 +59,6 @@
 
 * **[[비교과교육지원센터] 아주허브에서 4월 퀴즈 풀고 기프티콘 받아가자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213248&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-04-10)
-
-* **[교내예방접종(매 회 당일 수납 후 접종)-3월 27일~31일 사이에 접수한 경우에만 가능](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213240&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 보건진료소 (~2023-04-10)
 
 * **[[2023.04.17.월] 의료인공지능 콜로키움 - GPT in BioMedicine](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213237&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 의과대학 교학팀 (~2023-04-10)
@@ -100,4 +100,7 @@
  [장학] - 학생지원팀 (~2023-04-07)
 
 * **[[학습법] 엑셀시리즈3 - 엑셀 활용 데이터 분석 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213179&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-04-07)
+
+* **[[학습법] 엑셀시리즈2 - 엑셀 수식, 함수 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213178&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-04-07)
