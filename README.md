@@ -15,14 +15,23 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[혜강관 연구실 특별안전교육 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213361&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 안전관리센터 (~2023-04-11)
+
+* **[[대학원 AI융합네트워크학과] 2023학년도 후기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213359&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 소프트웨어융합대학교학팀 (~2023-04-11)
+
+* **[[한국장학재단] 2023년 푸른등대 삼성기부장학금 신규장학생 선발안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213353&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-04-11)
+
+* **[50년 디지털 역사관 홈페이지 오픈 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213352&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2023-04-11)
+
 * **[[SW중심대학] 2023 하계 현장실습(A3인턴십) 학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213323&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW중심대학사업단 (~2023-04-11)
 
 * **[(재공지)[LINC 3.0] 2023 제18회 현장실습 수기•영상 공모전 참여 안내(4/3 ~ 4/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213321&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2023-04-11)
-
-* **[[일자리+센터]꽃가루를 잡아+ 이벤트 취소 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213319&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-04-11)
 
 * **[[학습법] 2023학년도 단과대학별 신입생을 위한 선배 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213313&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-04-11)
@@ -95,12 +104,3 @@
 
 * **[교원인사발령 제29호(중복배속)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213214&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 교원팀 (~2023-04-07)
-
-* **[[LINC 3.0] 찾아가는 현장실습 상담회(04/10~04/11)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213212&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2023-04-07)
-
-* **[[일자리+센터] 졸업(예정)자 대상 추천채용 인재풀 등록](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213207&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-04-07)
-
-* **[[홍보] 안전보건공단 기자단, 안단테 12기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213201&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 홍보실 (~2023-04-07)
