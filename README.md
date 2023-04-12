@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[아주강좌] 제 489회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213373&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-04-12)
+
 * **[[봉사활동] 수원시 도시정책 시민 및 청소년계획단 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213367&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-04-12)
 
@@ -101,6 +104,3 @@
 
 * **[개교 50주년 기념식 및 Ajou International Conference 개최에 따른 양해 부탁 말씀](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213224&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 국제교류팀 (~2023-04-09)
-
-* **[[일자리+센터] 진로-취업-현장실습 &#x27;상담해 봄 부스&#x27; 운영](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213223&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-04-09)
