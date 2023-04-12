@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[★(재공지)아주대와 함께하는 문화산책](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213393&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-04-12)
+
+* **[MOSFET 반도체 공정 전문인력양성(1차) 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213392&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2023-04-12)
+
 * **[[일자리+센터] 재학생 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213389&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 대학일자리플러스센터 (~2023-04-12)
 
@@ -98,9 +104,3 @@
 
 * **[[비교과교육지원센터] 아주허브에서 4월 퀴즈 풀고 기프티콘 받아가자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213248&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-04-10)
-
-* **[[2023.04.17.월] 의료인공지능 콜로키움 - GPT in BioMedicine](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213237&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 의과대학 교학팀 (~2023-04-10)
-
-* **[[SW중심대학]IT인재 전문가와 함께하는 진로특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213230&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - SW융합교육원 (~2023-04-10)
