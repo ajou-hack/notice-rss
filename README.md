@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[봉사활동] 수원시 도시정책 시민 및 청소년계획단 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213367&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-04-12)
+
+* **[[LINC 3.0] KBO 구단 현장방문의 기회 ! 「KBO-NINE 시즌 2023」 모집 안내(~04.21.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213365&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 산학사업팀 (~2023-04-12)
+
 * **[혜강관 연구실 특별안전교육 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213361&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 안전관리센터 (~2023-04-11)
 
@@ -98,9 +104,3 @@
 
 * **[[일자리+센터] 진로-취업-현장실습 &#x27;상담해 봄 부스&#x27; 운영](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213223&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-04-09)
-
-* **[제87회 한국어능력시험(TOPIK) 시행에 따른 성호관 출입 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213217&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교육센터운영팀 (~2023-04-08)
-
-* **[교원인사발령 제29호(중복배속)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213214&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 교원팀 (~2023-04-07)
