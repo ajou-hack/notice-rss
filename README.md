@@ -15,10 +15,19 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[2023-1학기 BSM 물리학 중간고사 부감독(대학원생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213410&amp;article.offset=0&amp;articleLimit=30)**
+* **[사회봉사센터 뉴스레터 제 2호 &quot;소아암 아이들을 돕는 일, 어렵지 않아요!&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213416&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 사회봉사센터 (~2023-04-13)
+
+* **[2023-1학기 BSM 수학1 중간고사 부감독(대학원생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213415&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 다산학부대학교학팀 (~2023-04-13)
+
+* **[2023-1학기 BSM 공업수학A 중간고사 부감독(대학원생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213412&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 다산학부대학교학팀 (~2023-04-13)
+
+* **[(마감)2023-1학기 BSM 물리학 중간고사 부감독(대학원생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213410&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-04-13)
 
-* **[2023-1학기 BSM 생물학1 중간고사 부감독(대학원생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213409&amp;article.offset=0&amp;articleLimit=30)**
+* **[(마감)2023-1학기 BSM 생물학1 중간고사 부감독(대학원생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213409&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-04-13)
 
 * **[[조기마감] 2023-1 파란학기제 중간교류회 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213401&amp;article.offset=0&amp;articleLimit=30)**
@@ -45,7 +54,7 @@
 * **[[봉사활동] 수원시 도시정책 시민 및 청소년계획단 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213367&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-04-12)
 
-* **[[LINC 3.0] KBO 구단 현장방문의 기회 ! 「KBO-NINE 시즌 2023」 모집 안내(~04.21.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213365&amp;article.offset=0&amp;articleLimit=30)**
+* **[[☆공고문·신청서 수정/LINC 3.0] KBO 구단 현장방문의 기회 ! 「KBO-NINE 시즌 2023」 모집 안내(~04.21.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213365&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀 (~2023-04-12)
 
 * **[혜강관 연구실 특별안전교육 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213361&amp;article.offset=0&amp;articleLimit=30)**
@@ -95,12 +104,3 @@
 
 * **[교원인사발령 제33호 (특별임용교원 신규임용 및 재계약임용)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213274&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 교원팀 (~2023-04-10)
-
-* **[(23.04.14)[개교 50주년 기념]&#x27;아주의 미래, 켐-바이오-메디신 혁신 신약 심포지움&#x27; 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213272&amp;article.offset=0&amp;articleLimit=30)**
- [학술] - 분자과학기술학과 (~2023-04-10)
-
-* **[[학습법] 2023-1학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213268&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-04-10)
-
-* **[무선인터넷(WIFI) 일시 중지안내(04.10/월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213267&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2023-04-10)
