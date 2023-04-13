@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[다산학부대학] 2023-1 교양과목 중간고사 대학원생 감독자 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213441&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-04-13)
+
+* **[[나라키움 남양주복합청사] 행복주택 제2차 입주자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213436&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-04-13)
+
 * **[[재공지/LINC 3.0] KBO 구단 현장방문의 기회 !「2023 KBO-NINE 프로그램」모집 안내(~05.01.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213433&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀 (~2023-04-13)
 
@@ -98,9 +104,3 @@
 
 * **[[미래자동차 렉처시리즈] (기프티콘 증정!) 자율주행 자동차와 안전성 평가기술](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213304&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신공유단 (~2023-04-11)
-
-* **[[마감] [인권센터 학생상담소] 찾아가는 상담실 - 피크닉세트 받고 힐링하러 가자!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213303&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 인권센터 학생상담소 (~2023-04-11)
-
-* **[2023 기후위기 적응대책 시민 제안 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213288&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-04-10)
