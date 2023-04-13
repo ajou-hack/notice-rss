@@ -15,7 +15,13 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
-* **[2023-1 파란학기제 중간교류회 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213401&amp;article.offset=0&amp;articleLimit=30)**
+* **[2023-1학기 BSM 물리학 중간고사 부감독(대학원생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213410&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-04-13)
+
+* **[2023-1학기 BSM 생물학1 중간고사 부감독(대학원생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213409&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-04-13)
+
+* **[[조기마감] 2023-1 파란학기제 중간교류회 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213401&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2023-04-13)
 
 * **[[일자리+센터] 현직자 직무특강_자동차 직무군(4.13.목) 저녁7시부터](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213395&amp;article.offset=0&amp;articleLimit=30)**
@@ -98,9 +104,3 @@
 
 * **[무선인터넷(WIFI) 일시 중지안내(04.10/월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213267&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2023-04-10)
-
-* **[[학습법] 2023-1학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213265&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-04-10)
-
-* **[아주대학교 50년사 출판 기념 보고회 참석 신청 조기 마감 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213261&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학술정보팀 (~2023-04-10)
