@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[공학대학원] 2023학년도 후기 석사과정 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213446&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 공학대학원교학팀 (~2023-04-13)
+
 * **[[일자리+센터] 아주대와 함께하는 이트너스 채용설명회 (4/18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213444&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-04-13)
 
@@ -101,6 +104,3 @@
 
 * **[[학습법] 2023학년도 신입생을 위한 학습 전략 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213312&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-04-11)
-
-* **[개교 50주년 기념식 행사에 따른 주차장 통제 및 개인차량 이용자제 협조 요청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213306&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 총무팀 (~2023-04-11)
