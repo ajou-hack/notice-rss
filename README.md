@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[MOSFET 반도체 공정 전문인력양성(1차) 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213466&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2023-04-14)
+
+* **[2023년 경기도 &#x27;청년 복지포인트&#x27; 1차 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213465&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-04-14)
+
 * **[(재공지)[LINC 3.0] 2023 산학공동기술개발과제 수요조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213459&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - 산학사업팀 (~2023-04-14)
 
@@ -98,9 +104,3 @@
 
 * **[[한국장학재단] 2023년 푸른등대 삼성기부장학금 신규장학생 선발안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213353&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-04-11)
-
-* **[50년 디지털 역사관 홈페이지 오픈 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213352&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2023-04-11)
-
-* **[[SW중심대학] 2023 하계 현장실습(A3인턴십) 학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213323&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW중심대학사업단 (~2023-04-11)
