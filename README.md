@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(재공지)[LINC 3.0] 2023 산학공동기술개발과제 수요조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213459&amp;article.offset=0&amp;articleLimit=30)**
+ [학술] - 산학사업팀 (~2023-04-14)
+
 * **[(유통기한 임박) 손소독제 나눔합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213450&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-04-14)
 
@@ -101,6 +104,3 @@
 
 * **[[SW중심대학] 2023 하계 현장실습(A3인턴십) 학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213323&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW중심대학사업단 (~2023-04-11)
-
-* **[(재공지)[LINC 3.0] 2023 제18회 현장실습 수기•영상 공모전 참여 안내(4/3 ~ 4/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213321&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2023-04-11)
