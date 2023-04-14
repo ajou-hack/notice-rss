@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2023년 AI 기반 학생 맞춤형 교육지원사업(대학수학) 설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213467&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 학생지원팀 (~2023-04-14)
+
 * **[MOSFET 반도체 공정 전문인력양성(1차) 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213466&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2023-04-14)
 
@@ -101,6 +104,3 @@
 
 * **[[대학원 AI융합네트워크학과] 2023학년도 후기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213359&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 소프트웨어융합대학교학팀 (~2023-04-11)
-
-* **[[한국장학재단] 2023년 푸른등대 삼성기부장학금 신규장학생 선발안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213353&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-04-11)
