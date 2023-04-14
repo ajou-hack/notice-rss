@@ -15,11 +15,14 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[상반기 가로등 보수공사 안내 (율곡관 남측 ~ 도서관)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213482&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2023-04-14)
+
+* **[혜강관 연구실 특별안전교육 재안내(인센티브 및 패널티 추가)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213481&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 안전관리센터 (~2023-04-14)
+
 * **[[예비군연대]&#x27;23년 아주대학교 예비군훈련 계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213480&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 예비군연대 (~2023-04-14)
-
-* **[2023년 AI 기반 학생 맞춤형 교육지원사업(대학수학) 설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213467&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 학생지원팀 (~2023-04-14)
 
 * **[MOSFET 반도체 공정 전문인력양성(1차) 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213466&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2023-04-14)
@@ -101,6 +104,3 @@
 
 * **[[봉사활동] 수원시 도시정책 시민 및 청소년계획단 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213367&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-04-12)
-
-* **[혜강관 연구실 특별안전교육 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213361&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 안전관리센터 (~2023-04-11)
