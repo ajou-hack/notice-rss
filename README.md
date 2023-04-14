@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[(유통기한 임박) 손소독제 나눔합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213450&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-04-14)
+
+* **[[공지] 특별재난지역(일부) 선포(산불) 에 따른 23년 예비군훈련 면제 지침 전파사항](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213449&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 예비군연대 (~2023-04-14)
+
 * **[[공학대학원] 2023학년도 후기 석사과정 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213446&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 공학대학원교학팀 (~2023-04-13)
 
@@ -98,9 +104,3 @@
 
 * **[(재공지)[LINC 3.0] 2023 제18회 현장실습 수기•영상 공모전 참여 안내(4/3 ~ 4/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213321&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2023-04-11)
-
-* **[[학습법] 2023학년도 단과대학별 신입생을 위한 선배 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213313&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-04-11)
-
-* **[[학습법] 2023학년도 신입생을 위한 학습 전략 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213312&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-04-11)
