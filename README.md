@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[예비군연대]&#x27;23년 아주대학교 예비군훈련 계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213480&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 예비군연대 (~2023-04-14)
+
 * **[2023년 AI 기반 학생 맞춤형 교육지원사업(대학수학) 설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213467&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 학생지원팀 (~2023-04-14)
 
@@ -101,6 +104,3 @@
 
 * **[혜강관 연구실 특별안전교육 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213361&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 안전관리센터 (~2023-04-11)
-
-* **[[대학원 AI융합네트워크학과] 2023학년도 후기 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213359&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 소프트웨어융합대학교학팀 (~2023-04-11)
