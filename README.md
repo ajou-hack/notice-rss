@@ -12,6 +12,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[성수기 주말 운동장 예약 방식 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213562&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-04-17)
+
+* **[[국가근로] 2023학년도 1학기 일반 교내 국가근로장학생 선발 공고(추가모집)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213560&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-04-17)
+
 * **[2023학년도 1학기 바르게장학 신청 안내_2023.4.28.(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213549&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-04-17)
 
@@ -95,9 +101,3 @@
 
 * **[사회봉사센터 뉴스레터 제 2호 &quot;소아암 아이들을 돕는 일, 어렵지 않아요!&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213416&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 사회봉사센터 (~2023-04-13)
-
-* **[2023-1학기 BSM 수학1 중간고사 부감독(대학원생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213415&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 다산학부대학교학팀 (~2023-04-13)
-
-* **[(마감)2023-1학기 BSM 공업수학A 중간고사 부감독(대학원생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213412&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 다산학부대학교학팀 (~2023-04-13)
