@@ -12,6 +12,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[2023-1학기 BSM 수학1 중간고사 부감독(대학원생) 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213501&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 다산학부대학교학팀 (~2023-04-17)
+
+* **[[인권센터 학생상담소] 위기 심리상담 신청서 &quot;마음이 너무 힘들어 죽고 싶다는 생각이 자주 나요.&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213500&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 인권센터 학생상담소 (~2023-04-17)
+
+* **[(유통기한 임박) 손소독제 나눔합니다! (수량 많음)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213499&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-04-17)
+
+* **[[일자리+센터] 4월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213498&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-04-17)
+
 * **[[일자리+센터] 당근, 나를 위한 진로-취업상담 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213486&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-04-14)
 
@@ -32,9 +44,6 @@
 
 * **[(재공지)[LINC 3.0] 2023 산학공동기술개발과제 수요조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213459&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - 산학사업팀 (~2023-04-14)
-
-* **[(유통기한 임박) 손소독제 나눔합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213450&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-04-14)
 
 * **[[공지] 특별재난지역(일부) 선포(산불) 에 따른 23년 예비군훈련 면제 지침 전파사항](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213449&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 예비군연대 (~2023-04-14)
@@ -92,12 +101,3 @@
 
 * **[MOSFET 반도체 공정 전문인력양성(1차) 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213392&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2023-04-12)
-
-* **[[일자리+센터] 재학생 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213389&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 대학일자리플러스센터 (~2023-04-12)
-
-* **[[LINC 3.0] 2023 기술지도/애로기술 자문 지원사업 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213388&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2023-04-12)
-
-* **[[아주강좌] 제 489회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213373&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-04-12)
