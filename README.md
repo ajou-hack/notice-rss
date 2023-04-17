@@ -12,6 +12,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 커뮤니케이션팀 (~2021-12-16)
 
+* **[[학부/학사과정] 2023-하계 계절학기 국내대학 학점교류 신청 안내(23.04.17.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213538&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-04-17)
+
+* **[[경영대학](추가모집중) 2023-1학기 수업 TA(Teaching Assistant)모집 및 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213532&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 경영대학 (~2023-04-17)
+
 * **[[인문과학연구소] 세미나 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213525&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 인문과학연구소 (~2023-04-17)
 
@@ -95,9 +101,3 @@
 
 * **[(마감)2023-1학기 BSM 물리학 중간고사 부감독(대학원생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213410&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-04-13)
-
-* **[(마감)2023-1학기 BSM 생물학1 중간고사 부감독(대학원생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213409&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-04-13)
-
-* **[[조기마감] 2023-1 파란학기제 중간교류회 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213401&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2023-04-13)
