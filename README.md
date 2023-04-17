@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] (학생)아주Bb 비대면 시험 주의사항 안내[2023-1학기]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213543&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-04-17)
+
 * **[📌 [공지] [Remind][학사] 2023-1학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212711&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-03-28)
 
@@ -11,6 +14,9 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
+
+* **[2023 KUSF U-스포츠마케팅 러너 교육 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213564&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-04-17)
 
 * **[성수기 주말 운동장 예약 방식 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213562&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-04-17)
@@ -98,6 +104,3 @@
 
 * **[[교외장학] 2023년 1학기 고양시 대학생 본인부담 등록금 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213419&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-04-13)
-
-* **[사회봉사센터 뉴스레터 제 2호 &quot;소아암 아이들을 돕는 일, 어렵지 않아요!&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213416&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 사회봉사센터 (~2023-04-13)
