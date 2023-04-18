@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[국제교류팀] 2023 파란사다리 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213593&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2023-04-18)
+
+* **[실험실 정전감시장치 연락처 변경 작업 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213588&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 안전관리센터 (~2023-04-18)
+
 * **[(재공지)아주허브에서 4월 퀴즈 풀고 기프티콘 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213583&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-04-18)
 
@@ -98,9 +104,3 @@
 
 * **[[공지] 특별재난지역(일부) 선포(산불) 에 따른 23년 예비군훈련 면제 지침 전파사항](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213449&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 예비군연대 (~2023-04-14)
-
-* **[[공학대학원] 2023학년도 후기 석사과정 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213446&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 공학대학원교학팀 (~2023-04-13)
-
-* **[[일자리+센터] 아주대와 함께하는 이트너스 채용설명회 (4/18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213444&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-04-13)
