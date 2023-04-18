@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[메이커스페이스] 시험기간 장비운영시간 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213631&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-04-18)
+
+* **[[LINC 3.0] 2023 하계 현장실습 진행 일정안내(★재학생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213627&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2023-04-18)
+
 * **[[국가근로][대청교] 2023학년도 한국장학재단 대학생 근로장학사업 부정근로 방지 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213610&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-04-18)
 
@@ -98,9 +104,3 @@
 
 * **[[예비군연대]&#x27;23년 아주대학교 예비군훈련 계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213480&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 예비군연대 (~2023-04-14)
-
-* **[MOSFET 반도체 공정 전문인력양성(1차) 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213466&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2023-04-14)
-
-* **[2023년 경기도 &#x27;청년 복지포인트&#x27; 1차 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213465&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-04-14)
