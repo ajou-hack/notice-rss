@@ -15,13 +15,25 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[교외장학] 2023년도 상반기 강화군 대학생 등록금 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213577&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-04-18)
+
+* **[(재공지)[LINC 3.0] 2023 기술지도/애로기술 자문 지원사업 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213575&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2023-04-18)
+
+* **[[일자리+센터] 아주대와 함께하는 동원그룹 채용설명회 및 상담회 (4/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213573&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-04-18)
+
+* **[[경영대학](추가모집중) 2023-1학기 수업 TA(Teaching Assistant) 모집 및 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213570&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 경영대학 (~2023-04-18)
+
 * **[2023 KUSF U-스포츠마케팅 러너 교육 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213564&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-04-17)
 
 * **[성수기 주말 운동장 예약 방식 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213562&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-04-17)
 
-* **[[국가근로] 2023학년도 1학기 일반 교내 국가근로장학생 선발 공고(추가모집)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213560&amp;article.offset=0&amp;articleLimit=30)**
+* **[[국가근로](학부생) 2023학년도 1학기 일반 교내 국가근로장학생 선발 공고(추가모집)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213560&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-04-17)
 
 * **[2023학년도 1학기 바르게장학 신청 안내_2023.4.28.(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213549&amp;article.offset=0&amp;articleLimit=30)**
@@ -29,9 +41,6 @@
 
 * **[[학부/학사과정] 2023-하계 계절학기 국내대학 학점교류 신청 안내(23.04.17.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213538&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-04-17)
-
-* **[[경영대학](추가모집중) 2023-1학기 수업 TA(Teaching Assistant)모집 및 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213532&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 경영대학 (~2023-04-17)
 
 * **[[인문과학연구소] 세미나 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213525&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 인문과학연구소 (~2023-04-17)
@@ -95,12 +104,3 @@
 
 * **[[학습법] 2023-1학기 학생 강사 모집 안내(기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213432&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-04-13)
-
-* **[[공지] 2023-1학기 경영대학교학팀 근로학생(면학장학생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213427&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 경영대학교학팀 (~2023-04-13)
-
-* **[[학습법] 2023-1학기 온라인 학습법 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213426&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-04-13)
-
-* **[[교외장학] 2023년 1학기 고양시 대학생 본인부담 등록금 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213419&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-04-13)
