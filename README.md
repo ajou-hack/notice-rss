@@ -15,6 +15,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[(재공지)아주허브에서 4월 퀴즈 풀고 기프티콘 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213583&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-04-18)
+
+* **[[교외장학] 2023년 5·18희망장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213581&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-04-18)
+
+* **[[교육대학원] 2023학년도 후기(정시) 교육대학원 석사학위과정(야간) 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213580&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 교육대학원 (~2023-04-18)
+
+* **[[학습법] 2023-1학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213579&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-04-18)
+
 * **[[교외장학] 2023년도 상반기 강화군 대학생 등록금 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213577&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-04-18)
 
@@ -92,15 +104,3 @@
 
 * **[[일자리+센터] 아주대와 함께하는 이트너스 채용설명회 (4/18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213444&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-04-13)
-
-* **[(마감)[다산학부대학] 2023-1 교양과목 중간고사 대학원생 감독자 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213441&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-04-13)
-
-* **[[나라키움 남양주복합청사] 행복주택 제2차 입주자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213436&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-04-13)
-
-* **[[재공지/LINC 3.0] KBO 구단 현장방문의 기회 !「2023 KBO-NINE 프로그램」모집 안내(~05.01.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213433&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀 (~2023-04-13)
-
-* **[[학습법] 2023-1학기 학생 강사 모집 안내(기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213432&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-04-13)
