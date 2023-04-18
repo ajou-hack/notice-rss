@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[기술사업화팀] 2023년도『지역산업연계 대학 Open-lab 육성지원사업』 참여 의향 수요조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213603&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기술사업화팀 (~2023-04-18)
+
 * **[[국제교류팀] 2023 파란사다리 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213593&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2023-04-18)
 
@@ -101,6 +104,3 @@
 
 * **[(재공지)[LINC 3.0] 2023 산학공동기술개발과제 수요조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213459&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - 산학사업팀 (~2023-04-14)
-
-* **[[공지] 특별재난지역(일부) 선포(산불) 에 따른 23년 예비군훈련 면제 지침 전파사항](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213449&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 예비군연대 (~2023-04-14)
