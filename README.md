@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[국가근로][대청교] 2023학년도 한국장학재단 대학생 근로장학사업 부정근로 방지 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213610&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-04-18)
+
 * **[[기술사업화팀] 2023년도『지역산업연계 대학 Open-lab 육성지원사업』 참여 의향 수요조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213603&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기술사업화팀 (~2023-04-18)
 
@@ -101,6 +104,3 @@
 
 * **[2023년 경기도 &#x27;청년 복지포인트&#x27; 1차 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213465&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-04-14)
-
-* **[(재공지)[LINC 3.0] 2023 산학공동기술개발과제 수요조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213459&amp;article.offset=0&amp;articleLimit=30)**
- [학술] - 산학사업팀 (~2023-04-14)
