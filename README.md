@@ -15,13 +15,16 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[정보통신대학원] 2023학년도 후기 정시 석사과정 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213644&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 정보통신대학원교학팀 (~2023-04-19)
+
 * **[[기간변경] [SW중심대학] 2023 하계 현장실습(A3인턴십) 학생 모집 (~04.22)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213638&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW중심대학사업단 (~2023-04-19)
 
 * **[MOSFET 반도체 공정 전문인력양성(1차) 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213636&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2023-04-19)
 
-* **[[메이커스페이스] 시험기간 장비운영시간 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213631&amp;article.offset=0&amp;articleLimit=30)**
+* **[(재공지) [메이커스페이스] 시험기간 장비운영시간 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213631&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-04-18)
 
 * **[[LINC 3.0] 2023 하계 현장실습 진행 일정안내(★재학생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213627&amp;article.offset=0&amp;articleLimit=30)**
@@ -101,6 +104,3 @@
 
 * **[[일자리+센터] 당근, 나를 위한 진로-취업상담 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213486&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-04-14)
-
-* **[상반기 가로등 보수공사 안내 (율곡관 남측 ~ 도서관)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213482&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2023-04-14)
