@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[사전공지] 2023 제3회 SW융합창업캠프 일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213711&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW중심대학사업단 (~2023-04-19)
+
 * **[[학부] 전공(복수,부,마이크로,연계,심화전공) 신청 및 취소 기간 안내 (05.01.~05.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213679&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-04-19)
 
@@ -101,6 +104,3 @@
 
 * **[2023-1학기 BSM 수학1 중간고사 부감독(대학원생) 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213501&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 다산학부대학교학팀 (~2023-04-17)
-
-* **[[인권센터 학생상담소] 위기 심리상담 신청서 &quot;마음이 너무 힘들어 죽고 싶다는 생각이 자주 나요.&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213500&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 인권센터 학생상담소 (~2023-04-17)
