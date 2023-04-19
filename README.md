@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학부] 전공(복수,부,마이크로,연계,심화전공) 신청 및 취소 기간 안내 (05.01.~05.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213679&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-04-19)
+
+* **[(재공지)[LINC 3.0] 2023 제18회 현장실습 수기•영상 공모전 참여 안내( ~ 4/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213677&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2023-04-19)
+
 * **[[봉사활동] 2023&#x27;송파 청소년 영화제&#x27; 대학생 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213661&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-04-19)
 
@@ -98,9 +104,3 @@
 
 * **[[인권센터 학생상담소] 위기 심리상담 신청서 &quot;마음이 너무 힘들어 죽고 싶다는 생각이 자주 나요.&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213500&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 인권센터 학생상담소 (~2023-04-17)
-
-* **[(유통기한 임박) 손소독제 나눔합니다! (수량 많음)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213499&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-04-17)
-
-* **[[일자리+센터] 4월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213498&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-04-17)
