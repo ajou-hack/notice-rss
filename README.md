@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[기간변경] [SW중심대학] 2023 하계 현장실습(A3인턴십) 학생 모집 (~04.22)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213638&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW중심대학사업단 (~2023-04-19)
+
+* **[MOSFET 반도체 공정 전문인력양성(1차) 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213636&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2023-04-19)
+
 * **[[메이커스페이스] 시험기간 장비운영시간 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213631&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-04-18)
 
@@ -98,9 +104,3 @@
 
 * **[상반기 가로등 보수공사 안내 (율곡관 남측 ~ 도서관)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213482&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2023-04-14)
-
-* **[혜강관 연구실 특별안전교육 재안내(인센티브 및 패널티 추가)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213481&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 안전관리센터 (~2023-04-14)
-
-* **[[예비군연대]&#x27;23년 아주대학교 예비군훈련 계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213480&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 예비군연대 (~2023-04-14)
