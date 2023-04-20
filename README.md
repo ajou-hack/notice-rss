@@ -15,6 +15,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[다산학부대학] 2023-1 교양과목 중간고사 대학원생 감독자 추가 모집 (1명)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213733&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-04-20)
+
+* **[2023학년도 1학기 파란학기제 중간교류회 온라인전시관 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213731&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2023-04-20)
+
+* **[[일자리+센터] 아주대와 함께하는 국가정보원 채용설명회 (5/9)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213728&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-04-20)
+
+* **[[교외장학] 2023 몽당연필 장학생 모집 안내(재일동포 유학생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213721&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-04-20)
+
 * **[[사전공지] 2023 제3회 SW융합창업캠프 일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213711&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW중심대학사업단 (~2023-04-19)
 
@@ -92,15 +104,3 @@
 
 * **[[학부/학사과정] 2023-하계 계절학기 국내대학 학점교류 신청 안내(23.04.17.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213538&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-04-17)
-
-* **[[인문과학연구소] 세미나 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213525&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 인문과학연구소 (~2023-04-17)
-
-* **[2023 하계 미래자동차 학점교류(충북대학교) 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213517&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 혁신공유팀 (~2023-04-17)
-
-* **[[학습법] 2023-1학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213508&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-04-17)
-
-* **[2023-1학기 BSM 수학1 중간고사 부감독(대학원생) 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213501&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 다산학부대학교학팀 (~2023-04-17)
