@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학부] 2023-1학기 미등록자 구제등록 안내(04.24. ~ 04.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213735&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 재무회계팀 (~2023-04-20)
+
 * **[[다산학부대학] 2023-1 교양과목 중간고사 대학원생 감독자 추가 모집 (1명)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213733&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-04-20)
 
@@ -23,6 +26,9 @@
 
 * **[[일자리+센터] 아주대와 함께하는 국가정보원 채용설명회 (5/9)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213728&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-04-20)
+
+* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213726&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2023-04-20)
 
 * **[[교외장학] 2023 몽당연필 장학생 모집 안내(재일동포 유학생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213721&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-04-20)
@@ -98,9 +104,3 @@
 
 * **[[국가근로](학부생) 2023학년도 1학기 일반 교내 국가근로장학생 선발 공고(추가모집)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213560&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-04-17)
-
-* **[2023학년도 1학기 바르게장학 신청 안내_2023.4.28.(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213549&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-04-17)
-
-* **[[학부/학사과정] 2023-하계 계절학기 국내대학 학점교류 신청 안내(23.04.17.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213538&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-04-17)
