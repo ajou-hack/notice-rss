@@ -15,10 +15,16 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[지식재산] 2023년 캠퍼스 특허 유니버시아드 - 한국발명진흥회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213743&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 지식재산융합인재양성사업 (~2023-04-20)
+
+* **[[학자금대출] 2023학년도 1학기 최종 구제등록기간 한국장학재단 학자금대출 실행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213742&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-04-20)
+
 * **[[학부] 2023-1학기 미등록자 구제등록 안내(04.24. ~ 04.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213735&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 재무회계팀 (~2023-04-20)
 
-* **[[다산학부대학] 2023-1 교양과목 중간고사 대학원생 감독자 추가 모집 (1명)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213733&amp;article.offset=0&amp;articleLimit=30)**
+* **[(마감)[다산학부대학] 2023-1 교양과목 중간고사 대학원생 감독자 추가 모집 (1명)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213733&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-04-20)
 
 * **[2023학년도 1학기 파란학기제 중간교류회 온라인전시관 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213731&amp;article.offset=0&amp;articleLimit=30)**
@@ -98,9 +104,3 @@
 
 * **[2023 KUSF U-스포츠마케팅 러너 교육 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213564&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-04-17)
-
-* **[성수기 주말 운동장 예약 방식 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213562&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-04-17)
-
-* **[[국가근로](학부생) 2023학년도 1학기 일반 교내 국가근로장학생 선발 공고(추가모집)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213560&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-04-17)
