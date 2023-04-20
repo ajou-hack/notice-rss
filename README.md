@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[개교 50주년 기념] 인문대학 한국학학술대회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213751&amp;article.offset=0&amp;articleLimit=30)**
+ [학술] - 인문대학교학팀 (~2023-04-20)
+
+* **[[교외장학] 2023년 서울희망대학장학금 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213750&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-04-20)
+
 * **[[교외장학] 2023년 상반기 울산연구원 장학생 선발 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213746&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-04-20)
 
@@ -98,9 +104,3 @@
 
 * **[(재공지)[LINC 3.0] 2023 기술지도/애로기술 자문 지원사업 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213575&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학사업팀 (~2023-04-18)
-
-* **[[일자리+센터] 아주대와 함께하는 동원그룹 채용설명회 및 상담회 (4/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213573&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-04-18)
-
-* **[[경영대학](추가모집중) 2023-1학기 수업 TA(Teaching Assistant) 모집 및 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213570&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 경영대학 (~2023-04-18)
