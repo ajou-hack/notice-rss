@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[교외장학] 2023년 상반기 울산연구원 장학생 선발 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213746&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-04-20)
+
 * **[[지식재산] 2023년 캠퍼스 특허 유니버시아드 - 한국발명진흥회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213743&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 지식재산융합인재양성사업 (~2023-04-20)
 
@@ -33,7 +36,7 @@
 * **[[일자리+센터] 아주대와 함께하는 국가정보원 채용설명회 (5/9)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213728&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-04-20)
 
-* **[아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213726&amp;article.offset=0&amp;articleLimit=30)**
+* **[[마감] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213726&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 종합지원센터 (~2023-04-20)
 
 * **[[교외장학] 2023 몽당연필 장학생 모집 안내(재일동포 유학생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213721&amp;article.offset=0&amp;articleLimit=30)**
@@ -101,6 +104,3 @@
 
 * **[[경영대학](추가모집중) 2023-1학기 수업 TA(Teaching Assistant) 모집 및 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213570&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 경영대학 (~2023-04-18)
-
-* **[2023 KUSF U-스포츠마케팅 러너 교육 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213564&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-04-17)
