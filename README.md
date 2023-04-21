@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[(Remind) 성수기 주말 운동장 예약 방식 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213765&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-04-21)
+
+* **[[봉사활동] 2024강원 동계청소년올림픽대회 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213764&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-04-21)
+
+* **[[지식재산] 2023-1 지식재산기반 발명 아이디어, 특허 경진대회 및 지식재산능력시험(IPAT) 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213763&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 지식재산융합인재양성사업 (~2023-04-21)
+
 * **[[개교 50주년 기념] 인문대학 한국학학술대회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213751&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - 인문대학교학팀 (~2023-04-20)
 
@@ -95,12 +104,3 @@
 
 * **[[교육대학원] 2023학년도 후기(정시) 교육대학원 석사학위과정(야간) 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213580&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 교육대학원 (~2023-04-18)
-
-* **[[학습법] 2023-1학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213579&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-04-18)
-
-* **[[교외장학] 2023년도 상반기 강화군 대학생 등록금 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213577&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-04-18)
-
-* **[(재공지)[LINC 3.0] 2023 기술지도/애로기술 자문 지원사업 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213575&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2023-04-18)
