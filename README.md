@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[국가근로] 2023학년도 1학기 국가근로장학금 일반유형 ‘추가’신청 안내(~05.08. 18시까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213831&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-04-21)
+
+* **[[인권센터 학생상담소] &#x27;스트레스로 지쳐버린 이들에게&#x27; 스트레스 관리 집단상담 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213829&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 인권센터 학생상담소 (~2023-04-21)
+
+* **[[인권센터 학생상담소] &#x27;대인관계에 지쳐버린 이들에게&#x27; 대인관계 향상 집단상담 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213827&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 인권센터 학생상담소 (~2023-04-21)
+
 * **[[일자리+센터] (수정)아주대와 함께하는 동원그룹 채용설명회 및 상담회 (4/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213782&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-04-21)
 
@@ -95,12 +104,3 @@
 
 * **[(재공지) [메이커스페이스] 시험기간 장비운영시간 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213631&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-04-18)
-
-* **[[LINC 3.0] 2023 하계 현장실습 진행 일정안내(★재학생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213627&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2023-04-18)
-
-* **[[국가근로][대청교] 2023학년도 한국장학재단 대학생 근로장학사업 부정근로 방지 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213610&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-04-18)
-
-* **[[기술사업화팀] 2023년도『지역산업연계 대학 Open-lab 육성지원사업』 참여 의향 수요조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213603&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기술사업화팀 (~2023-04-18)
