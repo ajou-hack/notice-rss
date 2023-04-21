@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학부/학사과정] (23.04.21.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213780&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-04-21)
+
 * **[[천원의 아침밥 &#x27;아침든든 아주&#x27;_Good Morning Ajou!] 식비 부담은 덜고, 든든함은 더하고!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213777&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-04-21)
 
@@ -101,6 +104,3 @@
 
 * **[[국제교류팀] 2023 파란사다리 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213593&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2023-04-18)
-
-* **[실험실 정전감시장치 연락처 변경 작업 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213588&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 안전관리센터 (~2023-04-18)
