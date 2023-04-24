@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[대학원] 2023학년도 후기 영어영문학과 일반대학원 입시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213867&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 인문대 교학팀 (~2023-04-24)
+
 * **[[학습법] 2023-1학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213859&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-04-24)
 
@@ -101,6 +104,3 @@
 
 * **[[학부] 전공(복수,부,마이크로,연계,심화전공) 신청 및 취소 기간 안내 (05.01.~05.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213679&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-04-19)
-
-* **[(재공지)[LINC 3.0] 2023 제18회 현장실습 수기•영상 공모전 참여 안내( ~ 4/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213677&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2023-04-19)
