@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[인문대학] 2023-1학기 신규 개설 연계전공 소개](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213842&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 인문대학교학팀 (~2023-04-24)
+
+* **[[홍보] WISET-GM 글로벌 멘토링 : 이공계 전공 여자 대학생 대상](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213839&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 홍보실 (~2023-04-24)
+
+* **[[봉사활동](단기봉사단) 44기 월드프렌즈코리아 청년봉사단 해외봉사 단원 모집 (~5/10 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213838&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-04-24)
+
 * **[[국가근로] 2023학년도 1학기 국가근로장학금 일반유형 ‘추가’신청 안내(~05.08. 18시까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213831&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-04-21)
 
@@ -95,12 +104,3 @@
 
 * **[[정보통신대학원] 2023학년도 후기 정시 석사과정 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213644&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 정보통신대학원교학팀 (~2023-04-19)
-
-* **[[기간변경] [SW중심대학] 2023 하계 현장실습(A3인턴십) 학생 모집 (~04.22)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213638&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW중심대학사업단 (~2023-04-19)
-
-* **[MOSFET 반도체 공정 전문인력양성(1차) 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213636&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2023-04-19)
-
-* **[(재공지) [메이커스페이스] 시험기간 장비운영시간 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213631&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-04-18)
