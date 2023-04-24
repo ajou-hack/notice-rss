@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] [학부] 2023-1학기 미등록자 구제등록 안내(04.24. ~ 04.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213735&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 재무회계팀 (~2023-04-20)
+
 * **[📌 [공지] (학생)아주Bb 비대면 시험 주의사항 안내[2023-1학기]](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213543&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-04-17)
 
@@ -81,9 +84,6 @@
 * **[[학자금대출] 2023학년도 1학기 최종 구제등록기간 한국장학재단 학자금대출 실행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213742&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-04-20)
 
-* **[[학부] 2023-1학기 미등록자 구제등록 안내(04.24. ~ 04.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213735&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 재무회계팀 (~2023-04-20)
-
 * **[(마감)[다산학부대학] 2023-1 교양과목 중간고사 대학원생 감독자 추가 모집 (1명)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213733&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-04-20)
 
@@ -104,3 +104,6 @@
 
 * **[[학부] 전공(복수,부,마이크로,연계,심화전공) 신청 및 취소 기간 안내 (05.01.~05.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213679&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-04-19)
+
+* **[(재공지)[LINC 3.0] 2023 제18회 현장실습 수기•영상 공모전 참여 안내( ~ 4/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213677&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2023-04-19)
