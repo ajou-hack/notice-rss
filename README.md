@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023-1학기 중앙도서관 도서대출 부문 우수이용자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213883&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 중앙도서관 학술정보팀 (~2023-04-24)
+
+* **[[재공지/LINC 3.0] KBO 구단 현장방문의 기회 !「2023 KBO-NINE 프로그램」모집 안내(~05.01.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213879&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 산학사업팀 (~2023-04-24)
+
 * **[[대학원] 2023학년도 후기 영어영문학과 일반대학원 입시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213867&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 인문대 교학팀 (~2023-04-24)
 
@@ -101,9 +107,3 @@
 
 * **[[사전공지] 2023 제3회 SW융합창업캠프 일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213711&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW중심대학사업단 (~2023-04-19)
-
-* **[[학부] 전공(복수,부,마이크로,연계,심화전공) 신청 및 취소 기간 안내 (05.01.~05.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213679&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-04-19)
-
-* **[(재공지)[LINC 3.0] 2023 제18회 현장실습 수기•영상 공모전 참여 안내( ~ 4/30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213677&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2023-04-19)
