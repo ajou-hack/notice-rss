@@ -18,6 +18,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[사회과학연구소] 콜로퀴엄의 해외학자 초청강연 행사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213921&amp;article.offset=0&amp;articleLimit=30)**
+ [학술] - 사회과학대학교학팀 (~2023-04-25)
+
+* **[[재공지] 2023-2학기 파란학기제 교수제안 프로그램 공모(~5/2)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213918&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2023-04-25)
+
+* **[[재공지/비교과]아주대와 함께하는 문화산책](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213915&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-04-25)
+
 * **[[금융공학과] 2023 금융공학과 졸업생(학부 및 대학원) 재직자 선배 초청 간담회 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213911&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 경영대학교학팀 (~2023-04-25)
 
@@ -98,12 +107,3 @@
 
 * **[[지식재산] 2023-1 지식재산기반 발명 아이디어, 특허 경진대회 및 지식재산능력시험(IPAT) 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213763&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 지식재산융합인재양성사업 (~2023-04-21)
-
-* **[[개교 50주년 기념] 인문대학 한국학학술대회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213751&amp;article.offset=0&amp;articleLimit=30)**
- [학술] - 인문대학교학팀 (~2023-04-20)
-
-* **[[교외장학] 2023년 서울희망대학장학금 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213750&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-04-20)
-
-* **[[교외장학] 2023년 상반기 울산연구원 장학생 선발 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213746&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-04-20)
