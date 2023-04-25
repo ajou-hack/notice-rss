@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[Ajou Day!]KT-Wiz 홈경기 시구 행사 및 아주인 무료관람 경기](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213934&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-04-25)
+
 * **[[재공지] 2023학년도 1학기 바르게장학 신청 안내_2023.4.28.(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213925&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-04-25)
 
@@ -104,6 +107,3 @@
 
 * **[[성평등상담소 특강] &quot;사랑의 이름으로 용서되지 않는 것들&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213773&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 인권센터 성평등상담소 (~2023-04-21)
-
-* **[(Remind) 성수기 주말 운동장 예약 방식 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213765&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-04-21)
