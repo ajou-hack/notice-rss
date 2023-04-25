@@ -18,6 +18,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[금융공학과] 2023 금융공학과 졸업생(학부 및 대학원) 재직자 선배 초청 간담회 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213911&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 경영대학교학팀 (~2023-04-25)
+
+* **[[일자리+센터] 2023 K-Move GYBM 베트남-ASEAN 취업연수 과정 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213909&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-04-25)
+
+* **[☆간식&amp;선물제공★ &#x27;안녕! 나 정서인데, 우리 친해질래?&#x27; (정서조절을 위한 인식과 표현) 특강 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213908&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 인권센터 학생상담소 (~2023-04-25)
+
+* **[[학습법] 2023-1학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213907&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-04-25)
+
 * **[[학부/학사과정] (23.04.25.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213897&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-04-25)
 
@@ -95,15 +107,3 @@
 
 * **[[교외장학] 2023년 상반기 울산연구원 장학생 선발 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213746&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-04-20)
-
-* **[[지식재산] 2023년 캠퍼스 특허 유니버시아드 - 한국발명진흥회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213743&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 지식재산융합인재양성사업 (~2023-04-20)
-
-* **[[학자금대출] 2023학년도 1학기 최종 구제등록기간 한국장학재단 학자금대출 실행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213742&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-04-20)
-
-* **[(마감)[다산학부대학] 2023-1 교양과목 중간고사 대학원생 감독자 추가 모집 (1명)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213733&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-04-20)
-
-* **[2023학년도 1학기 파란학기제 중간교류회 온라인전시관 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213731&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2023-04-20)
