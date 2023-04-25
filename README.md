@@ -18,6 +18,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학부/학사과정] (23.04.25.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213897&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-04-25)
+
+* **[[일자리+센터] 아주대와 함께하는 미원상사 채용설명회(5/11)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213896&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-04-25)
+
+* **[[경기주택도시공사] 매입임대주택 미임대분(&#x27;23년 1차) 입주자 모집공고(총 46호)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213895&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-04-25)
+
 * **[[일자리+센터] 4월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213887&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-04-24)
 
@@ -98,12 +107,3 @@
 
 * **[2023학년도 1학기 파란학기제 중간교류회 온라인전시관 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213731&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2023-04-20)
-
-* **[[일자리+센터] 아주대와 함께하는 국가정보원 채용설명회 (5/9)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213728&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-04-20)
-
-* **[[마감] 아르바이트 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213726&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2023-04-20)
-
-* **[[교외장학] 2023 몽당연필 장학생 모집 안내(재일동포 유학생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213721&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-04-20)
