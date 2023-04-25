@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[재공지] 2023학년도 1학기 바르게장학 신청 안내_2023.4.28.(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213925&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-04-25)
+
+* **[[공지] 23년 예비군훈련 최종안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213924&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 예비군연대 (~2023-04-25)
+
 * **[[사회과학연구소] 콜로퀴엄의 해외학자 초청강연 행사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213921&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - 사회과학대학교학팀 (~2023-04-25)
 
@@ -101,9 +107,3 @@
 
 * **[(Remind) 성수기 주말 운동장 예약 방식 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213765&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-04-21)
-
-* **[[봉사활동] 2024강원 동계청소년올림픽대회 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213764&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-04-21)
-
-* **[[지식재산] 2023-1 지식재산기반 발명 아이디어, 특허 경진대회 및 지식재산능력시험(IPAT) 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213763&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 지식재산융합인재양성사업 (~2023-04-21)
