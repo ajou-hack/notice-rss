@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[성평등상담소 특강(5/10)] &quot;사랑의 이름으로 용서되지 않는 것들&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213974&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 인권센터 성평등상담소 (~2023-04-26)
+
 * **[[IT융합대학원] 2023학년도 후기 석사과정 신입생 모집안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213970&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - IT융합대학원 교학팀 (~2023-04-26)
 
@@ -104,6 +107,3 @@
 
 * **[[홍보] WISET-GM 글로벌 멘토링 : 이공계 전공 여자 대학생 대상](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213839&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 홍보실 (~2023-04-24)
-
-* **[[봉사활동](단기봉사단) 44기 월드프렌즈코리아 청년봉사단 해외봉사 단원 모집 (~5/10 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213838&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-04-24)
