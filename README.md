@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[IT융합대학원] 2023학년도 후기 석사과정 신입생 모집안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213970&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - IT융합대학원 교학팀 (~2023-04-26)
+
+* **[(재공지)[개교 50주년 기념] 인문대학 한국학학술대회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213964&amp;article.offset=0&amp;articleLimit=30)**
+ [학술] - 인문대학교학팀 (~2023-04-26)
+
 * **[[봉사활동] 매탄2동 경로잔치 풍선아트 재능기부 및 행사보조 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213959&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-04-26)
 
@@ -101,9 +107,3 @@
 
 * **[[봉사활동](단기봉사단) 44기 월드프렌즈코리아 청년봉사단 해외봉사 단원 모집 (~5/10 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213838&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-04-24)
-
-* **[[국가근로] 2023학년도 1학기 국가근로장학금 일반유형 ‘추가’신청 안내(~05.08. 18시까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213831&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-04-21)
-
-* **[[인권센터 학생상담소] &#x27;스트레스로 지쳐버린 이들에게&#x27; 스트레스 관리 집단상담 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213829&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 인권센터 학생상담소 (~2023-04-21)
