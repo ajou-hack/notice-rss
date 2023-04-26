@@ -18,6 +18,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[상반기 실험실 및 기타공간 전기설비 점검 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213949&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2023-04-26)
+
+* **[[학습법] 2023학년도 단과대학별 신입생을 위한 선배 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213946&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-04-26)
+
+* **[[학습법] 2023학년도 신입생을 위한 학습 전략 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213945&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-04-26)
+
+* **[[학습법] 2023-1학기 온라인 학습법 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213944&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-04-26)
+
 * **[[Ajou Day!]KT-Wiz 홈경기 시구 행사 및 아주인 무료관람 경기](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213934&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-04-25)
 
@@ -95,15 +107,3 @@
 
 * **[[일자리+센터] (수정)아주대와 함께하는 동원그룹 채용설명회 및 상담회 (4/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213782&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-04-21)
-
-* **[[학부/학사과정] (23.04.21.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213780&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-04-21)
-
-* **[[천원의 아침밥 &#x27;아침든든 아주&#x27;_Good Morning Ajou!] 식비 부담은 덜고, 든든함은 더하고!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213777&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-04-21)
-
-* **[[교외장학] 2023 강원랜드 멘토링 장학생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213774&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-04-21)
-
-* **[[성평등상담소 특강] &quot;사랑의 이름으로 용서되지 않는 것들&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213773&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 인권센터 성평등상담소 (~2023-04-21)
