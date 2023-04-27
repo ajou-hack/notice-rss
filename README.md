@@ -12,6 +12,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[제2회 CO-WEEK ACADEMY 수강신청 안내(4/28~5/10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214008&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신공유단 (~2023-04-27)
+
+* **[[공공정책대학원] 2023학년도 후기 정시 석사과정 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214007&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 공공정책대학원 교학팀 (~2023-04-27)
+
+* **[[봉사활동] 아름학교 현장체험학습 지원 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214004&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-04-27)
+
 * **[[LINC 3.0] 2023 하계 현장실습 온라인 설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214000&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2023-04-27)
 
@@ -92,12 +101,3 @@
 
 * **[[학습법] 2023-1학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213907&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-04-25)
-
-* **[[학부/학사과정] (23.04.25.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213897&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-04-25)
-
-* **[[일자리+센터] 아주대와 함께하는 미원상사 채용설명회(5/11)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213896&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-04-25)
-
-* **[[경기주택도시공사] 매입임대주택 미임대분(&#x27;23년 1차) 입주자 모집공고(총 46호)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213895&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-04-25)
