@@ -12,6 +12,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[기숙사식당동 무인카페 오픈에 따른 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214016&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2023-04-27)
+
+* **[[학사]2023-2학기 재학생/휴학생 통합 전과 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214014&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-04-27)
+
+* **[[한국장학재단 학자금대출] 2023년 특별상환유예 제도 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214013&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-04-27)
+
 * **[제2회 CO-WEEK ACADEMY 수강신청 안내(4/28~5/10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214008&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신공유단 (~2023-04-27)
 
@@ -92,12 +101,3 @@
 
 * **[[금융공학과] 2023 금융공학과 졸업생(학부 및 대학원) 재직자 선배 초청 간담회 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213911&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 경영대학교학팀 (~2023-04-25)
-
-* **[[일자리+센터] 2023 K-Move GYBM 베트남-ASEAN 취업연수 과정 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213909&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-04-25)
-
-* **[☆간식&amp;선물제공★ &#x27;안녕! 나 정서인데, 우리 친해질래?&#x27; (정서조절을 위한 인식과 표현) 특강 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213908&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 인권센터 학생상담소 (~2023-04-25)
-
-* **[[학습법] 2023-1학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213907&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-04-25)
