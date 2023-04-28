@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] [학부] 전공(복수,부,마이크로,연계,심화전공) 신청 및 취소 기간 안내 (05.01.~05.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213679&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-04-19)
+
 * **[📌 [공지] [Remind][학사] 2023-1학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212711&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-03-28)
 
@@ -11,6 +14,18 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
+
+* **[[비교과교육지원센터] 아주허브 4월 퀴즈대회 정답 발표 및 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214026&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-04-28)
+
+* **[[국가근로][대청교] 4월 출근부 입력 마감일 및 장학금 지급 예정일 안내(필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214024&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-04-28)
+
+* **[AJOU 신나는 대학생활 - 브이로그 제작 공모전 수상자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214021&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-04-28)
+
+* **[[학부/학사과정] (23.04.27.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214020&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-04-27)
 
 * **[기숙사식당동 무인카페 오픈에 따른 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214016&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2023-04-27)
@@ -89,15 +104,3 @@
 
 * **[[공지] 23년 예비군훈련 최종안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213924&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 예비군연대 (~2023-04-25)
-
-* **[[사회과학연구소] 콜로퀴엄의 해외학자 초청강연 행사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213921&amp;article.offset=0&amp;articleLimit=30)**
- [학술] - 사회과학대학교학팀 (~2023-04-25)
-
-* **[[재공지] 2023-2학기 파란학기제 교수제안 프로그램 공모(~5/2)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213918&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2023-04-25)
-
-* **[[재공지/비교과]아주대와 함께하는 문화산책](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213915&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-04-25)
-
-* **[[금융공학과] 2023 금융공학과 졸업생(학부 및 대학원) 재직자 선배 초청 간담회 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213911&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 경영대학교학팀 (~2023-04-25)
