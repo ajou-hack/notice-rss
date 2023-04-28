@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[2023 블록체인 중급 개발 구직자과정] 교육프로그램 참여 사전 수요조사(~05.09까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214037&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW중심대학사업단 (~2023-04-28)
+
+* **[[국제교류팀]에서 성실한 단기 면학장학생을 모집합니다. (재학생, 휴학생 가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214035&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 국제교류팀 (~2023-04-28)
+
+* **[[아주지속가능발전센터] AJOU ECO 챌린지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214034&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 아주지속가능발전센터 (~2023-04-28)
+
 * **[[비교과교육지원센터] 아주허브 4월 퀴즈대회 정답 발표 및 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214026&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-04-28)
 
@@ -95,12 +104,3 @@
 
 * **[[학습법] 2023-1학기 온라인 학습법 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213944&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-04-26)
-
-* **[[Ajou Day!]KT-Wiz 홈경기 시구 행사 및 아주인 무료관람 경기](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213934&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-04-25)
-
-* **[[재공지] 2023학년도 1학기 바르게장학 신청 안내_2023.4.28.(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213925&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-04-25)
-
-* **[[공지] 23년 예비군훈련 최종안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213924&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 예비군연대 (~2023-04-25)
