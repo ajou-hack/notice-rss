@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[기간연장/LINC 3.0] 야구 좋아하면 들어와 !「2023 KBO-NINE 프로그램」모집 안내(~05.07.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214065&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 산학사업팀 (~2023-04-28)
+
+* **[[LINC 3.0] 2023 특화분야 연계 『산학협력협의체 운영 지원사업』 2차 모집공고(~5.31(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214062&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2023-04-28)
+
 * **[[봉사활동] 「2023 청년도시학교」도시봉사학교 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214058&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-04-28)
 
@@ -98,9 +104,3 @@
 
 * **[(재공지)[개교 50주년 기념] 인문대학 한국학학술대회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213964&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - 인문대학교학팀 (~2023-04-26)
-
-* **[[봉사활동] 매탄2동 경로잔치 풍선아트 재능기부 및 행사보조 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213959&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-04-26)
-
-* **[[일자리+센터]2023년 아주대학교 취업통계조사 당첨자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213958&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-04-26)
