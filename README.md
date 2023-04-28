@@ -15,7 +15,19 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
-* **[[기간연장/LINC 3.0] 야구 좋아하면 들어와 !「2023 KBO-NINE 프로그램」모집 안내(~05.07.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214065&amp;article.offset=0&amp;articleLimit=30)**
+* **[[인권센터 학생상담소] &#x27;안녕! 나 정서인데 우리 친해질래?&#x27; (정서조절을 위한 인식과 표현) 특강 참여자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214075&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 인권센터 학생상담소 (~2023-04-28)
+
+* **[[메이커스페이스] 5월 장비운용 교육안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214074&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-04-28)
+
+* **[[메이커스페이스] 휴관안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214073&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-04-28)
+
+* **[[마감임박!!] 아주대와 함께하는 문화산책](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214070&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-04-28)
+
+* **[[기간연장/LINC 3.0] KBO와 알찬 여름방학을 !「2023 KBO-NINE 프로그램」모집 안내(~05.07.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214065&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀 (~2023-04-28)
 
 * **[[LINC 3.0] 2023 특화분야 연계 『산학협력협의체 운영 지원사업』 2차 모집공고(~5.31(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214062&amp;article.offset=0&amp;articleLimit=30)**
@@ -92,15 +104,3 @@
 
 * **[[일자리+센터] (재공지)아주대와 함께하는 동원그룹 채용설명회 (4/28)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213983&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-04-27)
-
-* **[[일자리+센터] 현장실습 지원자를 위한 자소서 작성법 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213980&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-04-26)
-
-* **[[성평등상담소 특강(5/10)] &quot;사랑의 이름으로 용서되지 않는 것들&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213974&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 인권센터 성평등상담소 (~2023-04-26)
-
-* **[[IT융합대학원] 2023학년도 후기 석사과정 신입생 모집안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213970&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - IT융합대학원 교학팀 (~2023-04-26)
-
-* **[(재공지)[개교 50주년 기념] 인문대학 한국학학술대회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213964&amp;article.offset=0&amp;articleLimit=30)**
- [학술] - 인문대학교학팀 (~2023-04-26)
