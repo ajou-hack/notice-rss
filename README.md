@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[일자리+센터] (재공지) 현장실습지원자를 위한 자소서 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214078&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-04-28)
+
 * **[[일자리+센터] 잡아바 러닝센터 무료교육 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214077&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-04-28)
 
@@ -101,6 +104,3 @@
 
 * **[[국토교통부] 청년월세 특별지원 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213986&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-04-27)
-
-* **[[아주강좌] 제 490회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213984&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-04-27)
