@@ -15,6 +15,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[파이썬프로그래밍 기초 및 심화(비교과 Skill-UP 미래자동차/ SW신기술 캠프) 자격과정 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214147&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신공유단 (~2023-05-02)
+
+* **[[육군3사관학교] 사관생도 모집 설명회 안내(5월 3일, 14시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214146&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-05-02)
+
+* **[[봉사활동] 5/9 (화) 헌혈홍보, 헌혈증 기부 캠페인 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214144&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-05-02)
+
+* **[[일자리+센터] 4월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214143&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-02)
+
 * **[GOM Mix x LG그램 &#x27;일상을 빛내다&#x27; 영상 편집 공모전 안내(~5/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214133&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-05-02)
 
@@ -92,15 +104,3 @@
 
 * **[기숙사식당동 무인카페 오픈에 따른 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214016&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2023-04-27)
-
-* **[[학사]2023-2학기 재학생/휴학생 통합 전과 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214014&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-04-27)
-
-* **[[한국장학재단 학자금대출] 2023년 특별상환유예 제도 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214013&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-04-27)
-
-* **[제2회 CO-WEEK ACADEMY 수강신청 안내(4/28~5/10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214008&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 혁신공유단 (~2023-04-27)
-
-* **[[공공정책대학원] 2023학년도 후기 정시 석사과정 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214007&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 공공정책대학원 교학팀 (~2023-04-27)
