@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[GOM Mix x LG그램 &#x27;일상을 빛내다&#x27; 영상 편집 공모전 안내(~5/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214133&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-05-02)
+
 * **[[과학영재교육원] 주말교육 조교 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214126&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 과학영재교육원 (~2023-05-02)
 
@@ -101,6 +104,3 @@
 
 * **[[공공정책대학원] 2023학년도 후기 정시 석사과정 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214007&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 공공정책대학원 교학팀 (~2023-04-27)
-
-* **[[봉사활동] 아름학교 현장체험학습 지원 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214004&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-04-27)
