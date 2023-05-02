@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[캠페인] 귀중한 소녀들에게 걱정없는 일주일 선물하기 (생리대 기부 캠페인)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214110&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-05-02)
+
+* **[[봉사활동] 해외 에너지 빈곤국을 위한 태양광랜턴 조립 체험 (밀알복지재단)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214108&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-05-02)
+
 * **[[국제교류팀] 2023년 하계 해외단기파견 프로그램 참가자 3차 모집 (05.02~05.07)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214097&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 국제교류팀 (~2023-05-01)
 
@@ -98,9 +104,3 @@
 
 * **[[나라키움 대학생주택] 2023년 1학기 입주자 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213991&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-04-27)
-
-* **[[재안내][교외장학] 제29기 미래에셋 해외교환 장학생 선발 안내 _2023.4.27(목)~5.3(수) 17시 온라인 지원접수](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213988&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-04-27)
-
-* **[(재공지)[Ajou Day!]KT-Wiz 홈경기 시구 행사 및 아주인 무료관람 경기](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213987&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-04-27)
