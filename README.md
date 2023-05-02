@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[입학팀] 혁신공유라운지 사용불가 안내 &lt; 5월 9일 화요일 오전 9시 ~ 11시&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214157&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 입학팀 (~2023-05-02)
+
+* **[[홍보실] 율곡관 혁신공유라운지 사용불가 안내(5/9(화) 09:00~11:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214156&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 입학팀 (~2023-05-02)
+
 * **[2023년 멀티미디어 강의실 점검결과(04월) 및 2023년 (05월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214151&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2023-05-02)
 
@@ -98,9 +104,3 @@
 
 * **[[국가근로][대청교] 4월 출근부 입력 마감일 및 장학금 지급 예정일 안내(필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214024&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-04-28)
-
-* **[AJOU 신나는 대학생활 - 브이로그 제작 공모전 수상자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214021&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-04-28)
-
-* **[[학부/학사과정] (23.04.27.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214020&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-04-27)
