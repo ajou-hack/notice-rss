@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023년 멀티미디어 강의실 점검결과(04월) 및 2023년 (05월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214151&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2023-05-02)
+
 * **[파이썬프로그래밍 기초 및 심화(비교과 Skill-UP 미래자동차/ SW신기술 캠프) 자격과정 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214147&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신공유단 (~2023-05-02)
 
@@ -101,6 +104,3 @@
 
 * **[[학부/학사과정] (23.04.27.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214020&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-04-27)
-
-* **[기숙사식당동 무인카페 오픈에 따른 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214016&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2023-04-27)
