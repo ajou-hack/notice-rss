@@ -15,13 +15,22 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학부/학사과정] (23.05.03.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214183&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-05-03)
+
+* **[[비교과교육지원센터]아주대와 함께하는 문화산책(5월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214182&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-05-03)
+
+* **[[국가근로] 2023학년도 1학기 일반 교내 국가근로장학생 선발 공고(2차 추가모집)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214175&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-05-03)
+
+* **[2023 스승의 날 행사 &#x27;교수님 감사합니다&#x27; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214174&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-05-03)
+
 * **[[일자리+센터] 아주대와 함께하는 이노와이어리스 채용상담회 (5/10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214163&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-03)
 
 * **[[입학팀] 혁신공유라운지 사용불가 안내 &lt; 5월 9일 화요일 오전 9시 ~ 11시&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214157&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 입학팀 (~2023-05-02)
-
-* **[[홍보실] 율곡관 혁신공유라운지 사용불가 안내(5/9(화) 09:00~11:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214156&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학팀 (~2023-05-02)
 
 * **[2023년 멀티미디어 강의실 점검결과(04월) 및 2023년 (05월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214151&amp;article.offset=0&amp;articleLimit=30)**
@@ -95,12 +104,3 @@
 
 * **[[2023 블록체인 중급 개발 구직자과정] 교육프로그램 참여 사전 수요조사(~05.09까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214037&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW중심대학사업단 (~2023-04-28)
-
-* **[[국제교류팀]에서 성실한 단기 면학장학생을 모집합니다. (재학생, 휴학생 가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214035&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 국제교류팀 (~2023-04-28)
-
-* **[[아주지속가능발전센터] AJOU ECO 챌린지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214034&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 아주지속가능발전센터 (~2023-04-28)
-
-* **[[비교과교육지원센터] 아주허브 4월 퀴즈대회 정답 발표 및 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214026&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-04-28)
