@@ -21,6 +21,9 @@
 * **[[비교과교육지원센터]아주대와 함께하는 문화산책(5월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214182&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-05-03)
 
+* **[2023년 &#x27;연구실 안전의 날&#x27; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214181&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 안전관리센터 (~2023-05-03)
+
 * **[[국가근로] 2023학년도 1학기 일반 교내 국가근로장학생 선발 공고(2차 추가모집)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214175&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-05-03)
 
@@ -101,6 +104,3 @@
 
 * **[(당일재공지)[Ajou Day!]KT-Wiz 홈경기 시구 행사 및 아주인 무료관람 경기](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214041&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-04-28)
-
-* **[[2023 블록체인 중급 개발 구직자과정] 교육프로그램 참여 사전 수요조사(~05.09까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214037&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW중심대학사업단 (~2023-04-28)
