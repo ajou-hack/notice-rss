@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[봉사활동] 생리대 기부 캠페이너 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214188&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-05-03)
+
+* **[[봉사활동] (재공지) 아름학교 현장체험학습 지원 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214187&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-05-03)
+
 * **[[학부/학사과정] (23.05.03.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214183&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-05-03)
 
@@ -98,9 +104,3 @@
 
 * **[2023학년도 2학기 인공지능융합학과[복수전공, 부전공] 7기 1차 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214048&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 소프트웨어융합대학교학팀 (~2023-04-28)
-
-* **[(당일재공지)(기념품증정) 동원그룹 채용설명회&amp;상담회 진행 중!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214042&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-04-28)
-
-* **[(당일재공지)[Ajou Day!]KT-Wiz 홈경기 시구 행사 및 아주인 무료관람 경기](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214041&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-04-28)
