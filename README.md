@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[아주강좌] 제 491회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214232&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-05-04)
+
+* **[(재안내) 2023학년도 2학기 인공지능융합학과[복수전공, 부전공] 7기 1차 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214226&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 소프트웨어융합대학교학팀 (~2023-05-04)
+
 * **[[봉사활동] 지구를 위한 플로깅, 아주 쓰담달리기 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214225&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-05-04)
 
@@ -98,9 +104,3 @@
 
 * **[[성평등상담소 특강(5/10)] &quot;사랑의 이름으로 용서되지 않는 것들&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214124&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 인권센터 성평등상담소 (~2023-05-02)
-
-* **[[일자리+센터] 대학일자리플러스센터 뉴스레터 제55호(2023.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214122&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-02)
-
-* **[[학습법특강] ChatGPT 똑똑하게 사용하기](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214119&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-05-02)
