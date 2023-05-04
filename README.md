@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[메이커스페이스] 3D프린터 장비운용 기초교육생 모집(5월 1회차_&#x27;23.05.09)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214243&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-05-04)
+
+* **[개교 50주년 기념 노벨상 수상자 초청강연](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214240&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 대학원교학팀 (~2023-05-04)
+
 * **[[국제교류팀] 2023년 하계 해외단기파견 프로그램 참가자 3차 모집 온라인 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214236&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 국제교류팀 (~2023-05-04)
 
@@ -98,9 +104,3 @@
 
 * **[[봉사활동] 5/9 (화) 헌혈홍보, 헌혈증 기부 캠페인 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214144&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-05-02)
-
-* **[[일자리+센터] 4월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214143&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-02)
-
-* **[GOM Mix x LG그램 &#x27;일상을 빛내다&#x27; 영상 편집 공모전 안내(~5/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214133&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-05-02)
