@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학습법] 2023학년도 단과대학별 신입생을 위한 선배 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214220&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-05-04)
+
+* **[[학습법] 2023학년도 신입생을 위한 학습 전략 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214219&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-05-04)
+
+* **[[학습법] 2023-1학기 온라인 학습법 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214218&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-05-04)
+
 * **[[교외장학] 앤코이교육재단 23년도 희망장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214213&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-05-04)
 
@@ -95,12 +104,3 @@
 
 * **[[봉사활동] 해외 에너지 빈곤국을 위한 태양광랜턴 조립 체험 (밀알복지재단)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214108&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-05-02)
-
-* **[[국제교류팀] 2023년 하계 해외단기파견 프로그램 참가자 3차 모집 (05.02~05.07)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214097&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 국제교류팀 (~2023-05-01)
-
-* **[[인권센터 학생상담소] &#x27;안녕! 나 정서인데 우리 친해질래?&#x27; (정서조절을 위한 인식과 표현) 특강 참여자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214075&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 인권센터 학생상담소 (~2023-04-28)
-
-* **[[메이커스페이스] 5월 장비운용 교육안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214074&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-04-28)
