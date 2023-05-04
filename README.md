@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[교외장학] 앤코이교육재단 23년도 희망장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214213&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-05-04)
+
+* **[[공학교육혁신센터] 2023학년도 1학기 공학인증 학생상담 안내 (6.12.까지)* 금학기 연장 없음*](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214210&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 공학교육혁신센터 (~2023-05-04)
+
+* **[[비교과교육지원센터] 아주허브 5월 퀴즈 풀고 기프티콘 받아가자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214209&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-05-04)
+
 * **[[학부/학사과정] (23.05.04.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214206&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-05-04)
 
@@ -95,12 +104,3 @@
 
 * **[[메이커스페이스] 5월 장비운용 교육안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214074&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-04-28)
-
-* **[[메이커스페이스] 휴관안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214073&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-04-28)
-
-* **[[마감임박!!] 아주대와 함께하는 문화산책](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214070&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-04-28)
-
-* **[[기간연장/LINC 3.0] KBO와 알찬 여름방학을 !「2023 KBO-NINE 프로그램」모집 안내(~05.07.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214065&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀 (~2023-04-28)
