@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[(재공지)[개교 50주년 기념] 인문대학 한국학학술대회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214250&amp;article.offset=0&amp;articleLimit=30)**
+ [학술] - 인문대학교학팀 (~2023-05-04)
+
+* **[[마감임박!!] &#x27;안녕! 나 정서인데, 우리 친해질래?&#x27; 부정 정서에서 자유로워지는 방법 신청자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214249&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 인권센터 학생상담소 (~2023-05-04)
+
 * **[[메이커스페이스] 3D프린터 장비운용 기초교육생 모집(5월 1회차_&#x27;23.05.09)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214243&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-05-04)
 
@@ -98,9 +104,3 @@
 
 * **[파이썬프로그래밍 기초 및 심화(비교과 Skill-UP 미래자동차/ SW신기술 캠프) 자격과정 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214147&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신공유단 (~2023-05-02)
-
-* **[[육군3사관학교] 사관생도 모집 설명회 안내(5월 3일, 14시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214146&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-05-02)
-
-* **[[봉사활동] 5/9 (화) 헌혈홍보, 헌혈증 기부 캠페인 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214144&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-05-02)
