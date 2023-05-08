@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[교외장학] 코오롱그룹 대학생 교육봉사단 ‘무지개 디딤돌 멘토링’ 8기 대학생멘토(대학(원)생 교육봉사자) 추가모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214300&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-05-08)
+
+* **[[교외장학] 2023년 독립유공자 후손 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214297&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-05-08)
+
 * **[(전공설명회 D-7) 2023학년도 2학기 인공지능융합학과[복수전공, 부전공] 7기 1차 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214295&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 소프트웨어융합대학교학팀 (~2023-05-08)
 
@@ -98,9 +104,3 @@
 
 * **[[비교과교육지원센터] 아주허브 5월 퀴즈 풀고 기프티콘 받아가자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214209&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-05-04)
-
-* **[[학부/학사과정] (23.05.04.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214206&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-05-04)
-
-* **[[여성가족부] 2023년 여성청소년 생리용품 바우처 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214198&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-05-03)
