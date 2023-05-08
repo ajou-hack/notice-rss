@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[(재공지)[성평등상담소 특강(5/10)] &quot;사랑의 이름으로 용서되지 않는 것들&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214306&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 인권센터 성평등상담소 (~2023-05-08)
+
 * **[[교외장학] 코오롱그룹 대학생 교육봉사단 ‘무지개 디딤돌 멘토링’ 8기 대학생멘토(대학(원)생 교육봉사자) 추가모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214300&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-05-08)
 
@@ -101,6 +104,3 @@
 
 * **[[공학교육혁신센터] 2023학년도 1학기 공학인증 학생상담 안내 (6.12.까지)* 금학기 연장 없음*](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214210&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 공학교육혁신센터 (~2023-05-04)
-
-* **[[비교과교육지원센터] 아주허브 5월 퀴즈 풀고 기프티콘 받아가자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214209&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-05-04)
