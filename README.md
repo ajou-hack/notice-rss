@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[불어권협력센터 초청 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214310&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 불어권협력센터 (~2023-05-08)
+
+* **[[2023 블록체인 중급 개발 구직자과정] 교육프로그램 참여 사전 수요조사(~05.09 내일까지!)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214308&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW중심대학사업단 (~2023-05-08)
+
 * **[(재공지)[성평등상담소 특강(5/10)] &quot;사랑의 이름으로 용서되지 않는 것들&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214306&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 인권센터 성평등상담소 (~2023-05-08)
 
@@ -46,9 +52,6 @@
  [학사] - 사회봉사센터 (~2023-05-08)
 
 * **[[봉사활동] (추가모집) 생리대 기부 캠페이너 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214280&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-05-08)
-
-* **[[봉사활동] (5/12 추가모집) 지구를 위한 플로깅, 아주 쓰담달리기 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214279&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-05-08)
 
 * **[[봉사활동] (오후추가모집) 5/9 (화) 헌혈홍보, 헌혈증 기부 캠페인 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214277&amp;article.offset=0&amp;articleLimit=30)**
@@ -101,6 +104,3 @@
 
 * **[[교외장학] 앤코이교육재단 23년도 희망장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214213&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-05-04)
-
-* **[[공학교육혁신센터] 2023학년도 1학기 공학인증 학생상담 안내 (6.12.까지)* 금학기 연장 없음*](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214210&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 공학교육혁신센터 (~2023-05-04)
