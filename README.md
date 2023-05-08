@@ -15,6 +15,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[국제교류팀] 2023 국제여름학교 단기 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214320&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 국제교류팀 (~2023-05-08)
+
+* **[[국제교류팀]에서 성실한 면학장학생을 모집합니다. (재학생만 가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214318&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 국제교류팀 (~2023-05-08)
+
+* **[비이공계열 학생을 위한 『바이오·헬스케어 마이크로전공』 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214317&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 산학사업팀 (~2023-05-08)
+
+* **[[인권센터 학생상담소] &quot;마음이 너무 힘들어 죽고 싶다는 생각이 자주 나요.&quot; 위기 심리상담 신청서](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214316&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 인권센터 학생상담소 (~2023-05-08)
+
+* target Book&#x27;s Satisfaction Survey Event for International Students](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214312&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2023-05-08)
+
 * **[불어권협력센터 초청 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214310&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 불어권협력센터 (~2023-05-08)
 
@@ -89,18 +104,3 @@
 
 * **[(재안내) 2023학년도 2학기 인공지능융합학과[복수전공, 부전공] 7기 1차 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214226&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 소프트웨어융합대학교학팀 (~2023-05-04)
-
-* **[[봉사활동] 지구를 위한 플로깅, 아주 쓰담달리기 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214225&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-05-04)
-
-* **[[학습법] 2023학년도 단과대학별 신입생을 위한 선배 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214220&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-05-04)
-
-* **[[학습법] 2023학년도 신입생을 위한 학습 전략 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214219&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-05-04)
-
-* **[[학습법] 2023-1학기 온라인 학습법 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214218&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-05-04)
-
-* **[[교외장학] 앤코이교육재단 23년도 희망장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214213&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-05-04)
