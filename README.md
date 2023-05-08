@@ -15,6 +15,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[재공지] 2023 스승의 날 행사 &#x27;교수님 감사합니다&#x27; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214275&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-05-08)
+
+* **[(재공지)(연장) [아주지속가능발전센터] AJOU ECO 챌린지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214263&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 아주지속가능발전센터 (~2023-05-08)
+
+* **[[일자리+센터] 5월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214262&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-08)
+
+* **[제414차 민방위의 날(5. 16) 전국단위 민방위(공습상황) 훈련 실시](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214260&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 예비군연대 (~2023-05-08)
+
 * **[(재공지)[개교 50주년 기념] 인문대학 한국학학술대회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214250&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - 인문대학교학팀 (~2023-05-04)
 
@@ -92,15 +104,3 @@
 
 * **[2023 스승의 날 행사 &#x27;교수님 감사합니다&#x27; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214174&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-05-03)
-
-* **[[일자리+센터] 아주대와 함께하는 이노와이어리스 채용상담회 (5/10)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214163&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-03)
-
-* **[[입학팀] 혁신공유라운지 사용불가 안내 &lt; 5월 9일 화요일 오전 9시 ~ 11시&gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214157&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 입학팀 (~2023-05-02)
-
-* **[2023년 멀티미디어 강의실 점검결과(04월) 및 2023년 (05월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214151&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2023-05-02)
-
-* **[파이썬프로그래밍 기초 및 심화(비교과 Skill-UP 미래자동차/ SW신기술 캠프) 자격과정 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214147&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 혁신공유단 (~2023-05-02)
