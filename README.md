@@ -15,6 +15,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[교외장학] 2023년 2학기 삼성드림클래스 대학생멘토 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214393&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-05-09)
+
+* **[(재공지) 아주허브에서 퀴즈 플고 기프티콘 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214388&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-05-09)
+
+* **[천원의 아침밥 &#x27;아침든든 아주&#x27; 참여방법 변경 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214387&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-05-09)
+
+* **[[2023학년도 신입학생 대상] 2023학년도 2학기 희망 교과목 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214385&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-05-09)
+
 * **[(재공지) 아주대와 함께하는 문화산책](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214379&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-05-09)
 
@@ -92,15 +104,3 @@
 
 * **[(재공지)(연장) [아주지속가능발전센터] AJOU ECO 챌린지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214263&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 아주지속가능발전센터 (~2023-05-08)
-
-* **[[일자리+센터] 5월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214262&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-08)
-
-* **[제414차 민방위의 날(5. 16) 전국단위 민방위(공습상황) 훈련 실시](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214260&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 예비군연대 (~2023-05-08)
-
-* **[(재공지)[개교 50주년 기념] 인문대학 한국학학술대회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214250&amp;article.offset=0&amp;articleLimit=30)**
- [학술] - 인문대학교학팀 (~2023-05-04)
-
-* **[[메이커스페이스] 3D프린터 장비운용 기초교육생 모집(5월 1회차_&#x27;23.05.09)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214243&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-05-04)
