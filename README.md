@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학부/학사과정] (23.05.09.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214360&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-05-09)
+
 * **[5.12(금) 당일 광교중앙역 본교 버스 운행 시각 조정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214334&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2023-05-09)
 
@@ -101,6 +104,3 @@
 
 * **[[국제교류팀] 2023년 하계 해외단기파견 프로그램 참가자 3차 모집 온라인 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214236&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 국제교류팀 (~2023-05-04)
-
-* **[[봉사활동](재공지)(단기봉사단) 44기 월드프렌즈코리아 청년봉사단 해외봉사 단원 모집 (~5/10 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214235&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-05-04)
