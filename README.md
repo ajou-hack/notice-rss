@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[5.12(금) 당일 광교중앙역 본교 버스 운행 시각 조정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214334&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2023-05-09)
+
+* **[[봉사활동] 5/9(화) 교내 헌혈버스 방문 안내 (한마음혈액원)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214333&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-05-09)
+
+* **[[일자리+센터] KT 에이블 스쿨 4기 모집(지역추천제)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214328&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-08)
+
 * **[[국제교류팀] 2023 국제여름학교 단기 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214320&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 국제교류팀 (~2023-05-08)
 
@@ -69,9 +78,6 @@
 * **[[봉사활동] (추가모집) 생리대 기부 캠페이너 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214280&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-05-08)
 
-* **[[봉사활동] (오후추가모집) 5/9 (화) 헌혈홍보, 헌혈증 기부 캠페인 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214277&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-05-08)
-
 * **[[재공지] 2023 스승의 날 행사 &#x27;교수님 감사합니다&#x27; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214275&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-05-08)
 
@@ -98,9 +104,3 @@
 
 * **[[봉사활동](재공지)(단기봉사단) 44기 월드프렌즈코리아 청년봉사단 해외봉사 단원 모집 (~5/10 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214235&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-05-04)
-
-* **[[아주강좌] 제 491회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214232&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-05-04)
-
-* **[(재안내) 2023학년도 2학기 인공지능융합학과[복수전공, 부전공] 7기 1차 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214226&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 소프트웨어융합대학교학팀 (~2023-05-04)
