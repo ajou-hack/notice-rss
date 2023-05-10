@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[미래자동차 연계전공(마이크로/부/복수) 신청 및 설명회 안내(5/16화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214438&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 혁신공유팀 (~2023-05-10)
+
+* **[2023 하계 미래자동차 학점교류(인하대학교) 신청 안내 (~5/15월 오전)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214436&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 혁신공유팀 (~2023-05-10)
+
 * **[[봉사활동] 수원 대학생 환경교육 서포터즈 &#x27;그린크루&#x27; 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214434&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-05-10)
 
@@ -98,9 +104,3 @@
 
 * **[[교외장학] 2023년 독립유공자 후손 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214297&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-05-08)
-
-* **[(전공설명회 D-7) 2023학년도 2학기 인공지능융합학과[복수전공, 부전공] 7기 1차 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214295&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 소프트웨어융합대학교학팀 (~2023-05-08)
-
-* **[제88회 한국어능력시험(TOPIK) 시행에 따른 성호관 출입 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214294&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 국제교육센터운영팀 (~2023-05-08)
