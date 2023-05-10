@@ -15,10 +15,19 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학부/학사과정] (23.05.10.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214408&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-05-10)
+
+* **[[아주강좌] 제 492회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214402&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-05-10)
+
+* **[[일자리+센터] 도서관에서 상담해봄?](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214400&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-09)
+
 * **[[교외장학] 2023년 2학기 삼성드림클래스 대학생멘토 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214393&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-05-09)
 
-* **[(재공지) 아주허브에서 퀴즈 플고 기프티콘 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214388&amp;article.offset=0&amp;articleLimit=30)**
+* **[(재공지) 아주허브에서 퀴즈 풀고 기프티콘 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214388&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-05-09)
 
 * **[천원의 아침밥 &#x27;아침든든 아주&#x27; 참여방법 변경 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214387&amp;article.offset=0&amp;articleLimit=30)**
@@ -95,12 +104,3 @@
 
 * **[[봉사활동] 화성시청소년상담복지센터 청소년멘토링프로그램 신규멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214282&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-05-08)
-
-* **[[봉사활동] (추가모집) 생리대 기부 캠페이너 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214280&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-05-08)
-
-* **[[재공지] 2023 스승의 날 행사 &#x27;교수님 감사합니다&#x27; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214275&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-05-08)
-
-* **[(재공지)(연장) [아주지속가능발전센터] AJOU ECO 챌린지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214263&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 아주지속가능발전센터 (~2023-05-08)
