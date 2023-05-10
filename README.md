@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[홍보] 2023년 국외 보훈사적지 탐방 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214425&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 홍보실 (~2023-05-10)
+
+* **[[LINC 3.0] (전액무료) 인공지능 기반 스마트 시티 능력인증 사전교육3 (DSAC M3 자격과정) 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214419&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 산학사업팀 (~2023-05-10)
+
 * **[[학부/학사과정] (23.05.10.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214408&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-05-10)
 
@@ -98,9 +104,3 @@
 
 * **[[마감임박!] 5/9(화) 특강 듣고 저녁이랑 선물 받아가자~!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214288&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 인권센터 학생상담소 (~2023-05-08)
-
-* **[[캠페인] (재공지) 귀중한 소녀들에게 걱정없는 일주일 선물하기 (생리대 기부 캠페인)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214283&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-05-08)
-
-* **[[봉사활동] 화성시청소년상담복지센터 청소년멘토링프로그램 신규멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214282&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-05-08)
