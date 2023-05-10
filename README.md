@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023 동아리 소학회 콘테스트 개최안내(5.15)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214450&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-05-10)
+
+* **[[인문과학연구소] 세미나 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214448&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 인문과학연구소 (~2023-05-10)
+
+* **[율곡관 혁신공유라운지 사용불가 안내(05.24(수) 12:00~13:00, 05.25(목) 13:00~14:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214444&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-05-10)
+
 * **[미래자동차 연계전공(마이크로/부/복수) 신청 및 설명회 안내(5/16화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214438&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 혁신공유팀 (~2023-05-10)
 
@@ -95,12 +104,3 @@
 
 * **[[2023 블록체인 중급 개발 구직자과정] 교육프로그램 참여 사전 수요조사(~05.09 내일까지!)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214308&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW중심대학사업단 (~2023-05-08)
-
-* **[(재공지)[성평등상담소 특강(5/10)] &quot;사랑의 이름으로 용서되지 않는 것들&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214306&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 인권센터 성평등상담소 (~2023-05-08)
-
-* **[[교외장학] 코오롱그룹 대학생 교육봉사단 ‘무지개 디딤돌 멘토링’ 8기 대학생멘토(대학(원)생 교육봉사자) 추가모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214300&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-05-08)
-
-* **[[교외장학] 2023년 독립유공자 후손 장학생 선발 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214297&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-05-08)
