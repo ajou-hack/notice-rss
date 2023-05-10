@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[봉사활동] 수원 대학생 환경교육 서포터즈 &#x27;그린크루&#x27; 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214434&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-05-10)
+
+* **[[학부/학사과정] (23.05.10.) 2023-하계 계절학기 국내대학 학점교류 신청 안내_대상 학교 추가](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214433&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-05-10)
+
+* **[[학생 강사 특강] 팀플에서 살아남기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214432&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-05-10)
+
 * **[(재공지) 2023년 &#x27;연구실 안전의 날&#x27; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214430&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 안전관리센터 (~2023-05-10)
 
@@ -23,9 +32,6 @@
 
 * **[[LINC 3.0] (전액무료) 인공지능 기반 스마트 시티 능력인증 사전교육3 (DSAC M3 자격과정) 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214419&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀 (~2023-05-10)
-
-* **[[학부/학사과정] (23.05.10.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214408&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-05-10)
 
 * **[[아주강좌] 제 492회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214402&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-05-10)
@@ -98,9 +104,3 @@
 
 * **[제88회 한국어능력시험(TOPIK) 시행에 따른 성호관 출입 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214294&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 국제교육센터운영팀 (~2023-05-08)
-
-* **[[아주통일연구소] 2023 뉴노멀클래스 통일명사초청 좌담회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214292&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 아주통일연구소 (~2023-05-08)
-
-* **[[학습법특강] ChatGPT 똑똑하게 사용하기](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214291&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-05-08)
