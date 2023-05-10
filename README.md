@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[기획팀]학칙 및 규정류 개정 공포(2023-1,2차 교무회의, 제90차 대학평의원회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214465&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2023-05-10)
+
+* **[[홍보] 2023 수원노동자아카데미: 고전으로 알아보는 우리 사회 강연 신청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214463&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2023-05-10)
+
+* **[[LINC 3.0] 찾아가는 현장실습 상담회 안내(05/11(목), 05/31(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214455&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2023-05-10)
+
 * **[2023 동아리 소학회 콘테스트 개최안내(5.15)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214450&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-05-10)
 
@@ -95,12 +104,3 @@
 
 * **[[인권센터 학생상담소] &quot;마음이 너무 힘들어 죽고 싶다는 생각이 자주 나요.&quot; 위기 심리상담 신청서](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214316&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 인권센터 학생상담소 (~2023-05-08)
-
-* target Book&#x27;s Satisfaction Survey Event for International Students](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214312&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2023-05-08)
-
-* **[불어권협력센터 초청 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214310&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 불어권협력센터 (~2023-05-08)
-
-* **[[2023 블록체인 중급 개발 구직자과정] 교육프로그램 참여 사전 수요조사(~05.09 내일까지!)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214308&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW중심대학사업단 (~2023-05-08)
