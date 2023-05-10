@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[(재공지) 2023년 &#x27;연구실 안전의 날&#x27; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214430&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 안전관리센터 (~2023-05-10)
+
 * **[[홍보] 2023년 국외 보훈사적지 탐방 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214425&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 홍보실 (~2023-05-10)
 
@@ -101,6 +104,3 @@
 
 * **[[학습법특강] ChatGPT 똑똑하게 사용하기](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214291&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-05-08)
-
-* **[[마감임박!] 5/9(화) 특강 듣고 저녁이랑 선물 받아가자~!!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214288&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 인권센터 학생상담소 (~2023-05-08)
