@@ -15,6 +15,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[시설팀] 2023학년도 냉·난방기 세척 및 정비안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214536&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2023-05-11)
+
+* **[23년 예비군 교육훈련 교통비여비 지급안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214528&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 예비군연대 (~2023-05-11)
+
+* **[[일자리+센터] 2023 환경산업 일자리 박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214526&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-11)
+
+* **[2023 하계 미래자동차 학점교류(계명대학교) 신청 안내 (~5/18목 오전)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214522&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 혁신공유팀 (~2023-05-11)
+
+* **[2023 하계 미래자동차 학점교류(국민대학교) 신청 안내 (~5/16화 오전)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214521&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 혁신공유팀 (~2023-05-11)
+
 * **[[일자리+센터] 2023 KB굿잡 우수기업 취업박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214514&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-11)
 
@@ -89,18 +104,3 @@
 
 * **[[홍보] 2023년 국외 보훈사적지 탐방 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214425&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 홍보실 (~2023-05-10)
-
-* **[[LINC 3.0] (전액무료) 인공지능 기반 스마트 시티 능력인증 사전교육3 (DSAC M3 자격과정) 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214419&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀 (~2023-05-10)
-
-* **[[아주강좌] 제 492회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214402&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-05-10)
-
-* **[[일자리+센터] 도서관에서 상담해봄?](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214400&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-09)
-
-* **[[교외장학] 2023년 2학기 삼성드림클래스 대학생멘토 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214393&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-05-09)
-
-* **[(재공지) 아주허브에서 퀴즈 풀고 기프티콘 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214388&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-05-09)
