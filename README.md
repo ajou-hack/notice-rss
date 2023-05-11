@@ -15,6 +15,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학부/학사과정] 2023학년도 하계 계절수업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214493&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-05-11)
+
+* **[[SW중심대학] 2023 아주대학교 프로그래밍 경시대회(APC) 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214491&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW융합교육원 (~2023-05-11)
+
+* **[[봉사활동] &#x27;결식아동돕기 사랑의 쌀 배달&#x27; 자원봉사자 모집 (5/18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214490&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-05-11)
+
+* **[[최종공지] 2023 스승의 날 행사 &#x27;교수님 감사합니다&#x27; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214485&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-05-11)
+
 * **[[대학교육혁신원운영팀] 혁신공유라운지 사용 불가 안내(5/15(월) 13:00~15:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214473&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원운영팀 (~2023-05-11)
 
@@ -92,15 +104,3 @@
 
 * **[5.12(금) 당일 광교중앙역 본교 버스 운행 시각 조정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214334&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2023-05-09)
-
-* **[[봉사활동] 5/9(화) 교내 헌혈버스 방문 안내 (한마음혈액원)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214333&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-05-09)
-
-* **[[일자리+센터] KT 에이블 스쿨 4기 모집(지역추천제)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214328&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-08)
-
-* **[[국제교류팀] 2023 국제여름학교 단기 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214320&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 국제교류팀 (~2023-05-08)
-
-* **[[국제교류팀]에서 성실한 면학장학생을 모집합니다. (재학생만 가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214318&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 국제교류팀 (~2023-05-08)
