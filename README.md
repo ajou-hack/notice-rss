@@ -15,6 +15,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[일자리+센터] 2023 KB굿잡 우수기업 취업박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214514&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-11)
+
+* **[[학부/학사과정] (23.05.11.) 2023-하계 계절학기 국내대학 학점교류 신청 안내_대상 학교 추가](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214512&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-05-11)
+
+* **[[일자리+센터] 마카오 관광분야 해외취업 온라인 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214509&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-11)
+
+* **[[LINC 3.0] 2023 ALL-SET 기업역량 고도화 지원사업 시제품맞춤형(1차) 공모 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214507&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2023-05-11)
+
 * **[[보건대학원] 2023학년도 후기모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214505&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 보건대학원교학팀 (~2023-05-11)
 
@@ -92,15 +104,3 @@
 
 * **[(재공지) 아주허브에서 퀴즈 풀고 기프티콘 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214388&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-05-09)
-
-* **[천원의 아침밥 &#x27;아침든든 아주&#x27; 참여방법 변경 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214387&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-05-09)
-
-* **[[2023학년도 신입학생 대상] 2023학년도 2학기 희망 교과목 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214385&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-05-09)
-
-* **[(재공지) 아주대와 함께하는 문화산책](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214379&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-05-09)
-
-* **[[학습법] 2023-1학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214369&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-05-09)
