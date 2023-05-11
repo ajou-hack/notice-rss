@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[대학교육혁신원운영팀] 혁신공유라운지 사용 불가 안내(5/15(월) 13:00~15:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214473&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원운영팀 (~2023-05-11)
+
+* **[2023-1학기 바르게장학 선발결과 발표 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214471&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-05-11)
+
 * **[[기획팀]학칙 및 규정류 개정 공포(2023-1,2차 교무회의, 제90차 대학평의원회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214465&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 기획팀 (~2023-05-10)
 
@@ -98,9 +104,3 @@
 
 * **[[국제교류팀]에서 성실한 면학장학생을 모집합니다. (재학생만 가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214318&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 국제교류팀 (~2023-05-08)
-
-* **[비이공계열 학생을 위한 『바이오·헬스케어 마이크로전공』 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214317&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 산학사업팀 (~2023-05-08)
-
-* **[[인권센터 학생상담소] &quot;마음이 너무 힘들어 죽고 싶다는 생각이 자주 나요.&quot; 위기 심리상담 신청서](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214316&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 인권센터 학생상담소 (~2023-05-08)
