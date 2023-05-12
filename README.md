@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[LINC 3.0] 2023 제1회 창업아이디어 경진대회 개최 안내(~5/19까지 참가 신청)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214595&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 산학사업팀(창업교육센터) (~2023-05-12)
+
+* **[사회봉사센터 뉴스레터 제 3호 &quot;귀중한 소녀들에게&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214594&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-05-12)
+
 * **[[봉사활동] &#x27;결식아동돕기 사랑의 쌀 배달&#x27; 자원봉사자 모집 (5/18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214591&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-05-12)
 
@@ -98,9 +104,3 @@
 
 * **[[기획팀]학칙 및 규정류 개정 공포(2023-1,2차 교무회의, 제90차 대학평의원회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214465&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 기획팀 (~2023-05-10)
-
-* **[[홍보] 2023 수원노동자아카데미: 고전으로 알아보는 우리 사회 강연 신청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214463&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2023-05-10)
-
-* **[[LINC 3.0] 찾아가는 현장실습 상담회 안내(05/11(목), 05/31(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214455&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2023-05-10)
