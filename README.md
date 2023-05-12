@@ -15,7 +15,13 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
-* **[[시설팀] 2023학년도 냉·난방기 세척 및 정비안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214536&amp;article.offset=0&amp;articleLimit=30)**
+* **[[교외장학] 2023-2학기 롯데 40기 『멘토링 장학생』선발 모집 공고_ 5월 23일(화) 17시까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214557&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-05-12)
+
+* **[[일자리+센터] 핫! AJOU-동문 멘토링 신청 안내 (재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214541&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-11)
+
+* **[[시설팀] 2023학년도 냉·난방기 세척 및 정비안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214537&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2023-05-11)
 
 * **[23년 예비군 교육훈련 교통비여비 지급안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214528&amp;article.offset=0&amp;articleLimit=30)**
@@ -98,9 +104,3 @@
 
 * **[[학생 강사 특강] 팀플에서 살아남기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214432&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-05-10)
-
-* **[(재공지) 2023년 &#x27;연구실 안전의 날&#x27; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214430&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 안전관리센터 (~2023-05-10)
-
-* **[[홍보] 2023년 국외 보훈사적지 탐방 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214425&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 홍보실 (~2023-05-10)
