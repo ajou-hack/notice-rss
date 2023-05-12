@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[국제교류팀] 2023 파란사다리 최종합격자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214605&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2023-05-12)
+
+* **[[학부/학사과정] (23.05.12.) 2023-하계 계절학기 국내대학 학점교류 신청 안내_대상 학교 추가](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214598&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-05-12)
+
 * **[[LINC 3.0] 2023 제1회 창업아이디어 경진대회 개최 안내(~5/19까지 참가 신청)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214595&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀(창업교육센터) (~2023-05-12)
 
@@ -41,9 +47,6 @@
 
 * **[[대학교육혁신원운영팀] 혁신공유라운지 사용 불가 안내(5/15(월) 13:00~15:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214566&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원운영팀 (~2023-05-12)
-
-* **[[학부/학사과정] (23.05.12.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214564&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-05-12)
 
 * **[개교 50주년 경영대학 국제 금융 컨퍼런스 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214563&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 경영대학교학팀 (~2023-05-12)
@@ -101,6 +104,3 @@
 
 * **[2023-1학기 바르게장학 선발결과 발표 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214471&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-05-11)
-
-* **[[기획팀]학칙 및 규정류 개정 공포(2023-1,2차 교무회의, 제90차 대학평의원회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214465&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2023-05-10)
