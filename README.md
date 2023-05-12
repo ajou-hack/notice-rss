@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[대학교육혁신원운영팀] 혁신공유라운지 사용 불가 안내(5/15(월) 13:00~15:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214566&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원운영팀 (~2023-05-12)
+
+* **[[학부/학사과정] (23.05.12.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214564&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-05-12)
+
+* **[개교 50주년 경영대학 국제 금융 컨퍼런스 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214563&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 경영대학교학팀 (~2023-05-12)
+
 * **[[교외장학] 2023-2학기 롯데 40기 『멘토링 장학생』선발 모집 공고_ 5월 23일(화) 17시까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214557&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-05-12)
 
@@ -81,7 +90,7 @@
 * **[[LINC 3.0] 찾아가는 현장실습 상담회 안내(05/11(목), 05/31(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214455&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2023-05-10)
 
-* **[2023 동아리 소학회 콘테스트 개최안내(5.15)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214450&amp;article.offset=0&amp;articleLimit=30)**
+* **[2023 동아리 소학회 콘테스트 개최안내 (5.15) 수정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214450&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-05-10)
 
 * **[[인문과학연구소] 세미나 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214448&amp;article.offset=0&amp;articleLimit=30)**
@@ -95,12 +104,3 @@
 
 * **[2023 하계 미래자동차 학점교류(인하대학교) 신청 안내 (~5/15월 오전)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214436&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 혁신공유팀 (~2023-05-10)
-
-* **[[봉사활동] 수원 대학생 환경교육 서포터즈 &#x27;그린크루&#x27; 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214434&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-05-10)
-
-* **[[학부/학사과정] (23.05.10.) 2023-하계 계절학기 국내대학 학점교류 신청 안내_대상 학교 추가](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214433&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-05-10)
-
-* **[[학생 강사 특강] 팀플에서 살아남기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214432&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-05-10)
