@@ -15,6 +15,24 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[봉사활동] &#x27;결식아동돕기 사랑의 쌀 배달&#x27; 자원봉사자 모집 (5/18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214591&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-05-12)
+
+* **[[봉사활동] (2차 진행) 지구를 위한 플로깅, 아주 쓰담달리기 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214590&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-05-12)
+
+* **[[LINC 3.0] 2023 제18회 LINC 3.0 현장실습 수기·영상 공모전 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214589&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2023-05-12)
+
+* **[[메이커스페이스] 레이저커팅기 장비운용 기초교육생 모집(5월 1회차_&#x27;23.05.16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214587&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-05-12)
+
+* **[연구실 안전의 날 스마트 퀴즈 대회 안내(이벤트방 오픈)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214586&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 안전관리센터 (~2023-05-12)
+
+* **[[LINC 3.0/모집 결과] 「KBO 나인(NINE) 시즌 2023」모집 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214585&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 산학사업팀 (~2023-05-12)
+
 * **[[대학교육혁신원운영팀] 혁신공유라운지 사용 불가 안내(5/15(월) 13:00~15:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214566&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원운영팀 (~2023-05-12)
 
@@ -69,9 +87,6 @@
 * **[[SW중심대학] 2023 아주대학교 프로그래밍 경시대회(APC) 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214491&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW융합교육원 (~2023-05-11)
 
-* **[[봉사활동] &#x27;결식아동돕기 사랑의 쌀 배달&#x27; 자원봉사자 모집 (5/18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214490&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-05-11)
-
 * **[[최종공지] 2023 스승의 날 행사 &#x27;교수님 감사합니다&#x27; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214485&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-05-11)
 
@@ -89,18 +104,3 @@
 
 * **[[LINC 3.0] 찾아가는 현장실습 상담회 안내(05/11(목), 05/31(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214455&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2023-05-10)
-
-* **[2023 동아리 소학회 콘테스트 개최안내 (5.15) 수정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214450&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-05-10)
-
-* **[[인문과학연구소] 세미나 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214448&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 인문과학연구소 (~2023-05-10)
-
-* **[율곡관 혁신공유라운지 사용불가 안내(05.24(수) 12:00~13:00, 05.25(목) 13:00~14:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214444&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-05-10)
-
-* **[미래자동차 연계전공(마이크로/부/복수) 신청 및 설명회 안내(5/16화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214438&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 혁신공유팀 (~2023-05-10)
-
-* **[2023 하계 미래자동차 학점교류(인하대학교) 신청 안내 (~5/15월 오전)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214436&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 혁신공유팀 (~2023-05-10)
