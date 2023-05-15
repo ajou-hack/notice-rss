@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[재공지] 미래자동차 연계전공(마이크로/부/복수) 신청 및 설명회 안내(5/16화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214678&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 혁신공유팀 (~2023-05-15)
+
+* **[[봉사활동] (2차 진행) 지구를 위한 플로깅, 아주 쓰담달리기 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214677&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-05-15)
+
+* **[[학부/학사과정] (23.05.15.) 2023-하계 계절학기 국내대학 학점교류 신청 안내_대상 학교 추가](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214676&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-05-15)
+
 * **[(재공지)(연장) [아주지속가능발전센터] AJOU ECO 챌린지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214671&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 아주지속가능발전센터 (~2023-05-15)
 
@@ -63,9 +72,6 @@
 * **[[봉사활동] &#x27;결식아동돕기 사랑의 쌀 배달&#x27; 자원봉사자 모집 (5/18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214591&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-05-12)
 
-* **[[봉사활동] (2차 진행) 지구를 위한 플로깅, 아주 쓰담달리기 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214590&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-05-12)
-
 * **[[LINC 3.0] 2023 제18회 LINC 3.0 현장실습 수기·영상 공모전 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214589&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2023-05-12)
 
@@ -98,9 +104,3 @@
 
 * **[[일자리+센터] 2023 환경산업 일자리 박람회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214526&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-11)
-
-* **[2023 하계 미래자동차 학점교류(계명대학교) 신청 안내 (~5/18목 오전)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214522&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 혁신공유팀 (~2023-05-11)
-
-* **[2023 하계 미래자동차 학점교류(국민대학교) 신청 안내 (~5/16화 오전)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214521&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 혁신공유팀 (~2023-05-11)
