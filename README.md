@@ -15,10 +15,22 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[봉사활동] KOICA 청년중기봉사단 (주제:환경) 사전공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214638&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-05-15)
+
+* **[[봉사활동](경기도사회서비스원) 대학생 자원봉사단 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214636&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-05-15)
+
+* **[(전공설명회 당일참가 가능) 2023학년도 2학기 인공지능융합학과[복수전공, 부전공] 7기 1차 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214625&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 소프트웨어융합대학교학팀 (~2023-05-15)
+
+* **[[일자리+센터] 5월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214624&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-15)
+
 * **[[일자리+센터] 15분으로 당연한 혜택 &#x27;국민취업지원제도&#x27; 챙기세요.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214609&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-12)
 
-* **[[재공지][LINC 3.0] (전액무료) 인공지능 기반 스마트 시티 능력인증 사전교육3 (DSAC M3 자격과정) 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214608&amp;article.offset=0&amp;articleLimit=30)**
+* **[[추가모집][LINC 3.0] (전액무료) 인공지능 기반 스마트 시티 능력인증 사전교육3 (DSAC M3 자격과정) 참가자 모집(~5/16까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214608&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀 (~2023-05-12)
 
 * **[[국제교류팀] 2023 파란사다리 최종합격자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214605&amp;article.offset=0&amp;articleLimit=30)**
@@ -92,15 +104,3 @@
 
 * **[[보건대학원] 2023학년도 후기모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214505&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 보건대학원교학팀 (~2023-05-11)
-
-* **[(당일재안내) VR 안전체험 및 CPR 교육 - 연구실안전의 날](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214501&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 안전관리센터 (~2023-05-11)
-
-* **[[학부/학사과정] 2023학년도 하계 계절수업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214493&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-05-11)
-
-* **[[SW중심대학] 2023 아주대학교 프로그래밍 경시대회(APC) 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214491&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW융합교육원 (~2023-05-11)
-
-* **[[최종공지] 2023 스승의 날 행사 &#x27;교수님 감사합니다&#x27; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214485&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-05-11)
