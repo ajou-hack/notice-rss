@@ -15,6 +15,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[추가모집][LINC 3.0] (전액무료) 인공지능 기반 스마트 시티 능력인증 사전교육3 (DSAC M3 자격과정) 참가자 모집(~5/16까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214691&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 산학사업팀 (~2023-05-15)
+
+* **[총장레터 제5호](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214690&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총장비서실 (~2023-05-15)
+
+* **[[박물관] 단오날 세시풍속 체험행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214688&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 박물관 (~2023-05-15)
+
+* **[산학연협력 뉴스레터 제49호(2023.04)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214687&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2023-05-15)
+
+* **[[미래자동차렉처시리즈] 플랫폼 기업에서 바라본 미래 모빌리티(5/31(수)) 신청안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214686&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신공유단 (~2023-05-15)
+
 * **[(재공지) 아주허브에서 퀴즈 풀고 기프티콘 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214683&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-05-15)
 
@@ -89,18 +104,3 @@
 
 * **[[대학교육혁신원운영팀] 혁신공유라운지 사용 불가 안내(5/15(월) 13:00~15:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214566&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원운영팀 (~2023-05-12)
-
-* **[개교 50주년 경영대학 국제 금융 컨퍼런스 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214563&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 경영대학교학팀 (~2023-05-12)
-
-* **[[교외장학] 2023-2학기 롯데 40기 『멘토링 장학생』선발 모집 공고_ 5월 23일(화) 17시까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214557&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-05-12)
-
-* **[[일자리+센터] 핫! AJOU-동문 멘토링 신청 안내 (재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214541&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-11)
-
-* **[[시설팀] 2023학년도 냉·난방기 세척 및 정비안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214537&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2023-05-11)
-
-* **[23년 예비군 교육훈련 교통비여비 지급안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214528&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 예비군연대 (~2023-05-11)
