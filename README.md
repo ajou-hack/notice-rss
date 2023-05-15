@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[공공정책대학원] 2023학년도 후기 수시 1차 석사과정 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214649&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 공공정책대학원 교학팀 (~2023-05-15)
+
+* **[[대학교육혁신원운영팀] 혁신공유라운지 사용 불가 안내(5/15(월) 13:00~15:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214645&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원운영팀 (~2023-05-15)
+
 * **[[봉사활동] KOICA 청년중기봉사단 (주제:환경) 사전공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214638&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-05-15)
 
@@ -98,9 +104,3 @@
 
 * **[[일자리+센터] 마카오 관광분야 해외취업 온라인 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214509&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-11)
-
-* **[[LINC 3.0] 2023 ALL-SET 기업역량 고도화 지원사업 시제품맞춤형(1차) 공모 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214507&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2023-05-11)
-
-* **[[보건대학원] 2023학년도 후기모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214505&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 보건대학원교학팀 (~2023-05-11)
