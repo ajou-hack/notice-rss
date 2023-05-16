@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] [학부/학사과정] 2023학년도 하계 계절수업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214493&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-05-11)
+
 * **[📌 [공지] [학부] 전공(복수,부,마이크로,연계,심화전공) 신청 및 취소 기간 안내 (05.01.~05.26.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=213679&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-04-19)
 
