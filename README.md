@@ -15,6 +15,24 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[광교중앙역 등교 버스 도착 장소 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214712&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 차량관리실 (~2023-05-16)
+
+* **[[학부/학사과정] (23.05.16.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214711&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-05-16)
+
+* **[(재공지)[LINC 3.0]2023 산학협력 특화 산학공동기술개발과제 공모 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214710&amp;article.offset=0&amp;articleLimit=30)**
+ [학술] - 산학사업팀 (~2023-05-16)
+
+* **[[인문과학연구소] 세미나 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214708&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 인문과학연구소 (~2023-05-16)
+
+* **[2023학년도 1학기 국가고시장학, 국가자격장학 신청_2023.5.26(금) 17:00 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214706&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-05-16)
+
+* **[[국가근로] 2023학년도 2학기 국가근로장학금 1차 신청 안내(학기중 참여 희망시 1차 신청 必)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214704&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-05-16)
+
 * **[[온마음알리미] 경기도 디지털 심리백신 프로그램 (&#x27;달리보여&#x27; 이벤트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214698&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 인권센터 학생상담소 (~2023-05-16)
 
@@ -86,21 +104,3 @@
 
 * **[[일자리+센터] 5월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214624&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-15)
-
-* **[[일자리+센터] 15분으로 당연한 혜택 &#x27;국민취업지원제도&#x27; 챙기세요.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214609&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-12)
-
-* **[[추가모집][LINC 3.0] (전액무료) 인공지능 기반 스마트 시티 능력인증 사전교육3 (DSAC M3 자격과정) 참가자 모집(~5/16까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214608&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀 (~2023-05-12)
-
-* **[[국제교류팀] 2023 파란사다리 최종합격자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214605&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2023-05-12)
-
-* **[[학부/학사과정] (23.05.12.) 2023-하계 계절학기 국내대학 학점교류 신청 안내_대상 학교 추가](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214598&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-05-12)
-
-* **[[LINC 3.0] 2023 제1회 창업아이디어 경진대회 개최 안내(~5/19까지 참가 신청)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214595&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀(창업교육센터) (~2023-05-12)
-
-* **[사회봉사센터 뉴스레터 제 3호 &quot;귀중한 소녀들에게&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214594&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-05-12)
