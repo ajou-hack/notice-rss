@@ -15,6 +15,24 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[온마음알리미] 경기도 디지털 심리백신 프로그램 (&#x27;달리보여&#x27; 이벤트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214698&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 인권센터 학생상담소 (~2023-05-16)
+
+* **[[아주지속가능발전센터] AJOU SDG 아이디어 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214697&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 아주지속가능발전센터 (~2023-05-16)
+
+* **[[홍보] 2023 자치분권 청년 서포터즈 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214696&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2023-05-16)
+
+* **[[일자리+센터] 이공계열 대학생 독일 인턴십 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214695&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-16)
+
+* **[[일자리+센터] KT 에이블 스쿨_아주대 선배(2기)가 추천하는 이유](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214694&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-15)
+
+* **[[중앙도서관] 전자책 서버 이관 작업으로 국내 전자책 서비스 일시 중단 안내(5/18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214692&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2023-05-15)
+
 * **[[추가모집][LINC 3.0] (전액무료) 인공지능 기반 스마트 시티 능력인증 사전교육3 (DSAC M3 자격과정) 참가자 모집(~5/16까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214691&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀 (~2023-05-15)
 
@@ -86,21 +104,3 @@
 
 * **[사회봉사센터 뉴스레터 제 3호 &quot;귀중한 소녀들에게&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214594&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-05-12)
-
-* **[[봉사활동] &#x27;결식아동돕기 사랑의 쌀 배달&#x27; 자원봉사자 모집 (5/18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214591&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-05-12)
-
-* **[[LINC 3.0] 2023 제18회 LINC 3.0 현장실습 수기·영상 공모전 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214589&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2023-05-12)
-
-* **[[메이커스페이스] 레이저커팅기 장비운용 기초교육생 모집(5월 1회차_&#x27;23.05.16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214587&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-05-12)
-
-* **[연구실 안전의 날 스마트 퀴즈 대회 안내(이벤트방 오픈)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214586&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 안전관리센터 (~2023-05-12)
-
-* **[[LINC 3.0/모집 결과] 「KBO 나인(NINE) 시즌 2023」모집 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214585&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀 (~2023-05-12)
-
-* **[[대학교육혁신원운영팀] 혁신공유라운지 사용 불가 안내(5/15(월) 13:00~15:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214566&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원운영팀 (~2023-05-12)
