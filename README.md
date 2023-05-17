@@ -18,6 +18,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학부/학사과정] (23.05.17.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214769&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-05-17)
+
+* **[&#x27;장학공지&#x27; 메뉴 신설(한눈에 우리대학 장학정보를 확인하는 방법)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214764&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-05-17)
+
+* **[[일자리+센터] KOTRA 주관 미국 온라인 채용박람회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214760&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-17)
+
 * **[[집중근로] 2023학년도 한국장학재단 하계방학 집중근로 프로그램 희망근로지 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214745&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-05-16)
 
@@ -98,12 +107,3 @@
 
 * **[[학부/학사과정] (23.05.15.) 2023-하계 계절학기 국내대학 학점교류 신청 안내_대상 학교 추가](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214676&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-05-15)
-
-* **[(재공지)(연장) [아주지속가능발전센터] AJOU ECO 챌린지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214671&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 아주지속가능발전센터 (~2023-05-15)
-
-* **[[재안내] [시설팀] 2023학년도 하절기 냉방시설 운영계획 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214670&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2023-05-15)
-
-* **[[재공지][2023학년도 신입학생 대상] 2023학년도 2학기 희망 교과목 신청 안내(기간 연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214668&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-05-15)
