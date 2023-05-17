@@ -18,6 +18,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[일자리+센터] (수정)아주대와 함께하는 아이티센 채용설명회 (5/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214786&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-17)
+
+* **[[일자리+센터] 지역인재 7급 추천 채용 제도 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214779&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-17)
+
+* **[[아주강좌] 제 493회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214778&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-05-17)
+
 * **[[학부/학사과정] (23.05.17.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214769&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-05-17)
 
@@ -98,12 +107,3 @@
 
 * **[(재공지) 아주허브에서 퀴즈 풀고 기프티콘 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214683&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-05-15)
-
-* **[[재공지] 미래자동차 연계전공(마이크로/부/복수) 신청 및 설명회 안내(5/16화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214678&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 혁신공유팀 (~2023-05-15)
-
-* **[[봉사활동] (2차 진행) 지구를 위한 플로깅, 아주 쓰담달리기 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214677&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-05-15)
-
-* **[[학부/학사과정] (23.05.15.) 2023-하계 계절학기 국내대학 학점교류 신청 안내_대상 학교 추가](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214676&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-05-15)
