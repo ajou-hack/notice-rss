@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[일자리+센터] 2023학년도 대학일자리플러스센터 마일리지 제도 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214804&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-17)
+
+* **[[일자리+센터] 2023 AJOU-동문멘토링 참여안내-5/22(월)~6/2(금) 비대면](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214803&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-17)
+
 * **[[봉사활동] (추가모집) &#x27;결식아동돕기 사랑의 쌀 배달&#x27; 자원봉사자 모집 (5/18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214797&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-05-17)
 
@@ -33,7 +39,7 @@
 * **[[학습법특강] ChatGPT 이렇게 쓰는 겁니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214793&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-05-17)
 
-* **[[일자리+센터] (수정)아주대와 함께하는 아이티센 채용설명회 (5/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214786&amp;article.offset=0&amp;articleLimit=30)**
+* **[[일자리+센터] (재수정)아주대와 함께하는 아이티센 채용설명회 (5/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214786&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-17)
 
 * **[[일자리+센터] 지역인재 7급 추천 채용 제도 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214779&amp;article.offset=0&amp;articleLimit=30)**
@@ -104,9 +110,3 @@
 
 * **[[중앙도서관] 전자책 서버 이관 작업으로 국내 전자책 서비스 일시 중단 안내(5/18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214692&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2023-05-15)
-
-* **[[추가모집][LINC 3.0] (전액무료) 인공지능 기반 스마트 시티 능력인증 사전교육3 (DSAC M3 자격과정) 참가자 모집(~5/16까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214691&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀 (~2023-05-15)
-
-* **[총장레터 제5호](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214690&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총장비서실 (~2023-05-15)
