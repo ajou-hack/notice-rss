@@ -21,6 +21,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[봉사활동] (추가모집) &#x27;결식아동돕기 사랑의 쌀 배달&#x27; 자원봉사자 모집 (5/18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214797&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-05-17)
+
+* **[[봉사활동] 추가모집 (2차 진행) 지구를 위한 플로깅, 아주 쓰담달리기 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214796&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-05-17)
+
+* **[[교무팀] 교무팀에서 함께 면학할 성실한 면학장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214795&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 교무팀 (~2023-05-17)
+
 * **[[학습법특강] ChatGPT 이렇게 쓰는 겁니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214793&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-05-17)
 
@@ -101,12 +110,3 @@
 
 * **[총장레터 제5호](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214690&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총장비서실 (~2023-05-15)
-
-* **[[박물관] 단오날 세시풍속 체험행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214688&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 박물관 (~2023-05-15)
-
-* **[산학연협력 뉴스레터 제49호(2023.04)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214687&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2023-05-15)
-
-* **[[미래자동차렉처시리즈] 플랫폼 기업에서 바라본 미래 모빌리티(5/31(수)) 신청안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214686&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 혁신공유단 (~2023-05-15)
