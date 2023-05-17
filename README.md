@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] &#x27;장학공지&#x27; 메뉴 신설(한눈에 우리대학 장학정보를 확인하는 방법)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214764&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-05-17)
+
 * **[📌 [공지] [학부/학사과정] 2023학년도 하계 계절수업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214493&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-05-11)
 
@@ -18,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학습법특강] ChatGPT 이렇게 쓰는 겁니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214793&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-05-17)
+
 * **[[일자리+센터] (수정)아주대와 함께하는 아이티센 채용설명회 (5/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214786&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-17)
 
@@ -30,9 +36,6 @@
 * **[[학부/학사과정] (23.05.17.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214769&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-05-17)
 
-* **[&#x27;장학공지&#x27; 메뉴 신설(한눈에 우리대학 장학정보를 확인하는 방법)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214764&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-05-17)
-
 * **[[일자리+센터] KOTRA 주관 미국 온라인 채용박람회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214760&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-17)
 
@@ -44,6 +47,9 @@
 
 * **[[학생 강사 특강] 팀플에서 살아남기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214737&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-05-16)
+
+* **[[교무팀] 교무팀에서 함께 면학할 성실한 면학장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214727&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 교무팀 (~2023-05-16)
 
 * **[[토크콘서트] 신입생을 위한 생각의 마중길 행사안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214726&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-05-16)
@@ -104,6 +110,3 @@
 
 * **[[미래자동차렉처시리즈] 플랫폼 기업에서 바라본 미래 모빌리티(5/31(수)) 신청안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214686&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신공유단 (~2023-05-15)
-
-* **[(재공지) 아주허브에서 퀴즈 풀고 기프티콘 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214683&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-05-15)
