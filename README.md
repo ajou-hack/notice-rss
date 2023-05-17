@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[토크콘서트] 신입생을 위한 생각의 마중길 행사안내(재안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214807&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생지원팀 (~2023-05-17)
+
 * **[[일자리+센터] 2023학년도 대학일자리플러스센터 마일리지 제도 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214804&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-17)
 
@@ -107,6 +110,3 @@
 
 * **[[일자리+센터] KT 에이블 스쿨_아주대 선배(2기)가 추천하는 이유](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214694&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-15)
-
-* **[[중앙도서관] 전자책 서버 이관 작업으로 국내 전자책 서비스 일시 중단 안내(5/18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214692&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2023-05-15)
