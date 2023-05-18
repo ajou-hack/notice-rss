@@ -24,6 +24,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학부/학사과정] (23.05.18.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214888&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-05-18)
+
+* **[토크콘서트 참여하고 푸짐한 경품 받자‼ &quot;신입생을 위한 생각의 마중길&quot; (재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214886&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생지원팀 (~2023-05-18)
+
 * **[[외교부] 2024-25년 대한민국 유엔 안보리 진출 제2대 청년사절 모집(연장 ~5.22.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214877&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-05-18)
 
@@ -107,9 +113,3 @@
 
 * **[[교무팀] 교무팀에서 함께 면학할 성실한 면학장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214727&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 교무팀 (~2023-05-16)
-
-* **[[토크콘서트] 신입생을 위한 생각의 마중길 행사안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214726&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-05-16)
-
-* **[2023학년도 1학기 신입학장학 도서구입비, 어학지원금 신청_2023.5.26.(금) 17:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214722&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-05-16)
