@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[승강기(산학관) 보수공사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214845&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2023-05-18)
+
+* **[(학생참여 프로그램)2023 경기청년 갭이어 프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214844&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-05-18)
+
 * **[[교외장학] 전주시 2023년 상반기 대학생 학자금 대출이자 지원 사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214835&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-05-18)
 
@@ -104,9 +110,3 @@
 
 * **[2023학년도 1학기 국가고시장학, 국가자격장학 신청_2023.5.26(금) 17:00 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214706&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-05-16)
-
-* **[[국가근로] 2023학년도 2학기 국가근로장학금 1차 신청 안내(학기중 참여 희망시 1차 신청 必)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214704&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-05-16)
-
-* **[[온마음알리미] 경기도 디지털 심리백신 프로그램 (&#x27;달리보여&#x27; 이벤트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214698&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 인권센터 학생상담소 (~2023-05-16)
