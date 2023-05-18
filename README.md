@@ -21,6 +21,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[교외장학] 전주시 2023년 상반기 대학생 학자금 대출이자 지원 사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214835&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-05-18)
+
+* **[[교외장학] 2023년 1학기 고양시 대학생 본인부담 등록금 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214834&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-05-18)
+
+* **[[학생지원팀_재공지] 율곡관 혁신공유라운지 사용불가 안내(05.24(수) 12:00~13:00, 05.25(목) 13:00~14:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214831&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-05-18)
+
+* **[(마감임박)(재공지) [아주지속가능발전센터] AJOU ECO 챌린지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214830&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 아주지속가능발전센터 (~2023-05-18)
+
+* **[[학부/학사과정] (23.05.17.) 2023-하계 계절학기 국내대학 학점교류 신청 안내_대상 학교 추가](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214823&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-05-17)
+
 * **[[토크콘서트] 신입생을 위한 생각의 마중길 행사안내(재안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214807&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생지원팀 (~2023-05-17)
 
@@ -50,9 +65,6 @@
 
 * **[[아주강좌] 제 493회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214778&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-05-17)
-
-* **[[학부/학사과정] (23.05.17.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214769&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-05-17)
 
 * **[[일자리+센터] KOTRA 주관 미국 온라인 채용박람회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214760&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-17)
@@ -98,15 +110,3 @@
 
 * **[[온마음알리미] 경기도 디지털 심리백신 프로그램 (&#x27;달리보여&#x27; 이벤트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214698&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 인권센터 학생상담소 (~2023-05-16)
-
-* **[[아주지속가능발전센터] AJOU SDG 아이디어 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214697&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 아주지속가능발전센터 (~2023-05-16)
-
-* **[[홍보] 2023 자치분권 청년 서포터즈 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214696&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2023-05-16)
-
-* **[[일자리+센터] 이공계열 대학생 독일 인턴십 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214695&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-16)
-
-* **[[일자리+센터] KT 에이블 스쿨_아주대 선배(2기)가 추천하는 이유](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214694&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-15)
