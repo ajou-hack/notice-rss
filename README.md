@@ -24,6 +24,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학사]2023-2학기 재입학 시행 안내(06.02.~06.23.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214928&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-05-19)
+
+* **[(재공지)[LINC 3.0] 2023 ALL-SET 기업역량 고도화 지원사업 시제품맞춤형(1차) 공모 안내(~05.24까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214925&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2023-05-19)
+
 * **[[학생 강사 특강] 팀플에서 살아남기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214916&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-05-19)
 
@@ -107,9 +113,3 @@
 
 * **[[일자리+센터] (재수정)아주대와 함께하는 아이티센 채용설명회 (5/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214786&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-17)
-
-* **[[일자리+센터] 지역인재 7급 추천 채용 제도 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214779&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-17)
-
-* **[[아주강좌] 제 493회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214778&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-05-17)
