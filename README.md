@@ -24,6 +24,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023학년도 1학기 아경장학재단 장학증서 수여식 안내_5.22(월) 17:00 율곡관 영상회의실](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214909&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-05-19)
+
+* **[(재공지) 아주대와 함께하는 문화산책](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214898&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-05-18)
+
 * **[[일자리+센터] JOB-A+와 함께하는 원천대동제 오월은 플러스(+)구나~ 이벤트 공지!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214896&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-18)
 
@@ -107,9 +113,3 @@
 
 * **[[집중근로] 2023학년도 한국장학재단 하계방학 집중근로 프로그램 희망근로지 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214745&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-05-16)
-
-* **[[교육부] 재밌는 사례로 알아보는~ 알쏭달쏭한 개인정보보호 정답을 알려줘!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214744&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2023-05-16)
-
-* **[[학생 강사 특강] 팀플에서 살아남기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214737&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-05-16)
