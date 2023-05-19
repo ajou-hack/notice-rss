@@ -24,6 +24,27 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[일자리+센터] (재공지) 2023 AJOU-동문멘토링 참여안내-5/22(월)~6/2(금) 비대면](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214942&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-19)
+
+* **[[일자리+센터] 2023 월간자소서 6월호(기초 서류 작성법 특강 및 컨설팅)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214941&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-19)
+
+* **[[메이커스페이스] 3D프린터 장비운용 기초교육생 모집(5월 2회차_&#x27;23.05.23)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214940&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-05-19)
+
+* **[[마감임박/재공지]아주허브에서 5월 퀴즈 풀고 기프티콘 받자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214939&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-05-19)
+
+* **[(수정)제2회 CO-WEEK ACADEMY 수강신청 모집연장(~5/24 23:59)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214937&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신공유단 (~2023-05-19)
+
+* **[[봉사활동]「권선2동 마을이야기 책자 제작 기획단」모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214936&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-05-19)
+
+* **[간식(점심)이랑 선물 받고, 특강도 듣자! &#x27;안녕! 나 정서인데, 우리 친해질래?&#x27; 특강 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214935&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 인권센터 학생상담소 (~2023-05-19)
+
 * **[2023학년도 원천대동제 개최에 따른 주차 및 차량통제 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214933&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2023-05-19)
 
@@ -92,24 +113,3 @@
 
 * **[[학부/학사과정] (23.05.17.) 2023-하계 계절학기 국내대학 학점교류 신청 안내_대상 학교 추가](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214823&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-05-17)
-
-* **[[토크콘서트] 신입생을 위한 생각의 마중길 행사안내(재안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214807&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생지원팀 (~2023-05-17)
-
-* **[[일자리+센터] 2023학년도 대학일자리플러스센터 마일리지 제도 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214804&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-17)
-
-* **[[일자리+센터] 2023 AJOU-동문멘토링 참여안내-5/22(월)~6/2(금) 비대면](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214803&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-17)
-
-* **[[봉사활동] (추가모집) &#x27;결식아동돕기 사랑의 쌀 배달&#x27; 자원봉사자 모집 (5/18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214797&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-05-17)
-
-* **[[봉사활동] 추가모집 (2차 진행) 지구를 위한 플로깅, 아주 쓰담달리기 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214796&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-05-17)
-
-* **[[교무팀] 교무팀에서 함께 면학할 성실한 면학장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214795&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 교무팀 (~2023-05-17)
-
-* **[[학습법특강] ChatGPT 이렇게 쓰는 겁니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214793&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-05-17)
