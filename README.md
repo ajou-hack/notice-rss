@@ -3,7 +3,7 @@
 * **[📌 [공지] &#x27;장학공지&#x27; 메뉴 신설(한눈에 우리대학 장학정보를 확인하는 방법)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214764&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-05-17)
 
-* **[📌 [공지] [학부/학사과정] 2023학년도 하계 계절수업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214493&amp;article.offset=0&amp;articleLimit=30)**
+* **[📌 [공지] ★개설 교과목 List 업데이트_[학부/학사과정] 2023학년도 하계 계절수업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214493&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-05-11)
 
 * **[📌 [공지] [학사]2023-2학기 재학생/휴학생 통합 전과 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214014&amp;article.offset=0&amp;articleLimit=30)**
@@ -23,6 +23,9 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
+
+* **[2023학년도 원천대동제 개최에 따른 주차 및 차량통제 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214933&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2023-05-19)
 
 * **[[학사]2023-2학기 재입학 시행 안내(06.02.~06.23.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214928&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-05-19)
@@ -110,6 +113,3 @@
 
 * **[[학습법특강] ChatGPT 이렇게 쓰는 겁니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214793&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-05-17)
-
-* **[[일자리+센터] (재수정)아주대와 함께하는 아이티센 채용설명회 (5/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214786&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-17)
