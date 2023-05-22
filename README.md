@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[(대학생교육기부 프로그램)여름방학 쏙쏙캠프](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214982&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-05-22)
+
 * **[[일자리+센터] 2023 AJOU-동문멘토링 0522 비대면 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214977&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-22)
 
@@ -110,6 +113,3 @@
 
 * **[(재공지)[LINC 3.0] 2023 제1회 창업아이디어 경진대회 개최 안내(~5/23까지(연장))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214859&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀(창업교육센터) (~2023-05-18)
-
-* **[[LINC 3.0] 2023 원천대동제 찾아가는 현장실습 상담회(05/23(화)~24(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214849&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2023-05-18)
