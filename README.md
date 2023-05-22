@@ -24,6 +24,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[재공지][일자리+센터] JOB-A+와 함께하는 원천대동제 오월은 플러스(+)구나~ 이벤트 공지!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215005&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-22)
+
+* **[[생활관(기숙사)] 2023년 하계 방학 입사 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215004&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 생활관 (~2023-05-22)
+
+* **[소프트웨어융합대학 국방디지털융합학과 초빙강연 안내(2023.06.07)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215003&amp;article.offset=0&amp;articleLimit=30)**
+ [학술] - 국방디지털융합학과 (~2023-05-22)
+
 * **[(대학생교육기부 프로그램)여름방학 쏙쏙캠프](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214982&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-05-22)
 
@@ -104,12 +113,3 @@
 
 * **[23년 휴일 예비군훈련 일정 및 인터넷 신청(안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214875&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 예비군연대 (~2023-05-18)
-
-* **[운동장(인조잔디구장) 예약 방식 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214872&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-05-18)
-
-* **[[교외장학] 2023년 『KT 랜선야학(夜學)』 인천/경기지역 대학생 멘토 선발 안내_5/30(화) 17시까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214870&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-05-18)
-
-* **[(재공지)[LINC 3.0] 2023 제1회 창업아이디어 경진대회 개최 안내(~5/23까지(연장))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214859&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀(창업교육센터) (~2023-05-18)
