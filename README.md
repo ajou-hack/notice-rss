@@ -24,6 +24,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[SW중심대학] 2023-1 AJOU SOFTCON 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214958&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - SW융합교육원 (~2023-05-22)
+
+* **[[일자리+센터] (재공지)아주대와 함께하는 아이티센 채용설명회 (5/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214956&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-22)
+
+* **[[일자리+센터] 5월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214954&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-22)
+
 * **[(재공지) 토크콘서트 듣고 푸짐한 경품 받자‼ &quot;신입생을 위한 생각의 마중길&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214943&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생지원팀 (~2023-05-19)
 
@@ -104,12 +113,3 @@
 
 * **[[교외장학] 전주시 2023년 상반기 대학생 학자금 대출이자 지원 사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214835&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-05-18)
-
-* **[[교외장학] 2023년 1학기 고양시 대학생 본인부담 등록금 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214834&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-05-18)
-
-* **[[학생지원팀_재공지] 율곡관 혁신공유라운지 사용불가 안내(05.24(수) 12:00~13:00, 05.25(목) 13:00~14:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214831&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-05-18)
-
-* **[(마감임박)(재공지) [아주지속가능발전센터] AJOU ECO 챌린지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214830&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 아주지속가능발전센터 (~2023-05-18)
