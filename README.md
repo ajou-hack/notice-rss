@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[홍보] 2023 LG CNS STARTUP MONSTER 참여 스타트업 모집 안내(~5/29)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214971&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-05-22)
+
 * **[[학습법] 2023-1학기 온라인 학습법 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214967&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-05-22)
 
@@ -110,6 +113,3 @@
 
 * **[승강기(산학관) 보수공사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214845&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2023-05-18)
-
-* **[(학생참여 프로그램)2023 경기청년 갭이어 프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214844&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-05-18)
