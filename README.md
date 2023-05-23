@@ -24,6 +24,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023 아주대학교 원천대동제 _ 푸르게 이는 아주의 물결 (05.23(화) ~ 05.25(목))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215052&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-05-23)
+
+* **[2023-1 파란학기제 성과발표회 행사 당일 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215051&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2023-05-23)
+
+* **[[학자금대출] 2023학년도 2학기 학자금대출 사전신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215049&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-05-23)
+
 * **[2023-2 파란학기제 설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215039&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2023-05-23)
 
@@ -104,12 +113,3 @@
 
 * **[[봉사활동]「권선2동 마을이야기 책자 제작 기획단」모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214936&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-05-19)
-
-* **[간식(점심)이랑 선물 받고, 특강도 듣자! &#x27;안녕! 나 정서인데, 우리 친해질래?&#x27; 특강 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214935&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 인권센터 학생상담소 (~2023-05-19)
-
-* **[2023학년도 원천대동제 개최에 따른 주차 및 차량통제 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214933&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2023-05-19)
-
-* **[국제교육센터 제13기 아주글로벌버디(AJOU GLOBAL BUDDY) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214931&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 국제교육센터 (~2023-05-19)
