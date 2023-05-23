@@ -24,6 +24,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[재공지][LINC 3.0] 2023 원천대동제 찾아가는 현장실습 상담회(05/23(화)~24(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215017&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2023-05-23)
+
+* **[[일자리+센터] 미국, 독일, 호주 해외일경험프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215010&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-23)
+
 * **[[재공지][일자리+센터] JOB-A+와 함께하는 원천대동제 오월은 플러스(+)구나~ 이벤트 공지!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215005&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-22)
 
@@ -107,9 +113,3 @@
 
 * **[토크콘서트 참여하고 푸짐한 경품 받자‼ &quot;신입생을 위한 생각의 마중길&quot; (재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214886&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생지원팀 (~2023-05-18)
-
-* **[[외교부] 2024-25년 대한민국 유엔 안보리 진출 제2대 청년사절 모집(연장 ~5.22.까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214877&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-05-18)
-
-* **[23년 휴일 예비군훈련 일정 및 인터넷 신청(안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214875&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 예비군연대 (~2023-05-18)
