@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[융복합 의료제품 촉진지원센터] 학생연구원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215026&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 산학기획팀 (~2023-05-23)
+
 * **[[일자리+센터] 일본 IT업계 온라인 취업 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215024&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-23)
 
@@ -96,6 +99,9 @@
 * **[2023학년도 원천대동제 개최에 따른 주차 및 차량통제 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214933&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2023-05-19)
 
+* **[국제교육센터 제13기 아주글로벌버디(AJOU GLOBAL BUDDY) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214931&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 국제교육센터 (~2023-05-19)
+
 * **[[학사]2023-2학기 재입학 시행 안내(06.02.~06.23.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214928&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-05-19)
 
@@ -107,9 +113,3 @@
 
 * **[[교외장학] 2023년 상반기 익산시 대학(원)생 학자금 대출이자 지원](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214913&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-05-19)
-
-* **[2023학년도 1학기 아경장학재단 장학증서 수여식 안내_5.22(월) 17:00 율곡관 영상회의실](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214909&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-05-19)
-
-* **[(재공지) 아주대와 함께하는 문화산책](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214898&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-05-18)
