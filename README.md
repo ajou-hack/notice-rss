@@ -24,6 +24,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023-2 파란학기제 설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215039&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2023-05-23)
+
+* **[[SW중심대학]제2회 대학 연합 아주 소중한 딥러닝 챌린지 참가 신청 안내(학부생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215038&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW융합교육원 (~2023-05-23)
+
+* **[[일자리+센터] 2023 AJOU-동문멘토링 2일차(0523-비대면) 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215035&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-23)
+
+* **[[학부/학사과정] (23.05.23.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215034&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-05-23)
+
 * **[[융복합 의료제품 촉진지원센터] 학생연구원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215026&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 산학기획팀 (~2023-05-23)
 
@@ -101,15 +113,3 @@
 
 * **[국제교육센터 제13기 아주글로벌버디(AJOU GLOBAL BUDDY) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214931&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 국제교육센터 (~2023-05-19)
-
-* **[[학사]2023-2학기 재입학 시행 안내(06.02.~06.23.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214928&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-05-19)
-
-* **[(재공지)[LINC 3.0] 2023 ALL-SET 기업역량 고도화 지원사업 시제품맞춤형(1차) 공모 안내(~05.24까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214925&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2023-05-19)
-
-* **[[학생 강사 특강] 팀플에서 살아남기!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214916&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-05-19)
-
-* **[[교외장학] 2023년 상반기 익산시 대학(원)생 학자금 대출이자 지원](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214913&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-05-19)
