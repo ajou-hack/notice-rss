@@ -24,6 +24,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[일자리+센터] 일본 IT업계 온라인 취업 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215024&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-23)
+
+* **[(전체 학년 대상) 토크콘서트 듣고 푸짐한 경품 받자‼ &quot;신입생을 위한 생각의 마중길&quot; (수정 재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215023&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생지원팀 (~2023-05-23)
+
+* **[[학습법] 2023 퀀텀U 대학생 리더십 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215022&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-05-23)
+
 * **[[재공지][LINC 3.0] 2023 원천대동제 찾아가는 현장실습 상담회(05/23(화)~24(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215017&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2023-05-23)
 
@@ -104,12 +113,3 @@
 
 * **[(재공지) 아주대와 함께하는 문화산책](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214898&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-05-18)
-
-* **[[일자리+센터] JOB-A+와 함께하는 원천대동제 오월은 플러스(+)구나~ 이벤트 공지!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214896&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-18)
-
-* **[[학부/학사과정] (23.05.18.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214888&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-05-18)
-
-* **[토크콘서트 참여하고 푸짐한 경품 받자‼ &quot;신입생을 위한 생각의 마중길&quot; (재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214886&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생지원팀 (~2023-05-18)
