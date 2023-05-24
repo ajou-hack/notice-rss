@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023년 여름학기 나라키움 대학생주택 정기모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215108&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-05-24)
+
 * **[[일자리+센터] 2023 AJOU-동문멘토링 3일차(0524-비대면) 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215100&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-24)
 
@@ -110,6 +113,3 @@
 
 * **[[재공지][일자리+센터] JOB-A+와 함께하는 원천대동제 오월은 플러스(+)구나~ 이벤트 공지!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215005&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-22)
-
-* **[[생활관(기숙사)] 2023년 하계 방학 입사 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215004&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 생활관 (~2023-05-22)
