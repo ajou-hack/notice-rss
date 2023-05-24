@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] [필독]2023학년도 2학기 국가장학금 1차 신청안내 (5. 23. ~ 6. 22.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215084&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-05-24)
+
 * **[📌 [공지] &#x27;장학공지&#x27; 메뉴 신설(한눈에 우리대학 장학정보를 확인하는 방법)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214764&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-05-17)
 
@@ -47,9 +50,6 @@
 
 * **[[일자리+센터] 2023 아주히든챔피언학생발굴단 10기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215086&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-24)
-
-* **[[필독]2023학년도 2학기 국가장학금 1차 신청안내 (5. 23. ~ 6. 22.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215084&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-05-24)
 
 * **[[학생지원팀_재공지] 율곡관 혁신공유라운지 사용불가 안내(05.24(수) 12:00~13:00, 05.25(목) 13:00~14:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215079&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생지원팀 (~2023-05-24)
@@ -113,3 +113,6 @@
 
 * **[[재공지][일자리+센터] JOB-A+와 함께하는 원천대동제 오월은 플러스(+)구나~ 이벤트 공지!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215005&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-22)
+
+* **[[생활관(기숙사)] 2023년 하계 방학 입사 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215004&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 생활관 (~2023-05-22)
