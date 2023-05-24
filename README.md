@@ -24,14 +24,26 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[지식재산] 2023-1 IP CONFERENCE 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215092&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 지식재산융합인재양성사업 (~2023-05-24)
+
+* **[[학부/학사과정] (23.05.24.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215088&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-05-24)
+
+* **[[일자리+센터] 2023 아주히든챔피언학생발굴단 10기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215086&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-24)
+
+* **[[필독]2023학년도 2학기 국가장학금 1차 신청안내 (5. 23. ~ 6. 22.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215084&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-05-24)
+
+* **[[학생지원팀_재공지] 율곡관 혁신공유라운지 사용불가 안내(05.24(수) 12:00~13:00, 05.25(목) 13:00~14:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215079&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생지원팀 (~2023-05-24)
+
 * **[[학습법특강] ChatGPT 이렇게 쓰는 겁니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215077&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-05-24)
 
 * **[(5.25. 목 내일!) 축구부 하석주 감독님 (전체학생 대상) 생각의 마중길 토크콘서트 (1시~2시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215072&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생지원팀 (~2023-05-24)
-
-* **[[지식재산] 2023-1 아주 IP Conference 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215071&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 지식재산융합인재양성사업 (~2023-05-24)
 
 * **[(5.24.수 오늘!) 사회학과 노명우 교수님 (전체학생 대상) 생각의 마중길 토크콘서트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215070&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생지원팀 (~2023-05-24)
@@ -101,15 +113,3 @@
 
 * **[[홍보] 2023 LG CNS STARTUP MONSTER 참여 스타트업 모집 안내(~5/29)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214971&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-05-22)
-
-* **[[학습법] 2023-1학기 온라인 학습법 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214967&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-05-22)
-
-* **[[SW중심대학] 2023-1 AJOU SOFTCON 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214958&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - SW융합교육원 (~2023-05-22)
-
-* **[[일자리+센터] (재공지)아주대와 함께하는 아이티센 채용설명회 (5/31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214956&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-22)
-
-* **[[일자리+센터] 5월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214954&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-22)
