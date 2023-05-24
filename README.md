@@ -24,6 +24,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[일자리+센터] 2023 AJOU-동문멘토링 3일차(0524-비대면) 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215100&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-24)
+
+* **[AJOU ECO 챌린지 증정품 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215096&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 아주지속가능발전센터 (~2023-05-24)
+
 * **[(D-7) 2023학년도 2학기 인공지능융합학과[복수전공, 부전공] 7기 1차 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215095&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 소프트웨어융합대학교학팀 (~2023-05-24)
 
@@ -66,7 +72,7 @@
 * **[2023 아주대학교 원천대동제_푸르게 이는 아주의 물결 (05.23(화) ~ 05.25(목))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215052&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-05-23)
 
-* **[2023-1 파란학기제 성과발표회 행사 당일 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215051&amp;article.offset=0&amp;articleLimit=30)**
+* **[[조기마감] 2023-1 파란학기제 성과발표회 행사 당일 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215051&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2023-05-23)
 
 * **[[학자금대출] 2023학년도 2학기 학자금대출 사전신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215049&amp;article.offset=0&amp;articleLimit=30)**
@@ -107,9 +113,3 @@
 
 * **[[생활관(기숙사)] 2023년 하계 방학 입사 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215004&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 생활관 (~2023-05-22)
-
-* **[소프트웨어융합대학 국방디지털융합학과 초빙강연 안내(2023.06.07)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215003&amp;article.offset=0&amp;articleLimit=30)**
- [학술] - 국방디지털융합학과 (~2023-05-22)
-
-* **[(대학생교육기부 프로그램)여름방학 쏙쏙캠프](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214982&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-05-22)
