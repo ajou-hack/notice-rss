@@ -24,7 +24,19 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
-* **[원천정보관 대관불가안내 (7.22~7.24)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215063&amp;article.offset=0&amp;articleLimit=30)**
+* **[[학습법특강] ChatGPT 이렇게 쓰는 겁니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215077&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-05-24)
+
+* **[(5.25. 목 내일!) 축구부 하석주 감독님 (전체학생 대상) 생각의 마중길 토크콘서트 (1시~2시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215072&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생지원팀 (~2023-05-24)
+
+* **[[지식재산] 2023-1 아주 IP Conference 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215071&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 지식재산융합인재양성사업 (~2023-05-24)
+
+* **[(5.24.수 오늘!) 사회학과 노명우 교수님 (전체학생 대상) 생각의 마중길 토크콘서트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215070&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생지원팀 (~2023-05-24)
+
+* **[원천정보관 대관불가안내 (7.22~7.23)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215063&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 학생지원팀 (~2023-05-23)
 
 * **[[봉사활동] 5/30 (화) 단체 헌혈 지원, 헌혈증 기부 캠페인 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215062&amp;article.offset=0&amp;articleLimit=30)**
@@ -101,15 +113,3 @@
 
 * **[[일자리+센터] 5월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214954&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-22)
-
-* **[(재공지) 토크콘서트 듣고 푸짐한 경품 받자‼ &quot;신입생을 위한 생각의 마중길&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214943&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생지원팀 (~2023-05-19)
-
-* **[[일자리+센터] (재공지) 2023 AJOU-동문멘토링 참여안내-5/22(월)~6/2(금) 비대면](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214942&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-19)
-
-* **[[일자리+센터] 2023 월간자소서 6월호(기초 서류 작성법 특강 및 컨설팅)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214941&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-19)
-
-* **[[메이커스페이스] 3D프린터 장비운용 기초교육생 모집(5월 2회차_&#x27;23.05.23)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214940&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-05-19)
