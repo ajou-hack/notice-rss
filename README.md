@@ -27,6 +27,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[아주대학교 축구부] 대동제의 열기를 그대로! 5월 26일(금) 15시 경기장으로 모여라!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215115&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-05-24)
+
+* **[[LINC 3.0] 환경부 국립생물자원관 2023 하계 대학생 현장실습 참가자 모집(~6.2.(금) 15시까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215114&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2023-05-24)
+
 * **[2023년 여름학기 나라키움 대학생주택 정기모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215108&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-05-24)
 
@@ -110,9 +116,3 @@
 
 * **[[일자리+센터] 미국, 독일, 호주 해외일경험프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215010&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-23)
-
-* **[[재공지][일자리+센터] JOB-A+와 함께하는 원천대동제 오월은 플러스(+)구나~ 이벤트 공지!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215005&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-22)
-
-* **[[생활관(기숙사)] 2023년 하계 방학 입사 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215004&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 생활관 (~2023-05-22)
