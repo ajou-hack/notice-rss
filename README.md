@@ -27,6 +27,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[홍보] 제6회 전국 청년 아이디어톤 대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215124&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 홍보실 (~2023-05-25)
+
+* **[[아주강좌] 제 494회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215121&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-05-25)
+
+* **[(재공지)운동장(인조잔디구장) 예약 방식 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215120&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-05-25)
+
 * **[[아주대학교 축구부] 대동제의 열기를 그대로! 5월 26일(금) 15시 경기장으로 모여라!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215115&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-05-24)
 
@@ -107,12 +116,3 @@
 
 * **[(전체 학년 대상) 토크콘서트 듣고 푸짐한 경품 받자‼ &quot;신입생을 위한 생각의 마중길&quot; (수정 재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215023&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생지원팀 (~2023-05-23)
-
-* **[[학습법] 2023 퀀텀U 대학생 리더십 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215022&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-05-23)
-
-* **[[재공지][LINC 3.0] 2023 원천대동제 찾아가는 현장실습 상담회(05/23(화)~24(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215017&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2023-05-23)
-
-* **[[일자리+센터] 미국, 독일, 호주 해외일경험프로그램 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215010&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-23)
