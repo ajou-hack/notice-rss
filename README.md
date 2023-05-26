@@ -27,6 +27,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[일자리+센터] 2023 AJOU-동문멘토링 5일차(0526-비대면) 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215200&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-26)
+
+* **[[다산학부대학] 2023-하계 계절학기 교양과목 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215197&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-05-26)
+
 * **[[교외장학] 2023년 산학협동재단 디딤돌 장학금 신청 안내_23.07.19.(수) 오후 3시 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215189&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-05-26)
 
@@ -110,9 +116,3 @@
 
 * **[(5.24.수 오늘!) 사회학과 노명우 교수님 (전체학생 대상) 생각의 마중길 토크콘서트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215070&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생지원팀 (~2023-05-24)
-
-* **[원천정보관 대관불가안내 (7.22~7.23)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215063&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 학생지원팀 (~2023-05-23)
-
-* **[[봉사활동] 5/30 (화) 단체 헌혈 지원, 헌혈증 기부 캠페인 봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215062&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-05-23)
