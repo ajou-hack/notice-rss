@@ -27,6 +27,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[일자리+센터] 2023 AJOU-동문멘토링 6일차(0529-비대면) 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215212&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-26)
+
+* **[[학부/학사과정] 2023학년도 하계 계절수업 등록 및 수강포기(계절학기 수강료 환불) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215210&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-05-26)
+
+* **[[대학교육혁신원] 인스타그램 팔로우 이벤트 참여하고 커피쿠폰 받아가세요~!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215208&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2023-05-26)
+
+* **[[메이커스페이스] 레이저커팅기 장비운용 기초교육생 모집(5월 2회차_&#x27;23.05.30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215207&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-05-26)
+
 * **[[일자리+센터] 2023 AJOU-동문멘토링 5일차(0526-비대면) 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215200&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-26)
 
@@ -104,15 +116,3 @@
 
 * **[[일자리+센터] 2023 아주히든챔피언학생발굴단 10기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215086&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-24)
-
-* **[[학생지원팀_재공지] 율곡관 혁신공유라운지 사용불가 안내(05.24(수) 12:00~13:00, 05.25(목) 13:00~14:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215079&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생지원팀 (~2023-05-24)
-
-* **[[학습법특강] ChatGPT 이렇게 쓰는 겁니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215077&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-05-24)
-
-* **[(5.25. 목 내일!) 축구부 하석주 감독님 (전체학생 대상) 생각의 마중길 토크콘서트 (1시~2시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215072&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생지원팀 (~2023-05-24)
-
-* **[(5.24.수 오늘!) 사회학과 노명우 교수님 (전체학생 대상) 생각의 마중길 토크콘서트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215070&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학생지원팀 (~2023-05-24)
