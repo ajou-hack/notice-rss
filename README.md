@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[(동아리 활동 지원) 2023 전통문화 일상누림 동아리 활동 지원](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215267&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-05-30)
+
 * **[[중앙도서관] 북큐레이션 도서 안내 - 컬러:초록](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215260&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2023-05-30)
 
@@ -110,6 +113,3 @@
 
 * **[[아주강좌] 제 494회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215121&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-05-25)
-
-* **[(재공지)운동장(인조잔디구장) 예약 방식 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215120&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-05-25)
