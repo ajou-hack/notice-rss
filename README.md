@@ -24,6 +24,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[재공지][인문대학] 인간·사회·규범 연계전공 설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215248&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 인문대학교학팀 (~2023-05-30)
+
+* **[[글로벌미래교육원]2023 여름학기 평생교육프로그램 수강 신청 중!! (뮤지컬 하이라이트, 마음챙김전문가 자격과정,와인교양강좌 등.....다양한 과정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215247&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 글로벌미래교육원 (~2023-05-30)
+
+* **[[미래자동차렉처시리즈 재공지] 플랫폼 기업에서 바라본 미래 모빌리티(5/31(수) 11:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215245&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신공유단 (~2023-05-30)
+
+* **[[학습법] 2023 퀀텀U 대학생 리더십 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215237&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-05-30)
+
 * **[[학부]2023학년도 1학기 수업평가 실시 안내(Spring Semester Course Evaluation)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215232&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-05-30)
 
@@ -101,15 +113,3 @@
 
 * **[[LINC 3.0] 환경부 국립생물자원관 2023 하계 대학생 현장실습 참가자 모집(~6.2.(금) 15시까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215114&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2023-05-24)
-
-* **[2023년 여름학기 나라키움 대학생주택 정기모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215108&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-05-24)
-
-* **[[일자리+센터] 2023 AJOU-동문멘토링 3일차(0524-비대면) 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215100&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-24)
-
-* **[AJOU ECO 챌린지 증정품 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215096&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 아주지속가능발전센터 (~2023-05-24)
-
-* **[(D-7) 2023학년도 2학기 인공지능융합학과[복수전공, 부전공] 7기 1차 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215095&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 소프트웨어융합대학교학팀 (~2023-05-24)
