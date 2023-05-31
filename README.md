@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[국가근로][대청교] 5월 출근부 입력 마감일 및 장학금 지급 예정일 안내(필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215322&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-05-31)
+
 * **[[인문과학연구소] 세미나 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215317&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 인문과학연구소 (~2023-05-31)
 
@@ -110,6 +113,3 @@
 
 * **[[교외장학] 2023년 산학협동재단 디딤돌 장학금 신청 안내_23.07.19.(수) 오후 3시 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215189&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-05-26)
-
-* **[[박물관] 제 47회 교양문화강좌 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215187&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 박물관 (~2023-05-26)
