@@ -15,7 +15,7 @@
 * **[📌 [공지] [Remind][학사] 2023-1학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212711&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-03-28)
 
-* **[📌 [공지] [교무팀] 출석(전자출결, 공결, 취업계, 코로나 등) 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205552&amp;article.offset=0&amp;articleLimit=30)**
+* **[📌 [공지] [교무팀] 출석(전자출결, 공결, 취업계, 코로나 등) 관련 안내(06.01.수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205552&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-10-26)
 
 * **[📌 [공지] [총무팀] 코로나19 확진자 교내 심층역학조사 URL 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180493&amp;article.offset=0&amp;articleLimit=30)**
@@ -23,6 +23,21 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
+
+* **[[인문과학연구소] 세미나 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215317&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 인문과학연구소 (~2023-05-31)
+
+* **[[일자리+센터] 2023 AJOU-동문멘토링 8일차(0531-비대면) 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215315&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-31)
+
+* **[[홍보] 2023년 창업중심대학 창업클럽경진대회(수도권)(~06.12(월))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215313&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-05-31)
+
+* **[[홍보] (탄소산업분야) 2023 창업지원사업 참가자 모집 공고(탄소소재 및 부품 활용 아이디어)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215311&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-05-31)
+
+* **[[교무팀] 코로나19 확산에 따른 출석인정 안내(백신공결 등)_2023.06.01.부 적용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215308&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-05-31)
 
 * **[[학습법] 2023-1학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215301&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-05-31)
@@ -98,18 +113,3 @@
 
 * **[[박물관] 제 47회 교양문화강좌 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215187&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 박물관 (~2023-05-26)
-
-* **[[일자리+센터] GYC 5기 해외취업 지원과정 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215177&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-26)
-
-* **[교내 개인형이동장치(PM(Personal Mobility)) 이용수칙 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215176&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2023-05-26)
-
-* **[[인권센터 학생상담소] &#x27;안녕! 나 정서인데 우리 친해질래?&#x27; (정서조절을 위한 인식과 표현) 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215162&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 인권센터 학생상담소 (~2023-05-26)
-
-* **[[학습법특강] ChatGPT 이렇게 쓰는 겁니다(오늘 신청 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215155&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-05-26)
-
-* **[[재공지][LINC 3.0] 찾아가는 현장실습 도서관 상담회 안내(05/11(목), 05/31(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215154&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2023-05-26)
