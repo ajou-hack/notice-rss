@@ -24,6 +24,30 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[공지]2023학년도 1학기&amp;여름방학 경영대학교학팀 근로학생(면학장학생) 모집(~6월 2일 12:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215361&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 경영대학교학팀 (~2023-06-01)
+
+* **[[공학교육혁신센터] 2023학년도 1학기 공학인증 학생상담 안내 (6.12.까지)* 금학기 연장 없음*](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215359&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 공학교육혁신센터 (~2023-06-01)
+
+* **[[재공지] 일본 IT업계 온라인 취업 설명회 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215355&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-01)
+
+* **[[일자리+센터] 대학일자리플러스센터 뉴스레터 제56호(2023.06)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215354&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-01)
+
+* **[2023년 멀티미디어 강의실 점검결과(05월) 및 2023년 (06월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215353&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2023-06-01)
+
+* **[2023 제2회 인플라메이징 중개의학 연구센터 국제 심포지움 개최 안내_6/16(금) 13:30, 아주대병원 별관 대강당](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215352&amp;article.offset=0&amp;articleLimit=30)**
+ [학술] - 의과대학 교학팀 (~2023-06-01)
+
+* **[[일자리+센터] 23학년도 하계방학 진로-취업 프로그램 사전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215347&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-05-31)
+
+* **[[비교과교육지원센터] 아주허브에서 6월 퀴즈 풀고 기프티콘 받아가자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215343&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-05-31)
+
 * **[[국가근로][대청교] 5월 출근부 입력 마감일 및 장학금 지급 예정일 안내(필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215322&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-05-31)
 
@@ -89,27 +113,3 @@
 
 * **[[메이커스페이스] 6월 장비운영시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215218&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-05-26)
-
-* **[[일자리+센터] 강력 추천 기업 &#x27;아이티센&#x27; 채용설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215214&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-26)
-
-* **[[일자리+센터] 2023 빅데이터 페스티벌 공모전 상담회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215213&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-26)
-
-* **[[일자리+센터] 2023 AJOU-동문멘토링 6일차(0529-비대면) 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215212&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-26)
-
-* **[[대학교육혁신원] 인스타그램 팔로우 이벤트 참여하고 커피쿠폰 받아가세요~!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215208&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2023-05-26)
-
-* **[[메이커스페이스] 레이저커팅기 장비운용 기초교육생 모집(5월 2회차_&#x27;23.05.30)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215207&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-05-26)
-
-* **[[일자리+센터] 2023 AJOU-동문멘토링 5일차(0526-비대면) 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215200&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-26)
-
-* **[[다산학부대학] 2023-하계 계절학기 교양과목 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215197&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-05-26)
-
-* **[[교외장학] 2023년 산학협동재단 디딤돌 장학금 신청 안내_23.07.19.(수) 오후 3시 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215189&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-05-26)
