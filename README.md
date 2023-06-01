@@ -24,6 +24,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[학생지원팀 업무분장 변경 안내 (2023.06.01. 부)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215375&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-06-01)
+
+* **[2023 제4회 AJOU Tech-Verse Edu Festa에 여러분을 초대합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215374&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 산학사업팀 (~2023-06-01)
+
+* **[(유학생) 23-여름학기 슬기로운 한국어 학술모임 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215371&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 글로벌교양학부 (~2023-06-01)
+
+* **[[학습법] 2023학년도 신입생을 위한 학습 전략 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215365&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-06-01)
+
+* **[[학습법] 2023-1학기 온라인 학습법 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215364&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-06-01)
+
 * **[[공지]2023학년도 1학기&amp;여름방학 경영대학교학팀 근로학생(면학장학생) 모집(~6월 2일 12:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215361&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 경영대학교학팀 (~2023-06-01)
 
@@ -42,7 +57,7 @@
 * **[2023 제2회 인플라메이징 중개의학 연구센터 국제 심포지움 개최 안내_6/16(금) 13:30, 아주대병원 별관 대강당](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215352&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - 의과대학 교학팀 (~2023-06-01)
 
-* **[[일자리+센터] 23학년도 하계방학 진로-취업 프로그램 사전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215347&amp;article.offset=0&amp;articleLimit=30)**
+* **[[일자리+센터] 23학년도 하계방학 진로-취업 프로그램 사전 안내 (모집 홍보 전)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215347&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-31)
 
 * **[[비교과교육지원센터] 아주허브에서 6월 퀴즈 풀고 기프티콘 받아가자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215343&amp;article.offset=0&amp;articleLimit=30)**
@@ -98,18 +113,3 @@
 
 * **[[글로벌미래교육원]2023 여름학기 평생교육프로그램 수강 신청 중!! (뮤지컬 하이라이트, 마음챙김전문가 자격과정,와인교양강좌 등.....다양한 과정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215247&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 글로벌미래교육원 (~2023-05-30)
-
-* **[[미래자동차렉처시리즈 재공지] 플랫폼 기업에서 바라본 미래 모빌리티(5/31(수) 11:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215245&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 혁신공유단 (~2023-05-30)
-
-* **[[학습법] 2023 퀀텀U 대학생 리더십 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215237&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-05-30)
-
-* **[[학부]2023학년도 1학기 수업평가 실시 안내(Spring Semester Course Evaluation)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215232&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-05-30)
-
-* **[[교외장학] (재)아산시미래장학회 2023년 4차산업 인재육성 장학생 선발 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215228&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-05-30)
-
-* **[[메이커스페이스] 6월 장비운영시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215218&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-05-26)
