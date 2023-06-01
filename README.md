@@ -24,6 +24,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[(군포시 청소년재단) 후기청소년 동아리 지원 사업 참가 동아리 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215377&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-06-01)
+
+* **[[일자리+센터] 2023 AJOU-동문멘토링 9일차(0601-비대면) 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215376&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-01)
+
 * **[학생지원팀 업무분장 변경 안내 (2023.06.01. 부)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215375&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-06-01)
 
@@ -107,9 +113,3 @@
 
 * **[[일자리+센터] 2023 AJOU-동문멘토링 7일차(0530-비대면) 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215254&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-30)
-
-* **[[재공지][인문대학] 인간·사회·규범 연계전공 설명회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215248&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 인문대학교학팀 (~2023-05-30)
-
-* **[[글로벌미래교육원]2023 여름학기 평생교육프로그램 수강 신청 중!! (뮤지컬 하이라이트, 마음챙김전문가 자격과정,와인교양강좌 등.....다양한 과정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215247&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 글로벌미래교육원 (~2023-05-30)
