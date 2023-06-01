@@ -24,6 +24,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[제 30기 A.G.A. (국제학생대사, Ajou Global Ambassador) 모집 안내 (2023-2학기 활동)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215385&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2023-06-01)
+
+* **[[국민건강보험공단] 2023년도 국가건강검진(2030 청년세대) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215384&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-06-01)
+
+* **[[일자리+센터] 코멘토 온라인 직무체험](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215382&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-01)
+
 * **[(군포시 청소년재단) 후기청소년 동아리 지원 사업 참가 동아리 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215377&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-06-01)
 
@@ -104,12 +113,3 @@
 
 * **[[국제교육센터] 제73회 모의토익 실시 공고(2023.06.21(수) 14:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215269&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교육센터운영팀 (~2023-05-30)
-
-* **[(동아리 활동 지원) 2023 전통문화 일상누림 동아리 활동 지원](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215267&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-05-30)
-
-* **[[중앙도서관] 북큐레이션 도서 안내 - 컬러:초록](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215260&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2023-05-30)
-
-* **[[일자리+센터] 2023 AJOU-동문멘토링 7일차(0530-비대면) 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215254&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-30)
