@@ -27,6 +27,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023-1학기 제17회 강의페어링 공모전 전시회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215450&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 다산융복합교육센터 (~2023-06-02)
+
 * **[[다산학부대학] 2023-하계 계절학기 BSM 및 공업수학 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215447&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-06-02)
 
@@ -113,6 +116,3 @@
 
 * **[2023 제2회 인플라메이징 중개의학 연구센터 국제 심포지움 개최 안내_6/16(금) 13:30, 아주대병원 별관 대강당](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215352&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - 의과대학 교학팀 (~2023-06-01)
-
-* **[[일자리+센터] 23학년도 하계방학 진로-취업 프로그램 사전 안내 (모집 홍보 전)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215347&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-31)
