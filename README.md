@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] [학부]2023학년도 1학기 수업평가 실시 안내(Spring Semester Course Evaluation)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215232&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-05-30)
+
 * **[📌 [공지] [학부/학사과정] 2023학년도 하계 계절수업 등록 및 수강포기(계절학기 수강료 환불) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215210&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-05-26)
 
@@ -23,6 +26,18 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
+
+* **[2023 제3회 SW융합창업캠프 참여 학생 모집 공고★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215416&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW중심대학사업단 (~2023-06-02)
+
+* **[[LINC 3.0](전액무료) W-OKTA 2023 차세대 글로벌 창업무역스쿨 모국방문교육 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215414&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 산학사업팀 (~2023-06-02)
+
+* **[개교기념일 대체 휴일(6/5) 교내 식당 운영시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215412&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2023-06-02)
+
+* **[[경영대학] 공인회계사, 세무사 준비반 양지현 실원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215410&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 경영대학교학팀 (~2023-06-02)
 
 * **[[SW중심대학] &quot;제1회 AI융합워크숍&quot; 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215407&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - SW융합교육원 (~2023-06-02)
@@ -101,15 +116,3 @@
 
 * **[[홍보] 2023년 창업중심대학 창업클럽경진대회(수도권)(~06.12(월))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215313&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-05-31)
-
-* **[[홍보] (탄소산업분야) 2023 창업지원사업 참가자 모집 공고(탄소소재 및 부품 활용 아이디어)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215311&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-05-31)
-
-* **[[교무팀] 코로나19 확산에 따른 출석인정 안내(백신공결 등)_2023.06.01.부 적용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215308&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-05-31)
-
-* **[[학습법] 2023-1학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215301&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-05-31)
-
-* **[[연장][교외장학] 2023년 『KT 랜선야학(夜學)』 인천/경기지역 대학생 멘토 선발 안내_6/2(금) 17시까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215298&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-05-31)
