@@ -27,6 +27,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[다산학부대학] 2023-하계 계절학기 BSM 및 공업수학 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215447&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-06-02)
+
+* **[2023 아주대학교 기업협업센터(ICC) 참여교원 및 참여기업 융복합 산학교류회 개최 안내(06.15(목))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215433&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2023-06-02)
+
 * **[[비교과교육지원센터]✨아주허브에서 6월 퀴즈 풀고 기프티콘 받아가자!✨](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215426&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-06-02)
 
@@ -110,9 +116,3 @@
 
 * **[[일자리+센터] 23학년도 하계방학 진로-취업 프로그램 사전 안내 (모집 홍보 전)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215347&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-31)
-
-* **[[국가근로][대청교] 5월 출근부 입력 마감일 및 장학금 지급 예정일 안내(필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215322&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-05-31)
-
-* **[[인문과학연구소] 세미나 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215317&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 인문과학연구소 (~2023-05-31)
