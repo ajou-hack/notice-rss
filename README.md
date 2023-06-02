@@ -27,6 +27,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[비교과교육지원센터]✨아주허브에서 6월 퀴즈 풀고 기프티콘 받아가자!✨](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215426&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-06-02)
+
+* **[[재공지][SW중심대학]제2회 대학 연합 아주 소중한 딥러닝 챌린지 참가 신청 안내(학부생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215425&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW융합교육원 (~2023-06-02)
+
+* **[[일자리+센터] 2023 AJOU-동문멘토링 10일차(0602-비대면) 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215420&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-02)
+
 * **[2023 제3회 SW융합창업캠프 참여 학생 모집 공고★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215416&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW중심대학사업단 (~2023-06-02)
 
@@ -102,17 +111,8 @@
 * **[[일자리+센터] 23학년도 하계방학 진로-취업 프로그램 사전 안내 (모집 홍보 전)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215347&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-05-31)
 
-* **[[비교과교육지원센터] 아주허브에서 6월 퀴즈 풀고 기프티콘 받아가자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215343&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-05-31)
-
 * **[[국가근로][대청교] 5월 출근부 입력 마감일 및 장학금 지급 예정일 안내(필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215322&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-05-31)
 
 * **[[인문과학연구소] 세미나 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215317&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 인문과학연구소 (~2023-05-31)
-
-* **[[일자리+센터] 2023 AJOU-동문멘토링 8일차(0531-비대면) 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215315&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-05-31)
-
-* **[[홍보] 2023년 창업중심대학 창업클럽경진대회(수도권)(~06.12(월))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215313&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-05-31)
