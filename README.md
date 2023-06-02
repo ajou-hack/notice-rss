@@ -27,6 +27,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[2023-1 총학생회 기말고사 간식사업] 수원 FC 선수단과 함께하는 찾아가는 밥차](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215458&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-06-02)
+
 * **[2023-1학기 제17회 강의페어링 공모전 전시회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215450&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 다산융복합교육센터 (~2023-06-02)
 
@@ -113,6 +116,3 @@
 
 * **[2023년 멀티미디어 강의실 점검결과(05월) 및 2023년 (06월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215353&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2023-06-01)
-
-* **[2023 제2회 인플라메이징 중개의학 연구센터 국제 심포지움 개최 안내_6/16(금) 13:30, 아주대병원 별관 대강당](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215352&amp;article.offset=0&amp;articleLimit=30)**
- [학술] - 의과대학 교학팀 (~2023-06-01)
