@@ -27,6 +27,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[일자리+센터] AJOU취업훈련소 서류대비반 3기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215464&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-02)
+
 * **[[2023-1 총학생회 기말고사 간식사업] 수원 FC 선수단과 함께하는 찾아가는 밥차](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215458&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-06-02)
 
@@ -113,6 +116,3 @@
 
 * **[[일자리+센터] 대학일자리플러스센터 뉴스레터 제56호(2023.06)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215354&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-01)
-
-* **[2023년 멀티미디어 강의실 점검결과(05월) 및 2023년 (06월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215353&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2023-06-01)
