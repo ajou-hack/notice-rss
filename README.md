@@ -21,13 +21,25 @@
 * **[📌 [공지] [교무팀] 출석(전자출결, 공결, 취업계, 코로나 등) 관련 안내(06.01.수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205552&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-10-26)
 
-* **[📌 [공지] [총무팀] 코로나19 확진자 교내 심층역학조사 URL 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=180493&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2022-02-08)
-
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
-* **[[일자리+센터] AJOU취업훈련소 서류대비반 3기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215464&amp;article.offset=0&amp;articleLimit=30)**
+* **[2023학년도 2학기 파란학기-MOOC 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215474&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2023-06-03)
+
+* **[2023학년도 2학기 파란학기 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215473&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2023-06-03)
+
+* **[[일자리+센터] 23학년도 하계방학 진로-취업 프로그램 사전 안내 (변동 내용 포함)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215469&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-02)
+
+* **[[일자리+센터] AJOU취업훈련소 네오챌린지+8기(졸업생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215467&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-02)
+
+* **[[다산학부대학] 2023-1 교양과목 기말고사 대학원생 감독자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215465&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-06-02)
+
+* **[[일자리+센터] AJOU취업훈련소 서류대비반 3기(재학생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215464&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-02)
 
 * **[[2023-1 총학생회 기말고사 간식사업] 수원 FC 선수단과 함께하는 찾아가는 밥차](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215458&amp;article.offset=0&amp;articleLimit=30)**
@@ -101,18 +113,3 @@
 
 * **[[학습법] 2023학년도 신입생을 위한 학습 전략 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215365&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-06-01)
-
-* **[[학습법] 2023-1학기 온라인 학습법 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215364&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-06-01)
-
-* **[[공지]2023학년도 1학기&amp;여름방학 경영대학교학팀 근로학생(면학장학생) 모집(~6월 2일 12:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215361&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 경영대학교학팀 (~2023-06-01)
-
-* **[[공학교육혁신센터] 2023학년도 1학기 공학인증 학생상담 안내 (6.12.까지)* 금학기 연장 없음*](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215359&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 공학교육혁신센터 (~2023-06-01)
-
-* **[[재공지] 일본 IT업계 온라인 취업 설명회 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215355&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-01)
-
-* **[[일자리+센터] 대학일자리플러스센터 뉴스레터 제56호(2023.06)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215354&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-01)
