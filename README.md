@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[(재공지) [2023-1 총학생회 기말고사 간식사업] 수원 FC 선수단과 함께하는 찾아가는 밥차](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215522&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-06-07)
+
 * **[2023 천안시 대학생 학자금 대출이자 지원](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215510&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-06-07)
 
@@ -110,6 +113,3 @@
 
 * **[🧡💛인기투표🧡💛 2023학년도 1학기 파란학기제 성과발표회 온라인 전시관 오픈🎉](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215397&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2023-06-02)
-
-* **[제 30기 A.G.A. (국제학생대사, Ajou Global Ambassador) 모집 안내 (2023-2학기 활동)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215385&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2023-06-01)
