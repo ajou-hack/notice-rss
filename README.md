@@ -24,6 +24,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[인문과학연구소] 세미나 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215494&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 인문과학연구소 (~2023-06-07)
+
+* **[(재공지)[LINC 3.0] 제6회 전국 청년 아이디어톤 대회 &#x27;지구 엔드게임 1.5도&#x27; 기후테크로 살아남기 지원자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215487&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 산학사업팀 (~2023-06-07)
+
+* **[2023 제3회 SW융합창업캠프 참여 학생 모집 공고★참여설문 OPEN (06.14까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215485&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW중심대학사업단 (~2023-06-07)
+
 * **[2023학년도 2학기 파란학기-MOOC 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215474&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2023-06-03)
 
@@ -104,12 +113,3 @@
 
 * **[학생지원팀 업무분장 변경 안내 (2023.06.01. 부)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215375&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-06-01)
-
-* **[2023 제4회 AJOU Tech-Verse Edu Festa에 여러분을 초대합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215374&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 산학사업팀 (~2023-06-01)
-
-* **[(유학생) 23-여름학기 슬기로운 한국어 학술모임 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215371&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 글로벌교양학부 (~2023-06-01)
-
-* **[[학습법] 2023학년도 신입생을 위한 학습 전략 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215365&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-06-01)
