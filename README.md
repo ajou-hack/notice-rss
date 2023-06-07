@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[금융공학과 &quot;1人&quot; &quot;1&quot; 취미 갖기 프로젝트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215553&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 경영대학교학팀 (~2023-06-07)
+
 * **[(전일재공지)[SW중심대학] 2023-1 AJOU SOFTCON 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215551&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - SW융합교육원 (~2023-06-07)
 
@@ -110,6 +113,3 @@
 
 * **[2023 제3회 SW융합창업캠프 참여 학생 모집 공고★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215416&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW중심대학사업단 (~2023-06-02)
-
-* **[[LINC 3.0](전액무료) W-OKTA 2023 차세대 글로벌 창업무역스쿨 모국방문교육 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215414&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀 (~2023-06-02)
