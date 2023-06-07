@@ -24,6 +24,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[모집] 교육대학원 면학장학 근로학생 모집(입시 면접 지원)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215506&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 교육대학원 (~2023-06-07)
+
+* **[[봉사활동] ⌜결식아동돕기 사랑의 쌀 배달⌟ 6월 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215504&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-06-07)
+
+* **[[아주강좌] 제 496회 강연 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215502&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-06-07)
+
 * **[[인문과학연구소] 세미나 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215494&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 인문과학연구소 (~2023-06-07)
 
@@ -104,12 +113,3 @@
 
 * **[[일자리+센터] 코멘토 온라인 직무체험(A반)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215382&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-01)
-
-* **[(군포시 청소년재단) 후기청소년 동아리 지원 사업 참가 동아리 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215377&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-06-01)
-
-* **[[일자리+센터] 2023 AJOU-동문멘토링 9일차(0601-비대면) 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215376&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-01)
-
-* **[학생지원팀 업무분장 변경 안내 (2023.06.01. 부)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215375&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-06-01)
