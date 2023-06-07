@@ -24,6 +24,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023학년도 2학기 법학전문대학원 일반TA 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215536&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 법학전문대학원 (~2023-06-07)
+
+* **[제 35회 2023 건축학과 건축전 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215534&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 공과대학교학팀 (~2023-06-07)
+
+* **[[다산학부대학] 2023-1 교양과목 기말고사 대학원생 감독자 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215533&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-06-07)
+
+* **[[교내장학] [추가모집] 2023학년도 1학기 가족장학 추가 모집 신청 안내 ( ~ 06.21 수요일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215531&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-06-07)
+
 * **[(재공지) [2023-1 총학생회 기말고사 간식사업] 수원 FC 선수단과 함께하는 찾아가는 밥차](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215522&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-06-07)
 
@@ -101,15 +113,3 @@
 
 * **[[경영대학] 공인회계사, 세무사 준비반 양지현 실원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215410&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 경영대학교학팀 (~2023-06-02)
-
-* **[[SW중심대학] &quot;제1회 AI융합워크숍&quot; 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215407&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - SW융합교육원 (~2023-06-02)
-
-* **[[재공지] [LINC3.0] 2023 하계방학 현장실습 학생 지원신청 (★현재 접수중)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215403&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2023-06-02)
-
-* **[[일자리+센터] 6월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215400&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-02)
-
-* **[🧡💛인기투표🧡💛 2023학년도 1학기 파란학기제 성과발표회 온라인 전시관 오픈🎉](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215397&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2023-06-02)
