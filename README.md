@@ -24,6 +24,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[(전일재공지)[SW중심대학] 2023-1 AJOU SOFTCON 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215551&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - SW융합교육원 (~2023-06-07)
+
+* **[[인문과학연구소] 인문과학연구소-조선시대사학회 공동학술대회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215550&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 인문과학연구소 (~2023-06-07)
+
 * **[2023학년도 2학기 법학전문대학원 일반TA 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215536&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 법학전문대학원 (~2023-06-07)
 
@@ -107,9 +113,3 @@
 
 * **[[LINC 3.0](전액무료) W-OKTA 2023 차세대 글로벌 창업무역스쿨 모국방문교육 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215414&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀 (~2023-06-02)
-
-* **[개교기념일 대체 휴일(6/5) 교내 식당 운영시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215412&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2023-06-02)
-
-* **[[경영대학] 공인회계사, 세무사 준비반 양지현 실원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215410&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 경영대학교학팀 (~2023-06-02)
