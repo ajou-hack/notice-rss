@@ -24,7 +24,13 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
-* **[[모집] 교육대학원 면학장학 근로학생 모집(입시 면접 지원)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215506&amp;article.offset=0&amp;articleLimit=30)**
+* **[2023 천안시 대학생 학자금 대출이자 지원](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215510&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-06-07)
+
+* **[[학부/학사과정] (23.06.07.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215509&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-06-07)
+
+* **[(마감)[모집] 교육대학원 면학장학 근로학생 모집(입시 면접 지원)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215506&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 교육대학원 (~2023-06-07)
 
 * **[[봉사활동] ⌜결식아동돕기 사랑의 쌀 배달⌟ 6월 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215504&amp;article.offset=0&amp;articleLimit=30)**
@@ -107,9 +113,3 @@
 
 * **[제 30기 A.G.A. (국제학생대사, Ajou Global Ambassador) 모집 안내 (2023-2학기 활동)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215385&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2023-06-01)
-
-* **[[국민건강보험공단] 2023년도 국가건강검진(2030 청년세대) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215384&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-06-01)
-
-* **[[일자리+센터] 코멘토 온라인 직무체험(A반)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215382&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-01)
