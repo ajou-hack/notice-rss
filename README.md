@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[유학생입학팀] 제 89회 TOPIK 시험 대비 특강 안내 드립니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215599&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 유학생입학팀 (~2023-06-08)
+
 * **[[학습법] 2023-1학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215590&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-06-08)
 
@@ -39,7 +42,7 @@
 * **[2023-1학기 BSM 수학1 기말고사 부감독(대학원생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215569&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-06-08)
 
-* **[2023-1학기 BSM 공업수학A 기말고사 부감독(대학원생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215568&amp;article.offset=0&amp;articleLimit=30)**
+* **[(마감)2023-1학기 BSM 공업수학A 기말고사 부감독(대학원생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215568&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-06-08)
 
 * **[금융공학과 &quot;1人&quot; &quot;1&quot; 취미 갖기 프로젝트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215553&amp;article.offset=0&amp;articleLimit=30)**
@@ -110,6 +113,3 @@
 
 * **[[2023-1 총학생회 기말고사 간식사업] 수원 FC 선수단과 함께하는 찾아가는 밥차](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215458&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-06-02)
-
-* **[2023-1학기 제17회 강의페어링 공모전 전시회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215450&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 다산융복합교육센터 (~2023-06-02)
