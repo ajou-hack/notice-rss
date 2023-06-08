@@ -24,6 +24,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학습법] 2023-1학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215590&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-06-08)
+
+* **[[학사] 2023-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215587&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-06-08)
+
+* **[[국가근로] 2023학년도 하계방학(7~8월) 국가근로장학금 일반 교내외 대체 장학생 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215585&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-06-08)
+
+* **[(당일재공지) 2023 제4회 AJOU Tech-Verse Edu Festa에 여러분을 초대합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215579&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 산학사업팀 (~2023-06-08)
+
 * **[2023-1학기 BSM 수학1 기말고사 부감독(대학원생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215569&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-06-08)
 
@@ -101,15 +113,3 @@
 
 * **[2023-1학기 제17회 강의페어링 공모전 전시회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215450&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 다산융복합교육센터 (~2023-06-02)
-
-* **[[다산학부대학] 2023-하계 계절학기 BSM 및 공업수학 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215447&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-06-02)
-
-* **[2023 아주대학교 기업협업센터(ICC) 참여교원 및 참여기업 융복합 산학교류회 개최 안내(06.15(목))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215433&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2023-06-02)
-
-* **[[비교과교육지원센터]✨아주허브에서 6월 퀴즈 풀고 기프티콘 받아가자!✨](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215426&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-06-02)
-
-* **[[재공지][SW중심대학]제2회 대학 연합 아주 소중한 딥러닝 챌린지 참가 신청 안내(학부생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215425&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW융합교육원 (~2023-06-02)
