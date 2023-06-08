@@ -24,6 +24,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023-1학기 BSM 수학1 기말고사 부감독(대학원생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215569&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-06-08)
+
+* **[2023-1학기 BSM 공업수학A 기말고사 부감독(대학원생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215568&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-06-08)
+
 * **[금융공학과 &quot;1人&quot; &quot;1&quot; 취미 갖기 프로젝트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215553&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 경영대학교학팀 (~2023-06-07)
 
@@ -107,9 +113,3 @@
 
 * **[[재공지][SW중심대학]제2회 대학 연합 아주 소중한 딥러닝 챌린지 참가 신청 안내(학부생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215425&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW융합교육원 (~2023-06-02)
-
-* **[[일자리+센터] 2023 AJOU-동문멘토링 10일차(0602-비대면) 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215420&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-02)
-
-* **[2023 제3회 SW융합창업캠프 참여 학생 모집 공고★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215416&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW중심대학사업단 (~2023-06-02)
