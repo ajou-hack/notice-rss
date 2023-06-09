@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] [학사] 2023-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215587&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-06-08)
+
 * **[📌 [공지] [학부]2023학년도 1학기 수업평가 실시 안내(Spring Semester Course Evaluation)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215232&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-05-30)
 
@@ -24,6 +27,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[(재공지)✨아주허브에서 6월 퀴즈 풀고 기프티콘 받아가자!✨](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215651&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-06-09)
+
+* **[[학습법] 2023-1학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215643&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-06-09)
+
 * **[[일자리+센터] 6월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215635&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-09)
 
@@ -38,9 +47,6 @@
 
 * **[[학습법] 2023-1학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215590&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-06-08)
-
-* **[[학사] 2023-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215587&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-06-08)
 
 * **[[국가근로] 2023학년도 하계방학(7~8월) 국가근로장학금 일반 교내외 대체 장학생 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215585&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-06-08)
@@ -109,7 +115,4 @@
  [파란학기제] - 대학교육혁신원운영팀 (~2023-06-03)
 
 * **[[일자리+센터] 23학년도 하계방학 진로-취업 프로그램 사전 안내 (변동 내용 포함)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215469&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-02)
-
-* **[[일자리+센터] AJOU취업훈련소 네오챌린지+8기(졸업생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215467&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-02)
