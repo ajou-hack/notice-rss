@@ -27,6 +27,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[(재공지)2023-1학기 BSM 수학1 기말고사 부감독(대학원생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215656&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-06-09)
+
 * **[(재공지)✨아주허브에서 6월 퀴즈 풀고 기프티콘 받아가자!✨](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215651&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-06-09)
 
@@ -113,6 +116,3 @@
 
 * **[2023학년도 2학기 파란학기 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215473&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2023-06-03)
-
-* **[[일자리+센터] 23학년도 하계방학 진로-취업 프로그램 사전 안내 (변동 내용 포함)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215469&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-02)
