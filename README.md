@@ -27,6 +27,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[마지막 공지][SW중심대학]제2회 대학 연합 아주 소중한 딥러닝 챌린지 참가 신청 안내(학부생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215659&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW융합교육원 (~2023-06-09)
+
+* **[[LINC 3.0] 2023 하계방학 특강 안내(06/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215658&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2023-06-09)
+
+* **[[LINC 3.0] 2023 하계방학 사전 오리엔테이션 안내(★선발학생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215657&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2023-06-09)
+
 * **[(재공지)2023-1학기 BSM 수학1 기말고사 부감독(대학원생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215656&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-06-09)
 
@@ -107,12 +116,3 @@
 
 * **[(재공지)[LINC 3.0] 제6회 전국 청년 아이디어톤 대회 &#x27;지구 엔드게임 1.5도&#x27; 기후테크로 살아남기 지원자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215487&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀 (~2023-06-07)
-
-* **[2023 제3회 SW융합창업캠프 참여 학생 모집 공고★참여설문 OPEN (06.14까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215485&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW중심대학사업단 (~2023-06-07)
-
-* **[2023학년도 2학기 파란학기-MOOC 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215474&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2023-06-03)
-
-* **[2023학년도 2학기 파란학기 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215473&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2023-06-03)
