@@ -24,6 +24,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[일자리+센터] 6월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215635&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-09)
+
+* **[2023학년도 1학기 파란학기제 성과발표회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215634&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2023-06-09)
+
+* **[[일자리+센터] (~6/18 신청마감) 2023 아주히든챔피언학생발굴단 10기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215630&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-08)
+
 * **[[유학생입학팀] 제 89회 TOPIK 시험 대비 특강 안내 드립니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215599&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 유학생입학팀 (~2023-06-08)
 
@@ -104,12 +113,3 @@
 
 * **[[일자리+센터] AJOU취업훈련소 네오챌린지+8기(졸업생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215467&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-02)
-
-* **[[다산학부대학] 2023-1 교양과목 기말고사 대학원생 감독자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215465&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-06-02)
-
-* **[[일자리+센터] AJOU취업훈련소 서류대비반 3기(재학생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215464&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-02)
-
-* **[[2023-1 총학생회 기말고사 간식사업] 수원 FC 선수단과 함께하는 찾아가는 밥차](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215458&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-06-02)
