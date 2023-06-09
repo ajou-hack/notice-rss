@@ -27,6 +27,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[사회봉사센터 뉴스레터 제 4호 &quot;지구를 위한 아주쓰담달리기&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215660&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-06-09)
+
 * **[[마지막 공지][SW중심대학]제2회 대학 연합 아주 소중한 딥러닝 챌린지 참가 신청 안내(학부생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215659&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW융합교육원 (~2023-06-09)
 
@@ -113,6 +116,3 @@
 
 * **[[인문과학연구소] 세미나 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215494&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 인문과학연구소 (~2023-06-07)
-
-* **[(재공지)[LINC 3.0] 제6회 전국 청년 아이디어톤 대회 &#x27;지구 엔드게임 1.5도&#x27; 기후테크로 살아남기 지원자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215487&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀 (~2023-06-07)
