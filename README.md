@@ -30,6 +30,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학부] 2023-1학기 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215750&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-06-12)
+
 * **[과학기술정보통신부 주관 2023 블록체인·핀테크 경진대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215741&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-06-12)
 
@@ -116,6 +119,3 @@
 
 * **[[국가근로] 2023학년도 하계방학(7~8월) 국가근로장학금 일반 교내외 대체 장학생 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215585&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-06-08)
-
-* **[(당일재공지) 2023 제4회 AJOU Tech-Verse Edu Festa에 여러분을 초대합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215579&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 산학사업팀 (~2023-06-08)
