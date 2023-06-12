@@ -30,6 +30,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[‘감사원 주관 대학재정지원사업 감사원·교육부 합동감사’ 관련 제보 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215716&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기획팀 (~2023-06-12)
+
 * **[(재공지)23년 1학기 학습성과 재학생 설문조사(스타벅스 커피 기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215710&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교육평가인증센터 (~2023-06-12)
 
@@ -75,7 +78,7 @@
 * **[[LINC 3.0] 2023 하계방학 사전 오리엔테이션 안내(★선발학생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215657&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2023-06-09)
 
-* **[(재공지)2023-1학기 BSM 수학1 기말고사 부감독(대학원생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215656&amp;article.offset=0&amp;articleLimit=30)**
+* **[(마감)(재공지)2023-1학기 BSM 수학1 기말고사 부감독(대학원생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215656&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-06-09)
 
 * **[(재공지)✨아주허브에서 6월 퀴즈 풀고 기프티콘 받아가자!✨](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215651&amp;article.offset=0&amp;articleLimit=30)**
@@ -116,6 +119,3 @@
 
 * **[금융공학과 &quot;1人&quot; &quot;1&quot; 취미 갖기 프로젝트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215553&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 경영대학교학팀 (~2023-06-07)
-
-* **[(전일재공지)[SW중심대학] 2023-1 AJOU SOFTCON 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215551&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - SW융합교육원 (~2023-06-07)
