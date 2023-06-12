@@ -3,7 +3,7 @@
 * **[📌 [공지] 2023학년도 2학기 장학신청_06.30(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215687&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-06-12)
 
-* **[📌 [공지] [학사] 2023-2학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215587&amp;article.offset=0&amp;articleLimit=30)**
+* **[📌 [공지] [학사] 2023-2학기 휴학/복학 신청 안내 (6/22부터 가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215587&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-06-08)
 
 * **[📌 [공지] [학부]2023학년도 1학기 수업평가 실시 안내(Spring Semester Course Evaluation)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215232&amp;article.offset=0&amp;articleLimit=30)**
@@ -29,6 +29,12 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
+
+* **[(재공지)23년 1학기 학습성과 재학생 설문조사(스타벅스 커피 기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215710&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교육평가인증센터 (~2023-06-12)
+
+* **[[봉사활동] 「그린피스 플콕조사」기후위기 대응을 위한 온라인 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215709&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-06-12)
 
 * **[제 2회 미래자동차산업 아이디어 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215708&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-06-12)
@@ -78,6 +84,9 @@
 * **[[학습법] 2023-1학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215643&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-06-09)
 
+* **[23년 1학기 학습성과 재학생 설문조사(스타벅스 커피 기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215640&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교육평가인증센터 (~2023-06-09)
+
 * **[[일자리+센터] 6월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215635&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-09)
 
@@ -110,12 +119,3 @@
 
 * **[(전일재공지)[SW중심대학] 2023-1 AJOU SOFTCON 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215551&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - SW융합교육원 (~2023-06-07)
-
-* **[[인문과학연구소] 인문과학연구소-조선시대사학회 공동학술대회 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215550&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 인문과학연구소 (~2023-06-07)
-
-* **[2023학년도 2학기 법학전문대학원 일반TA 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215536&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 법학전문대학원 (~2023-06-07)
-
-* **[제 35회 2023 건축학과 건축전 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215534&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 공과대학교학팀 (~2023-06-07)
