@@ -30,6 +30,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[과학기술정보통신부 주관 2023 블록체인·핀테크 경진대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215741&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-06-12)
+
+* **[(재공지) 재학생 대상 &#x27;비즈니스 기본예절 및 현장실습 활용법&#x27; 특강 안내(6.21(수) 오후2시부터)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215738&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2023-06-12)
+
 * **[🎉✨[파란학기] 2023-1 성과발표회 이벤트 당첨자 공지💌](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215726&amp;article.offset=0&amp;articleLimit=30)**
  [파란학기제] - 대학교육혁신원운영팀 (~2023-06-12)
 
@@ -48,7 +54,7 @@
 * **[[봉사활동] 2023년도 체코 글로벌 봉사단 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215701&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-06-12)
 
-* **[2023 하계 미래자동차 학점교류(대림대학교) 신청 안내 (~6/14 수 오전)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215690&amp;article.offset=0&amp;articleLimit=30)**
+* **[2023 하계 미래자동차 학점교류(대림대학교) 신청 안내 (~6/14 수 오전) +시간표첨부](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215690&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 혁신공유팀 (~2023-06-12)
 
 * **[(재공지)[LINC 3.0](전액무료) W-OKTA 2023 차세대 글로벌 창업무역스쿨 모국방문교육 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215689&amp;article.offset=0&amp;articleLimit=30)**
@@ -113,9 +119,3 @@
 
 * **[(당일재공지) 2023 제4회 AJOU Tech-Verse Edu Festa에 여러분을 초대합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215579&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 산학사업팀 (~2023-06-08)
-
-* **[2023-1학기 BSM 수학1 기말고사 부감독(대학원생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215569&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-06-08)
-
-* **[(마감)2023-1학기 BSM 공업수학A 기말고사 부감독(대학원생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215568&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-06-08)
