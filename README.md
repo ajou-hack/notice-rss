@@ -27,6 +27,24 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023 하계 미래자동차 학점교류(대림대학교) 신청 안내 (~6/14 수 오전)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215690&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 혁신공유팀 (~2023-06-12)
+
+* **[(재공지)[LINC 3.0](전액무료) W-OKTA 2023 차세대 글로벌 창업무역스쿨 모국방문교육 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215689&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 산학사업팀 (~2023-06-12)
+
+* **[2023학년도 2학기 장학신청_06.30(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215687&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-06-12)
+
+* **[제 4차 실험동물연구센터 온라인 간담회를 실시합니다.(2023년 6월 26일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215683&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 실험동물연구센터 (~2023-06-12)
+
+* **[23년도 제2차 동물실험기초/보수교육 -2023년 6월 24일(화) 오프라인교육](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215682&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 실험동물연구센터 (~2023-06-12)
+
+* **[[재공지]2023 제3회 SW융합창업캠프 학생 참여 신청안내★ (06.14까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215681&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW중심대학사업단 (~2023-06-12)
+
 * **[[일자리+센터] 반도체 공정 이론 및 온라인 직무부트(B반) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215668&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-09)
 
@@ -98,21 +116,3 @@
 
 * **[[다산학부대학] 2023-1 교양과목 기말고사 대학원생 감독자 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215533&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-06-07)
-
-* **[[교내장학] [추가모집] 2023학년도 1학기 가족장학 추가 모집 신청 안내 ( ~ 06.21 수요일까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215531&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-06-07)
-
-* **[(재공지) [2023-1 총학생회 기말고사 간식사업] 수원 FC 선수단과 함께하는 찾아가는 밥차](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215522&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-06-07)
-
-* **[2023 천안시 대학생 학자금 대출이자 지원](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215510&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-06-07)
-
-* **[[학부/학사과정] (23.06.07.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215509&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-06-07)
-
-* **[(마감)[모집] 교육대학원 면학장학 근로학생 모집(입시 면접 지원)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215506&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 교육대학원 (~2023-06-07)
-
-* **[[봉사활동] ⌜결식아동돕기 사랑의 쌀 배달⌟ 6월 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215504&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-06-07)
