@@ -33,6 +33,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[홍보] (성균관대) 2023년 창업중심대학 창업클럽 경진대회(수도권) / ~6.19(월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215789&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-06-13)
+
 * **[2023 순천만 국제정원 박람회 전국 대학교 동아리 공연 공모](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215787&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-06-13)
 
@@ -119,6 +122,3 @@
 
 * **[[마지막 공지][SW중심대학]제2회 대학 연합 아주 소중한 딥러닝 챌린지 참가 신청 안내(학부생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215659&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW융합교육원 (~2023-06-09)
-
-* **[[LINC 3.0] 2023 하계방학 특강 안내(06/21)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215658&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2023-06-09)
