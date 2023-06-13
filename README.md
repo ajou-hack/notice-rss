@@ -33,6 +33,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[국제교류팀] 혁신공유라운지 사용불가 안내 (6.21. 수 17시30분~19시30분)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215808&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2023-06-13)
+
+* **[[아주대학교 우편취급국] 2023년 6월 3주차 운영시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215805&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2023-06-13)
+
 * **[[홍보] (성균관대) 2023년 창업중심대학 창업클럽 경진대회(수도권) / ~6.19(월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215789&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-06-13)
 
@@ -116,9 +122,3 @@
 
 * **[[다산학부대학] 2023-1 교양과목 기말고사 대학원생 감독자 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215666&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-06-09)
-
-* **[사회봉사센터 뉴스레터 제 4호 &quot;지구를 위한 아주쓰담달리기&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215660&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-06-09)
-
-* **[[마지막 공지][SW중심대학]제2회 대학 연합 아주 소중한 딥러닝 챌린지 참가 신청 안내(학부생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215659&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW융합교육원 (~2023-06-09)
