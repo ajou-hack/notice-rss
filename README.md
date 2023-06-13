@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] [학부] 2023-1학기 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215750&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-06-12)
+
 * **[📌 [공지] 2023학년도 2학기 장학신청_06.30(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215687&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-06-12)
 
@@ -30,8 +33,26 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
-* **[[학부] 2023-1학기 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215750&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-06-12)
+* **[2023학년도 1학기 천원의 아침밥 &#x27;아침든든 아주&#x27; 운영 마감일 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215770&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-06-13)
+
+* **[[재공지][아주지속가능발전센터] AJOU SDG 아이디어 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215768&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 아주지속가능발전센터 (~2023-06-13)
+
+* **[[다산학부대학] 2023-1 교양과목 기말고사 대학원생 감독자 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215766&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-06-13)
+
+* **[[학부][졸업]2023-2학기 학사학위취득유예 신청 안내(06.29.~07.18.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215762&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-06-13)
+
+* **[[학부]2023-2학기 시간제등록생 신청 기간 안내(07.07.~07.14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215761&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-06-13)
+
+* **[2023년 외국인 유학생들을 위한 여름방학 글쓰기클리닉 신청하세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215755&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 유학생입학팀 (~2023-06-12)
+
+* **[[일자리+센터] 한국전력기술(주) Power Engineering School 여름 캠프 28기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215752&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-12)
 
 * **[과학기술정보통신부 주관 2023 블록체인·핀테크 경진대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215741&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-06-12)
@@ -101,21 +122,3 @@
 
 * **[23년 1학기 학습성과 재학생 설문조사(스타벅스 커피 기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215640&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교육평가인증센터 (~2023-06-09)
-
-* **[[일자리+센터] 6월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215635&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-09)
-
-* **[2023학년도 1학기 파란학기제 성과발표회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215634&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2023-06-09)
-
-* **[[일자리+센터] (~6/18 신청마감) 2023 아주히든챔피언학생발굴단 10기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215630&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-08)
-
-* **[[유학생입학팀] 제 89회 TOPIK 시험 대비 특강 안내 드립니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215599&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 유학생입학팀 (~2023-06-08)
-
-* **[[학습법] 2023-1학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215590&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-06-08)
-
-* **[[국가근로] 2023학년도 하계방학(7~8월) 국가근로장학금 일반 교내외 대체 장학생 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215585&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-06-08)
