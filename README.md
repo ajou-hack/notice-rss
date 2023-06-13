@@ -33,6 +33,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[대학원교학팀] 교학팀에서 함께 면학할 성실한 면학장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215782&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 대학원교학팀 (~2023-06-13)
+
+* **[[일자리+센터] 2023 Global Talent Fair 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215779&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-13)
+
+* **[[융복합 의료제품 촉진지원센터] 학생연구원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215774&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 산학기획팀 (~2023-06-13)
+
+* **[[학부/학사과정] (23.06.13.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215773&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-06-13)
+
 * **[2023학년도 1학기 천원의 아침밥 &#x27;아침든든 아주&#x27; 운영 마감일 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215770&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-06-13)
 
@@ -110,15 +122,3 @@
 
 * **[[LINC 3.0] 2023 하계방학 사전 오리엔테이션 안내(★선발학생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215657&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2023-06-09)
-
-* **[(마감)(재공지)2023-1학기 BSM 수학1 기말고사 부감독(대학원생) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215656&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-06-09)
-
-* **[(재공지)✨아주허브에서 6월 퀴즈 풀고 기프티콘 받아가자!✨](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215651&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-06-09)
-
-* **[[학습법] 2023-1학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215643&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-06-09)
-
-* **[23년 1학기 학습성과 재학생 설문조사(스타벅스 커피 기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215640&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교육평가인증센터 (~2023-06-09)
