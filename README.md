@@ -33,6 +33,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[교외장학] 2023년 2학기 농림축산식품부 대학장학금 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215832&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-06-14)
+
+* **[[중앙도서관]서지관리프로그램 Refworks(Legacy, 구버전) 서비스 종료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215829&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2023-06-14)
+
+* **[[교외장학] 2023년 주심장학생 선발 안내 _6/19(월) 17시까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215826&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-06-14)
+
+* **[[수원시] 「우리의 상상은 현실이 된다! 메타버스 속 미래수원 모습」 제안 공모](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215824&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-06-14)
+
 * **[[국제교류팀] 혁신공유라운지 사용불가 안내 (6.21. 수 17시30분~19시30분)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215808&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2023-06-13)
 
@@ -66,7 +78,7 @@
 * **[[다산학부대학] 2023-1 교양과목 기말고사 대학원생 감독자 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215766&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-06-13)
 
-* **[[학부][졸업]2023-2학기 학사학위취득유예 신청 안내(06.29.~07.18.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215762&amp;article.offset=0&amp;articleLimit=30)**
+* **[[학부][졸업]2023-2학기 학사학위취득유예(학취유) 신청 안내(06.29.~07.18.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215762&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-06-13)
 
 * **[[학부]2023-2학기 시간제등록생 신청 기간 안내(07.07.~07.14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215761&amp;article.offset=0&amp;articleLimit=30)**
@@ -110,15 +122,3 @@
 
 * **[제 4차 실험동물연구센터 온라인 간담회를 실시합니다.(2023년 6월 26일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215683&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 실험동물연구센터 (~2023-06-12)
-
-* **[23년도 제2차 동물실험기초/보수교육 -2023년 6월 24일(화) 오프라인교육](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215682&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 실험동물연구센터 (~2023-06-12)
-
-* **[[재공지]2023 제3회 SW융합창업캠프 학생 참여 신청안내★ (06.14까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215681&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW중심대학사업단 (~2023-06-12)
-
-* **[[일자리+센터] 반도체 공정 이론 및 온라인 직무부트(B반) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215668&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-09)
-
-* **[[다산학부대학] 2023-1 교양과목 기말고사 대학원생 감독자 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215666&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-06-09)
