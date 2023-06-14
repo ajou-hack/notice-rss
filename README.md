@@ -33,6 +33,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023-1 3학년 2학기 외국인 유학생 진로 및 취업 상담 진행합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215871&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 유학생입학팀 (~2023-06-14)
+
+* **[[학생지원팀] 혁신공유라운지 사용불가 안내 (6월 24일 토요일 15:00 ~ 20:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215870&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-06-14)
+
+* **[원천정보관 토론학습실 대관불가안내 (7.15~7.23, 7.28~8.03)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215869&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-06-14)
+
+* **[[기간연장]2023 제3회 SW융합창업캠프 학생 참여 신청안내★ (06.18까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215867&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW중심대학사업단 (~2023-06-14)
+
+* **[[아주대_글로벌미래교육원]여름8주특강_ITT비즈니스 3급 영어 자격과정 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215865&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 글로벌미래교육원 (~2023-06-14)
+
 * **[(재공지)✨아주허브에서 6월 퀴즈 풀고 기프티콘 받아가자!✨](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215844&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-06-14)
 
@@ -107,18 +122,3 @@
 
 * **[과학기술정보통신부 주관 2023 블록체인·핀테크 경진대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215741&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-06-12)
-
-* **[(재공지) 재학생 대상 &#x27;비즈니스 기본예절 및 현장실습 활용법&#x27; 특강 안내(6.21(수) 오후2시부터)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215738&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2023-06-12)
-
-* **[🎉✨[파란학기] 2023-1 성과발표회 이벤트 당첨자 공지💌](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215726&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2023-06-12)
-
-* **[‘감사원 주관 대학재정지원사업 감사원·교육부 합동감사’ 관련 제보 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215716&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기획팀 (~2023-06-12)
-
-* **[(재공지)23년 1학기 학습성과 재학생 설문조사(스타벅스 커피 기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215710&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교육평가인증센터 (~2023-06-12)
-
-* **[[봉사활동] 「그린피스 플콕조사」기후위기 대응을 위한 온라인 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215709&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-06-12)
