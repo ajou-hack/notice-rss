@@ -33,6 +33,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[교내 건물 유리창 청소 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215841&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2023-06-14)
+
+* **[(재공지)23년 1학기 학습성과 재학생 설문조사(스타벅스 커피 기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215837&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교육평가인증센터 (~2023-06-14)
+
+* **[[기획팀]아주대학교 학칙 개정(안) 사전 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215835&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2023-06-14)
+
 * **[[교외장학] 2023년 2학기 농림축산식품부 대학장학금 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215832&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-06-14)
 
@@ -113,12 +122,3 @@
 
 * **[[봉사활동] 2023년도 체코 글로벌 봉사단 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215701&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-06-12)
-
-* **[2023 하계 미래자동차 학점교류(대림대학교) 신청 안내 (~6/14 수 오전) +시간표첨부](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215690&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 혁신공유팀 (~2023-06-12)
-
-* **[(재공지)[LINC 3.0](전액무료) W-OKTA 2023 차세대 글로벌 창업무역스쿨 모국방문교육 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215689&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀 (~2023-06-12)
-
-* **[제 4차 실험동물연구센터 온라인 간담회를 실시합니다.(2023년 6월 26일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215683&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 실험동물연구센터 (~2023-06-12)
