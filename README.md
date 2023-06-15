@@ -33,6 +33,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[일자리+센터] 반도체 공정 이론(기초&amp;심화) 모집 안내 (재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216959&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-15)
+
+* **[[다산학부대학] 2023-1 교양과목 기말고사 대학원생 감독자 추가 모집(1명)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216958&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-06-15)
+
 * **[[다산학부대학] 2023-1학기 체육수업(수영) 보조금 지급 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216952&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-06-15)
 
@@ -116,9 +122,3 @@
 
 * **[[일자리+센터] 2023 Global Talent Fair 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215779&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-13)
-
-* **[[융복합 의료제품 촉진지원센터] 학생연구원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215774&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 산학기획팀 (~2023-06-13)
-
-* **[[학부/학사과정] (23.06.13.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215773&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-06-13)
