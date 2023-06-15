@@ -33,6 +33,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023 후기청소년 동아리 지원사업 참여 동아리 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215890&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-06-15)
+
+* **[[홍보] (탄소산업분야) 2023 창업지원사업 참가자 모집 공고(탄소소재 및 부품 활용 아이디어)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215886&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-06-15)
+
 * **[2023-1 3학년 2학기 외국인 유학생 진로 및 취업 상담 진행합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215871&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 유학생입학팀 (~2023-06-14)
 
@@ -116,9 +122,3 @@
 
 * **[2023년 외국인 유학생들을 위한 여름방학 글쓰기클리닉 신청하세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215755&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 유학생입학팀 (~2023-06-12)
-
-* **[[일자리+센터] 한국전력기술(주) Power Engineering School 여름 캠프 28기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215752&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-12)
-
-* **[과학기술정보통신부 주관 2023 블록체인·핀테크 경진대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215741&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-06-12)
