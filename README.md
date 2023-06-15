@@ -6,7 +6,7 @@
 * **[📌 [공지] 2023학년도 2학기 장학신청_06.30(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215687&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-06-12)
 
-* **[📌 [공지] [학사] 2023-2학기 휴학/복학 신청 안내 (6/22부터 가능)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215587&amp;article.offset=0&amp;articleLimit=30)**
+* **[📌 [공지] [학사] 2023-2학기 휴학/복학 신청 안내 (6/15 수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215587&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-06-08)
 
 * **[📌 [공지] [학부]2023학년도 1학기 수업평가 실시 안내(Spring Semester Course Evaluation)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215232&amp;article.offset=0&amp;articleLimit=30)**
@@ -32,6 +32,12 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
+
+* **[[해외취업] kotra 지역인재 글로벌 취업설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215991&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-15)
+
+* **[[해외취업] 미국 취업 전략 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215990&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-15)
 
 * **[[학습법] 2023-1학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215900&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-06-15)
@@ -116,9 +122,3 @@
 
 * **[2023학년도 1학기 천원의 아침밥 &#x27;아침든든 아주&#x27; 운영 마감일 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215770&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-06-13)
-
-* **[[재공지][아주지속가능발전센터] AJOU SDG 아이디어 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215768&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 아주지속가능발전센터 (~2023-06-13)
-
-* **[[다산학부대학] 2023-1 교양과목 기말고사 대학원생 감독자 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215766&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-06-13)
