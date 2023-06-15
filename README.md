@@ -33,6 +33,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[다산학부대학] 2023-1학기 체육수업(수영) 보조금 지급 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216952&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-06-15)
+
 * **[[해외취업] kotra 지역인재 글로벌 취업설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215991&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-15)
 
@@ -119,6 +122,3 @@
 
 * **[[학부/학사과정] (23.06.13.) 2023-하계 계절학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215773&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-06-13)
-
-* **[2023학년도 1학기 천원의 아침밥 &#x27;아침든든 아주&#x27; 운영 마감일 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215770&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-06-13)
