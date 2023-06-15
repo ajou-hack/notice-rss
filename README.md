@@ -33,6 +33,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학습법] 2023-1학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215900&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-06-15)
+
+* **[국제교육센터에서 함께 면학할 성실한 면학장학생을 모집합니다. (~6/22)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215896&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 국제교육센터 (~2023-06-15)
+
+* **[[국가근로] 2023학년도 하계방학 국가근로장학금 일반 교내외 대체 장학생 모집 공고(기간연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215895&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-06-15)
+
 * **[2023 후기청소년 동아리 지원사업 참여 동아리 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215890&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-06-15)
 
@@ -113,12 +122,3 @@
 
 * **[[다산학부대학] 2023-1 교양과목 기말고사 대학원생 감독자 추가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215766&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-06-13)
-
-* **[[학부][졸업]2023-2학기 학사학위취득유예(학취유) 신청 안내(06.29.~07.18.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215762&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-06-13)
-
-* **[[학부]2023-2학기 시간제등록생 신청 기간 안내(07.07.~07.14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215761&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-06-13)
-
-* **[2023년 외국인 유학생들을 위한 여름방학 글쓰기클리닉 신청하세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215755&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 유학생입학팀 (~2023-06-12)
