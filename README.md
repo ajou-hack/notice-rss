@@ -30,13 +30,16 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[공공정책대학원] 2023학년도 후기 수시 2차 석사과정 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216993&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 공공정책대학원 교학팀 (~2023-06-16)
+
 * **[[재공지] 2023학년도 2학기 장학신청_06.30(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216989&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-06-16)
 
 * **[[일자리+센터] 하계방학 계열별 자소서 작성법 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216987&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-16)
 
-* **[(재공지)23년 1학기 학습성과 재학생 설문조사(스타벅스 커피 기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216973&amp;article.offset=0&amp;articleLimit=30)**
+* **[[재공지]23년 1학기 학습성과 재학생 설문조사(스타벅스 커피 기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216973&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교육평가인증센터 (~2023-06-16)
 
 * **[[학습법] 2023-1학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216972&amp;article.offset=0&amp;articleLimit=30)**
@@ -116,6 +119,3 @@
 
 * **[[교외장학] 2023년 2학기 농림축산식품부 대학장학금 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215832&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-06-14)
-
-* **[[중앙도서관]서지관리프로그램 Refworks(Legacy, 구버전) 서비스 종료 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215829&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2023-06-14)
