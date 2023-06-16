@@ -21,9 +21,6 @@
 * **[📌 [공지] &#x27;장학공지&#x27; 메뉴 신설(한눈에 우리대학 장학정보를 확인하는 방법)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214764&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-05-17)
 
-* **[📌 [공지] ★개설 교과목 List 업데이트_[학부/학사과정] 2023학년도 하계 계절수업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214493&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-05-11)
-
 * **[📌 [공지] [Remind][학사] 2023-1학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212711&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-03-28)
 
@@ -32,6 +29,15 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
+
+* **[[인권센터 학생상담소] &#x27;아무튼, 연애&#x27; 연인관계 증진 집단상담 프로그램 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216967&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 인권센터 학생상담소 (~2023-06-16)
+
+* **[[인권센터 학생상담소] &#x27;두려워, 인간관계&#x27; 인간관계 증진 집단상담 프로그램 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216966&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 인권센터 학생상담소 (~2023-06-16)
+
+* **[[교외장학] 2023년 (재)논산시장학회 학업장려 장학금 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216964&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-06-16)
 
 * **[[일자리+센터] 반도체 공정 이론(기초&amp;심화) 모집 안내 (재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216959&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-15)
@@ -113,12 +119,3 @@
 
 * **[[홍보] (성균관대) 2023년 창업중심대학 창업클럽 경진대회(수도권) / ~6.19(월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215789&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-06-13)
-
-* **[2023 순천만 국제정원 박람회 전국 대학교 동아리 공연 공모](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215787&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-06-13)
-
-* **[[대학원교학팀] 교학팀에서 함께 면학할 성실한 면학장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215782&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 대학원교학팀 (~2023-06-13)
-
-* **[[일자리+센터] 2023 Global Talent Fair 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215779&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-13)
