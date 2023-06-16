@@ -30,6 +30,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[(재공지)23년 1학기 학습성과 재학생 설문조사(스타벅스 커피 기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216973&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교육평가인증센터 (~2023-06-16)
+
+* **[[학습법] 2023-1학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216972&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-06-16)
+
+* **[[일자리+센터] 6월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216971&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-16)
+
 * **[[인권센터 학생상담소] &#x27;아무튼, 연애&#x27; 연인관계 증진 집단상담 프로그램 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216967&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 인권센터 학생상담소 (~2023-06-16)
 
@@ -110,12 +119,3 @@
 
 * **[[수원시] 「우리의 상상은 현실이 된다! 메타버스 속 미래수원 모습」 제안 공모](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215824&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-06-14)
-
-* **[[국제교류팀] 혁신공유라운지 사용불가 안내 (6.21. 수 17시30분~19시30분)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215808&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2023-06-13)
-
-* **[[아주대학교 우편취급국] 2023년 6월 3주차 운영시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215805&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2023-06-13)
-
-* **[[홍보] (성균관대) 2023년 창업중심대학 창업클럽 경진대회(수도권) / ~6.19(월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215789&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-06-13)
