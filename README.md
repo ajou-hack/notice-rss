@@ -30,6 +30,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[(재공지)[LINC 3.0](전액무료) W-OKTA 2023 차세대 글로벌 창업무역스쿨 모국방문교육 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217013&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2023-06-16)
+
+* **[★2023 제3회 SW융합창업캠프 학생 참여 신청안내★ (06.18까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217012&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW중심대학사업단 (~2023-06-16)
+
+* **[[일자리+센터] 23-3기 A.C.E. STUDY(멘토링 프로그램) 하계방학 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217011&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-16)
+
+* **[[재공지]아주허브에서 6월 퀴즈 풀고 기프티콘 받아가자!(~6/20)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217007&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 비교과교육지원센터 (~2023-06-16)
+
 * **[[봉사활동] KOICA 청년중기봉사단 해외파견 단원 모집 (대학추천자 지원 마감 ~7/2)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216994&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-06-16)
 
@@ -105,17 +117,5 @@
 * **[[아주대_글로벌미래교육원]여름8주특강_ITT비즈니스 3급 영어 자격과정 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215865&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 글로벌미래교육원 (~2023-06-14)
 
-* **[(재공지)✨아주허브에서 6월 퀴즈 풀고 기프티콘 받아가자!✨](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215844&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-06-14)
-
 * **[[해외취업] Connect Job Korea Fair 2023](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215843&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-14)
-
-* **[교내 건물 유리창 청소 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215841&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2023-06-14)
-
-* **[(재공지)23년 1학기 학습성과 재학생 설문조사(스타벅스 커피 기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215837&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교육평가인증센터 (~2023-06-14)
-
-* **[[기획팀]아주대학교 학칙 개정(안) 사전 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215835&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2023-06-14)
