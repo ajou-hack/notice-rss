@@ -30,6 +30,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[봉사활동] KOICA 청년중기봉사단 해외파견 단원 모집 (대학추천자 지원 마감 ~7/2)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216994&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-06-16)
+
 * **[[공공정책대학원] 2023학년도 후기 수시 2차 석사과정 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216993&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 공공정책대학원 교학팀 (~2023-06-16)
 
@@ -116,6 +119,3 @@
 
 * **[[기획팀]아주대학교 학칙 개정(안) 사전 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215835&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 기획팀 (~2023-06-14)
-
-* **[[교외장학] 2023년 2학기 농림축산식품부 대학장학금 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215832&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-06-14)
