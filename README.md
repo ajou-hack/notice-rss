@@ -30,6 +30,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[차만손 운동확산 「유튜브 쇼츠」 영상 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217081&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-06-19)
+
+* **[[중앙도서관] 서버 작업으로 인한 서비스 중지 안내 (6/22 18:00~21:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217079&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2023-06-19)
+
 * **[[LINC 3.0] IC-PBL·캡스톤디자인 수행능력 향상을 위한 Idea Thinking Process 이해 및 교수법 교육 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217060&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학사업팀 (~2023-06-19)
 
@@ -113,9 +119,3 @@
 
 * **[[해외취업] kotra 지역인재 글로벌 취업설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215991&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-15)
-
-* **[[해외취업] 미국 취업 전략 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215990&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-15)
-
-* **[[학습법] 2023-1학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215900&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-06-15)
