@@ -30,6 +30,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[LINC 3.0] IC-PBL·캡스톤디자인 수행능력 향상을 위한 Idea Thinking Process 이해 및 교수법 교육 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217060&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2023-06-19)
+
 * **[[재공지] 2023학년도 2학기 장학신청_06.30(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217056&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-06-19)
 
@@ -116,6 +119,3 @@
 
 * **[[학습법] 2023-1학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215900&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-06-15)
-
-* **[국제교육센터에서 함께 면학할 성실한 면학장학생을 모집합니다. (~6/22)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215896&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 국제교육센터 (~2023-06-15)
