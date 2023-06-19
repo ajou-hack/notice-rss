@@ -30,6 +30,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[재공지] 2023학년도 2학기 장학신청_06.30(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217056&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-06-19)
+
+* **[(재공지)2023학년도 1학기 천원의 아침밥 &#x27;아침든든 아주&#x27; 운영 마감일 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217050&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-06-19)
+
 * **[[일자리+센터] 2차전지 장비제어 PLC 이론&amp;실습 교육](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217045&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-19)
 
@@ -72,6 +78,9 @@
 * **[[일자리+센터] 하계방학 계열별 자소서 작성법 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216987&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-16)
 
+* **[[종합지원센터] 2023학년도 1학기 사물함 이용기간 만료안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216986&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2023-06-16)
+
 * **[[재공지]23년 1학기 학습성과 재학생 설문조사(스타벅스 커피 기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216973&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교육평가인증센터 (~2023-06-16)
 
@@ -110,12 +119,3 @@
 
 * **[국제교육센터에서 함께 면학할 성실한 면학장학생을 모집합니다. (~6/22)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215896&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 국제교육센터 (~2023-06-15)
-
-* **[[국가근로] 2023학년도 하계방학 국가근로장학금 일반 교내외 대체 장학생 모집 공고(기간연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215895&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-06-15)
-
-* **[2023 후기청소년 동아리 지원사업 참여 동아리 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215890&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-06-15)
-
-* **[[홍보] (탄소산업분야) 2023 창업지원사업 참가자 모집 공고(탄소소재 및 부품 활용 아이디어)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215886&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-06-15)
