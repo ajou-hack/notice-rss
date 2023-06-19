@@ -30,6 +30,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[봉사활동] V-day 하천살리기 자원봉사자 모집 (수원시자원봉사센터)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217042&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-06-19)
+
+* **[[일자리+센터] 아주대와 함께하는 고영테크놀러지 채용설명회 (6/29)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217041&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-19)
+
+* **[[장애학생지원실] 2023년 하계방학 및 2학기 면학장학생을 모집합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217037&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 장애학생지원실 (~2023-06-19)
+
 * **[[재공지][아주지속가능발전센터] AJOU SDG 아이디어 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217033&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 아주지속가능발전센터 (~2023-06-19)
 
@@ -110,12 +119,3 @@
 
 * **[2023-1 3학년 2학기 외국인 유학생 진로 및 취업 상담 진행합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215871&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 유학생입학팀 (~2023-06-14)
-
-* **[[학생지원팀] 혁신공유라운지 사용불가 안내 (6월 24일 토요일 15:00 ~ 20:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215870&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-06-14)
-
-* **[원천정보관 토론학습실 대관불가안내 (7.15~7.23, 7.28~8.03)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215869&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-06-14)
-
-* **[[기간연장]2023 제3회 SW융합창업캠프 학생 참여 신청안내★ (06.18까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215867&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW중심대학사업단 (~2023-06-14)
