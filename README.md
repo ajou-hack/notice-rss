@@ -30,6 +30,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[재공지][아주지속가능발전센터] AJOU SDG 아이디어 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217033&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 아주지속가능발전센터 (~2023-06-19)
+
+* **[[일자리+센터]시험기간동안 지친 여러분을 위한 대플센 6월 이벤트!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217029&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-19)
+
 * **[(재공지)[LINC 3.0](전액무료) W-OKTA 2023 차세대 글로벌 창업무역스쿨 모국방문교육 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217013&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학사업팀 (~2023-06-16)
 
@@ -113,9 +119,3 @@
 
 * **[[기간연장]2023 제3회 SW융합창업캠프 학생 참여 신청안내★ (06.18까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215867&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW중심대학사업단 (~2023-06-14)
-
-* **[[아주대_글로벌미래교육원]여름8주특강_ITT비즈니스 3급 영어 자격과정 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215865&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 글로벌미래교육원 (~2023-06-14)
-
-* **[[해외취업] Connect Job Korea Fair 2023](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215843&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-14)
