@@ -30,6 +30,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023-2학기 파란학기 기업제안-제안2 프로그램 모집 취소 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217103&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2023-06-20)
+
+* **[[메이커스페이스] 장비 만족도 및 체험 교육 프로그램 구축 수요 조사 안내(~06.27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217101&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-06-20)
+
 * **[[봉사활동] 2023하반기 대학생/청년 교육 봉사자(T)모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217095&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-06-20)
 
@@ -113,9 +119,3 @@
 
 * **[[인권센터 학생상담소] &#x27;두려워, 인간관계&#x27; 인간관계 증진 집단상담 프로그램 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216966&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 인권센터 학생상담소 (~2023-06-16)
-
-* **[[교외장학] 2023년 (재)논산시장학회 학업장려 장학금 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216964&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-06-16)
-
-* **[[일자리+센터] 반도체 공정 이론(기초&amp;심화) 모집 안내 (재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216959&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-15)
