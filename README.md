@@ -30,6 +30,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[봉사활동] 2023하반기 대학생/청년 교육 봉사자(T)모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217095&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-06-20)
+
+* **[[집중근로](필독) 2023학년도 한국장학재단 하계방학 집중근로 프로그램 선발자 숙지사항 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217093&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-06-20)
+
+* **[(재공지) 재학생 대상 &#x27;비즈니스 기본예절 및 현장실습 활용법&#x27; 특강(6.21(수) 2시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217091&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2023-06-20)
+
 * **[차만손 운동확산 「유튜브 쇼츠」 영상 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217081&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-06-19)
 
@@ -109,13 +118,4 @@
  [장학] - 학생지원팀 (~2023-06-16)
 
 * **[[일자리+센터] 반도체 공정 이론(기초&amp;심화) 모집 안내 (재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216959&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-15)
-
-* **[[다산학부대학] 2023-1 교양과목 기말고사 대학원생 감독자 추가 모집(1명)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216958&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-06-15)
-
-* **[[다산학부대학] 2023-1학기 체육수업(수영) 보조금 지급 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216952&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-06-15)
-
-* **[[해외취업] kotra 지역인재 글로벌 취업설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215991&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-15)
