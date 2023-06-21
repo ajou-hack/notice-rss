@@ -30,6 +30,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[산학협력원 북쪽 주차장 통제 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217138&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2023-06-21)
+
+* **[(재공지)[LINC 3.0](전액무료) W-OKTA 2023 차세대 글로벌 창업무역스쿨 모국방문교육 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217137&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2023-06-21)
+
+* **[[봉사활동] (재공지) 2023년도 체코 글로벌 봉사단 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217131&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-06-21)
+
+* **[[일자리+센터]어서와! 현장실습(인턴)은 처음이지? (단, 하루)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217129&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-20)
+
 * **[2023-1 학기 외국인 유학생 취업특강 신청하세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217127&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 유학생입학팀 (~2023-06-20)
 
@@ -106,16 +118,4 @@
  [장학] - 학생지원팀 (~2023-06-16)
 
 * **[[일자리+센터] 하계방학 계열별 자소서 작성법 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216987&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-16)
-
-* **[[종합지원센터] 2023학년도 1학기 사물함 이용기간 만료안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216986&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2023-06-16)
-
-* **[[재공지]23년 1학기 학습성과 재학생 설문조사(스타벅스 커피 기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216973&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교육평가인증센터 (~2023-06-16)
-
-* **[[학습법] 2023-1학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216972&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-06-16)
-
-* **[[일자리+센터] 6월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216971&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-16)
