@@ -30,6 +30,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[대학교육혁신원] 인스타그램 팔로우 이벤트 당첨자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217147&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2023-06-21)
+
+* **[[일자리+센터] 한솔그룹 재택참여형 인턴십 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217146&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-21)
+
 * **[산학협력원 북쪽 주차장 통제 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217138&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2023-06-21)
 
@@ -87,7 +93,7 @@
 * **[[일자리+센터] 아주대와 함께하는 고영테크놀러지 채용설명회 (6/29)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217041&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-19)
 
-* **[[장애학생지원실] 2023년 하계방학 및 2학기 면학장학생을 모집합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217037&amp;article.offset=0&amp;articleLimit=30)**
+* **[[장애학생지원실] 하계방학 및 2학기 면학장학생을 모집합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217037&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 장애학생지원실 (~2023-06-19)
 
 * **[[재공지][아주지속가능발전센터] AJOU SDG 아이디어 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217033&amp;article.offset=0&amp;articleLimit=30)**
@@ -113,9 +119,3 @@
 
 * **[[공공정책대학원] 2023학년도 후기 수시 2차 석사과정 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216993&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 공공정책대학원 교학팀 (~2023-06-16)
-
-* **[[재공지] 2023학년도 2학기 장학신청_06.30(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216989&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-06-16)
-
-* **[[일자리+센터] 하계방학 계열별 자소서 작성법 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=216987&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-16)
