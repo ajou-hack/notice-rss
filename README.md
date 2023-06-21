@@ -30,14 +30,20 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[대청교] 2023학년도 대학생 청소년교육지원장학 활동기간 및 하계 계절학기 수강자 학업시간표 등록 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217165&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-06-21)
+
 * **[2023 하계방학 미래자동차 Skill-UP 프로그램 중급과정(인공지능AI과정) 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217163&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신융합단 (~2023-06-21)
 
-* **[[창업진흥원] 2023 대한민국 메이커스타 모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217161&amp;article.offset=0&amp;articleLimit=30)**
+* **[[중소벤처기업부, 창업진흥원] 2023 대한민국 메이커스타 모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217161&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-06-21)
 
 * **[2023하계 혁신융합대학 스케일카 기반 자율주행 경진대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217159&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신융합단 (~2023-06-21)
+
+* **[[일자리+센터] 2023 하계 SW역량테스트 대비 훈련과정 (프로그래머스 코딩전문역량인증시험)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217158&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-21)
 
 * **[[추가모집]★2023 제3회 SW융합창업캠프 학생 참여 신청안내★ (06.27까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217156&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW중심대학사업단 (~2023-06-21)
@@ -113,9 +119,3 @@
 
 * **[[재공지][아주지속가능발전센터] AJOU SDG 아이디어 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217033&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 아주지속가능발전센터 (~2023-06-19)
-
-* **[[일자리+센터]시험기간동안 지친 여러분을 위한 대플센 6월 이벤트!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217029&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-19)
-
-* **[(재공지)[LINC 3.0](전액무료) W-OKTA 2023 차세대 글로벌 창업무역스쿨 모국방문교육 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217013&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2023-06-16)
