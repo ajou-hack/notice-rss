@@ -30,6 +30,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023 하계방학 미래자동차 Skill-UP 프로그램 중급과정(인공지능AI과정) 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217163&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신융합단 (~2023-06-21)
+
+* **[[창업진흥원] 2023 대한민국 메이커스타 모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217161&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-06-21)
+
+* **[2023하계 혁신융합대학 스케일카 기반 자율주행 경진대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217159&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신융합단 (~2023-06-21)
+
 * **[[추가모집]★2023 제3회 SW융합창업캠프 학생 참여 신청안내★ (06.27까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217156&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW중심대학사업단 (~2023-06-21)
 
@@ -110,12 +119,3 @@
 
 * **[(재공지)[LINC 3.0](전액무료) W-OKTA 2023 차세대 글로벌 창업무역스쿨 모국방문교육 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217013&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학사업팀 (~2023-06-16)
-
-* **[★2023 제3회 SW융합창업캠프 학생 참여 신청안내★ (06.18까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217012&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW중심대학사업단 (~2023-06-16)
-
-* **[[일자리+센터] 23-3기 A.C.E. STUDY(멘토링 프로그램) 하계방학 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217011&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-16)
-
-* **[[재공지]아주허브에서 6월 퀴즈 풀고 기프티콘 받아가자!(~6/20)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217007&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 비교과교육지원센터 (~2023-06-16)
