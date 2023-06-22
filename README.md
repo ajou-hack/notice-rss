@@ -27,6 +27,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[아주대_글로벌미래교육원]여름8주완성_ITT비즈니스 3급 영어 자격과정 수강생 모집 &quot;아주대재학생과 직원은 장학혜택!&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217198&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 글로벌미래교육원 (~2023-06-22)
+
 * **[[중앙도서관]하계방학중 중앙도서관 운영시간 안내(6.22~8.31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217194&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2023-06-22)
 
@@ -113,6 +116,3 @@
 
 * **[[중앙도서관] 서버 작업으로 인한 서비스 중지 안내 (6/22 18:00~21:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217079&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2023-06-19)
-
-* **[[LINC 3.0] IC-PBL·캡스톤디자인 수행능력 향상을 위한 Idea Thinking Process 이해 및 교수법 교육 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217060&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2023-06-19)
