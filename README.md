@@ -27,6 +27,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[&#x27;아무튼, 연애&#x27; 연인관계 증진 집단상담 프로그램 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217206&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 인권센터 학생상담소 (~2023-06-22)
+
+* **[&#x27;두려워, 인간관계&#x27; 인간관계 증진 집단상담 프로그램 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217205&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 인권센터 학생상담소 (~2023-06-22)
+
 * **[[아주대_글로벌미래교육원]여름8주완성_ITT비즈니스 3급 영어 자격과정 수강생 모집 &quot;아주대재학생과 직원은 장학혜택!&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217198&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 글로벌미래교육원 (~2023-06-22)
 
@@ -110,9 +116,3 @@
 
 * **[(재공지) 재학생 대상 &#x27;비즈니스 기본예절 및 현장실습 활용법&#x27; 특강(6.21(수) 2시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217091&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2023-06-20)
-
-* **[차만손 운동확산 「유튜브 쇼츠」 영상 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217081&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-06-19)
-
-* **[[중앙도서관] 서버 작업으로 인한 서비스 중지 안내 (6/22 18:00~21:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217079&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2023-06-19)
