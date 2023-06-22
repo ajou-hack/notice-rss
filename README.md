@@ -27,6 +27,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[23년 2학기 학생예비군 전입신청 안내(초안)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217186&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 예비군연대 (~2023-06-22)
+
 * **[[일자리+센터] ADsP(데이터분석 준전문가) 자격증 교육과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217184&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-22)
 
@@ -113,6 +116,3 @@
 
 * **[[봉사활동] V-day 하천살리기 자원봉사자 모집 (수원시자원봉사센터)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217042&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-06-19)
-
-* **[[일자리+센터] 아주대와 함께하는 고영테크놀러지 채용설명회 (6/29)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217041&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-19)
