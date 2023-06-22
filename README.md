@@ -27,13 +27,16 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[일자리+센터] ADsP(데이터분석 준전문가) 자격증 교육과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217184&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-22)
+
 * **[[일자리+센터] 반도체공정 이론교육(기초&amp;심화)-재공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217168&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-21)
 
 * **[[대청교] 2023학년도 대학생 청소년교육지원장학 활동기간 및 하계 계절학기 수강자 학업시간표 등록 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217165&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-06-21)
 
-* **[2023 하계방학 미래자동차 Skill-UP 프로그램 중급과정(인공지능AI과정) 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217163&amp;article.offset=0&amp;articleLimit=30)**
+* **[2023 하계방학 미래자동차 Skill-UP 프로그램 중급과정(인공지능AI과정) 신청 안내(수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217163&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신융합단 (~2023-06-21)
 
 * **[[중소벤처기업부, 창업진흥원] 2023 대한민국 메이커스타 모집공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217161&amp;article.offset=0&amp;articleLimit=30)**
@@ -113,6 +116,3 @@
 
 * **[[일자리+센터] 아주대와 함께하는 고영테크놀러지 채용설명회 (6/29)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217041&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-19)
-
-* **[[장애학생지원실] 하계방학 및 2학기 면학장학생을 모집합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217037&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 장애학생지원실 (~2023-06-19)
