@@ -27,6 +27,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[중앙도서관]하계방학중 중앙도서관 운영시간 안내(6.22~8.31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217194&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2023-06-22)
+
 * **[[LINC 3.0] (전액무료, 선착순) (DSAC M1 자격 과정) 인공지능 기반 스마트 에너지 능력인증 사전교육 Data Programming 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217192&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀 (~2023-06-22)
 
@@ -113,6 +116,3 @@
 
 * **[[LINC 3.0] IC-PBL·캡스톤디자인 수행능력 향상을 위한 Idea Thinking Process 이해 및 교수법 교육 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217060&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학사업팀 (~2023-06-19)
-
-* **[[재공지] 2023학년도 2학기 장학신청_06.30(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217056&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-06-19)
