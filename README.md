@@ -21,14 +21,14 @@
 * **[📌 [공지] &#x27;장학공지&#x27; 메뉴 신설(한눈에 우리대학 장학정보를 확인하는 방법)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214764&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-05-17)
 
-* **[📌 [공지] [Remind][학사] 2023-1학기 휴학/복학 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=212711&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-03-28)
-
 * **[📌 [공지] [교무팀] 출석(전자출결, 공결, 취업계, 코로나 등) 관련 안내(06.01.수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=205552&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2022-10-26)
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
+
+* **[[일자리+센터] 반도체공정 이론교육(기초&amp;심화)-재공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217168&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-21)
 
 * **[[대청교] 2023학년도 대학생 청소년교육지원장학 활동기간 및 하계 계절학기 수강자 학업시간표 등록 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217165&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-06-21)
@@ -116,6 +116,3 @@
 
 * **[[장애학생지원실] 하계방학 및 2학기 면학장학생을 모집합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217037&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 장애학생지원실 (~2023-06-19)
-
-* **[[재공지][아주지속가능발전센터] AJOU SDG 아이디어 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217033&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 아주지속가능발전센터 (~2023-06-19)
