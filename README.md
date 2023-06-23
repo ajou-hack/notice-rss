@@ -15,9 +15,6 @@
 * **[📌 [공지] [학부/학사과정] 2023학년도 하계 계절수업 등록 및 수강포기(계절학기 수강료 환불) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215210&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-05-26)
 
-* **[📌 [공지] [필독]2023학년도 2학기 국가장학금 1차 신청안내 (5. 23. ~ 6. 22.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215084&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-05-24)
-
 * **[📌 [공지] &#x27;장학공지&#x27; 메뉴 신설(한눈에 우리대학 장학정보를 확인하는 방법)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214764&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-05-17)
 
@@ -26,6 +23,15 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
+
+* **[[일자리+센터][추가모집] AJOU 취업훈련소 네오첼린지+(졸업반) 8기 추가 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217221&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-23)
+
+* **[[일자리+센터][추가모집] &lt;A취업훈련소 서류대비반 3기&gt; B반 (금요일반) 추가 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217220&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-23)
+
+* **[[일자리+센터](필독)대학일자리플러스센터 페널티 제도 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217212&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-22)
 
 * **[&#x27;아무튼, 연애&#x27; 연인관계 증진 집단상담 프로그램 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217206&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 인권센터 학생상담소 (~2023-06-22)
@@ -107,12 +113,3 @@
 
 * **[[메이커스페이스] 장비 만족도 및 체험 교육 프로그램 구축 수요 조사 안내(~06.27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217101&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-06-20)
-
-* **[[봉사활동] 2023하반기 대학생/청년 교육 봉사자(T)모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217095&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-06-20)
-
-* **[[집중근로](필독) 2023학년도 한국장학재단 하계방학 집중근로 프로그램 선발자 숙지사항 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217093&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-06-20)
-
-* **[(재공지) 재학생 대상 &#x27;비즈니스 기본예절 및 현장실습 활용법&#x27; 특강(6.21(수) 2시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217091&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2023-06-20)
