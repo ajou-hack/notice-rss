@@ -24,6 +24,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023-2학기 1학년 2학기 복학 대상자 Co-BSM 자동수강신청 요청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217233&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-06-23)
+
+* **[[국제교류팀] 2024-1학기 파견 교환 및 복수학위 1차모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217230&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 국제교류팀 (~2023-06-23)
+
+* **[2023 개인정보 불법유통 방지 대학생 모니터링단 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217227&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-06-23)
+
 * **[[일자리+센터][추가모집] AJOU 취업훈련소 네오첼린지+(졸업반) 8기 추가 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217221&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-23)
 
@@ -104,12 +113,3 @@
 
 * **[2023-1 학기 외국인 유학생 취업특강 신청하세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217127&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 유학생입학팀 (~2023-06-20)
-
-* **[[재공지] 23년 1학기 학습성과 재학생 설문조사(스타벅스 커피 기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217112&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교육평가인증센터 (~2023-06-20)
-
-* **[2023-2학기 파란학기 기업제안-제안2 프로그램 모집 취소 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217103&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2023-06-20)
-
-* **[[메이커스페이스] 장비 만족도 및 체험 교육 프로그램 구축 수요 조사 안내(~06.27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217101&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-06-20)
