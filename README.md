@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[추가모집]★2023 제3회 SW융합창업캠프 학생 참여 신청안내★ (06.27까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218438&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW중심대학사업단 (~2023-06-23)
+
 * **[[일자리+센터] 6월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218437&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-23)
 
@@ -110,6 +113,3 @@
 
 * **[[대학교육혁신원] 인스타그램 팔로우 이벤트 당첨자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217147&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2023-06-21)
-
-* **[[일자리+센터] 한솔그룹 재택참여형 인턴십 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217146&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-21)
