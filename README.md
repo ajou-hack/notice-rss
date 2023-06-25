@@ -24,6 +24,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[기획팀]규정류 개정 공포(2023-제5차 교무회의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218440&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2023-06-24)
+
+* **[규정류 개정 공포(제363차 이사회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218439&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2023-06-24)
+
 * **[[추가모집]★2023 제3회 SW융합창업캠프 학생 참여 신청안내★ (06.27까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218438&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW중심대학사업단 (~2023-06-23)
 
@@ -107,9 +113,3 @@
 
 * **[[추가모집]★2023 제3회 SW융합창업캠프 학생 참여 신청안내★ (06.27까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217156&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW중심대학사업단 (~2023-06-21)
-
-* **[[경기주택도시공사] 2023년 2차 「청년 매입임대 예비입주자 모집공고」](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217155&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-06-21)
-
-* **[[대학교육혁신원] 인스타그램 팔로우 이벤트 당첨자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217147&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2023-06-21)
