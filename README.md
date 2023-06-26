@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학습법] 2023-1학기 온라인 학습법 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218477&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-06-26)
+
 * **[2023 국제여름학교(AISS) 프로그램 버디(Buddy) 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218474&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 국제교류팀 (~2023-06-26)
 
@@ -109,7 +112,4 @@
  [기타] - 학술정보팀 (~2023-06-22)
 
 * **[[LINC 3.0] (전액무료, 선착순) (DSAC M1 자격 과정) 인공지능 기반 스마트 에너지 능력인증 사전교육 Data Programming 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217192&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀 (~2023-06-22)
-
-* **[[LINC 3.0] (전액무료) 스마트시티 SW분석가 인재양성 교육 수강생 모집(AI 스마트시티 본교육)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217191&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀 (~2023-06-22)
