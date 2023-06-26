@@ -24,6 +24,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[(기간연장)[LINC 3.0](80만원 전액무료) W-OKTA 2023 차세대 글로벌 창업무역스쿨 모국방문교육 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218491&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 산학사업팀 (~2023-06-26)
+
+* **[[봉사활동] 2023학년도 큰나래유치원 교육봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218490&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-06-26)
+
+* **[경기도 청년(자립준비청년) 사회구성원 성장지원 1-stop 프로그램 ‘마인드 포레스트’](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218489&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-06-26)
+
+* **[[졸업생대상] 스마트공장(PLC자동제어) 전문인력양성 교육생모집(국비무료/수당지급)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218488&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 기업지원센터 (~2023-06-26)
+
 * **[[학습법] 2023-1학기 온라인 학습법 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218477&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-06-26)
 
@@ -101,15 +113,3 @@
 
 * **[&#x27;아무튼, 연애&#x27; 연인관계 증진 집단상담 프로그램 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217206&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 인권센터 학생상담소 (~2023-06-22)
-
-* **[&#x27;두려워, 인간관계&#x27; 인간관계 증진 집단상담 프로그램 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217205&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 인권센터 학생상담소 (~2023-06-22)
-
-* **[[아주대_글로벌미래교육원]여름8주완성_ITT비즈니스 3급 영어 자격과정 수강생 모집 &quot;아주대재학생과 직원은 장학혜택!&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217198&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 글로벌미래교육원 (~2023-06-22)
-
-* **[[중앙도서관]하계방학중 중앙도서관 운영시간 안내(6.22~8.31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217194&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2023-06-22)
-
-* **[[LINC 3.0] (전액무료, 선착순) (DSAC M1 자격 과정) 인공지능 기반 스마트 에너지 능력인증 사전교육 Data Programming 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217192&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀 (~2023-06-22)
