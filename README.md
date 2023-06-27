@@ -24,6 +24,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[일자리+센터] 2023 하계 구글애널리틱스 자격증(Google Analytics Certification) 교육과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218506&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-27)
+
+* **[23년 2학기 학생예비군 전입신고 및 훈련일정(안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218505&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 예비군연대 (~2023-06-27)
+
+* **[[글로벌미래교육원] 여름단기8주완성_ITT Biz 3급 영어 자격증 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218503&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 글로벌미래교육원 (~2023-06-27)
+
 * **[(기간연장)[LINC 3.0](80만원 전액무료) W-OKTA 2023 차세대 글로벌 창업무역스쿨 모국방문교육 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218491&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀 (~2023-06-26)
 
@@ -104,12 +113,3 @@
 
 * **[[일자리+센터][추가모집] AJOU 취업훈련소 네오첼린지+(졸업반) 8기 추가 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217221&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-23)
-
-* **[[일자리+센터][추가모집] &lt;A취업훈련소 서류대비반 3기&gt; B반 (금요일반) 추가 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217220&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-23)
-
-* **[[일자리+센터](필독)대학일자리플러스센터 페널티 제도 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217212&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-22)
-
-* **[&#x27;아무튼, 연애&#x27; 연인관계 증진 집단상담 프로그램 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217206&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 인권센터 학생상담소 (~2023-06-22)
