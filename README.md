@@ -24,6 +24,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[아주대학교 우편취급국 점심시간 휴무 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218523&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 아주대학교 우편취급국 (~2023-06-27)
+
+* **[[해외취업] 일본 AGC 미츠비시 그룹 플랜트 엔지니어직 채용 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218520&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-27)
+
 * **[2023년 소방시설 종합점검 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218519&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2023-06-27)
 
@@ -107,9 +113,3 @@
 
 * **[[비교과교육지원센터]아주허브 6월 퀴즈대회 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217238&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-06-23)
-
-* **[2023 국제여름학교(AISS) 프로그램 버디(Buddy) 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217237&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 국제교류팀 (~2023-06-23)
-
-* **[2023-2학기 1학년 2학기 복학 대상자 Co-BSM 자동수강신청 요청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217233&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-06-23)
