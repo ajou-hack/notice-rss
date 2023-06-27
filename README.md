@@ -24,6 +24,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[일자리+센터](재공지) 아주대와 함께하는 고영테크놀러지 채용설명회 (6/29)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218537&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-27)
+
+* **[[인권센터 성평등상담소] 2023년 온라인 법정필수교육 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218536&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 인권센터 성평등상담소 (~2023-06-27)
+
+* **[(유학생) 23-여름학기 슬기로운 한국어 학술모임 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218535&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 글로벌교양학부 (~2023-06-27)
+
 * **[2023-여름학기 한국어스터디 멘토 모집(~7/12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218531&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 글로벌교양학부 (~2023-06-27)
 
@@ -104,12 +113,3 @@
 
 * **[[기획팀]규정류 개정 공포(2023-제5차 교무회의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218440&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 기획팀 (~2023-06-24)
-
-* **[규정류 개정 공포(제363차 이사회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218439&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2023-06-24)
-
-* **[[추가모집]★2023 제3회 SW융합창업캠프 학생 참여 신청안내★ (06.27까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218438&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW중심대학사업단 (~2023-06-23)
-
-* **[[일자리+센터] 6월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218437&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-23)
