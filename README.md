@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023년 소방시설 종합점검 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218519&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2023-06-27)
+
 * **[2023-2학기 글로벌 캡스톤디자인(선문대) 참가 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218511&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신융합단 (~2023-06-27)
 
@@ -75,7 +78,7 @@
 * **[(마감임박)[LINC 3.0](80만원 전액무료) W-OKTA 2023 차세대 글로벌 창업무역스쿨 모국방문교육 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218453&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀 (~2023-06-26)
 
-* **[[학생지원팀] 하계방학 면학장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218447&amp;article.offset=0&amp;articleLimit=30)**
+* **[[마감][학생지원팀] 하계방학 면학장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218447&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-06-26)
 
 * **[제 4차 실험동물연구센터 온라인 간담회를 실시합니다.(2023년 6월 26일) 줌 주소 포함](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218446&amp;article.offset=0&amp;articleLimit=30)**
@@ -110,6 +113,3 @@
 
 * **[2023-2학기 1학년 2학기 복학 대상자 Co-BSM 자동수강신청 요청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217233&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-06-23)
-
-* **[[국제교류팀] 2024-1학기 파견 교환 및 복수학위 1차모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217230&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교류팀 (~2023-06-23)
