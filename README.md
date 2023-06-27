@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023학년도 2학기 아주강좌 연사 추천](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218526&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-06-27)
+
 * **[아주대학교 우편취급국 점심시간 휴무 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218523&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 아주대학교 우편취급국 (~2023-06-27)
 
@@ -110,6 +113,3 @@
 
 * **[[학습법] 2023-1학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217239&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-06-23)
-
-* **[[비교과교육지원센터]아주허브 6월 퀴즈대회 당첨자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217238&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-06-23)
