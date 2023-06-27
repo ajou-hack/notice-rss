@@ -24,6 +24,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023-2학기 글로벌 캡스톤디자인(선문대) 참가 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218511&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신융합단 (~2023-06-27)
+
+* **[[학습법] 2023-1학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218510&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-06-27)
+
 * **[[일자리+센터] 2023 하계 구글애널리틱스 자격증(Google Analytics Certification) 교육과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218506&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-27)
 
@@ -107,9 +113,3 @@
 
 * **[[국제교류팀] 2024-1학기 파견 교환 및 복수학위 1차모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217230&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교류팀 (~2023-06-23)
-
-* **[2023 개인정보 불법유통 방지 대학생 모니터링단 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217227&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-06-23)
-
-* **[[일자리+센터][추가모집] AJOU 취업훈련소 네오첼린지+(졸업반) 8기 추가 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=217221&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-23)
