@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[재공지] 23년 1학기 학습성과 재학생 설문조사(스타벅스 커피 기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218564&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교육평가인증센터 (~2023-06-28)
+
 * **[[공학교육혁신센터] 2023 학생포트폴리오 경진대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218563&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 공학교육혁신센터 (~2023-06-28)
 
@@ -110,6 +113,3 @@
 
 * **[2023 국제여름학교(AISS) 프로그램 버디(Buddy) 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218474&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 국제교류팀 (~2023-06-26)
-
-* **[[일자리+센터] [재공지] 장비제어 PLC 이론&amp;실습 교육](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218461&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-26)
