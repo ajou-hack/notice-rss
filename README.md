@@ -24,6 +24,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[공학교육혁신센터] 2023 학생포트폴리오 경진대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218563&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공학교육혁신센터 (~2023-06-28)
+
+* **[[국가근로] 2023학년도 하계방학 일반 교내·외 국가근로장학생 선발 공고(추가모집)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218560&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-06-28)
+
+* **[[중앙도서관] 중앙도서관 방역 실시 안내 (7/7~7/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218554&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2023-06-28)
+
+* **[[봉사활동] 대학생 우정사회봉사단 포커스온(POCU&#x27;S 溫) 4기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218552&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-06-28)
+
 * **[[학습법] 2023-1학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218550&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-06-28)
 
@@ -101,15 +113,3 @@
 
 * **[[일자리+센터] [재공지] 장비제어 PLC 이론&amp;실습 교육](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218461&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-26)
-
-* **[[총무팀]개인정보보호 인식주간 캠페인 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218457&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2023-06-26)
-
-* **[2023학년도 2학기 인공지능융합학과[복수전공, 부전공] 7기 2차 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218456&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 소프트웨어융합대학교학팀 (~2023-06-26)
-
-* **[(재공지)[LINC 3.0] (전액무료) 스마트시티 SW분석가 인재양성 교육 수강생 모집(AI 스마트시티 본교육)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218455&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀 (~2023-06-26)
-
-* **[(재공지)[LINC 3.0] (전액무료, 선착순) (DSAC M1 자격 과정) 인공지능 기반 스마트 에너지 능력인증 사전교육 Data Programming 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218454&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀 (~2023-06-26)
