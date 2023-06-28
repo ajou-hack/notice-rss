@@ -24,6 +24,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학습법] 2023-1학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218550&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-06-28)
+
+* **[[재안내] 2023학년도 2학기 장학신청_06.30(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218546&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-06-28)
+
+* **[[박물관] 2023년 매장문화재 미정리 유물 보존 및 활용사업 특별전시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218543&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 박물관 (~2023-06-28)
+
+* **[캠퍼스 내 미허가 종교단체 포교 활동 등 주의 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218542&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2023-06-28)
+
+* **[[추가모집]★2023 제3회 SW융합창업캠프 학생 참여 신청안내★ (07.01까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218539&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW중심대학사업단 (~2023-06-28)
+
 * **[[일자리+센터](재공지) 아주대와 함께하는 고영테크놀러지 채용설명회 (6/29)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218537&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-27)
 
@@ -98,18 +113,3 @@
 
 * **[(재공지)[LINC 3.0] (전액무료, 선착순) (DSAC M1 자격 과정) 인공지능 기반 스마트 에너지 능력인증 사전교육 Data Programming 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218454&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀 (~2023-06-26)
-
-* **[(마감임박)[LINC 3.0](80만원 전액무료) W-OKTA 2023 차세대 글로벌 창업무역스쿨 모국방문교육 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218453&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀 (~2023-06-26)
-
-* **[[마감][학생지원팀] 하계방학 면학장학생을 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218447&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-06-26)
-
-* **[제 4차 실험동물연구센터 온라인 간담회를 실시합니다.(2023년 6월 26일) 줌 주소 포함](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218446&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 실험동물연구센터 (~2023-06-26)
-
-* **[[국제학부] 일본어활용 아주대홍보 동영상공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218445&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 국제학부 (~2023-06-26)
-
-* **[[기획팀]규정류 개정 공포(2023-제5차 교무회의)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218440&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2023-06-24)
