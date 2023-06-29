@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[중앙도서관] 전자책 바로보기(웹뷰어)서비스 오픈 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218605&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2023-06-29)
+
 * **[[글로벌미래교육원] 여름단기8주완성_ITT Biz 3급 영어 자격증 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218595&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 글로벌미래교육원 (~2023-06-29)
 
@@ -110,6 +113,3 @@
 
 * **[[글로벌미래교육원] 여름단기8주완성_ITT Biz 3급 영어 자격증 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218503&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 글로벌미래교육원 (~2023-06-27)
-
-* **[(기간연장)[LINC 3.0](80만원 전액무료) W-OKTA 2023 차세대 글로벌 창업무역스쿨 모국방문교육 참가자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218491&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀 (~2023-06-26)
