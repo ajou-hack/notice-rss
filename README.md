@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[메이커스페이스] 7월 장비운영시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218645&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-06-30)
+
 * **[[교외장학] 한국지역아동센터연합회 장학사업 &#x27;The가꿈8기&#x27; 멘토링 참여 대학생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218639&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-06-30)
 
@@ -110,6 +113,3 @@
 
 * **[아주대학교 우편취급국 점심시간 휴무 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218523&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 아주대학교 우편취급국 (~2023-06-27)
-
-* **[[해외취업] 일본 AGC 미츠비시 그룹 플랜트 엔지니어직 채용 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218520&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-27)
