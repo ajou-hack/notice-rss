@@ -24,6 +24,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[교외장학] 한국지역아동센터연합회 장학사업 &#x27;The가꿈8기&#x27; 멘토링 참여 대학생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218639&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-06-30)
+
+* **[[국가근로][대청교] 6월 출근부 입력 마감일 및 장학금 지급 예정일 안내(필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218638&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-06-30)
+
+* **[2024학년도 재외국민과 외국인 특별전형 수강능력시험 실시에 따른 건물 출입 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218636&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 입학팀 (~2023-06-30)
+
 * **[[교외장학] 굿패밀리복지재단 2023 하반기 장학생 선발모집 안내_23.07.28.(금) 오후 6시 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218632&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-06-30)
 
@@ -33,7 +42,7 @@
 * **[[모집] 교육대학원 방학기간 자격연수 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218629&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 교육대학원 (~2023-06-30)
 
-* **[[중앙도서관] 전자책 바로보기(웹뷰어)서비스 오픈 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218605&amp;article.offset=0&amp;articleLimit=30)**
+* **[[도서관] 전자책 바로보기(웹뷰어)서비스 오픈 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218605&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2023-06-29)
 
 * **[[글로벌미래교육원] 여름단기8주완성_ITT Biz 3급 영어 자격증 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218595&amp;article.offset=0&amp;articleLimit=30)**
@@ -104,12 +113,3 @@
 
 * **[[해외취업] 일본 AGC 미츠비시 그룹 플랜트 엔지니어직 채용 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218520&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-27)
-
-* **[2023년 소방시설 종합점검 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218519&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2023-06-27)
-
-* **[2023-2학기 글로벌 캡스톤디자인(선문대) 참가 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218511&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 혁신융합단 (~2023-06-27)
-
-* **[[학습법] 2023-1학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218510&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-06-27)
