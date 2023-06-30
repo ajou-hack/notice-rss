@@ -24,6 +24,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[교외장학] 굿패밀리복지재단 2023 하반기 장학생 선발모집 안내_23.07.28.(금) 오후 6시 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218632&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-06-30)
+
+* **[[교외장학] 세계한민족여성재단 2023년 희망장학생 선발안내_23.08.04.(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218630&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-06-30)
+
+* **[[모집] 교육대학원 방학기간 자격연수 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218629&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 교육대학원 (~2023-06-30)
+
 * **[[중앙도서관] 전자책 바로보기(웹뷰어)서비스 오픈 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218605&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2023-06-29)
 
@@ -104,12 +113,3 @@
 
 * **[[학습법] 2023-1학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218510&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-06-27)
-
-* **[[일자리+센터] 2023 하계 구글애널리틱스 자격증(Google Analytics Certification) 교육과정](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218506&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-27)
-
-* **[23년 2학기 학생예비군 전입신고 및 훈련일정(안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218505&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 예비군연대 (~2023-06-27)
-
-* **[[글로벌미래교육원] 여름단기8주완성_ITT Biz 3급 영어 자격증 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218503&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 글로벌미래교육원 (~2023-06-27)
