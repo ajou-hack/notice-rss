@@ -3,9 +3,6 @@
 * **[📌 [공지] [학부] 2023-1학기 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215750&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-06-12)
 
-* **[📌 [공지] 2023학년도 2학기 장학신청_06.30(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215687&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-06-12)
-
 * **[📌 [공지] [학사] 2023-2학기 휴학/복학 신청 안내 (6/15 수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215587&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-06-08)
 
@@ -23,6 +20,9 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
+
+* **[[일자리+센터] 참 좋은 기업 찾Key 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218652&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-06-30)
 
 * **[[메이커스페이스] 7월 장비운영시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218645&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-06-30)
@@ -110,6 +110,3 @@
 
 * **[2023학년도 2학기 아주강좌 연사 추천](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218526&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-06-27)
-
-* **[아주대학교 우편취급국 점심시간 휴무 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218523&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 아주대학교 우편취급국 (~2023-06-27)
