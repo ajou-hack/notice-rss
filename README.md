@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[비교과교육지원센터] 아주대와 함께하는 문화산책이 새롭게 찾아왔습니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218699&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-07-03)
+
+* **[[해외취업][미국인턴] LX PANTOS 테네시법인 Cost Analyst 인턴 채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218697&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-07-03)
+
 * **[제89회 한국어능력시험(TOPIK) 시행에 따른 성호관 출입 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218683&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 국제교육센터운영팀 (~2023-07-03)
 
@@ -104,9 +110,3 @@
 
 * **[[박물관] 2023년 매장문화재 미정리 유물 보존 및 활용사업 특별전시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218543&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 박물관 (~2023-06-28)
-
-* **[캠퍼스 내 미허가 종교단체 포교 활동 등 주의 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218542&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2023-06-28)
-
-* **[[추가모집]★2023 제3회 SW융합창업캠프 학생 참여 신청안내★ (07.01까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218539&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW중심대학사업단 (~2023-06-28)
