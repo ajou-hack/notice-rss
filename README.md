@@ -21,6 +21,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[수원시 청소년 대상(중·고등학생) 지식나눔 및 실험체험 신청 안내(~07.16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218670&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 에너지시스템학과 (~2023-07-03)
+
+* **[2023년 멀티미디어 강의실 점검결과(06월) 및 2023년 (07월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218666&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2023-07-03)
+
+* **[[일자리+센터] 대학일자리플러스센터 뉴스레터 제57호(2023.07)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218662&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-07-03)
+
+* **[전공설명회 D-7) 2023학년도 2학기 인공지능융합학과[복수전공, 부전공] 7기 2차 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218661&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 소프트웨어융합대학교학팀 (~2023-07-03)
+
+* **[[봉사활동] 2023학년도 지동초등학교병설유치원 대학생 교육봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218660&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-07-03)
+
 * **[[일자리+센터] 참 좋은 기업 찾Key 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218652&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-30)
 
@@ -66,9 +81,6 @@
 * **[[재공지] 23년 1학기 학습성과 재학생 설문조사(스타벅스 커피 기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218564&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교육평가인증센터 (~2023-06-28)
 
-* **[[공학교육혁신센터] 2023 학생포트폴리오 경진대회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218563&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공학교육혁신센터 (~2023-06-28)
-
 * **[[국가근로] 2023학년도 하계방학 일반 교내·외 국가근로장학생 선발 공고(추가모집)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218560&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-06-28)
 
@@ -98,15 +110,3 @@
 
 * **[[인권센터 성평등상담소] 2023년 온라인 법정필수교육 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218536&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 인권센터 성평등상담소 (~2023-06-27)
-
-* **[(유학생) 23-여름학기 슬기로운 한국어 학술모임 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218535&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 글로벌교양학부 (~2023-06-27)
-
-* **[2023-여름학기 한국어스터디 멘토 모집(~7/12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218531&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 글로벌교양학부 (~2023-06-27)
-
-* **[[메이커스페이스] (재공지)장비 만족도 및 체험 교육 프로그램 구축 수요 조사 안내(~7.7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218530&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-06-27)
-
-* **[2023학년도 2학기 아주강좌 연사 추천](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218526&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-06-27)
