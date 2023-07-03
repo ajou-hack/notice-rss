@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학습법] 2023-1학기 온라인 학습법 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218677&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-07-03)
+
 * **[수원시 청소년 대상(중·고등학생) 지식나눔 및 실험체험 신청 안내(~07.16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218670&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 에너지시스템학과 (~2023-07-03)
 
@@ -107,6 +110,3 @@
 
 * **[[일자리+센터](재공지) 아주대와 함께하는 고영테크놀러지 채용설명회 (6/29)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218537&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-06-27)
-
-* **[[인권센터 성평등상담소] 2023년 온라인 법정필수교육 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218536&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 인권센터 성평등상담소 (~2023-06-27)
