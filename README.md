@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[산학연협력 뉴스레터 제50호(2023.06)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218742&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2023-07-04)
+
+* **[교내 흡연구역 조정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218741&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2023-07-04)
+
 * **[아두이노&amp;파이썬을 활용한 자율주행차제작(Skill-UP미래자동차) 프로그램 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218739&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신융합단 (~2023-07-04)
 
@@ -104,9 +110,3 @@
 
 * **[[글로벌미래교육원] 여름단기8주완성_ITT Biz 3급 영어 자격증 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218595&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 글로벌미래교육원 (~2023-06-29)
-
-* **[[일자리+센터][재공지] 23-3기 A.C.E. STUDY(멘토링 프로그램) 하계방학 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218589&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-28)
-
-* **[[국가근로] 2023학년도 하계방학 일반 교내·외 국가근로장학금 대체 장학생 모집 선발자 숙지사항](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218584&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-06-28)
