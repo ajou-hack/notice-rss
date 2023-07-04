@@ -21,6 +21,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[인문과학연구소] 세미나 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218716&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 인문과학연구소 (~2023-07-04)
+
+* **[경기도기숙사 2023년 하반기 입사생 추가 선발](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218713&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-07-04)
+
+* **[[한국장학재단] 2023년 2학기 푸른등대 기부장학금 신규장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218708&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-07-04)
+
+* **[[교외장학] 서암 윤세영 재단 2023년도 신규 대학 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218706&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-07-04)
+
 * **[[비교과교육지원센터] 아주대와 함께하는 문화산책이 새롭게 찾아왔습니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218699&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-07-03)
 
@@ -98,15 +110,3 @@
 
 * **[[중앙도서관] 중앙도서관 방역 실시 안내 (7/7~7/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218554&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2023-06-28)
-
-* **[[봉사활동] 대학생 우정사회봉사단 포커스온(POCU&#x27;S 溫) 4기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218552&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-06-28)
-
-* **[[학습법] 2023-1학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218550&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-06-28)
-
-* **[[재안내] 2023학년도 2학기 장학신청_06.30(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218546&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-06-28)
-
-* **[[박물관] 2023년 매장문화재 미정리 유물 보존 및 활용사업 특별전시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218543&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 박물관 (~2023-06-28)
