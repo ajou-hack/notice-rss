@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023-2학기 파란학기 신청학생 명단 공지(신청학생 필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218734&amp;article.offset=0&amp;articleLimit=30)**
+ [파란학기제] - 대학교육혁신원운영팀 (~2023-07-04)
+
 * **[[도서관]2023학년도 2학기 수업도서 구입(신청) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218730&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2023-07-04)
 
@@ -107,6 +110,3 @@
 
 * **[[재공지] [국제교류팀] 2023 국제여름학교(AISS) 프로그램 버디 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218576&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 국제교류팀 (~2023-06-28)
-
-* **[[창업교육센터] 2023학년도 제5회 대학연합창업캠프 신청 안내(~07.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218575&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 창업교육센터 (~2023-06-28)
