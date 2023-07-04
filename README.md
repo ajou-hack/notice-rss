@@ -21,6 +21,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[도서관]2023학년도 2학기 수업도서 구입(신청) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218730&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2023-07-04)
+
+* **[[LINC 3.0] 2023 반도체 Multiversity 공정실습 Summer Boot Camp 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218728&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2023-07-04)
+
+* **[[학습법] 2023-1학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218721&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-07-04)
+
 * **[[인문과학연구소] 세미나 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218716&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 인문과학연구소 (~2023-07-04)
 
@@ -101,12 +110,3 @@
 
 * **[[창업교육센터] 2023학년도 제5회 대학연합창업캠프 신청 안내(~07.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218575&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 창업교육센터 (~2023-06-28)
-
-* **[[재공지] 23년 1학기 학습성과 재학생 설문조사(스타벅스 커피 기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218564&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교육평가인증센터 (~2023-06-28)
-
-* **[[국가근로] 2023학년도 하계방학 일반 교내·외 국가근로장학생 선발 공고(추가모집)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218560&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-06-28)
-
-* **[[중앙도서관] 중앙도서관 방역 실시 안내 (7/7~7/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218554&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2023-06-28)
