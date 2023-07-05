@@ -18,6 +18,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학부] 2023-2학기 재입학 확정 및 학사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218764&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-07-05)
+
+* **[[학습법] 2023-1학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218758&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-07-05)
+
 * **[(금일마감)[창업교육센터] 2023학년도 제5회 대학연합창업캠프 참가 안내(~07.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218755&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업교육센터 (~2023-07-05)
 
@@ -101,9 +107,3 @@
 
 * **[[교외장학] 굿패밀리복지재단 2023 하반기 장학생 선발모집 안내_23.07.28.(금) 오후 6시 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218632&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-06-30)
-
-* **[[교외장학] 세계한민족여성재단 2023년 희망장학생 선발안내_23.08.04.(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218630&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-06-30)
-
-* **[[모집] 교육대학원 방학기간 자격연수 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218629&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 교육대학원 (~2023-06-30)
