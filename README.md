@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[해외취업] 미국 현지 우수 기업 인턴십 및 미국 해외 취업 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218788&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-07-05)
+
 * **[스마트팩토리 (PLC 자동화제어) 전문 인력 양성 과정 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218773&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2023-07-05)
 
@@ -104,6 +107,3 @@
 
 * **[[국가근로][대청교] 6월 출근부 입력 마감일 및 장학금 지급 예정일 안내(필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218638&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-06-30)
-
-* **[2024학년도 재외국민과 외국인 특별전형 수강능력시험 실시에 따른 건물 출입 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218636&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 입학팀 (~2023-06-30)
