@@ -6,9 +6,6 @@
 * **[📌 [공지] [학사] 2023-2학기 휴학/복학 신청 안내 (6/15 수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215587&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-06-08)
 
-* **[📌 [공지] [학부]2023학년도 1학기 수업평가 실시 안내(Spring Semester Course Evaluation)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215232&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-05-30)
-
 * **[📌 [공지] [학부/학사과정] 2023학년도 하계 계절수업 등록 및 수강포기(계절학기 수강료 환불) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215210&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-05-26)
 
@@ -20,6 +17,12 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
+
+* **[(금일마감)[창업교육센터] 2023학년도 제5회 대학연합창업캠프 참가 안내(~07.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218755&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업교육센터 (~2023-07-05)
+
+* **[&lt; 2023년 하반기 경기도 대학생 학자금 대출이자 지원 &gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218750&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-07-05)
 
 * **[산학연협력 뉴스레터 제50호(2023.06)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218742&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학사업팀 (~2023-07-04)
@@ -104,9 +107,3 @@
 
 * **[[모집] 교육대학원 방학기간 자격연수 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218629&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 교육대학원 (~2023-06-30)
-
-* **[[도서관] 전자책 바로보기(웹뷰어)서비스 오픈 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218605&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2023-06-29)
-
-* **[[글로벌미래교육원] 여름단기8주완성_ITT Biz 3급 영어 자격증 수강생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218595&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 글로벌미래교육원 (~2023-06-29)
