@@ -1,8 +1,5 @@
 # 최근 공지사항
 
-* **[📌 [공지] [학부] 2023-1학기 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215750&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-06-12)
-
 * **[📌 [공지] [학사] 2023-2학기 휴학/복학 신청 안내 (6/15 수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215587&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-06-08)
 
@@ -17,6 +14,12 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
+
+* **[[학자금대출] 2023년 2학기 농촌출신대학생 학자금융자(무이자) 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218797&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-07-06)
+
+* **[[국제대학원] 누비아주 32기를 모집합니다!(~7/16 (일) 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218795&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 국제대학원 교학팀 (~2023-07-05)
 
 * **[[해외취업] 미국 현지 우수 기업 인턴십 및 미국 해외 취업 설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218788&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-07-05)
@@ -101,9 +104,3 @@
 
 * **[[메이커스페이스] 7월 장비운영시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218645&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-06-30)
-
-* **[[교외장학] 한국지역아동센터연합회 장학사업 &#x27;The가꿈8기&#x27; 멘토링 참여 대학생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218639&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-06-30)
-
-* **[[국가근로][대청교] 6월 출근부 입력 마감일 및 장학금 지급 예정일 안내(필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218638&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-06-30)
