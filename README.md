@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[(재공지) 사회봉사활동 등록절차 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218806&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-07-06)
+
+* **[[생활관] 2023년 2학기 생활관(기숙사) 입사 신청 안내(1학기 비사생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218805&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 생활관 (~2023-07-06)
+
 * **[[학자금대출] 2023년 2학기 농촌출신대학생 학자금융자(무이자) 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218797&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-07-06)
 
@@ -98,9 +104,3 @@
 
 * **[[봉사활동] 2023학년도 지동초등학교병설유치원 대학생 교육봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218660&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-07-03)
-
-* **[[일자리+센터] 참 좋은 기업 찾Key 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218652&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-06-30)
-
-* **[[메이커스페이스] 7월 장비운영시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218645&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-06-30)
