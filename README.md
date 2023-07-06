@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[원천정보관 토론학습실 대관불가안내 (7.15~7.23, 7.28~8.03, 8.12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218826&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-07-06)
+
+* **[(포스터) 2023학년도 2학기 한국장학재단 학자금대출 신청 및 실행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218824&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-07-06)
+
 * **[[학자금대출] 2023학년도 2학기 한국장학재단 학자금대출 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218817&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-07-06)
 
@@ -98,9 +104,3 @@
 
 * **[수원시 청소년 대상(중·고등학생) 지식나눔 및 실험체험 신청 안내(~07.16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218670&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 에너지시스템학과 (~2023-07-03)
-
-* **[2023년 멀티미디어 강의실 점검결과(06월) 및 2023년 (07월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218666&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2023-07-03)
-
-* **[[일자리+센터] 대학일자리플러스센터 뉴스레터 제57호(2023.07)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218662&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-07-03)
