@@ -1,6 +1,6 @@
 # 최근 공지사항
 
-* **[📌 [공지] [학사] 2023-2학기 휴학/복학 신청 안내 (6/15 수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215587&amp;article.offset=0&amp;articleLimit=30)**
+* **[📌 [공지] [학사] 2023-2학기 휴학/복학 신청 안내 (7/7 수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215587&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-06-08)
 
 * **[📌 [공지] [학부/학사과정] 2023학년도 하계 계절수업 등록 및 수강포기(계절학기 수강료 환불) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215210&amp;article.offset=0&amp;articleLimit=30)**
@@ -14,6 +14,15 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
+
+* **[전공설명회 D-3) 2023학년도 2학기 인공지능융합학과[복수전공, 부전공] 7기 2차 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218841&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 소프트웨어융합대학교학팀 (~2023-07-07)
+
+* **[[교외장학] 2023학년도 2학기 한국도레이과학진흥재단 장학생 선발 안내_7.28(금) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218838&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-07-07)
+
+* **[[창업지원팀] 2023 수원시 창업오디션 지원 안내(총 상금 13,600,000원)(~08.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218835&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-07-07)
 
 * **[원천정보관 토론학습실 대관불가안내 (7.15~7.23, 7.28~8.03, 8.12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218826&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-07-06)
@@ -95,12 +104,3 @@
 
 * **[[해외취업][미국인턴] LX PANTOS 테네시법인 Cost Analyst 인턴 채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218697&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-07-03)
-
-* **[제89회 한국어능력시험(TOPIK) 시행에 따른 성호관 출입 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218683&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 국제교육센터운영팀 (~2023-07-03)
-
-* **[[학습법] 2023-1학기 온라인 학습법 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218677&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-07-03)
-
-* **[수원시 청소년 대상(중·고등학생) 지식나눔 및 실험체험 신청 안내(~07.16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218670&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 에너지시스템학과 (~2023-07-03)
