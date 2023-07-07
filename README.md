@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학습법] 2023-1학기 수업 참여 사례 공모전 안내(오늘 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218850&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-07-07)
+
+* **[[총무팀] 정기 해충방역 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218846&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2023-07-07)
+
 * **[전공설명회 D-3) 2023학년도 2학기 인공지능융합학과[복수전공, 부전공] 7기 2차 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218841&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 소프트웨어융합대학교학팀 (~2023-07-07)
 
@@ -98,9 +104,3 @@
 
 * **[[교외장학] 서암 윤세영 재단 2023년도 신규 대학 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218706&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-07-04)
-
-* **[[비교과교육지원센터] 아주대와 함께하는 문화산책이 새롭게 찾아왔습니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218699&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-07-03)
-
-* **[[해외취업][미국인턴] LX PANTOS 테네시법인 Cost Analyst 인턴 채용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218697&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-07-03)
