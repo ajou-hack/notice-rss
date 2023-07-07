@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[메이커스페이스] 3D프린터 운용기능사 실기 출력 무료지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218867&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-07-07)
+
+* **[[전공진입평가 미이수자 필독] 2023-2학기 전공진입평가 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218866&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-07-07)
+
 * **[[학습법] 2023-1학기 수업 참여 사례 공모전 안내(오늘 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218850&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-07-07)
 
@@ -98,9 +104,3 @@
 
 * **[경기도기숙사 2023년 하반기 입사생 추가 선발](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218713&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-07-04)
-
-* **[[한국장학재단] 2023년 2학기 푸른등대 기부장학금 신규장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218708&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-07-04)
-
-* **[[교외장학] 서암 윤세영 재단 2023년도 신규 대학 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218706&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-07-04)
