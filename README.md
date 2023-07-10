@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[LINC 3.0] 2023-2학기 현장실습 학생 참여 신청 안내 (★07.17~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218914&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2023-07-10)
+
 * **[2023년 COEX 외국인 유학생 채용박람회 참가를 원하는 학부 외국인 유학생들 신청해주세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218905&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 유학생입학팀 (~2023-07-10)
 
@@ -101,6 +104,3 @@
 
 * **[교내 흡연구역 조정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218741&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2023-07-04)
-
-* **[아두이노&amp;파이썬을 활용한 자율주행차제작(Skill-UP미래자동차) 프로그램 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218739&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 혁신융합단 (~2023-07-04)
