@@ -15,6 +15,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023년 COEX 외국인 유학생 채용박람회 참가를 원하는 학부 외국인 유학생들 신청해주세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218905&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 유학생입학팀 (~2023-07-10)
+
+* **[[일자리+센터] 7월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218897&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-07-10)
+
+* **[[일자리+센터] 2023년 하반기 롯데백화점 식품·F&amp;B영업/MD 신입사원 채용 및 메타버스 채용설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218896&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-07-10)
+
+* **[[다산학부대학] 2023-2학기 고전 에세이 대회 사전안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218895&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 다산학부대학 교학팀 (~2023-07-10)
+
 * **[[재공지](~07.12) 2023년 하반기 ICT 학점연계 프로젝트 인턴십(국내과정) 참여신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218890&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW중심대학사업단 (~2023-07-10)
 
@@ -92,15 +104,3 @@
 
 * **[아두이노&amp;파이썬을 활용한 자율주행차제작(Skill-UP미래자동차) 프로그램 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218739&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신융합단 (~2023-07-04)
-
-* **[2023-2학기 파란학기 신청학생 명단 공지(신청학생 필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218734&amp;article.offset=0&amp;articleLimit=30)**
- [파란학기제] - 대학교육혁신원운영팀 (~2023-07-04)
-
-* **[[도서관]2023학년도 2학기 수업도서 구입(신청) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218730&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2023-07-04)
-
-* **[[LINC 3.0] 2023 반도체 Multiversity 공정실습 Summer Boot Camp 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218728&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2023-07-04)
-
-* **[[학습법] 2023-1학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218721&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-07-04)
