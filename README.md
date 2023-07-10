@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[재공지](~07.12) 2023년 하반기 ICT 학점연계 프로젝트 인턴십(국내과정) 참여신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218890&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW중심대학사업단 (~2023-07-10)
+
+* **[[다산학부대학] 2023-2학기 고전 토론 대회 사전안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218889&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 다산학부대학 교학팀 (~2023-07-10)
+
 * **[[메이커스페이스] 3D프린터 운용기능사 실기 출력 무료지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218867&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-07-07)
 
@@ -98,9 +104,3 @@
 
 * **[[학습법] 2023-1학기 수업 참여 사례 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218721&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-07-04)
-
-* **[[인문과학연구소] 세미나 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218716&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 인문과학연구소 (~2023-07-04)
-
-* **[경기도기숙사 2023년 하반기 입사생 추가 선발](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218713&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-07-04)
