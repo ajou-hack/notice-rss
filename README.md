@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[국제대학원] 누비아주 32기를 모집합니다! (~7/16 (일) 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218962&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 국제대학원 교학팀 (~2023-07-11)
+
 * **[[일자리+센터] 2차전지 기초 및 제조공정 이론](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218960&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-07-11)
 
@@ -101,6 +104,3 @@
 
 * **[스마트팩토리 (PLC 자동화제어) 전문 인력 양성 과정 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218773&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2023-07-05)
-
-* **[[학부] 2023-2학기 재입학 확정 및 학사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218764&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-07-05)
