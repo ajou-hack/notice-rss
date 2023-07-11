@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[일자리+센터] 한국해양진흥공사 채용설명회 및 취업특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218938&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-07-11)
+
 * **[스마트팩토리 (PLC 자동화제어) 전문 인력 양성 과정 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218929&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2023-07-11)
 
@@ -101,6 +104,3 @@
 
 * **[(금일마감)[창업교육센터] 2023학년도 제5회 대학연합창업캠프 참가 안내(~07.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218755&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업교육센터 (~2023-07-05)
-
-* **[&lt; 2023년 하반기 경기도 대학생 학자금 대출이자 지원 &gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218750&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-07-05)
