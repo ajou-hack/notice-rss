@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[스마트팩토리 (PLC 자동화제어) 전문 인력 양성 과정 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218929&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2023-07-11)
+
 * **[2023-2학기 1학년 2학기 복학 대상자 Co-BSM 자동수강신청 요청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218921&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-07-10)
 
@@ -101,6 +104,3 @@
 
 * **[&lt; 2023년 하반기 경기도 대학생 학자금 대출이자 지원 &gt;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218750&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-07-05)
-
-* **[산학연협력 뉴스레터 제50호(2023.06)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218742&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2023-07-04)
