@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[일자리+센터] 2차전지 기초 및 제조공정 이론](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218960&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-07-11)
+
 * **[화장실 이용 제한 안내(팔달관 1층 남자화장실/원천관 1층 여자, 2~3층 남여 화장실)(7/13)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218946&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 안전관리센터 (~2023-07-11)
 
@@ -101,6 +104,3 @@
 
 * **[[학부] 2023-2학기 재입학 확정 및 학사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218764&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-07-05)
-
-* **[[학습법] 2023-1학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218758&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-07-05)
