@@ -15,6 +15,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학부/학사과정] (23.07.12.) 2023-2학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218977&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-07-12)
+
+* **[[봉사활동] 한국문화재단 주최 조선왕릉원정대 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218974&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-07-12)
+
 * **[[일자리+센터] 2023 금융권 공동채용 박람회(8/23~24) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218972&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-07-12)
 
@@ -98,9 +104,3 @@
 
 * **[[생활관] 2023년 2학기 생활관(기숙사) 입사 신청 안내(1학기 비사생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218805&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 생활관 (~2023-07-06)
-
-* **[[학자금대출] 2023년 2학기 농촌출신대학생 학자금융자(무이자) 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218797&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-07-06)
-
-* **[[국제대학원] 누비아주 32기를 모집합니다!(~7/16 (일) 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218795&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 국제대학원 교학팀 (~2023-07-05)
