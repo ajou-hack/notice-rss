@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023년 상반기 군산시 대학생 학자금대출 이자지원](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218985&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-07-12)
+
 * **[[학부/학사과정] (23.07.12.) 2023-2학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218977&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-07-12)
 
@@ -101,6 +104,3 @@
 
 * **[(재공지) 사회봉사활동 등록절차 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218806&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-07-06)
-
-* **[[생활관] 2023년 2학기 생활관(기숙사) 입사 신청 안내(1학기 비사생 대상)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218805&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 생활관 (~2023-07-06)
