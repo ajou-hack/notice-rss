@@ -3,9 +3,6 @@
 * **[📌 [공지] [학사] 2023-2학기 휴학/복학 신청 안내 (7/7 수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215587&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-06-08)
 
-* **[📌 [공지] [학부/학사과정] 2023학년도 하계 계절수업 등록 및 수강포기(계절학기 수강료 환불) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215210&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-05-26)
-
 * **[📌 [공지] &#x27;장학공지&#x27; 메뉴 신설(한눈에 우리대학 장학정보를 확인하는 방법)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214764&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-05-17)
 
@@ -14,6 +11,9 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
+
+* **[승강기(연암관 1호기) 보수공사 일정 연기 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219007&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2023-07-13)
 
 * **[[전공진입평가 미이수자 필독] 2023-2학기 전공진입평가 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218992&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-07-12)
@@ -101,6 +101,3 @@
 
 * **[[학자금대출] 2023학년도 2학기 한국장학재단 학자금대출 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218817&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-07-06)
-
-* **[[온마음알리미] 일하는(최근 일했던) 청년 노동자 심리치유 프로그램](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218816&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 인권센터 학생상담소 (~2023-07-06)
