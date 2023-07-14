@@ -12,6 +12,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[교육평가인증센터] 2023년 재학생 실태 및 수요조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219029&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교육평가인증센터 (~2023-07-14)
+
+* **[[과학영재교육원] (실험수업) 나도과학자 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219028&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 과학영재교육원 (~2023-07-14)
+
+* **[[해외취업]WELL(Work Experience &amp; Learning Experience)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219027&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-07-14)
+
+* **[[해외취업] 2023 GLOBAL TALENT FAIR](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219026&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-07-14)
+
 * **[[학부] 2023-2학기 전과 확정 알림 및 학사안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219018&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-07-13)
 
@@ -89,15 +101,3 @@
 
 * **[전공설명회 D-3) 2023학년도 2학기 인공지능융합학과[복수전공, 부전공] 7기 2차 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218841&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 소프트웨어융합대학교학팀 (~2023-07-07)
-
-* **[[교외장학] 2023학년도 2학기 한국도레이과학진흥재단 장학생 선발 안내_7.28(금) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218838&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-07-07)
-
-* **[[창업지원팀] 2023 수원시 창업오디션 지원 안내(총 상금 13,600,000원)(~08.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218835&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-07-07)
-
-* **[원천정보관 토론학습실 대관불가안내 (7.15~7.23, 7.28~8.03, 8.12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218826&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-07-06)
-
-* **[(포스터) 2023학년도 2학기 한국장학재단 학자금대출 신청 및 실행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218824&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-07-06)
