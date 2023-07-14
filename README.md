@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] [정보시스템팀] 개인정보 처리 소명 시스템 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219034&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2023-07-14)
+
 * **[📌 [공지] [학사] 2023-2학기 휴학/복학 신청 안내 (7/7 수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215587&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-06-08)
 
@@ -11,6 +14,9 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
+
+* **[[학부/학사과정] (23.07.14.) 2023-2학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219031&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-07-14)
 
 * **[[교육평가인증센터] 2023년 재학생 실태 및 수요조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219029&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교육평가인증센터 (~2023-07-14)
@@ -98,6 +104,3 @@
 
 * **[[총무팀] 정기 해충방역 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218846&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2023-07-07)
-
-* **[전공설명회 D-3) 2023학년도 2학기 인공지능융합학과[복수전공, 부전공] 7기 2차 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218841&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 소프트웨어융합대학교학팀 (~2023-07-07)
