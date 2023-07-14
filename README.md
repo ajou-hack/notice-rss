@@ -15,6 +15,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학부]2023-2학기 학사과정 학과별 개설과목 현황 안내(수시 업데이트 예정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219065&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-07-14)
+
+* **[[메이커스페이스] 3D프린터 장비운용 기초교육생 모집(7월 1회차_&#x27;23.07.18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219063&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-07-14)
+
+* **[[일자리+센터]2023. 취업성공후기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219062&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-07-14)
+
 * **[[다산학부대학] 2023-2학기 아주인성 공통반, 고급영어 과목 재수강 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219044&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-07-14)
 
@@ -25,7 +34,7 @@
  [장학] - 학생지원팀 (~2023-07-14)
 
 * **[홍보실 사무실 이전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219035&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 홍보실 (~2023-07-14)
+ [사무] - 홍보실 (~2023-07-14)
 
 * **[[학부/학사과정] (23.07.14.) 2023-2학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219031&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-07-14)
@@ -95,12 +104,3 @@
 
 * **[[일자리+센터] 2023년 하반기 롯데백화점 식품·F&amp;B영업/MD 신입사원 채용 및 메타버스 채용설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218896&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-07-10)
-
-* **[[다산학부대학] 2023-2학기 고전 에세이 대회 사전안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218895&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 다산학부대학 교학팀 (~2023-07-10)
-
-* **[[재공지](~07.12) 2023년 하반기 ICT 학점연계 프로젝트 인턴십(국내과정) 참여신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218890&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW중심대학사업단 (~2023-07-10)
-
-* **[[다산학부대학] 2023-2학기 고전 토론 대회 사전안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218889&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 다산학부대학 교학팀 (~2023-07-10)
