@@ -15,6 +15,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학부]2023-2학기 예비수강신청 안내(07/20(목)~07/22(토))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219066&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-07-14)
+
 * **[[학부]2023-2학기 학사과정 학과별 개설과목 현황 안내(수시 업데이트 예정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219065&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-07-14)
 
@@ -100,7 +103,4 @@
  [행사] - 유학생입학팀 (~2023-07-10)
 
 * **[[일자리+센터] 7월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218897&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-07-10)
-
-* **[[일자리+센터] 2023년 하반기 롯데백화점 식품·F&amp;B영업/MD 신입사원 채용 및 메타버스 채용설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218896&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-07-10)
