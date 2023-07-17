@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[보건복지부] 청년의 고립 · 은둔 실태 조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219112&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-07-17)
+
 * **[연암관 승강기(1호기) 보수공사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219107&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2023-07-17)
 
@@ -107,6 +110,3 @@
 
 * **[[일자리+센터] 2023 금융권 공동채용 박람회(8/23~24) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218972&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-07-12)
-
-* **[[다산학부대학]2023-2학기 1학년 2학기 복학 대상자 Co-BSM 자동수강신청 요청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218971&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-07-12)
