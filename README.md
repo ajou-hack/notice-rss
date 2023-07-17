@@ -15,6 +15,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[전공진입평가 미이수자 필독] 2023-2학기 전공진입평가 수강신청 안내(신청시간 변경 10:00→11:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219085&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-07-17)
+
+* **[(당일공지)[전공진입평가 미이수자 필독] 2023-2학기 전공진입평가 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219084&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-07-17)
+
+* **[[교외장학] 2023년 서울희망대학진로 장학금 선발공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219081&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-07-17)
+
+* **[[일자리+센터] 7월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219079&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-07-17)
+
+* **[[교외장학] 2023년도 정읍시민장학재단 장학생 선발 공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219074&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-07-17)
+
 * **[[국제대학원] 누비아주 32기를 모집합니다! (~7/16 (일) 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219068&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 국제대학원 교학팀 (~2023-07-14)
 
@@ -89,18 +104,3 @@
 
 * **[화장실 이용 제한 안내(팔달관 1층 남자화장실/원천관 1층 여자, 2~3층 남여 화장실)(7/13)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218946&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 안전관리센터 (~2023-07-11)
-
-* **[[일자리+센터] 한국해양진흥공사 채용설명회 및 취업특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218938&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-07-11)
-
-* **[스마트팩토리 (PLC 자동화제어) 전문 인력 양성 과정 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218929&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2023-07-11)
-
-* **[2023-2학기 1학년 2학기 복학 대상자 Co-BSM 자동수강신청 요청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218921&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-07-10)
-
-* **[[LINC 3.0] 2023-2학기 현장실습 학생 참여 신청 안내 (★07.17~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218914&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2023-07-10)
-
-* **[2023년 COEX 외국인 유학생 채용박람회 참가를 원하는 학부 외국인 유학생들 신청해주세요!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218905&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 유학생입학팀 (~2023-07-10)
