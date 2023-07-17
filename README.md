@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[📌 [공지] [학부]2023-2학기 예비수강신청 안내(07/20(목)~07/22(토))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219066&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-07-14)
+
+* **[📌 [공지] [학부]2023-2학기 학사과정 학과별 개설과목 현황 안내(수시 업데이트 예정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219065&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-07-14)
+
 * **[📌 [공지] [정보시스템팀] 개인정보 처리 소명 시스템 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219034&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2023-07-14)
 
@@ -14,6 +20,21 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
+
+* **[연암관 승강기(1호기) 보수공사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219107&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2023-07-17)
+
+* **[[학부/학사과정] (23.07.17.) 2023-2학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219106&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-07-17)
+
+* **[2024학년도 법학적성시험(LEET) 시행에 따른 성호관 출입제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219098&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 법학전문대학원 교학팀 (~2023-07-17)
+
+* **[[메이커스페이스] 나만의 오너먼트 만들기 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219090&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-07-17)
+
+* **[(당일재공지)2023-2학기 전공진입평가 수강신청 추가 안내(마감시간 변경 16:00→17:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219087&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-07-17)
 
 * **[[전공진입평가 미이수자 필독] 2023-2학기 전공진입평가 수강신청 안내(신청시간 변경 10:00→11:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219085&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-07-17)
@@ -32,12 +53,6 @@
 
 * **[[국제대학원] 누비아주 32기를 모집합니다! (~7/16 (일) 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219068&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 국제대학원 교학팀 (~2023-07-14)
-
-* **[[학부]2023-2학기 예비수강신청 안내(07/20(목)~07/22(토))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219066&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-07-14)
-
-* **[[학부]2023-2학기 학사과정 학과별 개설과목 현황 안내(수시 업데이트 예정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219065&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-07-14)
 
 * **[[메이커스페이스] 3D프린터 장비운용 기초교육생 모집(7월 1회차_&#x27;23.07.18)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219063&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-07-14)
@@ -95,12 +110,3 @@
 
 * **[[다산학부대학]2023-2학기 1학년 2학기 복학 대상자 Co-BSM 자동수강신청 요청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218971&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-07-12)
-
-* **[[국제대학원] 누비아주 32기를 모집합니다! (~7/16 (일) 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218962&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 국제대학원 교학팀 (~2023-07-11)
-
-* **[[일자리+센터] 2차전지 기초 및 제조공정 이론](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218960&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-07-11)
-
-* **[화장실 이용 제한 안내(팔달관 1층 남자화장실/원천관 1층 여자, 2~3층 남여 화장실)(7/13)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218946&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 안전관리센터 (~2023-07-11)
