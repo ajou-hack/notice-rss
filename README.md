@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[교외장학] 2023년 유한재단 장학생 선발 안내_2023.07.26(수) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219131&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-07-18)
+
 * **[[보건복지부] 청년의 고립 · 은둔 실태 조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219112&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-07-17)
 
@@ -66,6 +69,9 @@
 * **[[다산학부대학] 2023-2학기 아주인성 공통반, 고급영어 과목 재수강 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219044&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-07-14)
 
+* **[[LINC 3.0] 아주 글로벌 미래 혁신기술 사업화전략 사업(CES 2024) 참가기업 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219043&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 산학사업팀 (~2023-07-14)
+
 * **[[교외장학] 2023학년도 2학기 해성문화재단 장학생 선발 공고_7/26(수) 15시까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219041&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-07-14)
 
@@ -104,9 +110,3 @@
 
 * **[[학부/학사과정] (23.07.12.) 2023-2학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218977&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-07-12)
-
-* **[[봉사활동] 한국문화재단 주최 조선왕릉원정대 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218974&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-07-12)
-
-* **[[일자리+센터] 2023 금융권 공동채용 박람회(8/23~24) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218972&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-07-12)
