@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[총무팀] 2023 가명정보 활용 우수사례·아이디어 경진대회 홍보 포스터 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219139&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2023-07-18)
+
+* **[스마트팩토리 (PLC 자동화제어) 전문 인력 양성 과정 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219138&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2023-07-18)
+
 * **[[교외장학] 2023년 유한재단 장학생 선발 안내_2023.07.26(수) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219131&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-07-18)
 
@@ -104,9 +110,3 @@
 
 * **[[전공진입평가 미이수자 필독] 2023-2학기 전공진입평가 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218992&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-07-12)
-
-* **[2023년 상반기 군산시 대학생 학자금대출 이자지원](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218985&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-07-12)
-
-* **[[학부/학사과정] (23.07.12.) 2023-2학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218977&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-07-12)
