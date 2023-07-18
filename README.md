@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[(재공지)[LINC 3.0] 2023-2학기 현장실습 학생 참여 신청 안내 (★07.17~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219146&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2023-07-18)
+
+* **[[지식재산] 2023-2학기 개설 교과목 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219142&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 지식재산융합인재양성사업 (~2023-07-18)
+
 * **[[총무팀] 2023 가명정보 활용 우수사례·아이디어 경진대회 홍보 포스터 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219139&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2023-07-18)
 
@@ -104,9 +110,3 @@
 
 * **[[학부] 2023-2학기 전과 확정 알림 및 학사안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219018&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-07-13)
-
-* **[승강기(연암관 1호기) 보수공사 일정 연기 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219007&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2023-07-13)
-
-* **[[전공진입평가 미이수자 필독] 2023-2학기 전공진입평가 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=218992&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-07-12)
