@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[모집마감 D-5) 2023학년도 2학기 인공지능융합학과[복수전공, 부전공] 7기 2차 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219178&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 소프트웨어융합대학교학팀 (~2023-07-19)
+
 * **[[다산학부대학] 2023-2 신입생 대상 Co-BSM 자동수강신청 내역 확인 시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219174&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-07-19)
 
@@ -107,6 +110,3 @@
 
 * **[[LINC 3.0] 아주 글로벌 미래 혁신기술 사업화전략 사업(CES 2024) 참가기업 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219043&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 산학사업팀 (~2023-07-14)
-
-* **[[교외장학] 2023학년도 2학기 해성문화재단 장학생 선발 공고_7/26(수) 15시까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219041&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-07-14)
