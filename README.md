@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[기간연장][교외장학] 2023년 산학협동재단 디딤돌 장학금 신청 안내_23.07.21.(금) 오후 3시 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219192&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-07-19)
+
+* **[[교외장학] 2023 「JUMP ON 멘토링」 여성 대학생 멘토 모집 안내_7.23(일)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219190&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-07-19)
+
 * **[모집마감 D-5) 2023학년도 2학기 인공지능융합학과[복수전공, 부전공] 7기 2차 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219178&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 소프트웨어융합대학교학팀 (~2023-07-19)
 
@@ -104,9 +110,3 @@
 
 * **[[일자리+센터]2023. 취업성공후기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219062&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-07-14)
-
-* **[[다산학부대학] 2023-2학기 아주인성 공통반, 고급영어 과목 재수강 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219044&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-07-14)
-
-* **[[LINC 3.0] 아주 글로벌 미래 혁신기술 사업화전략 사업(CES 2024) 참가기업 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219043&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 산학사업팀 (~2023-07-14)
