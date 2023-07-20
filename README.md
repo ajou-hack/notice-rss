@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[다산학부대학] 마음챙김과 자기조절(일선과목) 예비수강 불가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219246&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학 (~2023-07-20)
+
+* **[2023.2학기 미래자동차 학점교류(계명대학교) 신청안내 (~7/26수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219241&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 혁신융합팀 (~2023-07-20)
+
 * **[(재공지)아주대와 함께하는 문화산책](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219221&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-07-20)
 
@@ -104,9 +110,3 @@
 
 * **[[전공진입평가 미이수자 필독] 2023-2학기 전공진입평가 수강신청 안내(신청시간 변경 10:00→11:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219085&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-07-17)
-
-* **[(당일공지)[전공진입평가 미이수자 필독] 2023-2학기 전공진입평가 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219084&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-07-17)
-
-* **[[교외장학] 2023년 서울희망대학진로 장학금 선발공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219081&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-07-17)
