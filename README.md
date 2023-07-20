@@ -21,6 +21,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023년 천원의 아침밥 서포터즈 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219252&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-07-20)
+
+* **[2023.2학기 미래자동차 학점교류(충북대학교) 신청안내 (~7/21금, ~7/26수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219251&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 혁신융합팀 (~2023-07-20)
+
+* **[[마감]아두이노&amp;파이썬을 활용한 자율주행차제작(Skill-UP미래자동차) 프로그램 추가모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219248&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신융합단 (~2023-07-20)
+
 * **[[다산학부대학] 마음챙김과 자기조절(일선과목) 예비수강 불가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219246&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학 (~2023-07-20)
 
@@ -101,12 +110,3 @@
 
 * **[2024학년도 법학적성시험(LEET) 시행에 따른 성호관 출입제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219098&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 법학전문대학원 교학팀 (~2023-07-17)
-
-* **[[메이커스페이스] 나만의 오너먼트 만들기 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219090&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-07-17)
-
-* **[(당일재공지)2023-2학기 전공진입평가 수강신청 추가 안내(마감시간 변경 16:00→17:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219087&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-07-17)
-
-* **[[전공진입평가 미이수자 필독] 2023-2학기 전공진입평가 수강신청 안내(신청시간 변경 10:00→11:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219085&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-07-17)
