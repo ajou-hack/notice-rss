@@ -21,6 +21,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학자금대출] 2023년 상반기 울산광역시 대학생 학자금대출 이자지원](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219270&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-07-21)
+
+* **[2023학년도 1학기 아주복지장학 선발안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219263&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-07-21)
+
+* **[[총무팀] 연암관 지하주차장 물청소 시행에 따른 차량 통제 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219262&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2023-07-21)
+
 * **[2023년 천원의 아침밥 서포터즈 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219252&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-07-20)
 
@@ -101,12 +110,3 @@
 
 * **[[보건복지부] 청년의 고립 · 은둔 실태 조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219112&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-07-17)
-
-* **[연암관 승강기(1호기) 보수공사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219107&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2023-07-17)
-
-* **[[학부/학사과정] (23.07.17.) 2023-2학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219106&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-07-17)
-
-* **[2024학년도 법학적성시험(LEET) 시행에 따른 성호관 출입제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219098&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 법학전문대학원 교학팀 (~2023-07-17)
