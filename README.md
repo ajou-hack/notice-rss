@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[시설팀] 팔달관 SW학과 대학원연구실 공사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219284&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2023-07-21)
+
 * **[[일자리+센터] 7월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219276&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-07-21)
 
@@ -107,6 +110,3 @@
 
 * **[스마트팩토리 (PLC 자동화제어) 전문 인력 양성 과정 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219138&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2023-07-18)
-
-* **[[교외장학] 2023년 유한재단 장학생 선발 안내_2023.07.26(수) 15:00까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219131&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-07-18)
