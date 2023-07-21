@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[메이커스페이스] 레이저커팅기 장비운용 기초교육생 모집(7월 2회차_&#x27;23.07.25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219295&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-07-21)
+
+* **[[일자리+센터] 2023년 [렛유인에듀] &lt;2023년 하반기 이공계 5대산업 직무 페스티벌&gt; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219292&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-07-21)
+
 * **[[시설팀] 팔달관 SW학과 대학원연구실 공사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219284&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2023-07-21)
 
@@ -45,7 +51,7 @@
 * **[[마감]아두이노&amp;파이썬을 활용한 자율주행차제작(Skill-UP미래자동차) 프로그램 추가모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219248&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신융합단 (~2023-07-20)
 
-* **[[다산학부대학] 마음챙김과 자기조절(일선과목) 예비수강 불가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219246&amp;article.offset=0&amp;articleLimit=30)**
+* **[(수강신청 필독) [다산학부대학] 마음챙김과 자기조절(일선과목) 예비수강 불가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219246&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학 (~2023-07-20)
 
 * **[2023.2학기 미래자동차 학점교류(계명대학교) 신청안내 (~7/26수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219241&amp;article.offset=0&amp;articleLimit=30)**
@@ -104,9 +110,3 @@
 
 * **[[지식재산] 2023-2학기 개설 교과목 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219142&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 지식재산융합인재양성사업 (~2023-07-18)
-
-* **[[총무팀] 2023 가명정보 활용 우수사례·아이디어 경진대회 홍보 포스터 공지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219139&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2023-07-18)
-
-* **[스마트팩토리 (PLC 자동화제어) 전문 인력 양성 과정 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219138&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2023-07-18)
