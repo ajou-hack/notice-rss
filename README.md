@@ -1,8 +1,5 @@
 # 최근 공지사항
 
-* **[📌 [공지] [학부]2023-2학기 예비수강신청 안내(07/20(목)~07/22(토))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219066&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-07-14)
-
 * **[📌 [공지] [학부]2023-2학기 학사과정 학과별 개설과목 현황 안내(수시 업데이트 예정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219065&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-07-14)
 
