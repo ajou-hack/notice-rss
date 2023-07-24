@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[공공정책대학원] 2023학년도 후기 수시 3차 석사과정 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219329&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 공공정책대학원 교학팀 (~2023-07-24)
+
 * **[[학습법] 2023-1학기 수업 참여 사례 공모전 수상작 선정 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219310&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-07-24)
 
@@ -104,6 +107,3 @@
 
 * **[Skill-UP 미래자동차 고급과정(OpenCV&amp;딥러닝, AI자율주행시뮬레이션) 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219163&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 혁신융합단 (~2023-07-19)
-
-* **[[봉사활동] 2023년 2학기 대학생 교육기부 프로그램 「함성소리」동아리 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219155&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-07-19)
