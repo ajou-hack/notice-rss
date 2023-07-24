@@ -18,6 +18,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학자금대출] 2023년 상반기 인천시 대학(원)생 학자금대출 이자 지원](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219345&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-07-24)
+
 * **[[공공정책대학원] 2023학년도 후기 수시 3차 석사과정 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219329&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 공공정책대학원 교학팀 (~2023-07-24)
 
@@ -104,6 +107,3 @@
 
 * **[[홍보] 제9회 삼성전자 대학생 프로그래밍 경진대회 (SCPC 2023)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219164&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 홍보실 (~2023-07-19)
-
-* **[Skill-UP 미래자동차 고급과정(OpenCV&amp;딥러닝, AI자율주행시뮬레이션) 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219163&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 혁신융합단 (~2023-07-19)
