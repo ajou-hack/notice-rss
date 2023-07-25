@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023 ALL-SET 기업역량 고도화 지원사업 기술상용화 집중형 공고(~08.11까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219412&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2023-07-25)
+
 * **[경기도 청년(자립준비청년) 사회구성원 성장지원 1-stop 프로그램 ‘마인드 포레스트’ 2, 3기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219398&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-07-25)
 
@@ -107,6 +110,3 @@
 
 * **[[교외장학] 2023 「JUMP ON 멘토링」 여성 대학생 멘토 모집 안내_7.23(일)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219190&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-07-19)
-
-* **[모집마감 D-5) 2023학년도 2학기 인공지능융합학과[복수전공, 부전공] 7기 2차 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219178&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 소프트웨어융합대학교학팀 (~2023-07-19)
