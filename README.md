@@ -21,6 +21,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[경기도 청년(자립준비청년) 사회구성원 성장지원 1-stop 프로그램 ‘마인드 포레스트’ 2, 3기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219398&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-07-25)
+
+* **[&#x27;23년 기사 제4회 필기시험 원서접수 시작시간 조정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219390&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-07-25)
+
+* **[2023.2학기 미래자동차 학점교류(국민대학교) 신청안내 (~8/7월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219388&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 혁신융합팀 (~2023-07-25)
+
+* **[[학부/학사과정] (23.07.25.) 2023-2학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219386&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-07-25)
+
 * **[[학습법] 2023-1학기 온라인 학습법 특강 우수 수강자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219382&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-07-25)
 
@@ -98,15 +110,3 @@
 
 * **[모집마감 D-5) 2023학년도 2학기 인공지능융합학과[복수전공, 부전공] 7기 2차 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219178&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 소프트웨어융합대학교학팀 (~2023-07-19)
-
-* **[[다산학부대학] 2023-2 신입생 대상 Co-BSM 자동수강신청 내역 확인 시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219174&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-07-19)
-
-* **[[홍보]2023문화도시 조성사업 문화인재양성 수원은학교 청년리더 양성학교](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219171&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2023-07-19)
-
-* **[2023 문화도시 조성사업 청년리더 양성학교 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219169&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-07-19)
-
-* **[[교육대학원] 2023학년도 전기(수시) 교육대학원 석사학위과정(야간) 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219166&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 교육대학원 (~2023-07-19)
