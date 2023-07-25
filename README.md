@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] [학부] 2023-2학기 등록/환불 안내(08.21.~08.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219379&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 재무회계팀 (~2023-07-25)
+
 * **[📌 [공지] [학부]2023-2학기 학사과정 학과별 개설과목 현황 안내(수시 업데이트 예정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219065&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-07-14)
 
@@ -17,6 +20,9 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
+
+* **[[학습법] 2023-1학기 온라인 학습법 특강 우수 수강자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219382&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-07-25)
 
 * **[[학자금대출] 2023년 상반기 인천시 대학(원)생 학자금대출 이자 지원](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219345&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-07-24)
@@ -104,6 +110,3 @@
 
 * **[[교육대학원] 2023학년도 전기(수시) 교육대학원 석사학위과정(야간) 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219166&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 교육대학원 (~2023-07-19)
-
-* **[[홍보] 제9회 삼성전자 대학생 프로그래밍 경진대회 (SCPC 2023)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219164&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 홍보실 (~2023-07-19)
