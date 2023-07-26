@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[과학영재교육원] STEM+I 생각교실 캠프 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219427&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 과학영재교육원 (~2023-07-26)
+
 * **[2023학년도 하계 계절학기 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219420&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-07-26)
 
@@ -107,6 +110,3 @@
 
 * **[[국제대학원] 누비아주(NUBI AJOU) 32기 서류전형 합격 및 면접 일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219196&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 국제대학원교학팀 (~2023-07-19)
-
-* **[[기간연장][교외장학] 2023년 산학협동재단 디딤돌 장학금 신청 안내_23.07.21.(금) 오후 3시 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219192&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-07-19)
