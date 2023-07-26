@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[국제대학원] 누비아주 32기 최종합격자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219430&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 국제대학원 교학팀 (~2023-07-26)
+
 * **[[과학영재교육원] STEM+I 생각교실 캠프 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219427&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 과학영재교육원 (~2023-07-26)
 
@@ -36,7 +39,7 @@
 * **[&#x27;23년 기사 제4회 필기시험 원서접수 시작시간 조정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219390&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-07-25)
 
-* **[2023.2학기 미래자동차 학점교류(국민대학교) 신청안내 (~8/7월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219388&amp;article.offset=0&amp;articleLimit=30)**
+* **[2023.2학기 미래자동차 학점교류(국민대학교) 신청안내 (~8/7월) 07.26변경](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219388&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 혁신융합팀 (~2023-07-25)
 
 * **[[학부/학사과정] (23.07.25.) 2023-2학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219386&amp;article.offset=0&amp;articleLimit=30)**
@@ -107,6 +110,3 @@
 
 * **[[해외취업] 코웨이 글로벌 인재POOL 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219200&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-07-20)
-
-* **[[국제대학원] 누비아주(NUBI AJOU) 32기 서류전형 합격 및 면접 일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219196&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 국제대학원교학팀 (~2023-07-19)
