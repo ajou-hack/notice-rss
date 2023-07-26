@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023학년도 하계 계절학기 성적공고 및 이의신청기간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219420&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-07-26)
+
 * **[2023 ALL-SET 기업역량 고도화 지원사업 기술상용화 집중형 공고(~08.11까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219412&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학사업팀 (~2023-07-25)
 
@@ -106,7 +109,4 @@
  [비교과] - 국제대학원교학팀 (~2023-07-19)
 
 * **[[기간연장][교외장학] 2023년 산학협동재단 디딤돌 장학금 신청 안내_23.07.21.(금) 오후 3시 까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219192&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-07-19)
-
-* **[[교외장학] 2023 「JUMP ON 멘토링」 여성 대학생 멘토 모집 안내_7.23(일)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219190&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-07-19)
