@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[수원시] ‘수원특례시 자치분권 청년 기획단’ 모집 홍보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219463&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-07-27)
+
+* **[[경기도 복지사업과] &#x27;경기도 희망 보듬이&#x27; 참여 및 복지사각지대 위기가구 발굴·제보 협조 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219462&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-07-27)
+
 * **[[일자리+센터] CAMPUS OUTREACH 반도체 진로상담회 참여](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219460&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-07-27)
 
@@ -104,9 +110,3 @@
 
 * **[[총무팀] 연암관 지하주차장 물청소 시행에 따른 차량 통제 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219262&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2023-07-21)
-
-* **[2023년 천원의 아침밥 서포터즈 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219252&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-07-20)
-
-* **[2023.2학기 미래자동차 학점교류(충북대학교) 신청안내 (~7/21금, ~7/26수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219251&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 혁신융합팀 (~2023-07-20)
