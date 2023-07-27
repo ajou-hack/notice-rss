@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[LINC 3.0] 2023-2학기 다학제캡스톤디자인 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219456&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 산학사업팀 (~2023-07-27)
+
 * **[[대학일자리플러스센터] [삼성디스플레이] &#x27;23.하 온라인 리크루팅 행사 안내(8/2)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219454&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-07-27)
 
@@ -107,6 +110,3 @@
 
 * **[(수강신청 필독) [다산학부대학] 마음챙김과 자기조절(일선과목) 예비수강 불가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219246&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학 (~2023-07-20)
-
-* **[2023.2학기 미래자동차 학점교류(계명대학교) 신청안내 (~7/26수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219241&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 혁신융합팀 (~2023-07-20)
