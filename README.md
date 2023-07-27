@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[일자리+센터] CAMPUS OUTREACH 반도체 진로상담회 참여](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219460&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-07-27)
+
+* **[[공학대학원]2023학년도 후기(수시2차) 석사과정 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219457&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 공학대학원교학팀 (~2023-07-27)
+
 * **[[LINC 3.0] 2023-2학기 다학제캡스톤디자인 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219456&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 산학사업팀 (~2023-07-27)
 
@@ -104,9 +110,3 @@
 
 * **[2023.2학기 미래자동차 학점교류(충북대학교) 신청안내 (~7/21금, ~7/26수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219251&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 혁신융합팀 (~2023-07-20)
-
-* **[[마감]아두이노&amp;파이썬을 활용한 자율주행차제작(Skill-UP미래자동차) 프로그램 추가모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219248&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 혁신융합단 (~2023-07-20)
-
-* **[(수강신청 필독) [다산학부대학] 마음챙김과 자기조절(일선과목) 예비수강 불가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219246&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학 (~2023-07-20)
