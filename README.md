@@ -21,6 +21,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023년 창업중심대학 창업동아리 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219496&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-07-28)
+
+* **[[일자리+센터] 7월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219495&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-07-28)
+
+* **[[학부]2023-2학기 수강신청 안내(8/7(월)~8/11(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219489&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-07-28)
+
 * **[[수원시] ‘수원특례시 자치분권 청년 기획단’ 모집 홍보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219463&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-07-27)
 
@@ -101,12 +110,3 @@
 
 * **[[일자리+센터] 7월 3주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219276&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-07-21)
-
-* **[[학자금대출] 2023년 상반기 울산광역시 대학생 학자금대출 이자지원](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219270&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-07-21)
-
-* **[2023학년도 1학기 아주복지장학 선발안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219263&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-07-21)
-
-* **[[총무팀] 연암관 지하주차장 물청소 시행에 따른 차량 통제 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219262&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2023-07-21)
