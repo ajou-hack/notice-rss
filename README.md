@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023-1학기 졸업 예정인 중국과 베트남 국적 외국인 유학생들을 위한 취업 공지입니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219509&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 유학생입학팀 (~2023-07-28)
+
 * **[[메이커스페이스] 3D프린터 장비운용 기초교육생 모집(8월 1회차_&#x27;23.08.01)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219506&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-07-28)
 
@@ -107,6 +110,3 @@
 
 * **[[메이커스페이스] 레이저커팅기 장비운용 기초교육생 모집(7월 2회차_&#x27;23.07.25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219295&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-07-21)
-
-* **[[일자리+센터] 2023년 [렛유인에듀] &lt;2023년 하반기 이공계 5대산업 직무 페스티벌&gt; 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219292&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-07-21)
