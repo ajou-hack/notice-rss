@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023-2학기 강의페어링 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219516&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산융복합교육센터 (~2023-07-28)
+
 * **[2023-1학기 졸업 예정인 중국과 베트남 국적 외국인 유학생들을 위한 취업 공지입니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219509&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 유학생입학팀 (~2023-07-28)
 
@@ -78,7 +81,7 @@
 * **[2023 ALL-SET 기업역량 고도화 지원사업 기술상용화 집중형 공고(~08.11까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219412&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학사업팀 (~2023-07-25)
 
-* **[경기도 청년(자립준비청년) 사회구성원 성장지원 1-stop 프로그램 ‘마인드 포레스트’ 2, 3기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219398&amp;article.offset=0&amp;articleLimit=30)**
+* **[경기도 청년(자립준비청년) 사회구성원 성장지원 1-stop 프로그램 ‘마인드 포레스트’ 2기 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219398&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-07-25)
 
 * **[&#x27;23년 기사 제4회 필기시험 원서접수 시작시간 조정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219390&amp;article.offset=0&amp;articleLimit=30)**
@@ -107,6 +110,3 @@
 
 * **[DMZ 연계 관광활성화 콘텐츠 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219304&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-07-24)
-
-* **[[메이커스페이스] 레이저커팅기 장비운용 기초교육생 모집(7월 2회차_&#x27;23.07.25)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219295&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-07-21)
