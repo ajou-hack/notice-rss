@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] [학부]2023-2학기 수강신청 안내(8/7(월)~8/11(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219489&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-07-28)
+
 * **[📌 [공지] [학부] 2023-2학기 등록/환불 안내(08.21.~08.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219379&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 재무회계팀 (~2023-07-25)
 
@@ -47,9 +50,6 @@
 
 * **[[일자리+센터] 7월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219495&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-07-28)
-
-* **[[학부]2023-2학기 수강신청 안내(8/7(월)~8/11(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219489&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-07-28)
 
 * **[[수원시] ‘수원특례시 자치분권 청년 기획단’ 모집 홍보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219463&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-07-27)
@@ -107,3 +107,6 @@
 
 * **[[학자금대출] 2023년 상반기 인천시 대학(원)생 학자금대출 이자 지원](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219345&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-07-24)
+
+* **[[공공정책대학원] 2023학년도 후기 수시 3차 석사과정 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219329&amp;article.offset=0&amp;articleLimit=30)**
+ [입학] - 공공정책대학원 교학팀 (~2023-07-24)
