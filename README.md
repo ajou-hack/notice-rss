@@ -6,9 +6,6 @@
 * **[📌 [공지] [학부]2023-2학기 학사과정 학과별 개설과목 현황 안내(수시 업데이트 예정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219065&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-07-14)
 
-* **[📌 [공지] [정보시스템팀] 개인정보 처리 소명 시스템 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219034&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2023-07-14)
-
 * **[📌 [공지] [학사] 2023-2학기 휴학/복학 신청 안내 (7/7 수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215587&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-06-08)
 
@@ -20,6 +17,18 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
+
+* **[2023.2학기 미래자동차 학점교류(인하대학교) 신청안내 (~8/4 금)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219536&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 혁신융합팀 (~2023-07-31)
+
+* **[[교육부] 2023 대한민국 인재상 선발](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219534&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-07-31)
+
+* **[무선 네트워크 재구성 작업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219530&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2023-07-31)
+
+* **[[국가근로][대청교] 7월 출근부 입력 마감일 및 장학금 지급 예정일 안내(필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219528&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-07-31)
 
 * **[2023-2학기 강의페어링 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219516&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산융복합교육센터 (~2023-07-28)
@@ -98,15 +107,3 @@
 
 * **[[학자금대출] 2023년 상반기 인천시 대학(원)생 학자금대출 이자 지원](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219345&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-07-24)
-
-* **[[공공정책대학원] 2023학년도 후기 수시 3차 석사과정 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219329&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 공공정책대학원 교학팀 (~2023-07-24)
-
-* **[[학습법] 2023-1학기 수업 참여 사례 공모전 수상작 선정 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219310&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-07-24)
-
-* **[[메이커스페이스] (재공고) 나만의 오너먼트 만들기 교육생 모집(~7.26)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219306&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-07-24)
-
-* **[DMZ 연계 관광활성화 콘텐츠 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219304&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-07-24)
