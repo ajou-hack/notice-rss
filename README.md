@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[재안내] 교육평가인증센터- 2023년 재학생 실태 및 수요조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219599&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교육평가인증센터 (~2023-08-01)
+
+* **[[공지]2023학년도 2학기 경영대학 취업진로상담센터 근로학생(면학장학생) 모집(~8/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219598&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 경영대학교학팀 (~2023-08-01)
+
 * **[2023년 멀티미디어 강의실 점검결과(07월) 및 2023년 (08월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219588&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2023-08-01)
 
@@ -104,9 +110,3 @@
 
 * **[2023.2학기 미래자동차 학점교류(선문대학교) 신청안내 (~8/11 금)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219438&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 혁신융합팀 (~2023-07-26)
-
-* **[동관 공용부 환경개선공사(전기) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219433&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2023-07-26)
-
-* **[[재안내] 2023년 재학생 실태 및 수요조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219431&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교육평가인증센터 (~2023-07-26)
