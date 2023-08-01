@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023년 멀티미디어 강의실 점검결과(07월) 및 2023년 (08월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219588&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2023-08-01)
+
+* **[[일자리+센터] 대학일자리플러스센터 뉴스레터 제58호(2023.08)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219586&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-08-01)
+
 * **[[LINC 3.0/홍보] 해외 산학연이 참여하는 강의, 수강 신청하자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219580&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 산학사업팀 (~2023-08-01)
 
@@ -104,9 +110,3 @@
 
 * **[[재안내] 2023년 재학생 실태 및 수요조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219431&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교육평가인증센터 (~2023-07-26)
-
-* **[[국제대학원] 누비아주 32기 최종합격자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219430&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 국제대학원 교학팀 (~2023-07-26)
-
-* **[[과학영재교육원] STEM+I 생각교실 캠프 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219427&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 과학영재교육원 (~2023-07-26)
