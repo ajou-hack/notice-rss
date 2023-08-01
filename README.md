@@ -21,6 +21,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[일자리+센터] 동국제약(주) 채용연계 과정에 참여할 인재를 모집합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219615&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-08-01)
+
+* **[[교외장학] 2023학년도 2학기 김수정장학 장학생 선발 공고_8.11(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219614&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-08-01)
+
+* **[[다산학부대학] 2023-2학기 교양과목 및 영역별교양 본수강신청 안내 (업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219613&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-08-01)
+
 * **[[국가근로] 2023학년도 2학기 국가근로장학금 희망근로장학기관(희망근로지) 신청 안내(학부생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219608&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-08-01)
 
@@ -101,12 +110,3 @@
 
 * **[[수원시] ‘수원특례시 자치분권 청년 기획단’ 모집 홍보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219463&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-07-27)
-
-* **[[경기도 복지사업과] &#x27;경기도 희망 보듬이&#x27; 참여 및 복지사각지대 위기가구 발굴·제보 협조 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219462&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-07-27)
-
-* **[[일자리+센터] CAMPUS OUTREACH 반도체 진로상담회 참여](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219460&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-07-27)
-
-* **[[공학대학원]2023학년도 후기(수시2차) 석사과정 신입생 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219457&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 공학대학원교학팀 (~2023-07-27)
