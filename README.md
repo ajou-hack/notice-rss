@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[LINC 3.0] 아주 글로벌 미래 혁신기술 사업화전략 사업(CES 2024) 참관학생 모집(~08.11까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219639&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2023-08-02)
+
 * **[국립중앙과학관 2023 가을 사이언스데이 대학교 동아리 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219629&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-08-02)
 
@@ -107,6 +110,3 @@
 
 * **[2023년 창업중심대학 창업동아리 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219496&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-07-28)
-
-* **[[일자리+센터] 7월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219495&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-07-28)
