@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[다산학부대학] 2023-2학기 BSM 및 공업수학 본수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219659&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-08-02)
+
 * **[(재공지) [지식재산] 2023-2학기 개설 교과목 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219652&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 지식재산융합인재양성사업 (~2023-08-02)
 
@@ -107,6 +110,3 @@
 
 * **[2023-2학기 강의페어링 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219516&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산융복합교육센터 (~2023-07-28)
-
-* **[[다산학부대학] 2023-2학기 교양과목 및 영역별교양 본수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219515&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-07-28)
