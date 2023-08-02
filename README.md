@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[(재공지) [지식재산] 2023-2학기 개설 교과목 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219652&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 지식재산융합인재양성사업 (~2023-08-02)
+
+* **[[2차공지] [종합지원센터] 2023학년도 1학기 사물함 이용기간 만료안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219648&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2023-08-02)
+
 * **[[일자리+센터] 2023 하반기 채용 대비 삼성그룹 서류 프로그램](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219647&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-08-02)
 
@@ -104,9 +110,3 @@
 
 * **[[다산학부대학] 2023-2학기 교양과목 및 영역별교양 본수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219515&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-07-28)
-
-* **[2023-1학기 졸업 예정인 중국과 베트남 국적 외국인 유학생들을 위한 취업 공지입니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219509&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 유학생입학팀 (~2023-07-28)
-
-* **[[메이커스페이스] 3D프린터 장비운용 기초교육생 모집(8월 1회차_&#x27;23.08.01)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219506&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-07-28)
