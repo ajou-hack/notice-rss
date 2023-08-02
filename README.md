@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[국립중앙과학관 2023 가을 사이언스데이 대학교 동아리 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219629&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-08-02)
+
 * **[[일자리+센터] 동국제약(주) 채용연계 과정에 참여할 인재를 모집합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219615&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-08-01)
 
@@ -107,6 +110,3 @@
 
 * **[[일자리+센터] 7월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219495&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-07-28)
-
-* **[[수원시] ‘수원특례시 자치분권 청년 기획단’ 모집 홍보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219463&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-07-27)
