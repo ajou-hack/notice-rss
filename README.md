@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[공과대학교학팀 응용화학생명공학과] 9월~12월 근로 면학장학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219667&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공과대학교학팀 응용화학생명공학과 (~2023-08-03)
+
+* **[2023 수원시 청년동아리 활동지원 사업 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219663&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-08-03)
+
 * **[[다산학부대학] 2023-2학기 BSM 및 공업수학 본수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219659&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-08-02)
 
@@ -104,9 +110,3 @@
 
 * **[[교육부] 2023 대한민국 인재상 선발](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219534&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-07-31)
-
-* **[[국가근로][대청교] 7월 출근부 입력 마감일 및 장학금 지급 예정일 안내(필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219528&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-07-31)
-
-* **[2023-2학기 강의페어링 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219516&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산융복합교육센터 (~2023-07-28)
