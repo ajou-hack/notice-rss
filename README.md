@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[다산학부대학] 2023-2 (교양) 살아 있는 박물관(X061) 강의시간 및 수강신청 기간 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219781&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학 (~2023-08-04)
+
+* **[[다산학부대학] 2023-2학기 교양과목 및 영역별교양 본수강신청 안내 (업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219779&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-08-04)
+
 * **[[총무팀] 혜강관 대회의실 LED전광판 설치 관련 사전 공사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219774&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2023-08-04)
 
@@ -104,9 +110,3 @@
 
 * **[2023년 멀티미디어 강의실 점검결과(07월) 및 2023년 (08월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219588&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 정보시스템팀 (~2023-08-01)
-
-* **[[일자리+센터] 대학일자리플러스센터 뉴스레터 제58호(2023.08)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219586&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-08-01)
-
-* **[[LINC 3.0/홍보] 해외 산학연이 참여하는 강의, 수강 신청하자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219580&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 산학사업팀 (~2023-08-01)
