@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[조기마감][공과대학교학팀 응용화학생명공학과] 9월~12월 근로 면학장학생 모집 조기마감](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219748&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 공과대학교학팀 응용화학생명공학과 (~2023-08-04)
+
+* **[[학군단] 2023 학군사관 후보생 64기(남) 추가 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219743&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생군사교육단 (~2023-08-04)
+
 * **[[일자리+센터] 2023 하계방학 반도체 공정실습 참여자 모집 (8/8(화) 10시 부터 신청모집 ~ )](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219712&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-08-04)
 
@@ -104,9 +110,3 @@
 
 * **[[경기도사회서비스원] 경기도 청년 대상 &lt;마인드 포레스트&gt; 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219572&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-08-01)
-
-* **[[학부/학사과정] (23.07.31.) 2023-2학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219570&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-07-31)
-
-* **[[일자리+센터]대학일자리+센터 참여자 수기 공모전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219562&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-07-31)
