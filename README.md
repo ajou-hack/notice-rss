@@ -21,6 +21,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[총무팀] 혜강관 대회의실 LED전광판 설치 관련 사전 공사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219774&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2023-08-04)
+
 * **[[일자리+센터] 8월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219770&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-08-04)
 
@@ -107,6 +110,3 @@
 
 * **[[LINC 3.0/홍보] 해외 산학연이 참여하는 강의, 수강 신청하자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219580&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 산학사업팀 (~2023-08-01)
-
-* **[[학부] 2023-2학기 학부 등록금 분할납부 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219579&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 재무회계팀 (~2023-08-01)
