@@ -21,6 +21,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[(접수)아주북통 &#x27;교수님과 함께하는 독서클럽&#x27; 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219817&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학술정보팀 (~2023-08-07)
+
+* **[[학습법] 2023-1학기 수업 참여 사례 공모전 수상작 모음집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219816&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-08-07)
+
+* **[(재공지)2023 ALL-SET 기업역량 고도화 지원사업 기술상용화 집중형 공고(~08.11까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219811&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2023-08-07)
+
+* **[[LINC 3.0] (교원) 캡스톤디자인/IC-PBL 8월 아카데미 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219808&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2023-08-07)
+
 * **[2023학년도 2학기 대학생 교육기부 동아리「함성소리」모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219791&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-08-07)
 
@@ -98,15 +110,3 @@
 
 * **[[국가근로] 2023학년도 2학기 국가근로장학금 희망근로장학기관(희망근로지) 신청 안내(학부생)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219608&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-08-01)
-
-* **[(재공지)아주대와 함께하는 문화산책](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219605&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-08-01)
-
-* **[2023.2학기 미래자동차 학점교류(대림대학교) 신청안내 (~8/11 금)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219603&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 혁신융합팀 (~2023-08-01)
-
-* **[[재안내] 교육평가인증센터- 2023년 재학생 실태 및 수요조사 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219599&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교육평가인증센터 (~2023-08-01)
-
-* **[[공지]2023학년도 2학기 경영대학 취업진로상담센터 근로학생(면학장학생) 모집(~8/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219598&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 경영대학교학팀 (~2023-08-01)
