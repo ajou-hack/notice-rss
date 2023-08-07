@@ -21,7 +21,10 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
-* **[[다산학부대학] 2023-2 (교양) 살아 있는 박물관(X061) 강의시간 및 수강신청 기간 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219781&amp;article.offset=0&amp;articleLimit=30)**
+* **[2023학년도 2학기 대학생 교육기부 동아리「함성소리」모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219791&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-08-07)
+
+* **[[다산학부대학] (필독) 2023-2 (교양) 살아 있는 박물관(X061) 강의시간 및 수강신청 기간 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219781&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학 (~2023-08-04)
 
 * **[[다산학부대학] 2023-2학기 교양과목 및 영역별교양 본수강신청 안내 (업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219779&amp;article.offset=0&amp;articleLimit=30)**
@@ -107,6 +110,3 @@
 
 * **[[공지]2023학년도 2학기 경영대학 취업진로상담센터 근로학생(면학장학생) 모집(~8/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219598&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 경영대학교학팀 (~2023-08-01)
-
-* **[2023년 멀티미디어 강의실 점검결과(07월) 및 2023년 (08월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219588&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2023-08-01)
