@@ -21,6 +21,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2022학년도 후기(2023.08.) 학위수여식(방역 및 학위가운, 학위기 배부) 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219840&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 경영대학교학팀 (~2023-08-07)
+
+* **[[공지] 2023년 하계 경영대학교학팀 재물조사 행정조원 모집(~8/11)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219833&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 경영대학교학팀 (~2023-08-07)
+
 * **[2023-2학기 외국인 유학생 대상 한국어 튜터 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219830&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 글로벌교양학부 (~2023-08-07)
 
@@ -104,9 +110,3 @@
 
 * **[국립중앙과학관 2023 가을 사이언스데이 대학교 동아리 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219629&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-08-02)
-
-* **[[일자리+센터] 동국제약(주) 채용연계 과정에 참여할 인재를 모집합니다!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219615&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-08-01)
-
-* **[[교외장학] 2023학년도 2학기 김수정장학 장학생 선발 공고_8.11(금)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219614&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-08-01)
