@@ -21,6 +21,24 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학부/학사과정] (23.08.07.) 2023-2학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219855&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-08-07)
+
+* **[[일자리+센터] 2023 선배만남의 날 &quot;취준진담&quot; 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219853&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-08-07)
+
+* **[스마트팩토리(생산·품질관리) 전문인력양성 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219848&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2023-08-07)
+
+* **[[학부] 2023.8 학위수여일 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219847&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-08-07)
+
+* **[[시설팀] 팔달관, 화공실험동 공사 일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219844&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2023-08-07)
+
+* **[[시설팀] 팔달관, 화공실험동 단수 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219843&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2023-08-07)
+
 * **[2022학년도 후기(2023.08.) 학위수여식(방역 및 학위가운, 학위기 배부) 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219840&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 경영대학교학팀 (~2023-08-07)
 
@@ -92,21 +110,3 @@
 
 * **[[다산학부대학] 2023-2학기 BSM 및 공업수학 본수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219659&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-08-02)
-
-* **[(재공지) [지식재산] 2023-2학기 개설 교과목 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219652&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 지식재산융합인재양성사업 (~2023-08-02)
-
-* **[[2차공지] [종합지원센터] 2023학년도 1학기 사물함 이용기간 만료안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219648&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 종합지원센터 (~2023-08-02)
-
-* **[[일자리+센터] 2023 하반기 채용 대비 삼성그룹 서류 프로그램](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219647&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-08-02)
-
-* **[[교외장학] 2023학년도 2학기 문숙장학재단 장학생 선발 공고_8/7(월)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219643&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-08-02)
-
-* **[[LINC 3.0] 아주 글로벌 미래 혁신기술 사업화전략 사업(CES 2024) 참관학생 모집(~08.11까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219639&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2023-08-02)
-
-* **[국립중앙과학관 2023 가을 사이언스데이 대학교 동아리 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219629&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-08-02)
