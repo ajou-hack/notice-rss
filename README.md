@@ -21,7 +21,10 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
-* **[[공지] 약학대학 교학팀 근로 장학생 모집(~8/15)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219900&amp;article.offset=0&amp;articleLimit=30)**
+* **[[학부/학사과정] (23.08.08.) 2023-2학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219902&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-08-08)
+
+* **[[마감] [공지] 약학대학 교학팀 근로 장학생 모집(~8/15)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219900&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 약학대학 교학팀 (~2023-08-08)
 
 * **[[수원시] 2023년 수원시 여성1인가구 여성안심 패키지 지원사업](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219899&amp;article.offset=0&amp;articleLimit=30)**
@@ -107,6 +110,3 @@
 
 * **[[기획팀]학칙 및 규정류 제·개정 공포(2023 제6차, 하계 제1차 임시 교무회의, 제92차 대학평의원회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219694&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 기획팀 (~2023-08-03)
-
-* **[[학자금대출][학부] 2023학년도 2학기 한국장학재단 학자금대출 특별승인제도(구 특별추천) 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219689&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-08-03)
