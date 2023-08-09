@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[LINC 3.0] 2023 제19회 현장실습 수기•영상 공모전 참여 안내(8/16~9/3)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219930&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2023-08-09)
+
 * **[[홍보] [수원시] 제1회 아시아 청년포럼 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219919&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-08-09)
 
@@ -110,6 +113,3 @@
 
 * **[[다산학부대학] 2023-2학기 아주인성 공통반, 고급영어 과목 여석 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219746&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-08-04)
-
-* **[[학군단] 2023 학군사관 후보생 64기(남) 추가 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219743&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생군사교육단 (~2023-08-04)
