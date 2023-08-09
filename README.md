@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[다산학부대학] 2023-2학기 BSM 본수강신청 안내(신입생반 신청가능 분반 목록)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219946&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-08-09)
+
 * **[2023 경산 AGAIN 대학가요제 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219944&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-08-09)
 
@@ -110,6 +113,3 @@
 
 * **[[다산학부대학] 2023-2학기 교양과목 및 영역별교양 본수강신청 안내 (업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219779&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-08-04)
-
-* **[[총무팀] 혜강관 대회의실 LED전광판 설치 관련 사전 공사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219774&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2023-08-04)
