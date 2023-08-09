@@ -24,6 +24,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[잼버리 참가자 방문에 따른 기숙사식당 이용 혼잡 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219939&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2023-08-09)
+
+* **[[다산학부대학] 2023-2학기 고급영어 과목 여석 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219937&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-08-09)
+
 * **[[LINC 3.0] 2023 제19회 현장실습 수기•영상 공모전 참여 안내(8/16~9/3)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219930&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2023-08-09)
 
@@ -107,9 +113,3 @@
 
 * **[[일자리+센터] 8월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219770&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-08-04)
-
-* **[[조기마감][공과대학교학팀 응용화학생명공학과] 9월~12월 근로 면학장학생 모집 조기마감](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219748&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 공과대학교학팀 응용화학생명공학과 (~2023-08-04)
-
-* **[[다산학부대학] 2023-2학기 아주인성 공통반, 고급영어 과목 여석 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219746&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-08-04)
