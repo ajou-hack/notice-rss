@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] [학부] 2023.8 학위수여일 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219847&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-08-07)
+
 * **[📌 [공지] [학부]2023-2학기 수강신청 안내(8/7(월)~8/11(금))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219489&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-07-28)
 
@@ -21,7 +24,7 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
-* **[[홍보] 제1회 아시아 청년포럼 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219919&amp;article.offset=0&amp;articleLimit=30)**
+* **[[홍보] [수원시] 제1회 아시아 청년포럼 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219919&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-08-09)
 
 * **[[다산학부대학] 교직과목 대학원생 여석 증원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219912&amp;article.offset=0&amp;articleLimit=30)**
@@ -53,9 +56,6 @@
 
 * **[스마트팩토리(생산·품질관리) 전문인력양성 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219848&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2023-08-07)
-
-* **[[학부] 2023.8 학위수여일 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219847&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-08-07)
 
 * **[[시설팀] 팔달관, 화공실험동 공사 일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219844&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2023-08-07)
@@ -110,3 +110,6 @@
 
 * **[[다산학부대학] 2023-2학기 아주인성 공통반, 고급영어 과목 여석 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219746&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-08-04)
+
+* **[[학군단] 2023 학군사관 후보생 64기(남) 추가 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219743&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생군사교육단 (~2023-08-04)
