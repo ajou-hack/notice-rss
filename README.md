@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023학년도 2학기 장학선발 결과 발표안내_08.17(목) 09:00 ~](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219971&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-08-10)
+
 * **[원천정보관 해동학술정보실 및 토론학습실 대관불가안내 (8.12, 11.17~19, 11.24~25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219959&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-08-10)
 
@@ -110,6 +113,3 @@
 
 * **[[학습법] 2023-1학기 수업 참여 사례 공모전 수상작 모음집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219816&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-08-07)
-
-* **[(재공지)2023 ALL-SET 기업역량 고도화 지원사업 기술상용화 집중형 공고(~08.11까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219811&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2023-08-07)
