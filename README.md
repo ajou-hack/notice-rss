@@ -24,6 +24,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[원천정보관 해동학술정보실 및 토론학습실 대관불가안내 (8.12, 11.17~19, 11.24~25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219959&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-08-10)
+
+* **[[비교과교육지원센터]유익한 방학생활 에세이 공모전 신청 안내(8.10.(목)~9.7(목))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219955&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-08-10)
+
+* **[[비교과교육지원센터]스토리가 있는 사진 공모전 신청 안내(8.10(목)~9.7(목))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219953&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-08-10)
+
+* **[무선 네트워크 재구성 작업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219952&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 정보시스템팀 (~2023-08-10)
+
 * **[[다산학부대학] 2023-2학기 BSM 본수강신청 안내(신입생반 신청가능 분반 목록)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219946&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-08-09)
 
@@ -101,15 +113,3 @@
 
 * **[(재공지)2023 ALL-SET 기업역량 고도화 지원사업 기술상용화 집중형 공고(~08.11까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219811&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학사업팀 (~2023-08-07)
-
-* **[[LINC 3.0] (교원) 캡스톤디자인/IC-PBL 8월 아카데미 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219808&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2023-08-07)
-
-* **[2023학년도 2학기 대학생 교육기부 동아리「함성소리」모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219791&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-08-07)
-
-* **[[다산학부대학] (필독) 2023-2 (교양) 살아 있는 박물관(X061) 강의시간 및 수강신청 기간 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219781&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학 (~2023-08-04)
-
-* **[[다산학부대학] 2023-2학기 교양과목 및 영역별교양 본수강신청 안내 (업데이트)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219779&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-08-04)
