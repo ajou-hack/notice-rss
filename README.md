@@ -24,6 +24,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023년 을지연습과 연계 공습 대비 민방위 훈련(8.23.) 실시](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219977&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 예비군연대 (~2023-08-10)
+
 * **[2023 KUSF U-스포츠마케팅 러너 2차 교육 프로그램 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219976&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-08-10)
 
@@ -87,6 +90,9 @@
 * **[[일자리+센터] 2023 선배만남의 날 &quot;취준진담&quot; 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219853&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-08-07)
 
+* **[[종합지원센터] 2023학년도 2학기 사물함 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219850&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2023-08-07)
+
 * **[스마트팩토리(생산·품질관리) 전문인력양성 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219848&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2023-08-07)
 
@@ -107,9 +113,3 @@
 
 * **[(재공지)2023-2학기 강의페어링 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219826&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산융복합교육센터 (~2023-08-07)
-
-* **[[글로벌교양학부] 2023-2학기 학부 신입학 유학생 생활멘토 모집안내(~8/27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219823&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 글로벌교양학부 (~2023-08-07)
-
-* **[(접수)아주북통 &#x27;교수님과 함께하는 독서클럽&#x27; 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219817&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학술정보팀 (~2023-08-07)
