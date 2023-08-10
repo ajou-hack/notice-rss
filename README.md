@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] 2023학년도 2학기 장학선발 결과 발표안내_08.17(목) 09:00 ~](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219971&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-08-10)
+
 * **[📌 [공지] [학부] 2023.8 학위수여일 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219847&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-08-07)
 
@@ -24,14 +27,17 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[수강신청 기간 중 부정행위(매크로사용 및 강의매매) 방지를 위한 협조 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220000&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-08-10)
+
+* **[원천정보관 해동학술정보실 이용 불가 안내 (8.10.목 오후 6시 ~ 12시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219986&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-08-10)
+
 * **[2023년 을지연습과 연계 공습 대비 민방위 훈련(8.23.) 실시](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219977&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 예비군연대 (~2023-08-10)
 
 * **[2023 KUSF U-스포츠마케팅 러너 2차 교육 프로그램 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219976&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-08-10)
-
-* **[2023학년도 2학기 장학선발 결과 발표안내_08.17(목) 09:00 ~](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219971&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-08-10)
 
 * **[원천정보관 해동학술정보실 및 토론학습실 대관불가안내 (8.12, 11.17~19, 11.24~25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219959&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-08-10)
@@ -110,6 +116,3 @@
 
 * **[2023-2학기 외국인 유학생 대상 한국어 튜터 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219830&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 글로벌교양학부 (~2023-08-07)
-
-* **[(재공지)2023-2학기 강의페어링 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219826&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산융복합교육센터 (~2023-08-07)
