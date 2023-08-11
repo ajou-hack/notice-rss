@@ -30,9 +30,6 @@
 * **[2023 수원특례시 청소년어울림마당 빛여울 축제 체험부스 참가 동아리 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220008&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-08-11)
 
-* **[[봉사활동] ⌜결식아동돕기 사랑의 쌀 배달⌟ 8월 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220007&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-08-11)
-
 * **[[LINC 3.0] 2023-2학기 다학제캡스톤디자인 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220004&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 산학사업팀 (~2023-08-11)
 
@@ -116,3 +113,6 @@
 
 * **[[시설팀] 팔달관, 화공실험동 단수 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219843&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2023-08-07)
+
+* **[2022학년도 후기(2023.08.) 학위수여식(방역 및 학위가운, 학위기 배부) 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219840&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 경영대학교학팀 (~2023-08-07)
