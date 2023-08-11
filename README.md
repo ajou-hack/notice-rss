@@ -27,6 +27,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[다산학부대학] 2023-2 수강정정 기간 글쓰기, 아주인성, 영어1, 영어2 수강신청 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220016&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-08-11)
+
 * **[2023 수원특례시 청소년어울림마당 빛여울 축제 체험부스 참가 동아리 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220008&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-08-11)
 
@@ -113,6 +116,3 @@
 
 * **[[시설팀] 팔달관, 화공실험동 단수 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219843&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2023-08-07)
-
-* **[2022학년도 후기(2023.08.) 학위수여식(방역 및 학위가운, 학위기 배부) 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219840&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 경영대학교학팀 (~2023-08-07)
