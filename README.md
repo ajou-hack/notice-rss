@@ -27,6 +27,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[SW중심대학] 2023-2학기 코딩트레이너 모집 공고(~08.15)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220031&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW융합교육원 (~2023-08-11)
+
 * **[[다산학부대학] 2023-2 수강정정 기간 아주인성, 글쓰기, 영어1, 영어2 수강신청 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220025&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-08-11)
 
@@ -113,6 +116,3 @@
 
 * **[[일자리+센터] 서포터즈 JOB-A+(잡아 플러스) 15기 대모집!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219868&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-08-08)
-
-* **[[학부/학사과정] (23.08.07.) 2023-2학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219855&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-08-07)
