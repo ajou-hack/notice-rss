@@ -27,6 +27,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[봉사활동] ⌜결식아동돕기 사랑의 쌀 배달⌟ 8월 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220007&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-08-11)
+
+* **[[LINC 3.0] 2023-2학기 다학제캡스톤디자인 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220004&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 산학사업팀 (~2023-08-11)
+
 * **[수강신청 기간 중 부정행위(매크로사용 및 강의매매) 방지를 위한 협조 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220000&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-08-10)
 
@@ -110,9 +116,3 @@
 
 * **[2022학년도 후기(2023.08.) 학위수여식(방역 및 학위가운, 학위기 배부) 근로학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219840&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 경영대학교학팀 (~2023-08-07)
-
-* **[[마감][공지] 2023년 하계 경영대학교학팀 재물조사 행정조원 모집(~8/11)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219833&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 경영대학교학팀 (~2023-08-07)
-
-* **[2023-2학기 외국인 유학생 대상 한국어 튜터 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219830&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 글로벌교양학부 (~2023-08-07)
