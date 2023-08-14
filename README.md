@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] [학부]2022학년도 후기(2023년 8월 22일)졸업확정자(학사학위취득자), 학사학위취득유예자, 졸업연기 승인자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220071&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-08-14)
+
 * **[📌 [공지] [필독]2023학년도 2학기 국가장학금 2차 신청안내 (8. 17. ~ 9. 14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220054&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-08-14)
 
@@ -27,8 +30,11 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
-* **[[학부]2022학년도 후기(2023년 8월 22일)졸업확정자(학사학위취득자), 학사학위취득유예자, 졸업연기 승인자 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220071&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-08-14)
+* **[[메이커스페이스] 3D프린터 장비운용 기초교육생 모집(8월 2회차_&#x27;23.08.17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220075&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-08-14)
+
+* **[제 41회 금산세계인삼축제와 함께하는 청소년동아리 경진대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220074&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-08-14)
 
 * **[2023학년도 2학기 AAP(Ajou Atheletic Program) 종목별 스포츠 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220068&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-08-14)
@@ -113,6 +119,3 @@
 
 * **[잼버리 참가자 방문에 따른 기숙사식당 이용 혼잡 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219939&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2023-08-09)
-
-* **[[다산학부대학] 2023-2학기 고급영어 과목 여석 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219937&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-08-09)
