@@ -24,6 +24,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학부/학사과정] (23.08.14.) 2023-2학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220057&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-08-14)
+
+* **[[필독]2023학년도 2학기 국가장학금 2차 신청안내 (8. 17. ~ 9. 14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220054&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-08-14)
+
+* **[2023-2학기 외국인 유학생 대상 한국어 튜터 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220050&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 글로벌교양학부 (~2023-08-14)
+
+* **[[수정재공지] 아주북통 &#x27;교수님과 함께하는 독서클럽&#x27; 모집 안내(~8/16)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220048&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학술정보팀 (~2023-08-14)
+
 * **[「노벨프라이즈 다이얼로그 서울 2023」참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220037&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-08-12)
 
@@ -101,15 +113,3 @@
 
 * **[[일자리+센터] 반도체 공정 제조실습(B반) 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219907&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-08-08)
-
-* **[[학부/학사과정] (23.08.08.) 2023-2학기 국내대학 학점교류 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219902&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-08-08)
-
-* **[[마감] [공지] 약학대학 교학팀 근로 장학생 모집(~8/15)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219900&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 약학대학 교학팀 (~2023-08-08)
-
-* **[[수원시] 2023년 수원시 여성1인가구 여성안심 패키지 지원사업](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219899&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-08-08)
-
-* **[2024학년도 재외국민과 외국인 특별전형 면접 실시에 따른 건물 출입 제한 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219882&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 입학팀 (~2023-08-08)
