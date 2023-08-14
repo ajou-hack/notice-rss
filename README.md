@@ -27,6 +27,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[LINC 3.0] 2023-2 Dynamic-PBL(산학연계 PBL) 교과목 운영 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220064&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2023-08-14)
+
 * **[[학습법] 팀프로젝트 완전정복(1차) 게임처럼 팀플하라!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220063&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-08-14)
 
@@ -113,6 +116,3 @@
 
 * **[[홍보] [수원시] 제1회 아시아 청년포럼 참가자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219919&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-08-09)
-
-* **[[다산학부대학] 교직과목 대학원생 여석 증원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219912&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학 (~2023-08-08)
