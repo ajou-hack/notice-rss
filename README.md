@@ -36,9 +36,6 @@
 * **[제 41회 금산세계인삼축제와 함께하는 청소년동아리 경진대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220074&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-08-14)
 
-* **[2023학년도 2학기 AAP(Ajou Atheletic Program) 종목별 스포츠 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220068&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-08-14)
-
 * **[[LINC 3.0] 2023-2 Dynamic-PBL(산학연계 PBL) 교과목 운영 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220064&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학사업팀 (~2023-08-14)
 
@@ -119,3 +116,6 @@
 
 * **[잼버리 참가자 방문에 따른 기숙사식당 이용 혼잡 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219939&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2023-08-09)
+
+* **[[다산학부대학] 2023-2학기 고급영어 과목 여석 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219937&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-08-09)
