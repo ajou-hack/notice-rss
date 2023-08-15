@@ -30,6 +30,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[메이커스페이스] 8월 운영시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220083&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-08-14)
+
 * **[[메이커스페이스] 3D프린터 장비운용 기초교육생 모집(8월 2회차_&#x27;23.08.17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220075&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-08-14)
 
@@ -116,6 +119,3 @@
 
 * **[잼버리 참가자 방문에 따른 기숙사식당 이용 혼잡 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219939&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2023-08-09)
-
-* **[[다산학부대학] 2023-2학기 고급영어 과목 여석 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219937&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-08-09)
