@@ -30,6 +30,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[일자리+센터] 2023 하반기 AJOU 취업훈련소 면접대비반 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220120&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-08-16)
+
+* **[(재공지)아주대와 함께하는 문화산책](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220117&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-08-16)
+
 * **[[재공지] [LINC 3.0] 2023 제19회 현장실습 수기•영상 공모전 참여 안내(8/16~9/3)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220111&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2023-08-16)
 
@@ -113,9 +119,3 @@
 
 * **[2023년 을지연습과 연계 공습 대비 민방위 훈련(8.23.) 실시](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219977&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 예비군연대 (~2023-08-10)
-
-* **[2023 KUSF U-스포츠마케팅 러너 2차 교육 프로그램 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219976&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-08-10)
-
-* **[원천정보관 해동학술정보실 및 토론학습실 대관불가안내 (8.12, 11.17~19, 11.24~25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219959&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-08-10)
