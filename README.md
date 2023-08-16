@@ -39,6 +39,9 @@
 * **[[재공지] [LINC 3.0] 2023 제19회 현장실습 수기•영상 공모전 참여 안내(8/16~9/3)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220111&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2023-08-16)
 
+* **[[경영대학] 2023-2학기 수업 TA(Teaching Assistant) 모집 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220110&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 경영대학교학팀 (~2023-08-16)
+
 * **[[총무팀] 율곡관 혁신공유라운지 사용불가 안내(08/24(목) 09:00~12:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220105&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2023-08-16)
 
@@ -116,6 +119,3 @@
 
 * **[원천정보관 해동학술정보실 이용 불가 안내 (8.10.목 오후 6시 ~ 12시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219986&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-08-10)
-
-* **[2023년 을지연습과 연계 공습 대비 민방위 훈련(8.23.) 실시](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219977&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 예비군연대 (~2023-08-10)
