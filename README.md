@@ -30,6 +30,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[총무팀] 율곡관 혁신공유라운지 사용불가 안내(08/24(목) 09:00~12:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220105&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2023-08-16)
+
+* **[[총무팀] 2023년 8월 민방위 훈련 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220103&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2023-08-16)
+
+* **[스마트팩토리(생산·품질관리) 전문인력양성 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220100&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2023-08-16)
+
 * **[2023학년도 2학기 성수기 주말 운동장 예약 방식 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220096&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-08-16)
 
@@ -110,12 +119,3 @@
 
 * **[[비교과교육지원센터]유익한 방학생활 에세이 공모전 신청 안내(8.10.(목)~9.7(목))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219955&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-08-10)
-
-* **[[비교과교육지원센터]스토리가 있는 사진 공모전 신청 안내(8.10(목)~9.7(목))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219953&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-08-10)
-
-* **[무선 네트워크 재구성 작업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219952&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2023-08-10)
-
-* **[[다산학부대학] 2023-2학기 BSM 본수강신청 안내(신입생반 신청가능 분반 목록)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219946&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-08-09)
