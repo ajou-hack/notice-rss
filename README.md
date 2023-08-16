@@ -30,6 +30,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023학년도 2학기 성수기 주말 운동장 예약 방식 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220096&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-08-16)
+
+* **[[혁신융합단] 23-2학기 근로학생 모집(~8/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220089&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신융합단 (~2023-08-16)
+
 * **[[메이커스페이스] 8월 운영시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220083&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-08-14)
 
@@ -113,9 +119,3 @@
 
 * **[[다산학부대학] 2023-2학기 BSM 본수강신청 안내(신입생반 신청가능 분반 목록)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219946&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-08-09)
-
-* **[2023 경산 AGAIN 대학가요제 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219944&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-08-09)
-
-* **[잼버리 참가자 방문에 따른 기숙사식당 이용 혼잡 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219939&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2023-08-09)
