@@ -30,6 +30,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023 SW커리어페어 개최에 따른 사전 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220145&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - SW융합교육원 (~2023-08-17)
+
 * **[[재공지] 2023 금융공학과 전문가와 함께하는 직무콘서트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220138&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 경영대학교학팀 (~2023-08-17)
 
@@ -116,6 +119,3 @@
 
 * **[2023 수원특례시 청소년어울림마당 빛여울 축제 체험부스 참가 동아리 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220008&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-08-11)
-
-* **[[LINC 3.0] 2023-2학기 다학제캡스톤디자인 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220004&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 산학사업팀 (~2023-08-11)
