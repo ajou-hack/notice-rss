@@ -30,6 +30,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[아주대학교 영자신문사 (The Ajou Globe) 제70기 수습기자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220166&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-08-17)
+
+* **[대학일자리플러스센터 2023.8.22(화) 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220164&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학일자리플러스센터 (~2023-08-17)
+
 * **[[조기마감] [혁신융합단] 23-2학기 근로학생 모집(~8/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220163&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 혁신융합단 (~2023-08-17)
 
@@ -113,9 +119,3 @@
 
 * **[[다산학부대학] 2023-2 수강정정 기간 아주인성, 글쓰기, 영어1, 영어2 수강신청 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220025&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-08-11)
-
-* **[(재)[국제학부] 일본어활용 아주대홍보 동영상공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220024&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 국제학부 (~2023-08-11)
-
-* **[2023 금융공학과 전문가와 함께하는 직무콘서트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220023&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 경영대학교학팀 (~2023-08-11)
