@@ -30,6 +30,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[홍보] 2023 대한민국 청년의 날 특별기획 “제8회 청년정책경진대회”](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220154&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 홍보실 (~2023-08-17)
+
+* **[[봉사활동] ⌜결식아동돕기 사랑의 쌀 배달⌟ 8월 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220151&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-08-17)
+
 * **[2023 SW커리어페어 개최에 따른 사전 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220145&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - SW융합교육원 (~2023-08-17)
 
@@ -113,9 +119,3 @@
 
 * **[2023 ALL-SET 기업역량 고도화 지원사업 기술상용화 집중형 지원자격 완화 공고(~08.21까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220020&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학사업팀 (~2023-08-11)
-
-* **[[일자리+센터] 8월 2주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220019&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-08-11)
-
-* **[2023 수원특례시 청소년어울림마당 빛여울 축제 체험부스 참가 동아리 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220008&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-08-11)
