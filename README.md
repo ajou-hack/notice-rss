@@ -9,7 +9,7 @@
 * **[📌 [공지] 2023학년도 2학기 장학선발 결과 발표안내_08.17(목) 09:00 ~](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219971&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-08-10)
 
-* **[📌 [공지] [학부] 2023.8 학위수여일 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219847&amp;article.offset=0&amp;articleLimit=30)**
+* **[📌 [공지] [학부] 2023.8 학위수여일 운영 안내 (8.16. 내용 추가)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219847&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-08-07)
 
 * **[📌 [공지] [학부] 2023-2학기 등록/환불 안내(08.21.~08.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219379&amp;article.offset=0&amp;articleLimit=30)**
@@ -29,6 +29,9 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
+
+* **[[재공지] 2023 금융공학과 전문가와 함께하는 직무콘서트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220138&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 경영대학교학팀 (~2023-08-17)
 
 * **[2023-2학기 유한재단 장학생 최종 선발 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220131&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-08-16)
@@ -116,6 +119,3 @@
 
 * **[[LINC 3.0] 2023-2학기 다학제캡스톤디자인 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220004&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 산학사업팀 (~2023-08-11)
-
-* **[수강신청 기간 중 부정행위(매크로사용 및 강의매매) 방지를 위한 협조 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220000&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-08-10)
