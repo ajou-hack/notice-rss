@@ -30,6 +30,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[지식재산] 2023-2학기 지식재산기반 발명/사업화 아이디어 경진대회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220237&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 지식재산융합인재양성사업 (~2023-08-21)
+
+* **[[글로벌교양학부] 2023-2학기 학부 신입학 유학생 생활멘토 모집안내(~8/27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220236&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 글로벌교양학부 (~2023-08-21)
+
 * **[2023-2학기 외국인 유학생 대상 한국어 튜터 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220227&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 글로벌교양학부 (~2023-08-21)
 
@@ -113,9 +119,3 @@
 
 * **[[총무팀] 2023년 8월 민방위 훈련 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220103&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2023-08-16)
-
-* **[스마트팩토리(생산·품질관리) 전문인력양성 교육생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220100&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2023-08-16)
-
-* **[2023학년도 2학기 성수기 주말 운동장 예약 방식 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220096&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-08-16)
