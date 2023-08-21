@@ -30,6 +30,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[박물관] 박물관 서포터즈 길라잡이 3기 모집 공고 (~9/1)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220241&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 박물관 (~2023-08-21)
+
+* **[[박물관] 2023 박물관 문화강좌 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220238&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 박물관 (~2023-08-21)
+
 * **[[지식재산] 2023-2학기 지식재산기반 발명/사업화 아이디어 경진대회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220237&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 지식재산융합인재양성사업 (~2023-08-21)
 
@@ -113,9 +119,3 @@
 
 * **[[경영대학] 2023-2학기 수업 TA(Teaching Assistant) 모집 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220110&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 경영대학교학팀 (~2023-08-16)
-
-* **[[총무팀] 율곡관 혁신공유라운지 사용불가 안내(08/24(목) 09:00~12:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220105&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2023-08-16)
-
-* **[[총무팀] 2023년 8월 민방위 훈련 실시 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220103&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2023-08-16)
