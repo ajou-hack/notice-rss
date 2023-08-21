@@ -30,6 +30,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학습법] 팀프로젝트 완전정복(1차) 게임처럼 팀플하라!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220225&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-08-21)
+
+* **[[봉사활동] 아주대학교병원 &#x27;호스피스의 달 기념행사&#x27; 대학생 자원봉사자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220220&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-08-21)
+
 * **[[융복합 의료제품 촉진지원센터] 학생연구원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220214&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 산학기획팀 (~2023-08-21)
 
@@ -113,9 +119,3 @@
 
 * **[[혁신융합단] 23-2학기 근로학생 모집(~8/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220089&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 혁신융합단 (~2023-08-16)
-
-* **[[메이커스페이스] 8월 운영시간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220083&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-08-14)
-
-* **[[메이커스페이스] 3D프린터 장비운용 기초교육생 모집(8월 2회차_&#x27;23.08.17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220075&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-08-14)
