@@ -30,6 +30,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[융복합 의료제품 촉진지원센터] 학생연구원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220214&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 산학기획팀 (~2023-08-21)
+
+* README.md 2023학년도 2학기 성수기 주말 운동장 예약 방식 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220212&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-08-21)
+
+* **[2023-2학기 물리학 ITP 프로그램 튜터(Tutor)모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220207&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-08-21)
+
 * **[[LINC 3.0] AJOU 글로벌 커머스 실전 프로그램(8/30, 9/1일(2일 교육)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220193&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀(창업교육센터) (~2023-08-18)
 
@@ -110,12 +119,3 @@
 
 * **[[메이커스페이스] 3D프린터 장비운용 기초교육생 모집(8월 2회차_&#x27;23.08.17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220075&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-08-14)
-
-* **[제 41회 금산세계인삼축제와 함께하는 청소년동아리 경진대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220074&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-08-14)
-
-* **[[LINC 3.0] 2023-2 Dynamic-PBL(산학연계 PBL) 교과목 운영 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220064&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2023-08-14)
-
-* **[[학습법] 팀프로젝트 완전정복(1차) 게임처럼 팀플하라!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220063&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-08-14)
