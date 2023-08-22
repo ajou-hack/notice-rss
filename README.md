@@ -9,7 +9,7 @@
 * **[📌 [공지] 2023학년도 2학기 장학선발 결과 발표안내_08.17(목) 09:00 ~](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219971&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-08-10)
 
-* **[📌 [공지] [학부] 2023.8 학위수여일 운영 안내 (8.16. 내용 추가)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219847&amp;article.offset=0&amp;articleLimit=30)**
+* **[📌 [공지] [학부] 2023.8 학위수여일 운영 안내 (8.16. 내용 추가)_원천관 대강당으로 장소 변경](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219847&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-08-07)
 
 * **[📌 [공지] [학부] 2023-2학기 등록/환불 안내(08.21.~08.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219379&amp;article.offset=0&amp;articleLimit=30)**
@@ -29,6 +29,9 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
+
+* **[2023-2학기 아주강좌2 수업TA 학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220281&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 다산학부대학교학팀 (~2023-08-22)
 
 * **[[근로]아주심리상담센터 근로장학생 모집(~8.27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220259&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 아주심리상담센터 (~2023-08-22)
@@ -116,6 +119,3 @@
 
 * **[(재공지)아주대와 함께하는 문화산책](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220117&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-08-16)
-
-* **[[재공지] [LINC 3.0] 2023 제19회 현장실습 수기•영상 공모전 참여 안내(8/16~9/3)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220111&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2023-08-16)
