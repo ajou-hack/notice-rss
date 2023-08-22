@@ -30,6 +30,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[근로]아주심리상담센터 근로장학생 모집(~8.27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220259&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 아주심리상담센터 (~2023-08-22)
+
 * **[[박물관] 박물관 서포터즈 길라잡이 3기 모집 공고 (~9/1)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220241&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 박물관 (~2023-08-21)
 
@@ -52,7 +55,7 @@
  [학사] - 사회봉사센터 (~2023-08-21)
 
 * **[[융복합 의료제품 촉진지원센터] 학생연구원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220214&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 산학기획팀 (~2023-08-21)
+ [취업] - 융복합의료제품촉진지원센터 (~2023-08-21)
 
 * README.md 2023학년도 2학기 성수기 주말 운동장 예약 방식 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220212&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-08-21)
@@ -116,6 +119,3 @@
 
 * **[[재공지] [LINC 3.0] 2023 제19회 현장실습 수기•영상 공모전 참여 안내(8/16~9/3)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220111&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2023-08-16)
-
-* **[[경영대학] 2023-2학기 수업 TA(Teaching Assistant) 모집 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220110&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 경영대학교학팀 (~2023-08-16)
