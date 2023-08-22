@@ -30,8 +30,11 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
-* **[2023-2학기 아주강좌2 수업TA 학생 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220281&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 다산학부대학교학팀 (~2023-08-22)
+* **[[필독][공지] 2023-2학기 ‘장학공지’ 활용방안 및 ‘면학/TA탭’ 신설 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220288&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-08-22)
+
+* **[[홍보] 수원시 1인가구 지원 사업 명칭 공모(~08.27까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220285&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2023-08-22)
 
 * **[[근로]아주심리상담센터 근로장학생 모집(~8.27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220259&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 아주심리상담센터 (~2023-08-22)
@@ -116,6 +119,3 @@
 
 * **[[일자리+센터] 2023 하반기 AJOU 취업훈련소 면접대비반 모집합니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220120&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-08-16)
-
-* **[(재공지)아주대와 함께하는 문화산책](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220117&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-08-16)
