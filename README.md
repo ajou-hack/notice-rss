@@ -33,6 +33,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[인권센터 성평등상담소] 2023년 경기도 양성평등주간 기념행사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220362&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 인권센터 성평등상담소 (~2023-08-23)
+
+* **[[인권센터 성평등상담소] 2023년 제28회 양성평등주간 기념식 (수원시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220337&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 인권센터 성평등상담소 (~2023-08-23)
+
+* **[[학습법] ChatGPT 마스터하기(1차) ChatGPT에 대한 이해](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220308&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-08-23)
+
 * **[[글로벌미래교육원] 가을학기 웰니스 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220293&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 글로벌미래교육원 (~2023-08-22)
 
@@ -113,12 +122,3 @@
 
 * **[[봉사활동] ⌜결식아동돕기 사랑의 쌀 배달⌟ 8월 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220151&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-08-17)
-
-* **[2023 SW커리어페어 개최에 따른 사전 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220145&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - SW융합교육원 (~2023-08-17)
-
-* **[[재공지] 2023 금융공학과 전문가와 함께하는 직무콘서트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220138&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 경영대학교학팀 (~2023-08-17)
-
-* **[2023-2학기 유한재단 장학생 최종 선발 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220131&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-08-16)
