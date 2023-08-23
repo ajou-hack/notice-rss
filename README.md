@@ -33,6 +33,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[다산학부대학] 2023-2학기 아주강좌2 수업시간 변경 사항 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220396&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-08-23)
+
 * **[[인권센터 성평등상담소] 2023년 경기도 양성평등주간 기념행사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220362&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 인권센터 성평등상담소 (~2023-08-23)
 
@@ -119,6 +122,3 @@
 
 * **[[홍보] 2023 대한민국 청년의 날 특별기획 “제8회 청년정책경진대회”](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220154&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 홍보실 (~2023-08-17)
-
-* **[[봉사활동] ⌜결식아동돕기 사랑의 쌀 배달⌟ 8월 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220151&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-08-17)
