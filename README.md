@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] [학부/학사과정]2023학년도 전기(2024년 2월) 조기졸업 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220402&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-08-23)
+
 * **[📌 [공지] [필독][공지] 2023-2학기 ‘장학공지’ 활용방안 및 ‘면학/TA탭’ 신설 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220288&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-08-22)
 
@@ -32,9 +35,6 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
-
-* **[[학부/학사과정]2023학년도 전기(2024년 2월) 조기졸업 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220402&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-08-23)
 
 * **[[다산학부대학] 2023-2학기 아주강좌2 수업시간 변경 사항 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220396&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-08-23)
@@ -122,3 +122,6 @@
 
 * **[[입학팀] 율곡관 혁신공유라운지 사용불가 안내 (8월 23일 수요일 8:00 ~ 18:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220161&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학팀 (~2023-08-17)
+
+* **[[홍보] 2023 대한민국 청년의 날 특별기획 “제8회 청년정책경진대회”](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220154&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 홍보실 (~2023-08-17)
