@@ -39,6 +39,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023 수원세계유산도시포럼 참여 홍보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220462&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-08-24)
+
 * **[학교법인 대우학원 정관 및 규정류 개정 공포(제364차 이사회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220423&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 기획팀 (~2023-08-23)
 
@@ -125,6 +128,3 @@
 
 * **[아주대학교 영자신문사 (The Ajou Globe) 제70기 수습기자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220166&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-08-17)
-
-* **[대학일자리플러스센터 2023.8.22(화) 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220164&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학일자리플러스센터 (~2023-08-17)
