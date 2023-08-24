@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] [학부]2023-2학기 수강정정 안내(9/1(금)~9/7(목), 토/일 제외)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220411&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-08-23)
+
 * **[📌 [공지] [학부/학사과정]2023학년도 전기(2024년 2월) 조기졸업 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220402&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-08-23)
 
@@ -36,8 +39,11 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
-* **[[학부]2023-2학기 수강정정 안내(9/1(금)~9/7(목), 토/일 제외)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220411&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-08-23)
+* **[학교법인 대우학원 정관 및 규정류 개정 공포(제364차 이사회)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220423&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2023-08-23)
+
+* **[[일자리+센터] 2DAY- 실전취업캠프(에이블 플러스)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220422&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-08-23)
 
 * **[경기도자원봉사센터 &#x27;2023년 탄소중립 자원봉사 토론회&#x27; 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220409&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 사회봉사센터 (~2023-08-23)
@@ -122,6 +128,3 @@
 
 * **[대학일자리플러스센터 2023.8.22(화) 이용 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220164&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학일자리플러스센터 (~2023-08-17)
-
-* **[[조기마감] [혁신융합단] 23-2학기 근로학생 모집(~8/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220163&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신융합단 (~2023-08-17)
