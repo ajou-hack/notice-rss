@@ -39,6 +39,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[▷(8/28~9/5) 수학2 반 변경 신청 안내◁](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220497&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-08-25)
+
 * **[[글로벌미래교육원] 가을학기 평생교육 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220490&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 글로벌미래교육원 (~2023-08-25)
 
@@ -125,6 +128,3 @@
 
 * **[2023-2학기 물리학 ITP 프로그램 튜터(Tutor)모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220207&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-08-21)
-
-* **[[LINC 3.0] AJOU 글로벌 커머스 실전 프로그램(8/30, 9/1일(2일 교육)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220193&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀(창업교육센터) (~2023-08-18)
