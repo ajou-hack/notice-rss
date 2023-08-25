@@ -39,6 +39,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[글로벌미래교육원] 가을학기 평생교육 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220490&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 글로벌미래교육원 (~2023-08-25)
+
+* **[[일자리+센터] 8월 4주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220489&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-08-25)
+
+* **[2023 서울예술인지원센터 Artists, Life, Insight! &lt;예술가의 인생수업&gt; 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220486&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-08-25)
+
 * **[[교외장학] 2023년 금신사랑장학생 (대학생) 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220481&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-08-25)
 
@@ -119,12 +128,3 @@
 
 * **[[LINC 3.0] AJOU 글로벌 커머스 실전 프로그램(8/30, 9/1일(2일 교육)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220193&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 산학사업팀(창업교육센터) (~2023-08-18)
-
-* **[[메이커스페이스] 3D프린터 장비운용 기초교육생 모집(8월 3회차_&#x27;23.08.22)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220190&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-08-18)
-
-* **[[학습법] 2023학년도 아주부스트 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220188&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-08-18)
-
-* **[[일자리+센터] 2023 이공계 자소서 긴급점검 (무료 행사-렛유인)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220177&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-08-18)
