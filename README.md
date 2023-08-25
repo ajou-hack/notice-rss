@@ -39,6 +39,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023 서울 지능형 사물인터넷 AIoT 해커톤 참여 홍보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220511&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-08-25)
+
 * **[[과학영재교육원] 성호관 건물 8월 26일(토) 출입 통제 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220503&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 과학영재교육원 (~2023-08-25)
 
@@ -125,6 +128,3 @@
 
 * **[[봉사활동] 아주대학교병원 &#x27;호스피스의 달 기념행사&#x27; 대학생 자원봉사자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220220&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-08-21)
-
-* **[[융복합 의료제품 촉진지원센터] 학생연구원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220214&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 융복합의료제품촉진지원센터 (~2023-08-21)
