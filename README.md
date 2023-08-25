@@ -39,6 +39,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023 안전한 개인정보보호 사례 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220521&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-08-25)
+
+* **[(재공지)유익한 방학생활 에세이 공모전(~9/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220520&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-08-25)
+
+* **[(재공지) 스토리가 있는 사진 공모전 (~9/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220519&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-08-25)
+
+* **[[입실공고]2023학년도 2학기 고시반(아현재) 입실공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220514&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 사회과학대학교학팀 (~2023-08-25)
+
+* **[[입실공고]2023학년도 2학기 고시반(청람재) 입실 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220513&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 사회과학대학교학팀 (~2023-08-25)
+
 * **[2023 서울 지능형 사물인터넷 AIoT 해커톤 참여 홍보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220511&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-08-25)
 
@@ -113,18 +128,3 @@
 
 * **[[박물관] 2023 박물관 문화강좌 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220238&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 박물관 (~2023-08-21)
-
-* **[[지식재산] 2023-2학기 지식재산기반 발명/사업화 아이디어 경진대회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220237&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 지식재산융합인재양성사업 (~2023-08-21)
-
-* **[[글로벌교양학부] 2023-2학기 학부 신입학 유학생 생활멘토 모집안내(~8/27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220236&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 글로벌교양학부 (~2023-08-21)
-
-* **[2023-2학기 외국인 유학생 대상 한국어 튜터 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220227&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 글로벌교양학부 (~2023-08-21)
-
-* **[[학습법] 팀프로젝트 완전정복(1차) 게임처럼 팀플하라!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220225&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-08-21)
-
-* **[[봉사활동] 아주대학교병원 &#x27;호스피스의 달 기념행사&#x27; 대학생 자원봉사자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220220&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-08-21)
