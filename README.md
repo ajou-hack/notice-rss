@@ -27,7 +27,7 @@
 * **[📌 [공지] [학부]2023-2학기 학사과정 학과별 개설과목 현황 안내(수시 업데이트 예정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219065&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-07-14)
 
-* **[📌 [공지] [학사] 2023-2학기 휴학/복학 신청 안내 (7/7 수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215587&amp;article.offset=0&amp;articleLimit=30)**
+* **[📌 [공지] [학사] 2023-2학기 휴학/복학 신청 안내 (8/25 수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215587&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-06-08)
 
 * **[📌 [공지] &#x27;장학공지&#x27; 메뉴 신설(한눈에 우리대학 장학정보를 확인하는 방법)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=214764&amp;article.offset=0&amp;articleLimit=30)**
@@ -38,6 +38,12 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
+
+* **[[과학영재교육원] 성호관 건물 8월 26일(토) 출입 통제 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220503&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 과학영재교육원 (~2023-08-25)
+
+* **[[학습법] 2023학년도 아주부스트 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220501&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-08-25)
 
 * **[▷(8/28~9/5) 수학2 반 변경 신청 안내◁](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220497&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-08-25)
@@ -122,9 +128,3 @@
 
 * **[[융복합 의료제품 촉진지원센터] 학생연구원 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220214&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 융복합의료제품촉진지원센터 (~2023-08-21)
-
-* README.md 2023학년도 2학기 성수기 주말 운동장 예약 방식 변경 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220212&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-08-21)
-
-* **[2023-2학기 물리학 ITP 프로그램 튜터(Tutor)모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220207&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-08-21)
