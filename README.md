@@ -21,9 +21,6 @@
 * **[📌 [공지] [학부] 2023.8 학위수여일 운영 안내 (8.16. 내용 추가)_원천관 대강당으로 장소 변경](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219847&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-08-07)
 
-* **[📌 [공지] [학부] 2023-2학기 등록/환불 안내(08.21.~08.25.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219379&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 재무회계팀 (~2023-07-25)
-
 * **[📌 [공지] [학부]2023-2학기 학사과정 학과별 개설과목 현황 안내(수시 업데이트 예정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219065&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-07-14)
 
@@ -38,6 +35,15 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
+
+* **[[메이커스페이스] 레이저커팅기 장비운용 기초교육생 모집(8월 1회차_&#x27;23.08.29)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220529&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-08-25)
+
+* **[[일자리+센터] 23-4기 A.C.E.STUDY(멘토링 프로그램)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220528&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-08-25)
+
+* **[[기획팀]아주대학교 학칙 개정(안) 사전 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220527&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 기획팀 (~2023-08-25)
 
 * **[2023 안전한 개인정보보호 사례 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220521&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-08-25)
@@ -119,12 +125,3 @@
 
 * **[[홍보] 수원시 1인가구 지원 사업 명칭 공모(~08.27까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220285&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학사업팀 (~2023-08-22)
-
-* **[[근로]아주심리상담센터 근로장학생 모집(~8.27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220259&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 아주심리상담센터 (~2023-08-22)
-
-* **[[박물관] 박물관 서포터즈 길라잡이 3기 모집 공고 (~9/1)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220241&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 박물관 (~2023-08-21)
-
-* **[[박물관] 2023 박물관 문화강좌 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220238&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 박물관 (~2023-08-21)
