@@ -36,6 +36,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[일자리+센터] 2DAY- 실전취업캠프(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220535&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-08-27)
+
 * **[[메이커스페이스] 레이저커팅기 장비운용 기초교육생 모집(8월 1회차_&#x27;23.08.29)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220529&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-08-25)
 
@@ -121,7 +124,4 @@
  [기타] - 글로벌미래교육원 (~2023-08-22)
 
 * **[[LINC 3.0] (교원)캡스톤·IC-PBL 교수학습 역량 강화를 위한 Facilitation Basic 과정 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220292&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2023-08-22)
-
-* **[[홍보] 수원시 1인가구 지원 사업 명칭 공모(~08.27까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220285&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학사업팀 (~2023-08-22)
