@@ -33,6 +33,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[교외장학] 2023-2학기 『인송문화재단 인송장학생』 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220606&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-08-28)
+
+* **[[교외장학] (재)달서인재육성장학재단 2023년도 하반기 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220603&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-08-28)
+
+* **[[대청교] 2023학년도 2학기 대학생 청소년교육지원 장학생 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220602&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-08-28)
+
 * **[[메이커스페이스] 9월 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220599&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-08-28)
 
@@ -113,12 +122,3 @@
 
 * **[(재공지)유익한 방학생활 에세이 공모전(~9/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220520&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-08-25)
-
-* **[(재공지) 스토리가 있는 사진 공모전 (~9/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220519&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-08-25)
-
-* **[[입실공고]2023학년도 2학기 고시반(아현재) 입실공고 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220514&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 사회과학대학교학팀 (~2023-08-25)
-
-* **[[입실공고]2023학년도 2학기 고시반(청람재) 입실 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220513&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 사회과학대학교학팀 (~2023-08-25)
