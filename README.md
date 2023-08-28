@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] [학부/학사과정] ★필독★ 출석(전자출결, 공결, 취업계, 코로나 등) 관련 안내(08.28.수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220586&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-08-28)
+
 * **[📌 [공지] [학부]2023-2학기 수강정정 안내(9/1(금)~9/7(목), 토/일 제외)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220411&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-08-23)
 
@@ -30,14 +33,17 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[메이커스페이스] 9월 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220599&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-08-28)
+
+* **[[국가근로](필독) 2023학년도 2학기 국가근로 장학생 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220594&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-08-28)
+
 * **[[교외장학] 2024-2025년도 풀브라이트 이공계 미국 대학원 유학 장학 프로그램 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220591&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-08-28)
 
 * **[2023-2학기 동아리 박람회 개최에 따른 행사장 주변 흡연 구역 폐쇄 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220590&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2023-08-28)
-
-* **[[공지] [학부/학사과정] ★필독★ 출석(전자출결, 공결, 취업계, 코로나 등) 관련 안내(08.28.수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220586&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-08-28)
 
 * **[[봉사활동] 함께 이루는 꿈! 온(溫)택트 학습 멘토링 대학(원)생 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220585&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-08-28)
@@ -116,6 +122,3 @@
 
 * **[[입실공고]2023학년도 2학기 고시반(청람재) 입실 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220513&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 사회과학대학교학팀 (~2023-08-25)
-
-* **[2023 서울 지능형 사물인터넷 AIoT 해커톤 참여 홍보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220511&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-08-25)
