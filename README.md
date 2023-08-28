@@ -33,6 +33,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[교외장학] 2023학년도 2학기 유재석장학 장학생 선발 공고_9.5(화)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220551&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-08-28)
+
 * **[[일자리+센터] 2023년 포스코이앤씨(前포스코건설) 멘토링 참여 안내(송도본사 방문)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220548&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-08-28)
 
@@ -119,6 +122,3 @@
 
 * **[[다산학부대학] 2023-2학기 아주강좌2 수업시간 변경 사항 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220396&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-08-23)
-
-* **[[인권센터 성평등상담소] 2023년 경기도 양성평등주간 기념행사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220362&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 인권센터 성평등상담소 (~2023-08-23)
