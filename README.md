@@ -18,9 +18,6 @@
 * **[📌 [공지] 2023학년도 2학기 장학선발 결과 발표안내_08.17(목) 09:00 ~](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219971&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-08-10)
 
-* **[📌 [공지] [학부] 2023.8 학위수여일 운영 안내 (8.16. 내용 추가)_원천관 대강당으로 장소 변경](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219847&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-08-07)
-
 * **[📌 [공지] [학부]2023-2학기 학사과정 학과별 개설과목 현황 안내(수시 업데이트 예정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219065&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-07-14)
 
@@ -35,6 +32,18 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
+
+* **[[일자리+센터] 2023년 포스코이앤씨(前포스코건설) 멘토링 참여 안내(송도본사 방문)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220548&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-08-28)
+
+* **[[교외장학] (재)인천인재평생교육진흥원 2023년도 하반기 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220546&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-08-28)
+
+* **[[재공지] 2023 제19회 현장실습 수기•영상 공모전 참여 안내(8/16~9/3)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220544&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2023-08-28)
+
+* **[2023학년도 2학기 정기주차권 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220540&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 종합지원센터 (~2023-08-28)
 
 * **[[일자리+센터] 2DAY- 실전취업캠프(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220535&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-08-27)
@@ -113,15 +122,3 @@
 
 * **[[인권센터 성평등상담소] 2023년 경기도 양성평등주간 기념행사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220362&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 인권센터 성평등상담소 (~2023-08-23)
-
-* **[[인권센터 성평등상담소] 2023년 제28회 양성평등주간 기념식 (수원시)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220337&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 인권센터 성평등상담소 (~2023-08-23)
-
-* **[[학습법] ChatGPT 마스터하기(1차) ChatGPT에 대한 이해](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220308&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-08-23)
-
-* **[[글로벌미래교육원] 가을학기 웰니스 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220293&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 글로벌미래교육원 (~2023-08-22)
-
-* **[[LINC 3.0] (교원)캡스톤·IC-PBL 교수학습 역량 강화를 위한 Facilitation Basic 과정 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220292&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 산학사업팀 (~2023-08-22)
