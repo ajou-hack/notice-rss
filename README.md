@@ -36,6 +36,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[글로벌미래교육원] 가을학기 웰니스 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220639&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 글로벌미래교육원 (~2023-08-29)
+
+* **[[중앙도서관] 서버 보안 패치 작업으로 인한 서비스 중지 안내 (8/30 18:00~20:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220635&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2023-08-29)
+
 * **[이동 금연 클리닉 운영](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220628&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 보건진료소 (~2023-08-29)
 
@@ -119,9 +125,3 @@
 
 * **[[학습법] 2023-2학기 학습공동체(I) 스터디그룹 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220560&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-08-28)
-
-* **[[교외장학] 2023학년도 2학기 유재석장학 장학생 선발 공고_9.5(화)까지](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220551&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-08-28)
-
-* **[[일자리+센터] 2023년 포스코이앤씨(前포스코건설) 멘토링 참여 안내(송도본사 방문)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220548&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-08-28)
