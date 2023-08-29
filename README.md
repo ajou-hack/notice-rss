@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] [remind][학부] 2023-2학기 등록/환불 안내(09.04.~09.05.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220608&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 재무회계팀 (~2023-08-28)
+
 * **[📌 [공지] [학부/학사과정] ★필독★ 출석(전자출결, 공결, 취업계, 코로나 등) 관련 안내(08.28.수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220586&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-08-28)
 
@@ -33,8 +36,11 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
-* **[[remind][학부] 2023-2학기 등록/환불 안내(09.04.~09.05.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220608&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 재무회계팀 (~2023-08-28)
+* **[[국제교류팀] 2024-1학기 파견 교환 및 복수학위 2차모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220616&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 국제교류팀 (~2023-08-29)
+
+* **[[일자리+센터] 2023.9월 캠리 사전 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220610&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-08-28)
 
 * **[[교외장학] 2023-2학기 『인송문화재단 인송장학생』 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220606&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-08-28)
@@ -119,6 +125,3 @@
 
 * **[[기획팀]아주대학교 학칙 개정(안) 사전 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220527&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 기획팀 (~2023-08-25)
-
-* **[2023 안전한 개인정보보호 사례 공모전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220521&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-08-25)
