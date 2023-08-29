@@ -36,6 +36,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[박물관] 박물관 서포터즈 길라잡이 3기 모집 공고 (~9/1)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220640&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 박물관 (~2023-08-29)
+
 * **[[글로벌미래교육원] 가을학기 웰니스 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220639&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 글로벌미래교육원 (~2023-08-29)
 
@@ -121,7 +124,4 @@
  [기타] - 교수학습개발센터 (~2023-08-28)
 
 * **[[학습법] 2023-2학기 학습공동체(II) ASAP 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220561&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-08-28)
-
-* **[[학습법] 2023-2학기 학습공동체(I) 스터디그룹 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220560&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-08-28)
