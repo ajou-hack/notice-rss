@@ -36,6 +36,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[일자리+센터] (3, 4학년만 추가모집!)총장님과 함께하는 기업탐방 쿡앱스](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220620&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-08-29)
+
+* **[[교육평가인증센터]2023 대학 교수･학습 혁신에 관한 학생 조사(NASEL-i) 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220619&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교육평가인증센터 (~2023-08-29)
+
+* **[[재공지/LINC] 2023-2 Dynamic-PBL(산학연계 PBL) 교과목 운영 지원사업 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220617&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2023-08-29)
+
 * **[[국제교류팀] 2024-1학기 파견 교환 및 복수학위 2차모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220616&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 국제교류팀 (~2023-08-29)
 
@@ -116,12 +125,3 @@
 
 * **[[일자리+센터] 2DAY- 실전취업캠프(재공지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220535&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-08-27)
-
-* **[[메이커스페이스] 레이저커팅기 장비운용 기초교육생 모집(8월 1회차_&#x27;23.08.29)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220529&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-08-25)
-
-* **[[일자리+센터] 23-4기 A.C.E.STUDY(멘토링 프로그램)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220528&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-08-25)
-
-* **[[기획팀]아주대학교 학칙 개정(안) 사전 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220527&amp;article.offset=0&amp;articleLimit=30)**
- [사무] - 기획팀 (~2023-08-25)
