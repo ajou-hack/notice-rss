@@ -36,6 +36,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[율곡관 지하 1층 혁신공유라운지 사용 불가 안내_9.2.(토) 14:00~17:00](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220669&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 입학팀 (~2023-08-30)
+
 * **[(재공지)2023-2학기 강의페어링 설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220665&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 다산융복합교육센터 (~2023-08-30)
 
@@ -122,6 +125,3 @@
 
 * **[[D-1] 아주대학교 영자신문사 (The Ajou Globe) 제70기 수습기자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220580&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-08-28)
-
-* **[[다산학부대학] 2023-2학기 고전 에세이대회 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220579&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 다산학부대학 교학팀 (~2023-08-28)
