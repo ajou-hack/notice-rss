@@ -36,6 +36,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[(재공지)2023-2학기 강의페어링 설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220665&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 다산융복합교육센터 (~2023-08-30)
+
+* **[[공학교육혁신센터] 2023 학생포트폴리오 경진대회 수상 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220664&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 공학교육혁신센터 (~2023-08-30)
+
 * **[(접수)아주북통 14기에 활동할 학생을 모집합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220662&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학술정보팀 (~2023-08-30)
 
@@ -111,9 +117,6 @@
 * **[[다산학부대학] 2023-2학기 다산서원(茶山書院) 15기 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220583&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 다산학부대학 교학팀 (~2023-08-28)
 
-* **[(재공지)2023-2학기 강의페어링 설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220582&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 다산융복합교육센터 (~2023-08-28)
-
 * **[[교무팀] 코로나19 확산에 따른 출석인정 안내(백신공결 등)_2023.09.01.부 적용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220581&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-08-28)
 
@@ -121,7 +124,4 @@
  [기타] - 학생지원팀 (~2023-08-28)
 
 * **[[다산학부대학] 2023-2학기 고전 에세이대회 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220579&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 다산학부대학 교학팀 (~2023-08-28)
-
-* **[[다산학부대학] 2023-2학기 고전 토론대회 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220578&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 다산학부대학 교학팀 (~2023-08-28)
