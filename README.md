@@ -36,13 +36,22 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[(접수)아주북통 14기에 활동할 학생을 모집합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220662&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학술정보팀 (~2023-08-30)
+
+* **[[다산학부대학] 2023-2학기 아주인성, 고급영어 여석반 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220661&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-08-30)
+
+* **[[다산학부대학] 2023-2학기 글쓰기, 영어1, 영어2 여석반 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220657&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-08-30)
+
 * **[[다산학부대학] 2023-2학기 BSM 및 공업수학 수강정정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220645&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-08-29)
 
 * **[[박물관] 박물관 서포터즈 길라잡이 3기 모집 공고 (~9/1)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220640&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 박물관 (~2023-08-29)
 
-* **[[글로벌미래교육원] 가을학기 웰니스 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220639&amp;article.offset=0&amp;articleLimit=30)**
+* **[[글로벌미래교육원] 가을학기 평생교육 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220639&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 글로벌미래교육원 (~2023-08-29)
 
 * **[[중앙도서관] 서버 보안 패치 작업으로 인한 서비스 중지 안내 (8/30 18:00~20:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220635&amp;article.offset=0&amp;articleLimit=30)**
@@ -116,12 +125,3 @@
 
 * **[[다산학부대학] 2023-2학기 고전 토론대회 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220578&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 다산학부대학 교학팀 (~2023-08-28)
-
-* **[[다산학부대학] 2023-2학기 일, 가족, 행복 수업시간 변경 사항 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220575&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-08-28)
-
-* **[[재공지] 2023학년도 2학기 천원의 아침밥_아침든든 아주 시행 및 참여 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220570&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-08-28)
-
-* **[[학습법] 2023-2학기 학습공동체(III) 공부가치 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220563&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-08-28)
