@@ -1,6 +1,6 @@
 # 최근 공지사항
 
-* **[📌 [공지] 어학 졸업인증을 위한 공인어학 성적 등록 및 제출 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220675&amp;article.offset=0&amp;articleLimit=30)**
+* **[📌 [공지] 어학 졸업인증(2024년 2월 졸업)을 위한 공인어학 성적 등록 및 제출 안내 (~2024.1.26)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220675&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-08-30)
 
 * **[📌 [공지] 수강신청 부정행위에 대한 처리 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220673&amp;article.offset=0&amp;articleLimit=30)**
@@ -42,6 +42,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[시설팀] 2023학년도 하절기 냉방시설 연장운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220727&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2023-08-31)
+
 * **[[일자리+센터] 23-4기 A.C.E.STUDY(멘토링 프로그램 2차모집)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220718&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-08-31)
 
@@ -63,7 +66,7 @@
 * README.md 2023학년도 2학기 천원의 아침밥_아침든든 아주 시행 및 참여 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220683&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-08-31)
 
-* **[율곡관 지하 1층 혁신공유라운지 사용 불가 안내_9.2.(토) 14:00~17:00](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220669&amp;article.offset=0&amp;articleLimit=30)**
+* **[[입학팀]율곡관 지하 1층 혁신공유라운지 사용 불가 안내_9.2.(토) 14:00~17:00](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220669&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학팀 (~2023-08-30)
 
 * **[(재공지)2023-2학기 강의페어링 설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220665&amp;article.offset=0&amp;articleLimit=30)**
@@ -128,6 +131,3 @@
 
 * **[[대청교] 2023학년도 2학기 대학생 청소년교육지원 장학생 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220602&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-08-28)
-
-* **[[메이커스페이스] 9월 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220599&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-08-28)
