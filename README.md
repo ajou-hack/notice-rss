@@ -42,6 +42,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학습법] ChatGPT 마스터하기(3차) ChatGPT 학습 활용 방법](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220714&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-08-31)
+
+* **[[학습법] ChatGPT 마스터하기(2차) ChatGPT 좋은 질문 만들기](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220713&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-08-31)
+
+* **[[학습법] ChatGPT 마스터하기(1차) ChatGPT에 대한 이해](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220712&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-08-31)
+
 * **[[교외장학] 포항시장학회 대학교 장학생 선발계획 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220703&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-08-31)
 
@@ -122,12 +131,3 @@
 
 * **[[국가근로](필독) 2023학년도 2학기 국가근로 장학생 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220594&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-08-28)
-
-* **[[교외장학] 2024-2025년도 풀브라이트 이공계 미국 대학원 유학 장학 프로그램 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220591&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-08-28)
-
-* **[2023-2학기 동아리 박람회 개최에 따른 행사장 주변 흡연 구역 폐쇄 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220590&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2023-08-28)
-
-* **[[봉사활동] 함께 이루는 꿈! 온(溫)택트 학습 멘토링 대학(원)생 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220585&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-08-28)
