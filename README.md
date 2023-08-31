@@ -1,5 +1,11 @@
 # 최근 공지사항
 
+* **[📌 [공지] 어학 졸업인증을 위한 공인어학 성적 등록 및 제출 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220675&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-08-30)
+
+* **[📌 [공지] 수강신청 부정행위에 대한 처리 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220673&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-08-30)
+
 * **[📌 [공지] [remind][학부] 2023-2학기 등록/환불 안내(09.04.~09.05.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220608&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 재무회계팀 (~2023-08-28)
 
@@ -36,6 +42,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[국가근로][대청교] 8월 출근부 입력 마감일 및 장학금 지급 예정일 안내(필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220685&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-08-31)
+
+* README.md 2023학년도 2학기 천원의 아침밥_아침든든 아주 시행 및 참여 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220683&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-08-31)
+
 * **[율곡관 지하 1층 혁신공유라운지 사용 불가 안내_9.2.(토) 14:00~17:00](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220669&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 입학팀 (~2023-08-30)
 
@@ -63,7 +75,7 @@
 * **[[글로벌미래교육원] 가을학기 평생교육 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220639&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 글로벌미래교육원 (~2023-08-29)
 
-* **[[중앙도서관] 서버 보안 패치 작업으로 인한 서비스 중지 안내 (8/30 18:00~20:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220635&amp;article.offset=0&amp;articleLimit=30)**
+* **[(조치 완료) [중앙도서관] 서버 보안 패치 작업으로 인한 서비스 중지 안내 (8/30 18:00~20:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220635&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2023-08-29)
 
 * **[이동 금연 클리닉 운영](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220628&amp;article.offset=0&amp;articleLimit=30)**
@@ -119,9 +131,3 @@
 
 * **[[다산학부대학] 2023-2학기 다산서원(茶山書院) 15기 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220583&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 다산학부대학 교학팀 (~2023-08-28)
-
-* **[[교무팀] 코로나19 확산에 따른 출석인정 안내(백신공결 등)_2023.09.01.부 적용](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220581&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-08-28)
-
-* **[[D-1] 아주대학교 영자신문사 (The Ajou Globe) 제70기 수습기자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220580&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-08-28)
