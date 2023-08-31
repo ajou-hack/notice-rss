@@ -42,6 +42,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[교외장학] 포항시장학회 대학교 장학생 선발계획 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220703&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 학생지원팀 (~2023-08-31)
+
 * **[[국가근로][대청교] 8월 출근부 입력 마감일 및 장학금 지급 예정일 안내(필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220685&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-08-31)
 
@@ -128,6 +131,3 @@
 
 * **[[봉사활동] 함께 이루는 꿈! 온(溫)택트 학습 멘토링 대학(원)생 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220585&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-08-28)
-
-* **[[다산학부대학] 2023-2학기 다산서원(茶山書院) 15기 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220583&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 다산학부대학 교학팀 (~2023-08-28)
