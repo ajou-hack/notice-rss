@@ -42,6 +42,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[일자리+센터] 23-4기 A.C.E.STUDY(멘토링 프로그램 2차모집)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220718&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-08-31)
+
 * **[[학습법] ChatGPT 마스터하기(3차) ChatGPT 학습 활용 방법](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220714&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-08-31)
 
@@ -128,6 +131,3 @@
 
 * **[[메이커스페이스] 9월 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220599&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-08-28)
-
-* **[[국가근로](필독) 2023학년도 2학기 국가근로 장학생 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220594&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-08-28)
