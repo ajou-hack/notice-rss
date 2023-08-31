@@ -42,11 +42,17 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[다산학부대학] 2023-2학기 정정기간 중 교양과목 수강신청 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220737&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-08-31)
+
 * **[[시설팀] 2023학년도 하절기 냉방시설 연장운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220727&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2023-08-31)
 
 * **[[일자리+센터] 23-4기 A.C.E.STUDY(멘토링 프로그램 2차모집)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220718&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-08-31)
+
+* **[[다산학부대학] 교직과목 교육대학원 여석 증원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220716&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학 (~2023-08-31)
 
 * **[[학습법] ChatGPT 마스터하기(3차) ChatGPT 학습 활용 방법](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220714&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-08-31)
@@ -124,10 +130,4 @@
  [취업] - 대학일자리플러스센터 (~2023-08-28)
 
 * **[[교외장학] 2023-2학기 『인송문화재단 인송장학생』 모집 공고](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220606&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-08-28)
-
-* **[[교외장학] (재)달서인재육성장학재단 2023년도 하반기 장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220603&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-08-28)
-
-* **[[대청교] 2023학년도 2학기 대학생 청소년교육지원 장학생 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220602&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-08-28)
