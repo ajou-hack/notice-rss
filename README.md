@@ -36,6 +36,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[봉사활동] 아주대학교 사회봉사단 대학(원)생 활동가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220801&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-09-01)
+
+* **[[메이커스페이스] 3D프린터 장비운용 기초교육생 모집(9월 1회차_&#x27;23.09.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220797&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-09-01)
+
 * **[수림재단 제 10회 동교인재상 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220790&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-09-01)
 
@@ -119,9 +125,3 @@
 
 * **[(재공지)2023-2학기 강의페어링 설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220665&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 다산융복합교육센터 (~2023-08-30)
-
-* **[[공학교육혁신센터] 2023 학생포트폴리오 경진대회 수상 결과 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220664&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 공학교육혁신센터 (~2023-08-30)
-
-* **[(접수)아주북통 14기에 활동할 학생을 모집합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220662&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 학술정보팀 (~2023-08-30)
