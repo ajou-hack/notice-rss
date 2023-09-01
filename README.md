@@ -36,6 +36,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[수림재단 제 10회 동교인재상 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220790&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-09-01)
+
+* **[[미래자동차 렉처시리즈] ESG로 인한 기업 경영 환경의 변화와 도전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220787&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신융합단 (~2023-09-01)
+
 * **[(유학생) 23-2 슬기로운 한국어 학술모임 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220777&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 글로벌교양학부 (~2023-09-01)
 
@@ -119,9 +125,3 @@
 
 * **[(접수)아주북통 14기에 활동할 학생을 모집합니다](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220662&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학술정보팀 (~2023-08-30)
-
-* **[[다산학부대학] 2023-2학기 아주인성, 고급영어 여석반 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220661&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-08-30)
-
-* **[[다산학부대학] 2023-2학기 글쓰기, 영어1, 영어2 여석반 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220657&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-08-30)
