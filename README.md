@@ -36,6 +36,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[(유학생) 23-2 슬기로운 한국어 학술모임 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220777&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 글로벌교양학부 (~2023-09-01)
+
+* **[(재공지) [박물관] 2023 박물관 문화강좌프로그램 안내(선착순 모집)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220775&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 박물관 (~2023-09-01)
+
 * **[&#x27;혹시 너... T야?&#x27; 정서조절을 위한 정서인식과 표현 (1차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220774&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 인권센터 학생상담소 (~2023-09-01)
 
@@ -119,9 +125,3 @@
 
 * **[[다산학부대학] 2023-2학기 글쓰기, 영어1, 영어2 여석반 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220657&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-08-30)
-
-* **[[다산학부대학] 2023-2학기 BSM 및 공업수학 수강정정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220645&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-08-29)
-
-* **[[박물관] 박물관 서포터즈 길라잡이 3기 모집 공고 (~9/1)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220640&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 박물관 (~2023-08-29)
