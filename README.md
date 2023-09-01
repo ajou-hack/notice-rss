@@ -36,6 +36,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[&lt; 2023학년도 독감 예방접종 시행 안내&gt; 2023 Flu Vaccination Schedule and Information](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220764&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 보건진료소 (~2023-09-01)
+
+* **[[교내장학] 2023학년도 2학기 사회봉사장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220763&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 사회봉사센터 (~2023-09-01)
+
+* **[[아주팝스 오케스트라] 아주대학교 개교 50주년 기념 연주회에 여러분을 초대합니다! (2023.09.08)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220761&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-09-01)
+
+* **[[일자리+센터] 대학일자리플러스센터 뉴스레터 제59호(2023.09)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220760&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-01)
+
+* **[[일자리+센터] 9월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220758&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-01)
+
 * **[[비교과교육지원센터] 아주대와 함께하는 문화산책 (9월-10월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220757&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-09-01)
 
@@ -110,18 +125,3 @@
 
 * **[(조치 완료) [중앙도서관] 서버 보안 패치 작업으로 인한 서비스 중지 안내 (8/30 18:00~20:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220635&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2023-08-29)
-
-* **[이동 금연 클리닉 운영](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220628&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 보건진료소 (~2023-08-29)
-
-* **[[학습법] 팀프로젝트 완전정복(3차) 디지털 협업 도구 활용 전략(오늘 신청마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220626&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-08-29)
-
-* **[[학습법] 팀프로젝트 완전정복(2차) 청중을 사로잡는 발표 전략(오늘 신청마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220625&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-08-29)
-
-* **[[학습법] 팀프로젝트 완전정복(1차) 게임처럼 팀플하라!(오늘 신청마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220624&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-08-29)
-
-* **[[일자리+센터] (3, 4학년만 추가모집!)총장님과 함께하는 기업탐방 쿡앱스](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220620&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-08-29)
