@@ -36,6 +36,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[과학영재교육원] 스마트 수과학실 참가자 모집(초등 및 중등)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220810&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 과학영재교육원 (~2023-09-01)
+
+* **[[일자리+센터] 삼성디스플레이 채용상담회 및 채용설명회(9/4~5)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220806&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-01)
+
 * **[[봉사활동] 아주대학교 사회봉사단 대학(원)생 활동가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220801&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-09-01)
 
@@ -119,9 +125,3 @@
 
 * README.md 2023학년도 2학기 천원의 아침밥_아침든든 아주 시행 및 참여 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220683&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-08-31)
-
-* **[[입학팀]율곡관 지하 1층 혁신공유라운지 사용 불가 안내_9.2.(토) 14:00~17:00](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220669&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 입학팀 (~2023-08-30)
-
-* **[(재공지)2023-2학기 강의페어링 설명회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220665&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 다산융복합교육센터 (~2023-08-30)
