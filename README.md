@@ -36,6 +36,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[&#x27;혹시 너... T야?&#x27; 정서조절을 위한 정서인식과 표현 (1차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220774&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 인권센터 학생상담소 (~2023-09-01)
+
+* **[사회봉사센터 뉴스레터 제 5호 &quot; 아주대 멘토들을 찾아서&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220770&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 사회봉사센터 (~2023-09-01)
+
 * **[&lt; 2023학년도 독감 예방접종 시행 안내&gt; 2023 Flu Vaccination Schedule and Information](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220764&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 보건진료소 (~2023-09-01)
 
@@ -119,9 +125,3 @@
 
 * **[[박물관] 박물관 서포터즈 길라잡이 3기 모집 공고 (~9/1)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220640&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 박물관 (~2023-08-29)
-
-* **[[글로벌미래교육원] 가을학기 평생교육 프로그램 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220639&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 글로벌미래교육원 (~2023-08-29)
-
-* **[(조치 완료) [중앙도서관] 서버 보안 패치 작업으로 인한 서비스 중지 안내 (8/30 18:00~20:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220635&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2023-08-29)
