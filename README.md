@@ -36,6 +36,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[다산학부대학] 2023-2학기 아주인성, 고급영어 여석반 수강신청 처리 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220824&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-09-01)
+
+* **[[다산학부대학] 2023-2학기 환경과 인간 강의실 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220823&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-09-01)
+
 * **[[일자리+센터] 아주대와 함께하는 LIG 넥스원 채용상담회(9/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220818&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-09-01)
 
@@ -119,9 +125,3 @@
 
 * **[[학습법] ChatGPT 마스터하기(1차) ChatGPT에 대한 이해](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220712&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-08-31)
-
-* **[[교외장학] 포항시장학회 대학교 장학생 선발계획 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220703&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-08-31)
-
-* **[[국가근로][대청교] 8월 출근부 입력 마감일 및 장학금 지급 예정일 안내(필독)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220685&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-08-31)
