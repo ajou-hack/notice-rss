@@ -1,5 +1,8 @@
 # 최근 공지사항
 
+* **[📌 [공지] &lt; 2023학년도 독감 예방접종 시행 안내&gt; 2023 Flu Vaccination Schedule and Information](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220764&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 보건진료소 (~2023-09-01)
+
 * **[📌 [공지] 어학 졸업인증(2024년 2월 졸업)을 위한 공인어학 성적 등록 및 제출 안내 (~2024.1.26)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220675&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-08-30)
 
@@ -36,7 +39,16 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
-* **[[다산학부대학] ★아주강좌2 일정 및 수강신청 안내★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220861&amp;article.offset=0&amp;articleLimit=30)**
+* **[[봉사활동](9/5단체헌혈지원)생명을 살리는 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220869&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-09-04)
+
+* **[[봉사활동](재공지) 함께 이루는 꿈! 온(溫)택트 학습 멘토링 대학(원)생 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220868&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-09-04)
+
+* **[[일자리+센터]아주대와 함께하는 삼성물산 리조트부문 채용상담회(9/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220866&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-04)
+
+* **[[다산학부대학] ★아주강좌2 수강신청 및 일정 안내★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220861&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-09-04)
 
 * **[[공학교육혁신센터] 2023학년도 2학기 공학인증 학생상담 안내 (12.12.까지)* 금학기 연장 없음*](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220855&amp;article.offset=0&amp;articleLimit=30)**
@@ -96,9 +108,6 @@
 * **[사회봉사센터 뉴스레터 제 5호 &quot; 아주대 멘토들을 찾아서&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220770&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 사회봉사센터 (~2023-09-01)
 
-* **[&lt; 2023학년도 독감 예방접종 시행 안내&gt; 2023 Flu Vaccination Schedule and Information](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220764&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 보건진료소 (~2023-09-01)
-
 * **[[교내장학] 2023학년도 2학기 사회봉사장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220763&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 사회봉사센터 (~2023-09-01)
 
@@ -119,9 +128,3 @@
 
 * **[[비교과교육지원센터] 아주허브에서 9월 퀴즈 풀고 기프티콘 받아가자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220753&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-09-01)
-
-* **[2023년 멀티미디어 강의실 점검결과(08월) 및 2023년 (09월) 점검계획](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220752&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 정보시스템팀 (~2023-09-01)
-
-* **[[한국주택금융공사] 청년 주택임대차 교육 콘텐츠](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220749&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-09-01)
