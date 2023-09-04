@@ -39,6 +39,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[메이커스페이스] 기초교육 교육생 모집안내 (포토샵, 일러스트, 3D스캐너, 3D프린터 순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220904&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-09-04)
+
+* **[수변전설비 정기검사 및 원천관 변압기 용량증설공사 관련 교내 전체 정전(2023년 9월 17일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220893&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2023-09-04)
+
 * **[(캡스톤, D-PBL 수강생)기업, 지역사회가 제시한 &#x27;현장문제 해결 프로젝트&#x27; 활용 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220890&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학사업팀 (~2023-09-04)
 
@@ -122,9 +128,3 @@
 
 * **[(유학생) 23-2 슬기로운 한국어 학술모임 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220777&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 글로벌교양학부 (~2023-09-01)
-
-* **[(재공지) [박물관] 2023 박물관 문화강좌프로그램 안내(선착순 모집)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220775&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 박물관 (~2023-09-01)
-
-* **[&#x27;혹시 너... T야?&#x27; 정서조절을 위한 정서인식과 표현 (1차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220774&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 인권센터 학생상담소 (~2023-09-01)
