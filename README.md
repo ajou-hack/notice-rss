@@ -36,6 +36,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[다산학부대학] ★아주강좌2 일정 및 수강신청 안내★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220861&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-09-04)
+
+* **[[공학교육혁신센터] 2023학년도 2학기 공학인증 학생상담 안내 (12.12.까지)* 금학기 연장 없음*](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220855&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 공학교육혁신센터 (~2023-09-04)
+
+* **[(유학생) 23-2 슬기로운 한국어 학술모임 모집(~9/15)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220854&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 글로벌교양학부 (~2023-09-04)
+
 * **[2023학년도 2학기 동아리 박람회 개최 (2023.09.04~2023.09.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220846&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-09-04)
 
@@ -116,12 +125,3 @@
 
 * **[[한국주택금융공사] 청년 주택임대차 교육 콘텐츠](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220749&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-09-01)
-
-* **[[다산학부대학] 2023-2학기 정정기간 중 교양과목 수강신청 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220737&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-08-31)
-
-* **[[시설팀] 2023학년도 하절기 냉방시설 연장운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220727&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2023-08-31)
-
-* **[[일자리+센터] 23-4기 A.C.E.STUDY(멘토링 프로그램 2차모집)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220718&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-08-31)
