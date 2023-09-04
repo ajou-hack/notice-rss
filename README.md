@@ -39,6 +39,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[(캡스톤, D-PBL 수강생)기업, 지역사회가 제시한 &#x27;현장문제 해결 프로젝트&#x27; 활용 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220890&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2023-09-04)
+
+* **[[다산학부대학] 교양 과목 살아있는 박물관(X061) 수강신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220888&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학 (~2023-09-04)
+
 * **[[remind][학부] 2023-2학기 학부 등록금 분할납부 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220887&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 재무회계팀 (~2023-09-04)
 
@@ -122,9 +128,3 @@
 
 * **[&#x27;혹시 너... T야?&#x27; 정서조절을 위한 정서인식과 표현 (1차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220774&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 인권센터 학생상담소 (~2023-09-01)
-
-* **[사회봉사센터 뉴스레터 제 5호 &quot; 아주대 멘토들을 찾아서&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220770&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 사회봉사센터 (~2023-09-01)
-
-* **[[교내장학] 2023학년도 2학기 사회봉사장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220763&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 사회봉사센터 (~2023-09-01)
