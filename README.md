@@ -39,6 +39,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[스마트팩토리 (PLC 자동화제어) 전문 인력 양성 과정(2차) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220916&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 기업지원센터 (~2023-09-04)
+
+* **[[다산학부대학] 2023-2학기 고전 에세이대회 모집 안내(~9/7(목))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220913&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 다산학부대학 교학팀 (~2023-09-04)
+
+* **[[다산학부대학] 2023-2학기 고전 토론대회 모집 안내(~9/7(목))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220911&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 다산학부대학 교학팀 (~2023-09-04)
+
+* **[[다산학부대학] 2023-2학기 다산서원(茶山書院) 15기 모집 안내(~9/6(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220908&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 다산학부대학 교학팀 (~2023-09-04)
+
 * **[[메이커스페이스] 기초교육 교육생 모집안내 (포토샵, 일러스트, 3D스캐너, 3D프린터 순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220904&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-09-04)
 
@@ -116,15 +128,3 @@
 
 * **[[봉사활동] 아주대학교 사회봉사단 대학(원)생 활동가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220801&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-09-01)
-
-* **[[메이커스페이스] 3D프린터 장비운용 기초교육생 모집(9월 1회차_&#x27;23.09.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220797&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-09-01)
-
-* **[수림재단 제 10회 동교인재상 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220790&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-09-01)
-
-* **[[미래자동차 렉처시리즈] ESG로 인한 기업 경영 환경의 변화와 도전](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220787&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 혁신융합단 (~2023-09-01)
-
-* **[(유학생) 23-2 슬기로운 한국어 학술모임 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220777&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 글로벌교양학부 (~2023-09-01)
