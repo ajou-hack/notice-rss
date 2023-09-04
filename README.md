@@ -39,6 +39,24 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[remind][학부] 2023-2학기 학부 등록금 분할납부 시행 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220887&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 재무회계팀 (~2023-09-04)
+
+* **[(재공지) 유익한 방학생활 에세이 공모전(~9/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220886&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-09-04)
+
+* **[(재공지) 스토리가 있는 사진 공모전 (~9/7)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220885&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-09-04)
+
+* **[[일자리+센터] 2023학년도 ALL라인 멘토스 멘티 신청 접수(9/1~)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220883&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-04)
+
+* **[[사회조사연구센터] &quot;아카이브의 미래&quot; 콜로키엄 시리즈](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220881&amp;article.offset=0&amp;articleLimit=30)**
+ [학술] - 사회과학대학교학팀 (~2023-09-04)
+
+* **[[중앙전파관리소] 적합성평가(KC, 전자파인증) 제도 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220880&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-09-04)
+
 * **[[봉사활동](9/5단체헌혈지원)생명을 살리는 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220869&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-09-04)
 
@@ -110,21 +128,3 @@
 
 * **[[교내장학] 2023학년도 2학기 사회봉사장학생 선발 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220763&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 사회봉사센터 (~2023-09-01)
-
-* **[[아주팝스 오케스트라] 아주대학교 개교 50주년 기념 연주회에 여러분을 초대합니다! (2023.09.08)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220761&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-09-01)
-
-* **[[일자리+센터] 대학일자리플러스센터 뉴스레터 제59호(2023.09)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220760&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-01)
-
-* **[[일자리+센터] 9월 1주차 이공계인력중개센터 채용 정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220758&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-01)
-
-* **[[비교과교육지원센터] 아주대와 함께하는 문화산책 (9월-10월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220757&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-09-01)
-
-* **[[일자리+센터] 2023 선배만남의 날(LG에너지솔루션) 프로그램 참여안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220754&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-01)
-
-* **[[비교과교육지원센터] 아주허브에서 9월 퀴즈 풀고 기프티콘 받아가자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220753&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-09-01)
