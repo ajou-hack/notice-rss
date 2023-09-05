@@ -39,6 +39,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학습법] 2023-2학기 학습공동체(III) 공부가치 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220959&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-09-05)
+
+* **[[학습법] 2023-2학기 학습공동체(II) ASAP 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220957&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-09-05)
+
+* **[[학습법] 2023-2학기 학습공동체(I) 스터디그룹 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220956&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-09-05)
+
 * **[[봉사활동] &#x27;사랑의 헌혈 캠페인&#x27; 교내 헌혈버스 방문 안내(한마음혈액원)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220945&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-09-05)
 
@@ -119,12 +128,3 @@
 
 * **[2023학년도 2학기 동아리 박람회 개최 (2023.09.04~2023.09.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220846&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-09-04)
-
-* **[[학습법] ChatGPT 마스터하기(3차) ChatGPT 학습 활용 방법(오늘 신청 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220842&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-09-04)
-
-* **[[학습법] ChatGPT 마스터하기(2차) ChatGPT 좋은 질문 만들기(오늘 신청 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220841&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-09-04)
-
-* **[[학습법] ChatGPT 마스터하기(1차) ChatGPT에 대한 이해(오늘 신청 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220839&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-09-04)
