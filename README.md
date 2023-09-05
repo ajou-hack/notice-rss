@@ -39,6 +39,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[(예비군연대) 23년도 기본훈련(2차) 일정 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220991&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 예비군연대 (~2023-09-05)
+
+* **[[개교50주년][국제교류팀] 기억 속의 외국인 아주대 동문을 찾습니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220990&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 국제교류팀 (~2023-09-05)
+
+* **[[지식재산] 2023-2학기 지시재산능력시험(IPAT) 응시 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220986&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 지식재산융합인재양성사업 (~2023-09-05)
+
+* **[(재공지) [지식재산] 2023-2학기 지식재산기반 발명/사업화 아이디어 경진대회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220983&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 지식재산융합인재양성사업 (~2023-09-05)
+
 * **[[인권센터 성평등상담소] 2023년 온라인 법정필수교육 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220972&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 인권센터 성평등상담소 (~2023-09-05)
 
@@ -116,15 +128,3 @@
 
 * **[[봉사활동](재공지) 함께 이루는 꿈! 온(溫)택트 학습 멘토링 대학(원)생 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220868&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-09-04)
-
-* **[[일자리+센터]아주대와 함께하는 삼성물산 리조트부문 채용상담회(9/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220866&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-04)
-
-* **[[다산학부대학] ★아주강좌2 수강신청 및 일정 안내★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220861&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-09-04)
-
-* **[[공학교육혁신센터] 2023학년도 2학기 공학인증 학생상담 안내 (12.12.까지)* 금학기 연장 없음*](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220855&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 공학교육혁신센터 (~2023-09-04)
-
-* **[(유학생) 23-2 슬기로운 한국어 학술모임 모집(~9/15)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220854&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 글로벌교양학부 (~2023-09-04)
