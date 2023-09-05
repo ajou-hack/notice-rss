@@ -39,6 +39,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[인권센터 성평등상담소] 2023년 온라인 법정필수교육 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220972&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 인권센터 성평등상담소 (~2023-09-05)
+
 * **[[학습법] 2023-2학기 학습공동체(III) 공부가치 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220959&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-09-05)
 
@@ -125,6 +128,3 @@
 
 * **[(유학생) 23-2 슬기로운 한국어 학술모임 모집(~9/15)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220854&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 글로벌교양학부 (~2023-09-04)
-
-* **[2023학년도 2학기 동아리 박람회 개최 (2023.09.04~2023.09.05)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220846&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-09-04)
