@@ -39,6 +39,24 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[봉사활동] &#x27;사랑의 헌혈 캠페인&#x27; 교내 헌혈버스 방문 안내(한마음혈액원)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220945&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-09-05)
+
+* **[[일자리+센터]아주대와 함께하는 삼성전자 DS부문 AVP사업팀 채용상담회(9/8금) 및 온라인 직무설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220944&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-05)
+
+* **[[일자리+센터]아주대와 함께하는 삼성전기 채용상담회(9/6(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220943&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-05)
+
+* **[[다산학부대학] ★아주강좌2 일정 및 수강신청 안내★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220937&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-09-05)
+
+* **[[보건의료통합봉사회] 2023하반기 자원봉사자 추가모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220936&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 사회봉사센터 (~2023-09-05)
+
+* **[[수원제일평생학교] 2023년 꿈트는 1080토요학교 프로그램」](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220935&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 사회봉사센터 (~2023-09-05)
+
 * **[스마트팩토리 (PLC 자동화제어) 전문 인력 양성 과정(2차) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220916&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2023-09-04)
 
@@ -110,21 +128,3 @@
 
 * **[[학습법] ChatGPT 마스터하기(1차) ChatGPT에 대한 이해(오늘 신청 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220839&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-09-04)
-
-* **[[다산학부대학] 2023-2학기 아주인성, 고급영어 여석반 수강신청 처리 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220824&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-09-01)
-
-* **[[다산학부대학] 2023-2학기 환경과 인간 강의실 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220823&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-09-01)
-
-* **[[일자리+센터] 아주대와 함께하는 LIG 넥스원 채용상담회(9/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220818&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-01)
-
-* **[[과학영재교육원] 스마트 수과학실 참가자 모집(초등 및 중등)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220810&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 과학영재교육원 (~2023-09-01)
-
-* **[[일자리+센터] 아주대와 함께하는 삼성디스플레이 채용상담회 및 채용설명회(9/4~5)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220806&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-01)
-
-* **[[봉사활동] 아주대학교 사회봉사단 대학(원)생 활동가 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220801&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-09-01)
