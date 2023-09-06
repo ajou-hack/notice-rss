@@ -9,9 +9,6 @@
 * **[📌 [공지] 수강신청 부정행위에 대한 처리 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220673&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-08-30)
 
-* **[📌 [공지] [remind][학부] 2023-2학기 등록/환불 안내(09.04.~09.05.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220608&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 재무회계팀 (~2023-08-28)
-
 * **[📌 [공지] [학부/학사과정] ★필독★ 출석(전자출결, 공결, 취업계, 코로나 등) 관련 안내(08.28.수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220586&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-08-28)
 
@@ -39,13 +36,22 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023 U리그1 F/W 시즌권 얼리버드 신청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221005&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-09-05)
+
+* **[[LINC 3.0] 2023-2학기 캡스톤디자인 교과목 프로젝트 수행비 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221003&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 산학사업팀 (~2023-09-05)
+
+* **[[LINC 3.0]2023 산학교수님과 함께하는 &quot;찾아가는 현장실습 상담회&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220999&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2023-09-05)
+
 * **[(예비군연대) 23년도 기본훈련(2차) 일정 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220991&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 예비군연대 (~2023-09-05)
 
 * **[[개교50주년][국제교류팀] 기억 속의 외국인 아주대 동문을 찾습니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220990&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 국제교류팀 (~2023-09-05)
 
-* **[[지식재산] 2023-2학기 지시재산능력시험(IPAT) 응시 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220986&amp;article.offset=0&amp;articleLimit=30)**
+* **[[지식재산] 2023-2학기 지식재산능력시험(IPAT) 응시 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220986&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 지식재산융합인재양성사업 (~2023-09-05)
 
 * **[(재공지) [지식재산] 2023-2학기 지식재산기반 발명/사업화 아이디어 경진대회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220983&amp;article.offset=0&amp;articleLimit=30)**
@@ -119,12 +125,3 @@
 
 * **[[사회조사연구센터] &quot;아카이브의 미래&quot; 콜로키엄 시리즈](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220881&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - 사회과학대학교학팀 (~2023-09-04)
-
-* **[[중앙전파관리소] 적합성평가(KC, 전자파인증) 제도 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220880&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-09-04)
-
-* **[[봉사활동](9/5단체헌혈지원)생명을 살리는 자원봉사자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220869&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-09-04)
-
-* **[[봉사활동](재공지) 함께 이루는 꿈! 온(溫)택트 학습 멘토링 대학(원)생 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220868&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-09-04)
