@@ -36,6 +36,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[대학교육혁신원 뉴스레터 제14호(2023.08)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221062&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 대학교육혁신원 (~2023-09-06)
+
 * **[이동 금연 클리닉](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221056&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 보건진료소 (~2023-09-06)
 
@@ -122,6 +125,3 @@
 
 * **[[일자리+센터]아주대와 함께하는 삼성전기 채용상담회(9/6(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220943&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-09-05)
-
-* **[[다산학부대학] ★아주강좌2 일정 및 수강신청 안내★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220937&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-09-05)
