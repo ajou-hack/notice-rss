@@ -36,6 +36,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[다산학부대학] 2023-2학기 교양과목 폐강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221074&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 다산학부대학교학팀 (~2023-09-06)
+
+* **[[재공지] 2023 SW커리어페어 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221072&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - SW융합교육원 (~2023-09-06)
+
 * **[대학교육혁신원 뉴스레터 제14호(2023.08)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221062&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2023-09-06)
 
@@ -119,9 +125,3 @@
 
 * **[[봉사활동] &#x27;사랑의 헌혈 캠페인&#x27; 교내 헌혈버스 방문 안내(한마음혈액원)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220945&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-09-05)
-
-* **[[일자리+센터]아주대와 함께하는 삼성전자 DS부문 AVP사업팀 채용상담회(9/8금) 및 온라인 직무설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220944&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-05)
-
-* **[[일자리+센터]아주대와 함께하는 삼성전기 채용상담회(9/6(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220943&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-05)
