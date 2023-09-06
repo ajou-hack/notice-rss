@@ -36,6 +36,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[해외취업] 2023 해외취업 박람회 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221045&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-06)
+
 * **[2023-2학기 한국어스터디 멘토 추가 모집(~9/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221043&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 글로벌교양학부 (~2023-09-06)
 
@@ -122,6 +125,3 @@
 
 * **[스마트팩토리 (PLC 자동화제어) 전문 인력 양성 과정(2차) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220916&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2023-09-04)
-
-* **[[다산학부대학] 2023-2학기 고전 에세이대회 모집 안내(~9/7(목))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220913&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 다산학부대학 교학팀 (~2023-09-04)
