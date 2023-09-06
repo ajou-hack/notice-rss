@@ -36,6 +36,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023-2학기 한국어스터디 멘토 추가 모집(~9/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221043&amp;article.offset=0&amp;articleLimit=30)**
+ [장학] - 글로벌교양학부 (~2023-09-06)
+
+* **[[일자리+센터] 9월 캠퍼스리크루팅 일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221041&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-06)
+
 * **[[일자리+센터][당일공지]아주대와 함께하는 삼성전기 채용상담회(9/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221035&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-09-06)
 
@@ -118,10 +124,4 @@
  [기타] - 기업지원센터 (~2023-09-04)
 
 * **[[다산학부대학] 2023-2학기 고전 에세이대회 모집 안내(~9/7(목))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220913&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 다산학부대학 교학팀 (~2023-09-04)
-
-* **[[다산학부대학] 2023-2학기 고전 토론대회 모집 안내(~9/7(목))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220911&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 다산학부대학 교학팀 (~2023-09-04)
-
-* **[[다산학부대학] 2023-2학기 다산서원(茶山書院) 15기 모집 안내(~9/6(수))](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220908&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 다산학부대학 교학팀 (~2023-09-04)
