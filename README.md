@@ -36,6 +36,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[중앙도서관] (추계방역 및 교내 정전) 열람실 및 홈페이지 이용 중지 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221125&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2023-09-07)
+
+* **[[홍보] 「2023 경기로크로드 로컬챌린지 해커톤」 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221121&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2023-09-07)
+
 * **[아주팝스 오케스트라의 아주대학교 개교 50주년 기념 연주회에 여러분을 초대합니다! (2023.09.08)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221117&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 학생지원팀 (~2023-09-07)
 
@@ -119,9 +125,3 @@
 
 * **[[LINC 3.0] 2023-2학기 캡스톤디자인 교과목 프로젝트 수행비 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221003&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 산학사업팀 (~2023-09-05)
-
-* **[[LINC 3.0]2023 산학교수님과 함께하는 &quot;찾아가는 현장실습 상담회&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220999&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2023-09-05)
-
-* **[(예비군연대) 23년도 기본훈련(2차) 일정 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220991&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 예비군연대 (~2023-09-05)
