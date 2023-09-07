@@ -36,6 +36,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[수변전설비 정기검사 및 원천관 변압기 용량증설공사 관련 교내 전체 정전(2023년 9월 17일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221089&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2023-09-07)
+
+* **[[일자리+센터] 아주대와 함께하는 &#x27;삼성전자 생산기술연구소&#x27; 채용상담회(9/12화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221086&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-07)
+
+* **[[일자리+센터][당일공지]아주대와 함께하는 LIG넥스원 채용상담회(9/7목)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221080&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-07)
+
 * **[[다산학부대학] 2023-2학기 교양과목 폐강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221074&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 다산학부대학교학팀 (~2023-09-06)
 
@@ -116,12 +125,3 @@
 
 * **[[학습법] 2023-2학기 학습공동체(III) 공부가치 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220959&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-09-05)
-
-* **[[학습법] 2023-2학기 학습공동체(II) ASAP 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220957&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-09-05)
-
-* **[[학습법] 2023-2학기 학습공동체(I) 스터디그룹 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220956&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-09-05)
-
-* **[[봉사활동] &#x27;사랑의 헌혈 캠페인&#x27; 교내 헌혈버스 방문 안내(한마음혈액원)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220945&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-09-05)
