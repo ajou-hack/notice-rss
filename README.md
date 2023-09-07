@@ -36,6 +36,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[아주팝스 오케스트라의 아주대학교 개교 50주년 기념 연주회에 여러분을 초대합니다! (2023.09.08)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221117&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-09-07)
+
+* **[[봉사활동] 9/13 사랑의 헌혈운동(대한적십자사) 헌혈버스 방문 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221115&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-09-07)
+
+* **[[학습법] 2023-2학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221114&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-09-07)
+
 * **[[정보시스템팀] 교내 정전으로 인한 전산서비스 중지 안내(9/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221111&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 정보시스템팀 (~2023-09-07)
 
@@ -116,12 +125,3 @@
 
 * **[(예비군연대) 23년도 기본훈련(2차) 일정 관련 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220991&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 예비군연대 (~2023-09-05)
-
-* **[[개교50주년][국제교류팀] 기억 속의 외국인 아주대 동문을 찾습니다.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220990&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 국제교류팀 (~2023-09-05)
-
-* **[[지식재산] 2023-2학기 지식재산능력시험(IPAT) 응시 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220986&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 지식재산융합인재양성사업 (~2023-09-05)
-
-* **[(재공지) [지식재산] 2023-2학기 지식재산기반 발명/사업화 아이디어 경진대회 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220983&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 지식재산융합인재양성사업 (~2023-09-05)
