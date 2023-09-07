@@ -36,6 +36,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학생지원팀] Ajou Athletic Program(아주 1인 1운동 캠페인) 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221136&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-09-07)
+
+* **[산학연협력 뉴스레터 제51호(2023.08)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221135&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2023-09-07)
+
+* **[[일자리+센터][재공지] 삼성전자 DS부문 AVP사업팀 채용상담회(9/8금) 및 온라인 직무설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221130&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-07)
+
 * **[[중앙도서관] (추계방역 및 교내 정전) 열람실 및 홈페이지 이용 중지 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221125&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학술정보팀 (~2023-09-07)
 
@@ -116,12 +125,3 @@
 
 * **[[아주대학보사] 아주대학보 674호 발간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221024&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-09-06)
-
-* **[(재공지)[다산학부대학] ★아주강좌2 일정 및 수강신청 안내★](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221020&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-09-06)
-
-* **[2023 U리그1 F/W 시즌권 얼리버드 신청](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221005&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-09-05)
-
-* **[[LINC 3.0] 2023-2학기 캡스톤디자인 교과목 프로젝트 수행비 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221003&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 산학사업팀 (~2023-09-05)
