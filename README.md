@@ -6,14 +6,11 @@
 * **[📌 [공지] 어학 졸업인증(2024년 2월 졸업)을 위한 공인어학 성적 등록 및 제출 안내 (~2024.1.26)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220675&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-08-30)
 
-* **[📌 [공지] 수강신청 부정행위에 대한 처리 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220673&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-08-30)
+* **[📌 [공지] 이동 금연 클리닉 운영](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220628&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 보건진료소 (~2023-08-29)
 
 * **[📌 [공지] [학부/학사과정] ★필독★ 출석(전자출결, 공결, 취업계, 코로나 등) 관련 안내(08.28.수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220586&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-08-28)
-
-* **[📌 [공지] [학부]2023-2학기 수강정정 안내(9/1(금)~9/7(목), 토/일 제외)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220411&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-08-23)
 
 * **[📌 [공지] [학부/학사과정]2023학년도 전기(2024년 2월) 조기졸업 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220402&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-08-23)
@@ -24,9 +21,6 @@
 * **[📌 [공지] [필독]2023학년도 2학기 국가장학금 2차 신청안내 (8. 17. ~ 9. 14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220054&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-08-14)
 
-* **[📌 [공지] [학부]2023-2학기 학사과정 학과별 개설과목 현황 안내(수시 업데이트 예정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=219065&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-07-14)
-
 * **[📌 [공지] [학사] 2023-2학기 휴학/복학 신청 안내 (8/25 수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215587&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-06-08)
 
@@ -35,6 +29,9 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
+
+* **[[교육평가인증센터] 2023년 학부생 아주대학교 교육수요자만족도 조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221150&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교육평가인증센터 (~2023-09-08)
 
 * **[[학생지원팀] Ajou Athletic Program(아주 1인 1운동 캠페인) 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221136&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-09-07)
@@ -121,7 +118,4 @@
  [기타] - 학생지원팀 (~2023-09-06)
 
 * **[[아주대학교 영자신문사] The Ajou Globe 165호 발간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221025&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-09-06)
-
-* **[[아주대학보사] 아주대학보 674호 발간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221024&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-09-06)
