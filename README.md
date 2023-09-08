@@ -30,6 +30,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학생지원팀] 2023-2 신입생을 위한 생각의 마중길](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221191&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-09-08)
+
+* **[[메이커스페이스] 레이저커터 장비운용 기초교육생 모집(9월 1회차_&#x27;23.09.12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221190&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 창업지원팀 (~2023-09-08)
+
+* **[[일자리+센터]아주대와 함께하는 CJ올리브네트웍스 채용설명회_9/14(목) 10시](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221189&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-08)
+
+* **[[일자리+센터] 아주대와 함께하는 뷰웍스 채용상담회, 설명회_9/14(목)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221188&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-08)
+
+* **[[일자리+센터] 아주대와 함께하는 삼성 에스원 채용상담회_9/13(수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221187&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-08)
+
 * **[[일자리+센터] 아주대와 함께하는 삼성전자 생산기술연구소 채용상담회_9/12(화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221186&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-09-08)
 
@@ -104,18 +119,3 @@
 
 * **[[인권센터 학생상담소] 개인상담 및 심리검사 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221092&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 인권센터 학생상담소 (~2023-09-07)
-
-* **[수변전설비 정기검사 및 원천관 변압기 용량증설공사 관련 교내 전체 정전(2023년 9월 17일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221089&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2023-09-07)
-
-* **[[일자리+센터][당일공지]아주대와 함께하는 LIG넥스원 채용상담회(9/7목)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221080&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-07)
-
-* **[[다산학부대학] 2023-2학기 교양과목 폐강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221074&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 다산학부대학교학팀 (~2023-09-06)
-
-* **[[재공지] 2023 SW커리어페어 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221072&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - SW융합교육원 (~2023-09-06)
-
-* **[대학교육혁신원 뉴스레터 제14호(2023.08)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221062&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 대학교육혁신원 (~2023-09-06)
