@@ -30,6 +30,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[미래자동차 렉처시리즈] 9/11(월) ESG전문 변호사 특강 (스타벅스기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221160&amp;article.offset=0&amp;articleLimit=30)**
+ [학술] - 혁신융합팀 (~2023-09-08)
+
+* **[2023 전국 대학생 정책아이디어 PT대회 (2023.09.20~10.31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221159&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-09-08)
+
+* **[[학습법] 파워포인트 시리즈3 - 발표를 위한 파워포인트의 모든 것](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221157&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-09-08)
+
+* **[[학습법] 파워포인트 시리즈2 - 인포그래픽, 정보의 시각화](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221156&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-09-08)
+
+* **[[학습법] 파워포인트 시리즈1 - 대학생을 위한 파워포인트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221154&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-09-08)
+
 * **[[교육평가인증센터] 2023년 학부생 아주대학교 교육수요자만족도 조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221150&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교육평가인증센터 (~2023-09-08)
 
@@ -104,18 +119,3 @@
 
 * **[[일자리+센터][당일공지]아주대와 함께하는 삼성물산 리조트부문 채용상담회(9/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221033&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-09-06)
-
-* **[[학습법] 2023-2학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221030&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-09-06)
-
-* **[[학습법] 2023학년도 신입생을 위한 학습 전략 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221028&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-09-06)
-
-* **[[학습법] 2023-2학기 온라인 학습법 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221027&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-09-06)
-
-* **[[아주대학교 영자신문사] The Ajou Globe 머그컵 이벤트 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221026&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-09-06)
-
-* **[[아주대학교 영자신문사] The Ajou Globe 165호 발간 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221025&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-09-06)
