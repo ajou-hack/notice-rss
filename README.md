@@ -30,6 +30,24 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[일자리+센터] 아주대와 함께하는 삼성전자 생산기술연구소 채용상담회_9/12(화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221186&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-08)
+
+* **[[일자리+센터] 아주대와 함께하는 삼성전자 네트워크사업부 채용 상담회,설명회_9/11(월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221185&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-08)
+
+* **[[일자리+센터] 아주대와 함께하는 포스코그룹 채용설명회_9/11(월) 11시](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221184&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-08)
+
+* **[[일자리+센터] 9월 2주차 이공계인력중개센터 채용정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221181&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-08)
+
+* **[[시설팀] 원천관 251호 강당 냉방시설 사용불가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221179&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2023-09-08)
+
+* **[2023년 경기DD캠프 교육생 모집 홍보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221178&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 학생지원팀 (~2023-09-08)
+
 * **[서울과 경기 사이 당신을 위한 무료 쉼터 &#x27;경기 버스 라운지&#x27; 홍보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221170&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-09-08)
 
@@ -90,9 +108,6 @@
 * **[수변전설비 정기검사 및 원천관 변압기 용량증설공사 관련 교내 전체 정전(2023년 9월 17일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221089&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 시설팀 (~2023-09-07)
 
-* **[[일자리+센터] 아주대와 함께하는 &#x27;삼성전자 생산기술연구소&#x27; 채용상담회(9/12화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221086&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-07)
-
 * **[[일자리+센터][당일공지]아주대와 함께하는 LIG넥스원 채용상담회(9/7목)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221080&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-09-07)
 
@@ -104,18 +119,3 @@
 
 * **[대학교육혁신원 뉴스레터 제14호(2023.08)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221062&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 대학교육혁신원 (~2023-09-06)
-
-* **[이동 금연 클리닉](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221056&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 보건진료소 (~2023-09-06)
-
-* **[[봉사활동](추가모집) 함께 이루는 꿈! 온(溫)택트 학습 멘토링 대학(원)생 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221055&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-09-06)
-
-* **[[LINC3.0] AJOU 투자유치 역량강화 아카데미 참가자 모집(교육,멘토링,데모데이)_09.19.~09.20.](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221050&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 산학사업팀(창업교육센터) (~2023-09-06)
-
-* **[[해외취업] 2023 해외취업 박람회 참여자 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221045&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-06)
-
-* **[2023-2학기 한국어스터디 멘토 추가 모집(~9/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221043&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 글로벌교양학부 (~2023-09-06)
