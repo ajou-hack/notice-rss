@@ -30,10 +30,13 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[서울과 경기 사이 당신을 위한 무료 쉼터 &#x27;경기 버스 라운지&#x27; 홍보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221170&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-09-08)
+
 * **[[일자리+센터]2023 하반기 캠퍼스리크루팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221168&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-09-08)
 
-* **[[일자리+센터] 2023 하반기 삼성 기회균등 특별채용 지원자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221166&amp;article.offset=0&amp;articleLimit=30)**
+* **[[일자리+센터] 2023 하반기 삼성 기회균등 특별채용 지원자 모집(~9/12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221166&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-09-08)
 
 * **[[미래자동차 렉처시리즈] 9/11(월) ESG전문 변호사 특강 (스타벅스기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221160&amp;article.offset=0&amp;articleLimit=30)**
@@ -116,6 +119,3 @@
 
 * **[2023-2학기 한국어스터디 멘토 추가 모집(~9/8)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221043&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 글로벌교양학부 (~2023-09-06)
-
-* **[[일자리+센터] 9월 캠퍼스리크루팅 일정 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221041&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-06)
