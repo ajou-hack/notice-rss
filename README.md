@@ -30,6 +30,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[일자리+센터] 2023 하반기 삼성 기회균등 특별채용 지원자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221166&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-08)
+
 * **[[미래자동차 렉처시리즈] 9/11(월) ESG전문 변호사 특강 (스타벅스기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221160&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - 혁신융합팀 (~2023-09-08)
 
@@ -115,7 +118,4 @@
  [취업] - 대학일자리플러스센터 (~2023-09-06)
 
 * **[[일자리+센터][당일공지]아주대와 함께하는 삼성전기 채용상담회(9/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221035&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-06)
-
-* **[[일자리+센터][당일공지]아주대와 함께하는 삼성물산 리조트부문 채용상담회(9/6)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221033&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-09-06)
