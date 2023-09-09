@@ -1,8 +1,5 @@
 # 최근 공지사항
 
-* **[📌 [공지] &lt; 2023학년도 독감 예방접종 시행 안내&gt; 2023 Flu Vaccination Schedule and Information](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220764&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 보건진료소 (~2023-09-01)
-
 * **[📌 [공지] 어학 졸업인증(2024년 2월 졸업)을 위한 공인어학 성적 등록 및 제출 안내 (~2024.1.26)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220675&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-08-30)
 
