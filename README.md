@@ -36,6 +36,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[일자리+센터] 2023 하반기 서류 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221298&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-11)
+
+* **[2023 이데일리 K-모빌리티 포럼 현장 참여자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221297&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 혁신융합단 (~2023-09-11)
+
+* **[[혁신융합] 혁신공유라운지 사용불가 안내 (09월 13일 수요일 17:00 ~ 21:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221295&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신융합팀 (~2023-09-11)
+
+* **[[혁신융합] 혁신공유라운지 사용불가 안내 (09월 13일 수요일 10:00 ~ 12:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221294&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 혁신융합팀 (~2023-09-11)
+
+* **[&#x27;혹시 너... T야?&#x27; 정서조절을 위한 정서인식과 표현 (2차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221293&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 인권센터 학생상담소 (~2023-09-11)
+
 * **[[일자리+센터][당일공지] 아주대와 함께하는 삼성전자 네트워크사업부 채용상담회/설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221284&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-09-11)
 
@@ -110,18 +125,3 @@
 
 * **[[미래자동차 렉처시리즈] 9/11(월) ESG전문 변호사 특강 (스타벅스기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221160&amp;article.offset=0&amp;articleLimit=30)**
  [학술] - 혁신융합팀 (~2023-09-08)
-
-* **[2023 전국 대학생 정책아이디어 PT대회 (2023.09.20~10.31)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221159&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-09-08)
-
-* **[[학습법] 파워포인트 시리즈3 - 발표를 위한 파워포인트의 모든 것](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221157&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-09-08)
-
-* **[[학습법] 파워포인트 시리즈2 - 인포그래픽, 정보의 시각화](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221156&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-09-08)
-
-* **[[학습법] 파워포인트 시리즈1 - 대학생을 위한 파워포인트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221154&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-09-08)
-
-* **[[교육평가인증센터] 2023년 학부생 아주대학교 교육수요자만족도 조사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221150&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교육평가인증센터 (~2023-09-08)
