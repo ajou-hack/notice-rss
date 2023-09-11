@@ -1,10 +1,19 @@
 # 최근 공지사항
 
+* **[📌 [공지] [학생지원팀] Ajou Athletic Program(아주 1인 1운동 캠페인) 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221228&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-09-11)
+
+* **[📌 [공지] [학생지원팀] 2023-2 신입생을 위한 생각의 마중길](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221191&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-09-08)
+
 * **[📌 [공지] 어학 졸업인증(2024년 2월 졸업)을 위한 공인어학 성적 등록 및 제출 안내 (~2024.1.26)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220675&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-08-30)
 
 * **[📌 [공지] 이동 금연 클리닉 운영](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220628&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 보건진료소 (~2023-08-29)
+
+* **[📌 [공지] [remind][학부] 2023-2학기 등록/환불 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220608&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 재무회계팀 (~2023-08-28)
 
 * **[📌 [공지] [학부/학사과정] ★필독★ 출석(전자출결, 공결, 취업계, 코로나 등) 관련 안내(08.28.수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220586&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-08-28)
@@ -27,23 +36,20 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[LINC 3.0] 2023 제19회 LINC 3.0 현장실습 수기·영상 공모전 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221264&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2023-09-11)
+
 * **[2023학년도 2학기 총학생회비 추가 납부(개별 납부) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221248&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-09-11)
 
 * **[[총무팀]개인정보보호주간(2023.09.11.~09.15.) 캠페인 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221247&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2023-09-11)
 
-* **[[학생지원팀] Ajou Athletic Program(아주 1인 1운동 캠페인) 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221228&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-09-11)
-
 * **[(재공지)아주허브에서 9월 퀴즈 풀고 기프티콘 받아가자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221215&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 비교과교육지원센터 (~2023-09-11)
 
 * **[[SW융합교육원] AJOU MOCA-MOOC &quot;컴퓨터 과학적 사고-Python&quot; 운영](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221197&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW융합교육원 (~2023-09-09)
-
-* **[[학생지원팀] 2023-2 신입생을 위한 생각의 마중길](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221191&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-09-08)
 
 * **[[메이커스페이스] 레이저커터 장비운용 기초교육생 모집(9월 1회차_&#x27;23.09.12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221190&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-09-08)
@@ -116,3 +122,6 @@
 
 * **[[홍보] 「2023 경기로크로드 로컬챌린지 해커톤」 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221121&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학사업팀 (~2023-09-07)
+
+* **[아주팝스 오케스트라의 아주대학교 개교 50주년 기념 연주회에 여러분을 초대합니다! (2023.09.08)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221117&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-09-07)
