@@ -27,6 +27,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학생지원팀] Ajou Athletic Program(아주 1인 1운동 캠페인) 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221228&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-09-11)
+
+* **[(재공지)아주허브에서 9월 퀴즈 풀고 기프티콘 받아가자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221215&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-09-11)
+
 * **[[SW융합교육원] AJOU MOCA-MOOC &quot;컴퓨터 과학적 사고-Python&quot; 운영](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221197&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW융합교육원 (~2023-09-09)
 
@@ -110,9 +116,3 @@
 
 * **[[봉사활동] 9/13 사랑의 헌혈운동(대한적십자사) 헌혈버스 방문 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221115&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-09-07)
-
-* **[[학습법] 2023-2학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221114&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-09-07)
-
-* **[[정보시스템팀] 교내 정전으로 인한 전산서비스 중지 안내(9/17)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221111&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 정보시스템팀 (~2023-09-07)
