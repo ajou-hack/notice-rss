@@ -27,6 +27,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023학년도 2학기 총학생회비 추가 납부(개별 납부) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221248&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-09-11)
+
+* **[[총무팀]개인정보보호주간(2023.09.11.~09.15.) 캠페인 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221247&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총무팀 (~2023-09-11)
+
 * **[[학생지원팀] Ajou Athletic Program(아주 1인 1운동 캠페인) 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221228&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-09-11)
 
@@ -110,9 +116,3 @@
 
 * **[[홍보] 「2023 경기로크로드 로컬챌린지 해커톤」 참여 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221121&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 산학사업팀 (~2023-09-07)
-
-* **[아주팝스 오케스트라의 아주대학교 개교 50주년 기념 연주회에 여러분을 초대합니다! (2023.09.08)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221117&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 학생지원팀 (~2023-09-07)
-
-* **[[봉사활동] 9/13 사랑의 헌혈운동(대한적십자사) 헌혈버스 방문 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221115&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-09-07)
