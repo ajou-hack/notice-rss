@@ -36,6 +36,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[학습법] 2023-2학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221331&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-09-12)
+
+* **[[학부] 2023학년도 2학기 취득학점포기 안내 (성적포기) (9/25~27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221329&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-09-12)
+
 * **[(예비군연대)10.5.(목) 기본훈련(2차) 관련 추가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221328&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 예비군연대 (~2023-09-12)
 
@@ -118,10 +124,4 @@
  [취업] - 대학일자리플러스센터 (~2023-09-08)
 
 * **[[일자리+센터] 아주대와 함께하는 삼성전자 네트워크사업부 채용 상담회,설명회_9/11(월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221185&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-08)
-
-* **[[일자리+센터] 아주대와 함께하는 포스코그룹 채용설명회_9/11(월) 11시](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221184&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-08)
-
-* **[[일자리+센터] 9월 2주차 이공계인력중개센터 채용정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221181&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-09-08)
