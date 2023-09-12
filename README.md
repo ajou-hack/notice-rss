@@ -36,6 +36,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[(예비군연대)10.5.(목) 기본훈련(2차) 관련 추가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221328&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 예비군연대 (~2023-09-12)
+
 * **[스마트팩토리 (PLC 자동화제어) 전문 인력 양성 과정(2차) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221316&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2023-09-12)
 
@@ -122,6 +125,3 @@
 
 * **[[일자리+센터] 9월 2주차 이공계인력중개센터 채용정보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221181&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-09-08)
-
-* **[[시설팀] 원천관 251호 강당 냉방시설 사용불가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221179&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 시설팀 (~2023-09-08)
