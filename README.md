@@ -36,6 +36,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[세종학당재단] 세종학당 우수학습자 초청 연수 대학생 자원봉사자(이끄미) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221308&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 사회봉사센터 (~2023-09-12)
+
+* **[원천정보관 해동학술정보실 및 토론학습실 이용 불가 안내 (9.17.일 전일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221306&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-09-12)
+
+* **[[일자리+센터][당일공지]아주대와 함께하는 삼성전자 생산기술연구소 채용상담회(9/12화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221305&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-12)
+
+* **[[SW융합교육원]&#x27;2023 SW기초교육 AJOU SOFTCON 개최(2023.9.25 ~ 2023.9.27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221299&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - SW융합교육원 (~2023-09-12)
+
 * **[[일자리+센터] 2023 하반기 서류 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221298&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-09-11)
 
@@ -113,15 +125,3 @@
 
 * **[2023년 경기DD캠프 교육생 모집 홍보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221178&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 학생지원팀 (~2023-09-08)
-
-* **[서울과 경기 사이 당신을 위한 무료 쉼터 &#x27;경기 버스 라운지&#x27; 홍보](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221170&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-09-08)
-
-* **[[일자리+센터]2023 하반기 캠퍼스리크루팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221168&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-08)
-
-* **[[일자리+센터] 2023 하반기 삼성 기회균등 특별채용 지원자 모집(~9/12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221166&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-08)
-
-* **[[미래자동차 렉처시리즈] 9/11(월) ESG전문 변호사 특강 (스타벅스기프티콘 증정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221160&amp;article.offset=0&amp;articleLimit=30)**
- [학술] - 혁신융합팀 (~2023-09-08)
