@@ -36,14 +36,20 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[(예비군연대)10.5.(목) 기본훈련(2차) 관련 추가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221338&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 예비군연대 (~2023-09-12)
+
+* **[[박물관] 제 48회 교양문화강좌 프로그램 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221337&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 박물관 (~2023-09-12)
+
+* **[[봉사활동](추가모집)함께 이루는 꿈! 학습멘토링 대학(원)생 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221335&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-09-12)
+
 * **[[학습법] 2023-2학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221331&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-09-12)
 
 * **[[학부] 2023학년도 2학기 취득학점포기 안내 (성적포기) (9/25~27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221329&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-09-12)
-
-* **[(예비군연대)10.5.(목) 기본훈련(2차) 관련 추가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221328&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 예비군연대 (~2023-09-12)
 
 * **[스마트팩토리 (PLC 자동화제어) 전문 인력 양성 과정(2차) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221316&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 기업지원센터 (~2023-09-12)
@@ -118,10 +124,4 @@
  [취업] - 대학일자리플러스센터 (~2023-09-08)
 
 * **[[일자리+센터] 아주대와 함께하는 삼성 에스원 채용상담회_9/13(수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221187&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-08)
-
-* **[[일자리+센터] 아주대와 함께하는 삼성전자 생산기술연구소 채용상담회_9/12(화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221186&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-08)
-
-* **[[일자리+센터] 아주대와 함께하는 삼성전자 네트워크사업부 채용 상담회,설명회_9/11(월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221185&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-09-08)
