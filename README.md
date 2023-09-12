@@ -36,6 +36,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[재공지][LINC 3.0]2023 산학교수님과 함께하는 &quot;찾아가는 현장실습 상담회&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221350&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2023-09-12)
+
 * **[[2024년도 전기 모집] 일반대학원 비즈니스애널리틱스학과 입시설명회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221348&amp;article.offset=0&amp;articleLimit=30)**
  [입학] - 경영대학교학팀 (~2023-09-12)
 
@@ -121,7 +124,4 @@
  [기타] - 창업지원팀 (~2023-09-08)
 
 * **[[일자리+센터]아주대와 함께하는 CJ올리브네트웍스 채용설명회_9/14(목) 10시](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221189&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-08)
-
-* **[[일자리+센터] 아주대와 함께하는 뷰웍스 채용상담회, 설명회_9/14(목)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221188&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-09-08)
