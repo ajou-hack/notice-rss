@@ -33,6 +33,21 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[일자리+센터]한화솔루션 온라인 채용설명회(9/22금)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221376&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-13)
+
+* **[[일자리+센터] 삼성전자 DS부문 AVP사업팀 온라인 채용설명회(9/15금)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221375&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-13)
+
+* **[[일자리+센터] 삼성전자 DS부문 TSP총괄 온라인 채용설명회(9/13수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221373&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-13)
+
+* **[[중앙도서관] 2023학년도 2학기 자료 구입 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221372&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학술정보팀 (~2023-09-13)
+
+* **[[일자리+센터] 삼성디스플레이 온라인 리쿠르팅(9/13수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221371&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-13)
+
 * **[[봉사활동](당일 재공지) 교내 헌혈버스 방문 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221360&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 사회봉사센터 (~2023-09-13)
 
@@ -107,18 +122,3 @@
 
 * **[[학습법] 2023-2학기 학습공동체(I) 스터디그룹 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221276&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-09-11)
-
-* **[(재공지) [메이커스페이스] 기초교육 교육생 추가 모집안내 (일러스트, 3D스캐너, 3D프린터 순)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221275&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-09-11)
-
-* **[23년도 제3차 동물실험기초/보수교육-2023년 9월 25일(월) 오프라인 교육](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221274&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 실험동물연구센터 (~2023-09-11)
-
-* **[[LINC 3.0] 2023 제19회 LINC 3.0 현장실습 수기·영상 공모전 결과 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221264&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2023-09-11)
-
-* **[2023학년도 2학기 총학생회비 추가 납부(개별 납부) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221248&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-09-11)
-
-* **[[총무팀]개인정보보호주간(2023.09.11.~09.15.) 캠페인 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221247&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 총무팀 (~2023-09-11)
