@@ -9,9 +9,6 @@
 * **[📌 [공지] 어학 졸업인증(2024년 2월 졸업)을 위한 공인어학 성적 등록 및 제출 안내 (~2024.1.26)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220675&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-08-30)
 
-* **[📌 [공지] 이동 금연 클리닉 운영](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220628&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 보건진료소 (~2023-08-29)
-
 * **[📌 [공지] [remind][학부] 2023-2학기 등록/환불 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220608&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 재무회계팀 (~2023-08-28)
 
@@ -35,6 +32,18 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
+
+* **[[봉사활동](당일 재공지) 교내 헌혈버스 방문 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221360&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 사회봉사센터 (~2023-09-13)
+
+* **[[일자리+센터][당일공지]아주대와 함께하는 에스원 채용상담회_9/13(수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221359&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-13)
+
+* **[[일자리+센터]대규모 42개사 캠리-채용상담회(SW커리어페어) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221355&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-12)
+
+* **[(재공지)[박물관] 2023 박물관 문화강좌프로그램 안내 (신청기간 연장 9/18 까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221353&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 박물관 (~2023-09-12)
 
 * **[[재공지][LINC 3.0]2023 산학교수님과 함께하는 &quot;찾아가는 현장실습 상담회&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221350&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 현장실습지원센터 (~2023-09-12)
@@ -113,15 +122,3 @@
 
 * **[[총무팀]개인정보보호주간(2023.09.11.~09.15.) 캠페인 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221247&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총무팀 (~2023-09-11)
-
-* **[(재공지)아주허브에서 9월 퀴즈 풀고 기프티콘 받아가자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221215&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 비교과교육지원센터 (~2023-09-11)
-
-* **[[SW융합교육원] AJOU MOCA-MOOC &quot;컴퓨터 과학적 사고-Python&quot; 운영](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221197&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW융합교육원 (~2023-09-09)
-
-* **[[메이커스페이스] 레이저커터 장비운용 기초교육생 모집(9월 1회차_&#x27;23.09.12)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221190&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 창업지원팀 (~2023-09-08)
-
-* **[[일자리+센터]아주대와 함께하는 CJ올리브네트웍스 채용설명회_9/14(목) 10시](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221189&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-08)
