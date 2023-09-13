@@ -33,6 +33,15 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[일자리+센터]아주대와 함께하는&#x27; CJ올리브넥트웍스&#x27; 채용설명회(9/14목)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221429&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-13)
+
+* **[[일자리+센터] 아주대와함께하는 &#x27;대우건설&#x27; 채용상담회(9/14목)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221428&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-13)
+
+* **[[일자리+센터]아주대와 함께하는 &#x27;뷰웍스&#x27; 채용설명회 및 상담회(9/14목)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221427&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-13)
+
 * **[2023 일본어 활용 아주대 홍보 동영상 공모전 수상자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221421&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 국제학부 (~2023-09-13)
 
@@ -113,12 +122,3 @@
 
 * **[[SW융합교육원]&#x27;2023 SW기초교육 AJOU SOFTCON 개최(2023.9.25 ~ 2023.9.27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221299&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - SW융합교육원 (~2023-09-12)
-
-* **[[일자리+센터] 2023 하반기 서류 특강](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221298&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-11)
-
-* **[2023 이데일리 K-모빌리티 포럼 현장 참여자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221297&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 혁신융합단 (~2023-09-11)
-
-* **[[혁신융합] 혁신공유라운지 사용불가 안내 (09월 13일 수요일 17:00 ~ 21:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221295&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신융합팀 (~2023-09-11)
