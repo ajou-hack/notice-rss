@@ -33,6 +33,18 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[2023 일본어 활용 아주대 홍보 동영상 공모전 수상자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221421&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 국제학부 (~2023-09-13)
+
+* **[[학습법] 2023-2학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221416&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-09-13)
+
+* **[[학습법] 2023학년도 신입생을 위한 학습 전략 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221415&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-09-13)
+
+* **[[학습법] 2023-2학기 온라인 학습법 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221414&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-09-13)
+
 * **[[수원문화재단] 2023 수원문화도시센터 문화도시 조성사업 「수원은 실험실」](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221410&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 학생지원팀 (~2023-09-13)
 
@@ -110,15 +122,3 @@
 
 * **[[혁신융합] 혁신공유라운지 사용불가 안내 (09월 13일 수요일 17:00 ~ 21:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221295&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 혁신융합팀 (~2023-09-11)
-
-* **[[혁신융합] 혁신공유라운지 사용불가 안내 (09월 13일 수요일 10:00 ~ 12:00)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221294&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 혁신융합팀 (~2023-09-11)
-
-* **[&#x27;혹시 너... T야?&#x27; 정서조절을 위한 정서인식과 표현 (2차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221293&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 인권센터 학생상담소 (~2023-09-11)
-
-* **[[일자리+센터][당일공지] 아주대와 함께하는 삼성전자 네트워크사업부 채용상담회/설명회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221284&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-11)
-
-* **[[학습법] 2023-2학기 학습공동체(III) 공부가치 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221278&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-09-11)
