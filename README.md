@@ -33,6 +33,12 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[(당일-체육관) SW커리어페어 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221473&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-14)
+
+* **[(재공지)아주허브에서 9월 퀴즈 풀고 기프티콘 받아가자!](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221469&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-09-14)
+
 * **[2023년 전국 대학생 일본어 번역대회](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221464&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 국제학부 (~2023-09-14)
 
@@ -116,9 +122,3 @@
 
 * **[(예비군연대)10.5.(목) 기본훈련(2차) 관련 추가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221338&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 예비군연대 (~2023-09-12)
-
-* **[[박물관] 제 48회 교양문화강좌 프로그램 개최 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221337&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 박물관 (~2023-09-12)
-
-* **[[봉사활동](추가모집)함께 이루는 꿈! 학습멘토링 대학(원)생 멘토 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221335&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-09-12)
