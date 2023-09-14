@@ -33,6 +33,24 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[(재공지) 아주대와 함께하는 문화산책](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221463&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-09-14)
+
+* **[제 3회 주산 법률 강좌 안내(9/20)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221454&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 법학전문대학원 (~2023-09-14)
+
+* **[(재공지) 수변전설비 정기검사 및 원천관 변압기 용량증설공사 관련 교내 전체 정전(2023년 9월 17일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221451&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2023-09-14)
+
+* **[(재공지)[LINC3.0] AJOU 투자유치 역량강화 아카데미 참가자 모집(교육,멘토링,데모데이)_09.19.~09.20.(모집기한 연장 9/18 오전까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221449&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 산학사업팀(창업교육센터) (~2023-09-14)
+
+* **[인문학이 있는 카페 &#x27;아주 씨네로그&#x27; 참여자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221447&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 비교과교육지원센터 (~2023-09-14)
+
+* **[[당일공지] 2023 SW커리어페어 행사 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221446&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - SW융합교육원 (~2023-09-14)
+
 * **[[일자리+센터]아주대와 함께하는&#x27; CJ올리브넥트웍스&#x27; 채용설명회(9/14목)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221429&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-09-13)
 
@@ -104,21 +122,3 @@
 
 * **[[학습법] 2023-2학기 학습법 컨설팅 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221331&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-09-12)
-
-* **[[학부] 2023학년도 2학기 취득학점포기 안내 (성적포기) (9/25~27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221329&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 교무팀 (~2023-09-12)
-
-* **[스마트팩토리 (PLC 자동화제어) 전문 인력 양성 과정(2차) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221316&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 기업지원센터 (~2023-09-12)
-
-* **[[세종학당재단] 세종학당 우수학습자 초청 연수 대학생 자원봉사자(이끄미) 모집](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221308&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 사회봉사센터 (~2023-09-12)
-
-* **[원천정보관 해동학술정보실 및 토론학습실 이용 불가 안내 (9.17.일 전일)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221306&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-09-12)
-
-* **[[일자리+센터][당일공지]아주대와 함께하는 삼성전자 생산기술연구소 채용상담회(9/12화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221305&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-12)
-
-* **[[SW융합교육원]&#x27;2023 SW기초교육 AJOU SOFTCON 개최(2023.9.25 ~ 2023.9.27)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221299&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - SW융합교육원 (~2023-09-12)
