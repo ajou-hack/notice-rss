@@ -30,6 +30,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[교무팀] 2024-1 학생설계전공 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221535&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 교무팀 (~2023-09-15)
+
 * **[&#x27;혹시 너... T야?&#x27; 정서조절을 위한 정서인식과 표현 (2차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221517&amp;article.offset=0&amp;articleLimit=30)**
  [비교과] - 인권센터 학생상담소 (~2023-09-15)
 
@@ -115,7 +118,4 @@
  [기타] - 교수학습개발센터 (~2023-09-13)
 
 * **[[학습법] 2023학년도 신입생을 위한 학습 전략 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221415&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-09-13)
-
-* **[[학습법] 2023-2학기 온라인 학습법 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221414&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-09-13)
