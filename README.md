@@ -30,6 +30,33 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[&#x27;혹시 너... T야?&#x27; 정서조절을 위한 정서인식과 표현 (2차)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221517&amp;article.offset=0&amp;articleLimit=30)**
+ [비교과] - 인권센터 학생상담소 (~2023-09-15)
+
+* **[[일자리+센터]아주대와 함께하는&#x27;한화글로벌/모멘텀&#x27; 채용 설명회(9/18월)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221514&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-15)
+
+* **[[일자리+센터]아주대와 함께하는 &#x27;일진그룹&#x27; 채용상담회(9/19화)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221513&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-15)
+
+* **[[학습법] 2023-2학기 학습공동체(III) 공부가치 모집 안내(오늘 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221512&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-09-15)
+
+* **[[학습법] 2023-2학기 학습공동체(II) ASAP 모집 안내(오늘 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221511&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-09-15)
+
+* **[[학습법] 2023-2학기 학습공동체(I) 스터디그룹 모집 안내(오늘 마감)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221510&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 교수학습개발센터 (~2023-09-15)
+
+* **[[일자리+센터] 아주대와 함께하는&#x27;기아&#x27; 채용상담회(9/20수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221509&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-15)
+
+* **[[일자리+센터] 아주대와 함께하는&#x27; BGF로지스&#x27; 채용설명회/상담회(9.21목)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221508&amp;article.offset=0&amp;articleLimit=30)**
+ [취업] - 대학일자리플러스센터 (~2023-09-15)
+
+* **[[재공지][LINC 3.0]2023 산학교수님과 함께하는 &quot;찾아가는 현장실습 상담회&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221503&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 현장실습지원센터 (~2023-09-15)
+
 * **[대우학원 추호석 이사장 이임인사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221499&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2023-09-15)
 
@@ -92,30 +119,3 @@
 
 * **[[학습법] 2023-2학기 온라인 학습법 특강 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221414&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 교수학습개발센터 (~2023-09-13)
-
-* **[[수원문화재단] 2023 수원문화도시센터 문화도시 조성사업 「수원은 실험실」](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221410&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학생지원팀 (~2023-09-13)
-
-* **[[온마음알리미] 경기도 심리면역 프로그램(SPRING) 꿀잼 이벤트](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221404&amp;article.offset=0&amp;articleLimit=30)**
- [비교과] - 인권센터 학생상담소 (~2023-09-13)
-
-* **[[일자리+센터]한화솔루션 온라인 채용설명회(9/22금)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221376&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-13)
-
-* **[[일자리+센터] 삼성전자 DS부문 AVP사업팀 온라인 채용설명회(9/15금)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221375&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-13)
-
-* **[[일자리+센터] 삼성전자 DS부문 TSP총괄 온라인 채용설명회(9/13수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221373&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-13)
-
-* **[[중앙도서관] 2023학년도 2학기 자료 구입 신청 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221372&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 학술정보팀 (~2023-09-13)
-
-* **[[일자리+센터] 삼성디스플레이 온라인 리쿠르팅(9/13수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221371&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-13)
-
-* **[[봉사활동](당일 재공지) 교내 헌혈버스 방문 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221360&amp;article.offset=0&amp;articleLimit=30)**
- [학사] - 사회봉사센터 (~2023-09-13)
-
-* **[[일자리+센터][당일공지]아주대와 함께하는 에스원 채용상담회_9/13(수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221359&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-13)
