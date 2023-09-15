@@ -21,9 +21,6 @@
 * **[📌 [공지] [필독][공지] 2023-2학기 ‘장학공지’ 활용방안 및 ‘면학/TA탭’ 신설 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220288&amp;article.offset=0&amp;articleLimit=30)**
  [장학] - 학생지원팀 (~2023-08-22)
 
-* **[📌 [공지] [필독]2023학년도 2학기 국가장학금 2차 신청안내 (8. 17. ~ 9. 14.)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=220054&amp;article.offset=0&amp;articleLimit=30)**
- [장학] - 학생지원팀 (~2023-08-14)
-
 * **[📌 [공지] [학사] 2023-2학기 휴학/복학 신청 안내 (8/25 수정)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=215587&amp;article.offset=0&amp;articleLimit=30)**
  [학사] - 교무팀 (~2023-06-08)
 
@@ -32,6 +29,21 @@
 
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
+
+* **[대우학원 추호석 이사장 이임인사](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221499&amp;article.offset=0&amp;articleLimit=30)**
+ [사무] - 홍보실 (~2023-09-15)
+
+* **[[재공지] 2023-2 신입생을 위한 생각의 마중길](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221497&amp;article.offset=0&amp;articleLimit=30)**
+ [행사] - 학생지원팀 (~2023-09-15)
+
+* **[[재공지][학생지원팀] Ajou Athletic Program(아주 1인 1운동 캠페인) 운영 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221496&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 학생지원팀 (~2023-09-15)
+
+* **[[시설팀] 원천관 251호 강당 냉방시설 사용불가 안내 (재안내)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221491&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 시설팀 (~2023-09-14)
+
+* **[[LINC 3.0] 아주 가족기업을 위한 법률 특화 프로그램 지원 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221488&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 산학사업팀 (~2023-09-14)
 
 * **[(당일-체육관) SW커리어페어 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221473&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-09-14)
@@ -107,18 +119,3 @@
 
 * **[[일자리+센터][당일공지]아주대와 함께하는 에스원 채용상담회_9/13(수)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221359&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-09-13)
-
-* **[[일자리+센터]대규모 42개사 캠리-채용상담회(SW커리어페어) 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221355&amp;article.offset=0&amp;articleLimit=30)**
- [취업] - 대학일자리플러스센터 (~2023-09-12)
-
-* **[(재공지)[박물관] 2023 박물관 문화강좌프로그램 안내 (신청기간 연장 9/18 까지)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221353&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 박물관 (~2023-09-12)
-
-* **[[재공지][LINC 3.0]2023 산학교수님과 함께하는 &quot;찾아가는 현장실습 상담회&quot;](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221350&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 현장실습지원센터 (~2023-09-12)
-
-* **[[2024년도 전기 모집] 일반대학원 비즈니스애널리틱스학과 입시설명회 개최](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221348&amp;article.offset=0&amp;articleLimit=30)**
- [입학] - 경영대학교학팀 (~2023-09-12)
-
-* **[(예비군연대)10.5.(목) 기본훈련(2차) 관련 추가 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221338&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 예비군연대 (~2023-09-12)
