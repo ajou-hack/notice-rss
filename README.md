@@ -30,6 +30,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[총장레터 제6호](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221544&amp;article.offset=0&amp;articleLimit=30)**
+ [기타] - 총장비서실 (~2023-09-15)
+
 * **[[메이커스페이스] 3D프린터 장비운용 기초교육생 모집(9월 2회차_&#x27;23.09.19)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221540&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 창업지원팀 (~2023-09-15)
 
@@ -116,6 +119,3 @@
 
 * **[2023 일본어 활용 아주대 홍보 동영상 공모전 수상자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221421&amp;article.offset=0&amp;articleLimit=30)**
  [행사] - 국제학부 (~2023-09-13)
-
-* **[[학습법] 2023-2학기 온라인 학습법 특강 신규 콘텐츠 개발자 모집 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221416&amp;article.offset=0&amp;articleLimit=30)**
- [기타] - 교수학습개발센터 (~2023-09-13)
