@@ -22,14 +22,12 @@ jobs:
           cargo build --release
           LAST_INDEX=$(cat ./last_index)
           XML=$(./target/release/notice-rss $LAST_INDEX xml 2> /dev/null)
-          MD=$(./target/release/notice-rss $LAST_INDEX md 2> /dev/null)
           CM=$(./target/release/notice-rss $LAST_INDEX cm 2> /dev/null)
-          if [ -z "$XML" ] || [ -z "$MD" ] || [ -z "$CM" ]; then
+          if [ -z "$XML" ] || [ -z "$CM" ]; then
           echo "new notices not found"
           exit 0
           fi
           echo $XML > rss.xml
-          echo -e $MD > README.md
           cat ./target/release/last_index > ./last_index
           git add -A
           git commit -m "$CM"
