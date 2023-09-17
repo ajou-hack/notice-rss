@@ -30,6 +30,9 @@
 * **[📌 [공지] 아주대 x AUTISTAR 머그컵 구매 방법 안내](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=147976&amp;article.offset=0&amp;articleLimit=30)**
  [사무] - 홍보실 (~2021-12-16)
 
+* **[[긴급] 교내 정전으로 인한 전산서비스 중지 안내(연장)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221563&amp;article.offset=0&amp;articleLimit=30)**
+ [학사] - 정보시스템팀 (~2023-09-17)
+
 * **[총장레터 제6호](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221544&amp;article.offset=0&amp;articleLimit=30)**
  [기타] - 총장비서실 (~2023-09-15)
 
@@ -116,6 +119,3 @@
 
 * **[[일자리+센터]아주대와 함께하는 &#x27;뷰웍스&#x27; 채용설명회 및 상담회(9/14목)](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221427&amp;article.offset=0&amp;articleLimit=30)**
  [취업] - 대학일자리플러스센터 (~2023-09-13)
-
-* **[2023 일본어 활용 아주대 홍보 동영상 공모전 수상자 발표](http://ajou.ac.kr/kr/ajou/notice.do?mode=view&amp;articleNo=221421&amp;article.offset=0&amp;articleLimit=30)**
- [행사] - 국제학부 (~2023-09-13)
