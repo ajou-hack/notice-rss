@@ -21,8 +21,8 @@ jobs:
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/ajou-hack/notice-rss
           cargo build --release
           LAST_INDEX=$(cat ./last_index)
-          XML=$(./target/release/notice-rss $LAST_INDEX xml 2> /dev/null)
-          CM=$(./target/release/notice-rss $LAST_INDEX cm 2> /dev/null)
+          XML=$(./target/release/notice-rss $LAST_INDEX xml)
+          CM=$(./target/release/notice-rss $LAST_INDEX cm)
           if [ -z "$XML" ] || [ -z "$CM" ]; then
           echo "new notices not found"
           exit 0
