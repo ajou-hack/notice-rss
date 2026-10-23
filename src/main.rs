@@ -164,7 +164,7 @@ fn write_last_index(last_index: i32) {
 }
 
 fn main() {
-    const BASE_URL: &str = "http://ajou.ac.kr/kr/ajou/notice.do";
+    const BASE_URL: &str = "https://ajou.ac.kr/kr/ajou/notice.do";
     const LIMIT: u8 = 30;
     const OFFSET: u8 = 0;
 
